@@ -5,23 +5,91 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
-      <editionStmt/>
+      <titleStmt>
+        <title>Les Petits Orphelins du Hameau : tome 3</title>
+        <author key="Ducray-Duminil, François-Guillaume (1761-1819)">François-Guillaume Ducray-Duminil</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+        <editor>Maxime Perret</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Cette édition a été établie
+          dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche
+          (2015-2019).</edition>
+        <respStmt>
+          <name>Mathis Goddet</name>
+          <resp>Établissement du texte</resp>
+        </respStmt>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Claire Carpentier</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jean-Denis Spinel</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
+              « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités »
+              (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électronique comportera le nom de l’ANR Phœbus et surtout
+              l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette
+              ressource électronique, notamment en intégrant toutes les contributions extérieures,
+              la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno type="pdf">http://gallica.bnf.fr/ark:/12148/bpt6k63458611</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>Les petits Orphelins du hameau : tome 3</title><author>par Monsieur François-Guillaume Ducray-Duminil</author>Paris, Ambroise Dupont et Cie, Libraires, Rue Vivienne, N. 16<date>1828</date></bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>Quelques problèmes d'OCRisation, le texte a été coupé.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1802">1802</date>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
-    <body>
-      <p>Ducray-Duminil, François, <hi rend="i">Les Petits Orphelins du hameau</hi>, 2<hi rend="sup">e</hi> éd., Paris, Le Prieur, 1802, t. 3/4.</p>
+    <front>
+      <titlePage> <docTitle>
+        <titlePart type="main">LES PETITS ORHELINS DU HAMEAU</titlePart>
+        <titlePart type="sub">TOME 3</titlePart> </docTitle>
+        <docAuthor>Ducray-Duminil, François-Guillaume (1761-1819)</docAuthor>
+      </titlePage>
+    </front>
+    <body>     
       <div>
         <head>Les Petits Orphelins du hameau</head>
         <div type="chapter">
@@ -103,8 +171,8 @@
           <p>– Si vous daigniez m’écouter un moment, je vous dirais quel est leur crime à ses yeux. – Parlez, bon vieillard.</p>
           <p>Gervais, enchanté du calme que fait paraître le pélerin, en profite pour lui faire succinctement le récit suivant.</p>
         </div>
-        <div>
-          <head><pb n="40" xml:id="p40"/> Chapitre III</head>
+        <div><pb n="40" xml:id="p40"/>
+          <head> Chapitre III</head>
           <argument>
             <p>Toujours la même obscurité.</p>
           </argument>
@@ -132,8 +200,8 @@
           <p>Vous le voyez, mes enfans, combien il est pénible le poids du remords ! O mon Dieu ! si le coupable n’en éprouvait point, quel serait donc l’avantage de la vertu ! Je ne puis revenir de mon étonnement : je retrouve mon élève, et je le retrouve criminel ; moi qui avais pris tant de soins pour former son cœur à la sagesse ! Il avait vingt ans lorsqu’il se maria : c’était un modèle de douceur et de raison. Il est vrai que je l’ai perdu de vue depuis plus de trente ans ; et il aurait commis des crimes ! je ne puis le croire : au surplus je l’apprendrai au tribunal de la pénitence ; car je sais qu’il désire que je l’entende : c’est un poids dont il veut se soulager en le déposant dans mon sein. Pauvre chevalier ! il a donc une fille, et cette fille est la femme <pb n="53" xml:id="p53"/> scélérate qui persécute nos enfans ! Il n’en faut plus douter, Achille et Bénédit sont ces en fans dont il parle à tout moment. Peut-être la châtelaine connaît-elle mieux que lui le secret de leur naissance ; mais quel mystère profond ! quelle obscurité ! qui l’éclaircira, bon Dieu ! qui l’éclaircira ? À l’instant cela se peut faire, interrompt Gervais : leurs papiers sont près d’ici, allons les chercher. – Non, non ; il est tard, et je suis fatigué autant que vous devez l’être. Tout cela me fait des révolutions ! À soixante-cinq ans, mes amis, la moindre chose influe sur la santé. Demain matin, nous verrons tout cela, nous verrons tout cela. – Demain, M. le curé t mon frère et moi, nous comptions retourner ce soir à Olival ; on nous y attend. – Oui ? soyez assez imprudens pour vous mettre en route à la nuit. Si vous rencontriez Roland ! – Il est vrai : nous resterons donc. <pb n="54" xml:id="p54"/> – À la bonne heure. Marguerite, fais nous souper ?</p>
           <p>Marguerite servit la collation du soir, et la conversation roula sur les événemens singuliers dont nos enfans et le chevalier étaient les héros. Après le souper, l’abbé Durand fit tendre, dans sa propre chambre, des lits pour Gervais et Simon ; et les enfans de la bonne Laurence furent conduits par Marguerite à leur ancienne chambre, qu’ils revirent avec le plus vif plaisir. Quel bonheur pour eux, quand ils furent seuls, de regarder ce séjour tranquille, d’examiner tous leurs petits effets ! Ils ne finissaient pas de se mettre au lit : enfin la fatigue l’emporta sur la curiosité, ils se couchèrent, et dormirent très-bien jusqu’au lendemain matin.</p>
         </div>
-        <div>
-          <head><pb n="55" xml:id="p55"/> Chapitre IV</head>
+        <div><pb n="55" xml:id="p55"/>
+          <head> Chapitre IV</head>
           <argument>
             <p>Éclaircissement bien attendu.</p>
           </argument>
@@ -162,14 +230,14 @@
           <p>Il est heureux, dit l’abbé Durand que notre pélerin n’ait pas entendu <pb n="65" xml:id="p65"/> la lecture de cette lettre : l’excès de ses remords et la malédiction de son père l’auraient fait mourir en notre présence.</p>
           <p>Voyons ce que contient ce second papier. Ah ! c’est le testament de monsieur le comte. Je crois que si nous le lisions à présent, nous n’y comprendrions pas grand’chose : mon avis est donc, pour mieux en sentir les dispositions, que nous en remettions la lecture après celle de ce manuscrit, qui me paraît offrir l’histoire de Laurence et du comte. Voyons ; oui, je ne me trompe pas. Ce récit est précédé d’un quarré de papier portant ce peu de mots de la main du comte, et adressés encore à Laurence : « Tes amis fidèles, et tes ennemis même, m’ont appris tes moindres démarches, chère Laurence ; et la connaissance que j’ai de ton cœur m’a fait deviner le reste des sensations que tu as dû éprouver dans les diverses situations où tu t’es trouvée. Tu verras dans <pb n="66" xml:id="p66"/> ce récit exact de tes infortunes, que je sais, quoique bien tard, hélas ! te rendre la justice que tu mérites ! tu sauras à la fin par qui j’ai été instruit. Je le répète, j’en ai fait un corps d’histoire pour l’instruction de mes, semblables. Ah, combien de maux je me serais évités, si l’on avait pu m’offrir un livre on j’eusse trouvé un pareil exemple ! »</p>
           <p>Ce 19 mars, à 5 heures du soir.</p>
-          <argument>
+     
             <p>RAYMOND, COMTE DE CASTELLI.</p>
-          </argument>
+          
           <p>L’abbé Durand prit le cahier annoncé par cet épilogue, et lut l’histoire suivante, qui fit verser bien des larmes à ses auditeurs.</p>
         </div>
       </div>
-      <div>
-        <head><pb n="67" xml:id="p67"/> HISTOIRE DE LAURENCE ET DE RAYMOND, OU LES DANGERS DE L’AMOUR POUR UN VIEILLARD
+      <div><pb n="67" xml:id="p67"/>
+        <head> HISTOIRE DE LAURENCE ET DE RAYMOND, OU LES DANGERS DE L’AMOUR POUR UN VIEILLARD
 <lb/>NOUVELLE</head>
         <p>Les orages de l’automne ont plus d’éclat, plus de force, plus de durée, plus d’impétuosité que les orages du printems. C’est l’image de la vieillesse.</p>
         <p>La famille des Castellis, une des plus anciennes de la Provence, jouissait depuis près de quatre cents ans, à Aix, de la plus grande considération. <pb n="68" xml:id="p68"/> Le comte Raymond, le dernier rejeton de cette famille illustre, était un des cavaliers les plus remarquables de sa province, par les talens que lui avait donnés une éducation soignée, et par quelques avantages physiques. Orphelin de bonne heure, il était à vingt ans sous la seule autorité d’un grand-oncle, qui lui tenait lieu de père et de tuteur. Cet oncle respectable, se sentant près de sa fin, voulut établir, marier son neveu, pour mettre une digue à ses passions, dont il connaissait l’impétuosité. En conséquence, il exigea de lui, pour dernière, preuve de sa soumission et de son respect, qu’il donnât sa main à mademoiselle de Tresvil, riche héritière des barons de ce nom. Raymond n’avait point d’inclinations pour d’autres femmes. Il épousa celle que son oncle lui offrait, et cet oncle mourut quelques jours après, comme s’il n’eût attendu que cette union pour fermer les yeux.</p>
@@ -417,9 +485,7 @@
         <p>Il frémit aussi de trouver son maître mort à son retour ; et, troublé par tant de terreurs, il donne le paquet aux enfans, y joint sa bourse, et retourne à Aix, où le désordre qui règne dans l’hôtel de Castelli ne lui apprend que trop que son maître, pendant son absence, a cessé de vivre, comme s’il eût attendu, pour finir, qu’il eût rendu justice à l’innocence, et rempli les devoirs d’un père et d’un époux !</p>
         <p><pb n="226" xml:id="p226"/> « Déjà la baronne est entrée en héritière, ou plutôt en spoliatrice, dans l’hôtel de son aïeul. Baptiste se soustrait, à sa haine par la fuite, et il court jusqu’à Marseille, où il a des amis. Laissons-le jusqu’à ce que nous le retrouvions, terminons là le récit des malheurs de Laurence et de Raymond. Le volume suivant éclaircira quelques obscurités que le lecteur a pu y trouver, telles que la destinée du<anchor xml:id="_GoBack"/> chevalier de Castelli, et les aventures de Sophie et d’Armand de Rivemar, trois personnages dont on n’a plus entendu parler depuis l’incendie des Blaves, parce que le comte, qui ignorait leurs aventures, n’a pu donner des détails que sur lui et sur Laurence, dans le récit de son histoire ; histoire morale, effrayante, et qui doit détourner des dangers de l’amour et d’un second mariage les pères de famille qui sont assez faibles pour se laisser dominer par leurs enfans !</p>
         <p>Nous savons maintenant comment <pb n="227" xml:id="p227"/> s’appelle la méchante châtelaine qui a tant tourment é nos en fans dans le second volume de cet ouvrage : nous savons aussi que ces intéressans orphelins sont les propres fils du comte de Castelli, frères du Chevalier, et oncles de la baronne de Tresvil et de Sophie. Nous allons voir maintenant ce qui va résulter pour eux de cette connaissance tant désirée, et quels conseils vont leur donner le bon curé des Blaves, et les deux respectables notables du hameau d’Olival.</p>
-        <argument>
           <p>Fin du troisième Volume.</p>
-        </argument>
       </div>
     </body>
   </text>
