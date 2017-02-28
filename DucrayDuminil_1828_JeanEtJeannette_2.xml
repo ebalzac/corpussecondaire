@@ -5,32 +5,99 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
-      <editionStmt/>
+      <titleStmt>
+        <title>Jean et Jeannette, ou Les Petits Aventuriers parisiens : tome deuxième</title>
+        <author key="Ducray-Duminil, François-Guillaume (1761-1819)">François-Guillaume Ducray-Duminil</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+        <editor>Maxime Perret</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Cette édition a été établie
+          dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche
+          (2015-2019).</edition>
+        <respStmt>
+          <name>Élise Delannoy</name>
+          <resp>Établissement du texte</resp>
+        </respStmt>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Élise Delannoy</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jean-Denis Spinel</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
+              « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités »
+              (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électronique comportera le nom de l’ANR Phœbus et surtout
+              l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette
+              ressource électronique, notamment en intégrant toutes les contributions extérieures,
+              la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno type="pdf">http://catalogue.bnf.fr/ark:/12148/cb303665019</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>Jean et Jeannette, ou Les Petits Aventuriers parisiens : tome deuxième</title><author>par François-Guillaume Ducray-Duminil</author>Paris, Corbet, Libraires, Quai des Augustins, N. 59<date>1828</date></bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>L'océrisation de ce fichier a fourni une transcription satisfaisante.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1838">1838</date>
+      </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">JEAN ET JEANNETTE, OU LES PETITS AVENTURIERS PARISIENS</titlePart>
+          <titlePart type="sub">TOME DEUXIÈME</titlePart>
+        </docTitle>
+        <docAuthor>Ducray-Duminil, François-Guillaume (1761-1819)</docAuthor>
+        <epigraph>
+          <p>Ma foi, vive Paris !… Quand on a de l’argent.
+            <lb/>NANINE de Voltaire.</p>
+        </epigraph>
+      </titlePage>
+    </front>
     <body>
-      <p rend="noindent">Ducray-Duminil, François-Guillaume, <hi rend="i">Jean et Jeannette ou Les Petits Aventuriers parisiens</hi>, Paris, Corbet, 1838, Tome 2/5.</p>
-      <epigraph>
-        <p>Ma foi, vive Paris !… Quand on a de l’argent.
-<lb/>NANINE de Voltaire.</p>
-      </epigraph>
-      <head>Jean et Jeannette, ou Les Petits Aventuriers parisiens</head>
-      <div xml:id="__DdeLink__129388_1553867307">
-        <head>Livre deuxième</head>
-        <div>
-          <head><pb n="1" xml:id="p1"/> Chapitre premier</head>
+        <div><pb n="1" xml:id="p1"/>
+          <head>Chapitre premier</head>
           <argument>
             <p>Suite du chapitre précédent.</p>
           </argument>
@@ -48,8 +115,8 @@
           <p>Le piège eût été grossier pour toute autre que pour Jeannette ; mais à son âge, sans expérience, elle pensait, en effet, que c’était une très-belle action qu’on lui proposait là, et la menace du révérend ajouta à la résolution qu’elle prit de déterminer son frère à suivre ses ordres.</p>
           <p><pb n="17" xml:id="p17"/> Nous allons voir si le frère prit la chose de la même manière que la sœur.</p>
         </div>
-        <div>
-          <head><pb n="18" xml:id="p18"/> Chapitre II</head>
+      <div><pb n="18" xml:id="p18"/> 
+          <head>Chapitre II</head>
           <argument>
             <p>Où l’on verra que nos enfans ont du caractère.</p>
           </argument>
@@ -80,8 +147,8 @@
           <p>J’ai signé, moi, Jean-Pierre Monjoly. Signe aussi, toi, ma sœur ? – Tu veux que je signe cela ? – Il le faut bien, pour montrer que nous sommes d’un commun accord – Eh bien ! volontiers.</p>
           <p>Jeannette signe à son tour ; elle et son frère reprennent leurs premières hardes ; en laissant dans la chambre les beaux vêtemens qu’on leur avait fait faire. Ils déposent leur lettre sur une table où ils sont sûrs qu’on la trouvera ; puis après s’être chargés chacun de leurs petits paquets, ils quittent cette maison, <pb n="44" xml:id="p44"/> sans savoir où ils vont, ce qu’ils feront, mais pleins de confiance en la protection céleste qui s’est déjà si visiblement manifestée pour eux. Suivons nos petits aventuriers, et voyons ce qu’ils vont devenir.</p>
         </div>
-        <div>
-          <head><pb n="45" xml:id="p45"/> Chapitre III</head>
+      <div><pb n="45" xml:id="p45"/> 
+          <head>Chapitre III</head>
           <argument>
             <p>Les Petits Affiches. M. Fadet. Malheur inattendu.</p>
           </argument>
@@ -122,8 +189,8 @@
           <p>Cette bonne mère Fauvet était morte subitement la surveille. Des héritiers avides s’étaient emparés de sa maison, de son petit mobilier et s’étaient déjà tout partagé, jusqu’aux vingt louis de nos enfans, qu’ils avaient cru appartenir à leur parente ; Jean et Jeannette apprennent ces détails ; ils crient, ils protestent que la défunte avait un dépôt à eux ; ils pleurent, ils supplient, ils jurent qu’ils disent la vérité, on ne <pb n="74" xml:id="p74"/> les écoute pas ; on les met à la porte ; on les chasse, même, en les maltraitant, et les voilà encore une fois sans asile, volés, dépouillés, n’ayant plus sur la terre personne qui s’intéresse à leur malheureux sort.</p>
           <p>Pauvres orphelins ! hâtons-nous de tracer à vos lecteurs les nouvelles aventures qui vous attendent.</p>
         </div>
-        <div>
-          <head><pb n="75" xml:id="p75"/> Chapitre IV</head>
+      <div><pb n="75" xml:id="p75"/> 
+          <head>Chapitre IV</head>
           <argument>
             <p>La crèche, la mère Sainte-Ambroise et la bonne hospitalière. – Singulier projet que forma Jean et ce qui en arriva.</p>
           </argument>
@@ -170,8 +237,8 @@
           <p>Jean et Jeannette rentrèrent, le soir, à leur heure ordinaire, apportant leur petit bureau ambulant, et plus mécontens que jamais de leur journée. Ils avaient été tellement étouffés par la grande quantité de curieux, que leur bénéfice s’en était ressenti ; ils avaient même entendu sur leur compte des propos durs, et humilians ; enfin ils étaient presque décidés à renoncer à ce désagréable genre d’industrie. <pb n="111" xml:id="p111"/> Ce que leur apprit madame Richard les y décida tout-à-fait. Cette dame de Frinville, ajouta-t-elle, qui vient vous chercher demain, a peut-être plus de cent mille livres de revenu. Jugez, mes enfans, quel sort vous attend avec une personne si riche et si obligeante ! Si vous vous faites aimer d’elle, de ses enfans, de son mari, ils peuvent faire votre fortune : ô mon Dieu ! quel coup du ciel !</p>
           <p>Jean et Jeannette remercièrent madame Richard de la confiance qu’elle leur avait témoignée, et lui promirent de ne jamais en abuser. En conséquence, on attendit l’arrivée de madame de Frinville.</p>
         </div>
-        <div>
-          <head><pb n="112" xml:id="p112"/> Chapitre V</head>
+      <div><pb n="112" xml:id="p112"/> 
+          <head>Chapitre V</head>
           <argument>
             <p>Tableau d’un ménage, d’une maison et d’une société comme il y en a tant.</p>
           </argument>
@@ -208,8 +275,8 @@
           <p>Un danseur s’extasia sur l’art oratoire, passa le barreau en revue et <pb n="140" xml:id="p140"/> n’y trouva pas un seul avocat qui eût du talent.</p>
           <p>Chacun enfin parla de l’état d’autrui, excepté du sien. Jean s’en aperçut, fit ses petites remarques sur les ridicules de chaque convive et se dit : Est-ce partout comme cela ? et les hommes, en se taisant sur ce qu’ils savent le mieux, auraient-ils tous la manie de déraisonner sur ce qu’ils connaissent le moins !</p>
         </div>
-        <div>
-          <head><pb n="141" xml:id="p141"/> Chapitre VI</head>
+      <div><pb n="141" xml:id="p141"/> 
+          <head>Chapitre VI</head>
           <argument>
             <p>Éclats de rire, torrens de pleurs sont souvent voisins dans la vie.</p>
           </argument>
@@ -267,8 +334,8 @@
           <p>À l’instant le cocher et ses deux compagnons montent dans la voiture, se mettent en devoir d’étrangler madame Frinville et sa femme de chambre, en leur demandant la bourse ou la vie ! Adolphe et Lucie crient au voleur ! au voleur ! À ces cris, à cette scène affreuse, Jean prend la main de sa sœur, en lui disant : Des voleurs, Jeannette ! <pb n="171" xml:id="p171"/> sauvons-nous, sauvons-nous vite.</p>
           <p>Ils s’enfuient à toutes jambes à travers les taillis, les ronces, les épines, sans regarder derrière eux, et laissant aux prises avec ces scélérats deux femmes et deux enfans, que la faiblesse de leur âge les empêche de secourir.</p>
         </div>
-        <div>
-          <head><pb n="172" xml:id="p172"/> Chapitre VII</head>
+      <div><pb n="172" xml:id="p172"/> 
+          <head>Chapitre VII</head>
           <argument>
             <p>Tristes nuits des enfans dans la forêt. Singulière hospitalité qu’on leur donne.</p>
           </argument>
@@ -309,8 +376,8 @@
           <p>Au petit jour, qui s’aperçut en <pb n="198" xml:id="p198"/> haut, à travers des bûches mal jointes, tout le monde se leva. Jean remarqua que Bataille, Jacques et plusieurs autres chuchotèrent tout bas en le regardant, lui et sa sœur. Au bout d’un instant, l’un d’eux dit tout haut : Est-ce votre avis à tous qu’on rende la liberté aux prisonniers ? – Oui, oui, oui. – Eh bien, qu’ils s’en aillent.</p>
           <p>Jacques eut la rare générosité de remettre à Jean et à Jeannette leurs petits paquets de hardes, qu’il avait trouvés dans la voiture de madame de Frinville. Jean et Jeannette, ravis de quitter un séjour aussi odieux, ne se firent pas prier pour partir sur-le-champ. Après avoir suivi pendant une heure le chemin que leur avait indiqué Jacques, ils sortirent de la forêt, et rencontrèrent bientôt une voiture publique <pb n="199" xml:id="p199"/> dans laquelle ils purent prendre place, grâce à l’argent que Jean avait dans sa bourse, et qui les conduisit à Paris.</p>
         </div>
-        <div>
-          <head><pb n="200" xml:id="p200"/> Chapitre VIII</head>
+      <div><pb n="200" xml:id="p200"/> 
+          <head>Chapitre VIII</head>
           <argument>
             <p>Les petits comédiens du Roi.</p>
           </argument>
@@ -336,7 +403,6 @@
           <p>Il garde le silence pendant quelque temps ; puis il le rompt en disant : Je ne vois rien, absolu<anchor xml:id="_GoBack"/>ment rien. Nous avons de l’argent ; c’est fort bien ; mais nous recevra-t-on dans un hôtel garni ! – Il faut nous dépêcher pourtant ; il est cinq heures, et nous ne pouvons pas coucher dans la rue. – Je sais bien cela ; mais que faire ? Oh ! mon Dieu ! inspire-moi.</p>
           <p>Fin du deuxième volume.</p>
         </div>
-      </div>
     </body>
   </text>
 </TEI>

@@ -5,32 +5,99 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
-      <editionStmt/>
+      <titleStmt>
+        <title>Jean et Jeannette, ou Les Petits Aventuriers parisiens : tome premier</title>
+        <author key="Ducray-Duminil, François-Guillaume (1761-1819)">François-Guillaume Ducray-Duminil</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+        <editor>Maxime Perret</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Cette édition a été établie
+          dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche
+          (2015-2019).</edition>
+        <respStmt>
+          <name>Élise Delannoy</name>
+          <resp>Établissement du texte</resp>
+        </respStmt>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Élise Delannoy</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jean-Denis Spinel</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
+              « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités »
+              (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électronique comportera le nom de l’ANR Phœbus et surtout
+              l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette
+              ressource électronique, notamment en intégrant toutes les contributions extérieures,
+              la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno type="pdf">http://catalogue.bnf.fr/ark:/12148/cb303665019</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>Jean et Jeannette, ou Les Petits Aventuriers parisiens : tome premier</title><author>par François-Guillaume Ducray-Duminil</author>Paris, Corbet, Libraires, Quai des Augustins, N. 59<date>1828</date></bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>L'océrisation de ce fichier a fourni une transcription satisfaisante.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1838">1838</date>
+      </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">JEAN ET JEANNETTE, OU LES PETITS AVENTURIERS PARISIENS</titlePart>
+          <titlePart type="sub">TOME PREMIER</titlePart>
+        </docTitle>
+        <docAuthor>Ducray-Duminil, François-Guillaume (1761-1819)</docAuthor>
+        <epigraph>
+          <p>Ma foi, vive Paris !… Quand on a de l’argent.
+            <lb/>NANINE de Voltaire.</p>
+        </epigraph>
+      </titlePage>
+    </front>
     <body>
-      <p rend="noindent">Ducray-Duminil, François-Guillaume, <hi rend="i">Jean et Jeannette ou Les Petits Aventuriers parisiens</hi>, Paris, Corbet, 1838, Tome 1/5.</p>
-      <epigraph>
-        <p>Ma foi, vive Paris !… Quand on a de l’argent.
-<lb/>NANINE de Voltaire.</p>
-      </epigraph>
-      <head>Jean et Jeannette, ou Les Petits Aventuriers parisiens</head>
-      <div>
-        <head>Livre premier</head>
-        <div>
-          <head><pb n="1" xml:id="p1"/> Chapitre premier</head>
+        <div><pb n="1" xml:id="p1"/> 
+          <head>Chapitre premier</head>
           <argument>
             <p>Jouissances d’un honnête homme dans sa vieillesse.</p>
           </argument>
@@ -97,8 +164,8 @@
           <p>M. Patin : Allons donc, Babiche ; fais tes préparatifs ? La lettre de leur maître est datée d’hier, c’est aujourd’hui même qu’ils arrivent, ces aimables enfans. Fais leur de bons lits ; ils seront fatigués. À propos, achète-nous, par extraordinaire, une petite volaille ; cela les régalera et nous aussi. Nous pouvons bien nous permettre cette légère dépense ; ils nous apportent tant d’argent !</p>
           <p>Cela dit, Babiche va s’occuper <pb n="29" xml:id="p29"/> des ordres qui lui sont donnés, et M. Patin, ouvrant sa fenêtre, examine à travers les barres de fer s’il voit arriver les deux enfans porteurs de son cher trésor.</p>
         </div>
-        <div>
-          <head><pb n="30" xml:id="p30"/>Chapitre II</head>
+      <div><pb n="30" xml:id="p30"/>
+          <head>Chapitre II</head>
           <argument>
             <p>Réception touchante, qui plaira aux bons cœurs.</p>
           </argument>
@@ -159,8 +226,8 @@
           <p>Babiche, rouge de honte, se hâte d’arracher cet écrit, de fermer la porte sur le nez des curieux, et d’en faire part à son maître, en lui renouvelant ses justes reproches.</p>
           <p>Mais, revenons à nos deux enfans, et reprenons leur conduite dès l’instant où ils sortirent de chez leur barbare parent, en plein jour, et, comme le disait le placard affiché à sa porte, à l’heure du dîner.</p>
         </div>
-        <div>
-          <head><pb n="62" xml:id="p62"/>Chapitre III</head>
+      <div><pb n="62" xml:id="p62"/>
+          <head>Chapitre III</head>
           <argument>
             <p>Tristes nouvelles. – La prière du soir.</p>
           </argument>
@@ -198,8 +265,8 @@
           <p>Le jour baissait sensiblement, le silence régnait autour d’eux ; ils commencèrent à s’apercevoir que la nuit approchait, qu’ils étaient bien loin de leur quartier. Jeannette se leva la première en disant à son frère qu’il fallait s’en aller, qu’elle avait peur. – Eh, lui répondit Jean, que veux-tu qu’il nous arrive de pis que le malheur de tantôt ? Qu’on nous tue ! Eh bien tant mieux ; c’est nous rendre service que de ne pas nous laisser sur une terre où nous n’avons plus une ressource à espérer ! – Cependant, mon frère, depuis <pb n="94" xml:id="p94"/> que nous avons prié Dieu, j’ai une sorte d’espoir que je ne puis définir. – C’est la suite ordinaire de la confiance que l’on met en son créateur. Je ne sais quel auteur a dit : Quelque malheureux que soient les mortels, quand ils ont prié, ils sont plus tranquilles. – J’éprouve en vérité cette tranquillité-là, et pourtant nous ne sommes pas plus avancés qu’il y a un moment.</p>
           <p>Nos enfans avaient raison ; Dieu avait entendu leurs prières et avait fait descendre la consolation dans leurs cœurs. Nous verrons, dans le chapitre suivant, comment il eut pitié de leur détresse, et quels moyens il employa pour les secourir dans une situation aussi douloureuse.</p>
         </div>
-        <div>
-          <head><pb n="95" xml:id="p95"/>Chapitre IV</head>
+      <div><pb n="95" xml:id="p95"/>
+          <head>Chapitre IV</head>
           <argument>
             <p>La Mère, les Tantes, et le mauvais sujet de Fils.</p>
           </argument>
@@ -239,8 +306,8 @@
           <p>On soupa tristement, en causant <pb n="117" xml:id="p117"/> de la catastrophe qui avait affligé toute la famille, et nos enfans furent conduits dans leur appartement, qui consistait en deux chambres contiguës. Ils ne laissèrent pas partir la femme-de-chambre, qui les installait dans ce logement, sans lui faire ces questions : Mademoiselle (c’est Jean qui parle), oserais-je vous demander comment se nomme la maîtresse de cette maison. – Madame Déprévil. – A-t-elle un mari ? – Non, elle est veuve. – Et monsieur son fils, son nom ? – Déprévil, par conséquent ; son prénom est Barthélémy : voilà pourquoi on l’appelle Mimi. – Mesdames ses tantes sont ?… – L’une, madame Dupré, est veuve ; l’autre ne s’est jamais mariée ; elle se nomme mademoiselle Des Vertus. – Bien obligé, mademoiselle ; nous tâcherons <pb n="118" xml:id="p118"/> de bien retenir cela, pour pouvoir faire demain notre cour à ces dames.</p>
           <p>La femme-de-chambre ne put s’empêcher de sourire et de dire en se retirant : Il parle, ma foi, comme un homme, ce petit garçon-là !</p>
         </div>
-        <div>
-          <head><pb n="119" xml:id="p119"/>Chapitre V</head>
+      <div><pb n="119" xml:id="p119"/>
+          <head>Chapitre V</head>
           <argument>
             <p>Aventures communes dans bien des familles.</p>
           </argument>
@@ -273,8 +340,8 @@
           <p>Il n’y avait que huit mois que Rosalie était morte lorsque Déprévil perdit ce portrait si cher, ainsi que nous l’avons vu, et qu’il le retrouva dans les mains de Jean et de <pb n="147" xml:id="p147"/> Jeannette, au moment où, comme un furieux, il allait abroger sa vie. La plaie saignait encore, et la perte de Rosalie lui redevenait sensible comme le premier jour ; effet cruel d’une première inclination sur une tête brûlante, volontaire, impérieuse, et qui n’a jamais connu d’obstacle à ses désirs.</p>
           <p>Revenons à nos enfans, que nous avons laissés dans leurs chambres, le soir de leur arrivée chez madame Déprévil.</p>
         </div>
-        <div>
-          <head><pb n="148" xml:id="p148"/>Chapitre VI</head>
+      <div><pb n="148" xml:id="p148"/>
+          <head>Chapitre VI</head>
           <argument>
             <p>Nouvelles espiègleries. Convention auxquelles on ne s’attend pas.</p>
           </argument>
@@ -316,8 +383,8 @@
           <p>Là-dessus, Déprévil tourne le dos avec humeur à tout le monde, et monte dans son appartement.</p>
           <p>Voilà une position bien singulière, bien embarrassante pour Jean et sa sœur ; pour Jean, surtout, qui <pb n="180" xml:id="p180"/> encourt déjà la haine de son protecteur, et qui comprend à peine quelque chose à la mission délicate dont on l’a chargé. Nous verrons, dans le chapitre suivant, comment il s’en acquittera.</p>
         </div>
-        <div>
-          <head><pb n="181" xml:id="p181"/>Chapitre VII</head>
+      <div><pb n="181" xml:id="p181"/>
+          <head>Chapitre VII</head>
           <argument>
             <p>L’ami de la Maison. Aperçu sur son caractère.</p>
           </argument>
@@ -346,8 +413,8 @@
           <p>Déprévil sourit et répond : Non, mon ami, les maisons où je vais ne sont point celles dont on t’a parlé, et si ma mère me juge capable de <pb n="204" xml:id="p204"/> fréquenter ces dernières, cela prouve qu’elle me rend beaucoup moins justice que je ne le mérite, qu’elle me connaît bien peu pour s’imaginer que je m’avilisse à ce point ! Sois tranquille, Jean ; tes mœurs, fusses-tu plus grand que tu l’es, ne s’altéreront jamais en rien avec moi. J’ai de l’honneur, et je saurais, s’il le fallait, veiller même sur le tien. Si j’ai le léger défaut de jouer, c’est la faute de ma mère. Qu’elle fasse comme tous les parens, qu’elle entretienne décemment ma bourse, elle qui a plus de quarante mille livres de rente, et je ne jouerai plus. Oh, je te promets bien que je renoncerais tout de suite à ce genre de dissipation… Tu réfléchis, Jean ; tu ne m’écoutes plus ? – Monsieur… c’est vrai. Je réfléchis que j’ai donné ma parole à madame <pb n="205" xml:id="p205"/> de lui dire la vérité, que vous allez me forcer à mentir, et que je n’aime pas du tout cela. Je ne le pourrais pas, d’ailleurs ; je n’ai pas été habitué à ce vil défaut. – Il est cinq heures. Jean, vite, partons, mes amis m’attendent. – Où, monsieur ? – Tu le sauras. En route, je t’en dirai davantage. – Mais, monsieur… – Mais ! mais ! viens, te dis-je, je trouverai le moyen de détruire tes scrupules.</p>
           <p>Le cabriolet de Déprévil est là, dans la cour ; il y monta avec Jean, ce dernier ne sachant presque ce qu’il fait, et désespéré de la commission trop délicate qu’on lui a confiée. Ils partent.</p>
         </div>
-        <div>
-          <head><pb n="206" xml:id="p206"/>Chapitre VIII</head>
+      <div><pb n="206" xml:id="p206"/>
+          <head>Chapitre VIII</head>
           <argument>
             <p>Polyeucte, et la vertu de mademoiselle Des Vertus.</p>
           </argument>
@@ -366,7 +433,6 @@
           <p>Madame Déprévil, qui ne supposait pas que, pour sa première sortie avec Jean, son fils lui eût fait faire une démarche répréhensible, <pb n="218" xml:id="p218"/> ne se douta point du mensonge, et témoigna à nos enfans la plus grande affection.</p>
           <p>Fin du premier volume.</p>
         </div>
-      </div>
     </body>
   </text>
 </TEI>
