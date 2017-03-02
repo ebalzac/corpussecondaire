@@ -5,32 +5,99 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
-      <editionStmt/>
+      <titleStmt>
+        <title>Jean et Jeannette, ou Les Petits Aventuriers parisiens : tome cinquième</title>
+        <author key="Ducray-Duminil, François-Guillaume (1761-1819)">François-Guillaume Ducray-Duminil</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+        <editor>Maxime Perret</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Cette édition a été établie
+          dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche
+          (2015-2019).</edition>
+        <respStmt>
+          <name>Élise Delannoy</name>
+          <resp>Établissement du texte</resp>
+        </respStmt>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Élise Delannoy</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jean-Denis Spinel</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
+              « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités »
+              (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électronique comportera le nom de l’ANR Phœbus et surtout
+              l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette
+              ressource électronique, notamment en intégrant toutes les contributions extérieures,
+              la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno type="pdf">http://catalogue.bnf.fr/ark:/12148/bpt6k6152759g</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>Jean et Jeannette, ou Les Petits Aventuriers parisiens : tome cinquième</title><author>par François-Guillaume Ducray-Duminil</author>Paris, Corbet, Libraires, Quai des Augustins, N. 59<date>1828</date></bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>L'océrisation de ce fichier a fourni une transcription satisfaisante.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1838">1838</date>
+      </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">JEAN ET JEANNETTE, OU LES PETITS AVENTURIERS PARISIENS</titlePart>
+          <titlePart type="sub">TOME CINQUIÈME</titlePart>
+        </docTitle>
+        <docAuthor>Ducray-Duminil, François-Guillaume (1761-1819)</docAuthor>
+        <epigraph>
+          <p>Ma foi, vive Paris !… Quand on a de l’argent.
+            <lb/>NANINE de Voltaire.</p>
+        </epigraph>
+      </titlePage>
+    </front>
     <body>
-      <p rend="noindent">Ducray-Duminil, François-Guillaume, <hi rend="i">Jean et Jeannette ou Les Petits Aventuriers parisiens</hi>, Paris, Corbet, 1838, Tome 5/5.</p>
-      <epigraph>
-        <p>Ma foi, vive Paris !… Quand on a de l’argent.
-<lb/>NANINE de Voltaire.</p>
-      </epigraph>
-      <head>Jean et Jeannette, ou Les Petits Aventuriers parisiens</head>
-      <div>
-        <head>Livre premier</head>
-        <div>
-          <head><pb n="5" xml:id="p5"/> Chapitre premier</head>
+      <div><pb n="5" xml:id="p5"/> 
+          <head>Chapitre premier</head>
           <argument>
             <p>Monsieur et madame Herbert. Les deux rivaux amis.</p>
           </argument>
@@ -74,8 +141,8 @@
           <p>« Je vous ai dit que madame Herbert… »</p>
           <p>Ici, le chevalier de Saint-Amand fut interrompu par son avocat, qui voulait lui parler. Ils causèrent bas quelques momens ensemble. L’avocat sortit, et le chevalier reprit sa narration en ces termes.</p>
         </div>
-        <div>
-          <head><pb n="37" xml:id="p37"/> Chapitre II</head>
+      <div><pb n="37" xml:id="p37"/> 
+          <head>Chapitre II</head>
           <argument>
             <p>Mariage de comédie. L’homme à deux réputations n’en aura bientôt plus qu’une.</p>
           </argument>
@@ -130,8 +197,8 @@
           <p>« Rodolphe courut à mon château pour faire venir une voiture ; pendant ce temps, je restai auprès des dames, qui tremblaient, si je les laissais seules, que leur ravisseur ne revînt. Rodolphe, à son retour, m’aida à placer la tante et la nièce dans mon carrosse, et nous les amenâmes à Saint-Amand, où je les confiai aux soins, ainsi qu’à la discrétion de ma fidèle Maria, deux choses sur lesquelles je pouvais compter de sa part.</p>
           <p><pb n="68" xml:id="p68"/> « Cependant ce fou de Ferville ne se crut pas battu. Vous allez voir ce qu’il entreprit. »</p>
         </div>
-        <div>
-          <head><pb n="69" xml:id="p69"/> Chapitre III</head>
+      <div><pb n="69" xml:id="p69"/> 
+          <head>Chapitre III</head>
           <argument>
             <p>Événement tragiques.</p>
           </argument>
@@ -213,8 +280,8 @@
           <p><pb n="110" xml:id="p110"/> Mon intention n’était d’abord que de vous traiter comme il vous aurait traités lui-même ; mais quand j’ai pu vous connaître vous apprécier, j’ai retrouvé, dans Jean, tout l’esprit, toute la franchise, toute la fermeté de son oncle ; dans Jeannette, toute sa bonté ! Vous m’êtes devenus chers comme mes propres enfans ; j’ai senti que vous étiez, avec eux, inséparables dans mon cœur ; et, en effet, je… je formai le… le projet de ne jamais vous séparer !… Par la suite, vous comprendrez mieux ces paroles… Mais j’avais besoin de vous revoir ici, de vous arracher à la misère, à l’opprobre, dans lesquels voulait vous replonger un père (est-ce un père ! qui a, d’ailleurs, à se reprocher au moins une grande indélicatesse…</p>
           <p><pb n="111" xml:id="p111"/> J’adoucis ses torts, pour ne pas blesser les oreilles pures de ses enfans !… Jean ! Jeannette ! vous verrez demain Julien et Julienne ; ils seront ici ; je leur apprendrai leur naissance… Puissiez-vous, enfans tous les quatre, vous aimer autant que je le désire ! »</p>
         </div>
-        <div>
-          <head><pb n="113" xml:id="p113"/> Chapitre IV</head>
+      <div><pb n="113" xml:id="p113"/> 
+          <head>Chapitre IV</head>
           <argument>
             <p>Apparition d’un nouveau personnage qui termine tout.</p>
           </argument>
@@ -286,8 +353,8 @@
           <p>Chacun, comme Monjoly, donna des explications sur ce qui avait pu paraître obscur, douteux, dans les divers récits qu’on venait de faire, et il fut convenu qu’à la huitaine, on se réunirait chez M. de Saint-Amand, dans une fête qu’on nommerait la fête d’oubli.</p>
           <p>Dans l’attente de ce jour mémorable, M. de Saint-Amand fit, avec <pb n="143" xml:id="p143"/> le marquis de la Roche, des conventions dont nous parlerons plus bas. Il invita à la fête, d’abord madame Richard, qu’il alla, avec Jean et Jeannette, voir et désabuser sur son compte, ensuite M. Sombremann et ses deux enfans, M. de Surmer et sa fille, qu’il connaissait, M. de Morinval, le bon frère Clément, enfin tous les amis de la maison, et ceux qui avaient été utiles aux deux petits héros de cette histoire.</p>
         </div>
-        <div>
-          <head><pb n="145" xml:id="p145"/> Chapitre V</head>
+      <div><pb n="145" xml:id="p145"/> 
+          <head>Chapitre V</head>
           <argument>
             <p>Conclusion.</p>
           </argument>
@@ -317,12 +384,11 @@
           <p>Vivent nos pères, nos tendres pères, nos bons, nos excellens protecteurs ! ils réunissent aujourd’hui huit petits infortunés que dès leur naissance un sort cruel avait condamnés au malheur !</p>
           <p>Jean et Jeannette ensemble. À l’heureux changement de notre situation ! au vertueux, au respectable M. de Saint-Amand, à qui nous la devons ! puisse-t-il vivre assez longtemps pour jouir de son ouvrage, pour voir et protéger encore les enfans de ses petits aventuriers parisiens.</p>
         </div>
-        <div xml:id="_GoBack">
-          <head><pb n="151" xml:id="p151"/> POST SCRIPTUM.</head>
+      <div xml:id="_GoBack"><pb n="151" xml:id="p151"/> 
+          <head>POST SCRIPTUM.</head>
           <p>Le lecteur est peut-être étonné de ce que nous terminons là l’histoire de nos petits aventuriers, Jean et Jeannette, mais nous le prions de remarquer que nous ne lui avons promis que des petits aventuriers, et que, si nous quittons <pb n="152" xml:id="p152"/> nos héros à peine âgés de douze à treize ans, nous ne laissons aucune indécision sur leur sort à venir. On peut facilement deviner ce qui arrivera. Chaque chef de famille, ainsi qu’on en était convenu, reprit ses enfans chez lui. M. de Saint-Amand, devenu duc D***, garda toujours avec les siens ceux du père Monjoly ; on acheva leur éducation. Tous, à l’âge de dix-huit à vingt ans, ratifièrent l’acte qu’ils avaient souscrit au banquet des huit enfans, et devinrent par la suite aussi bons pères qu’heureux époux. Jean et Jeannette, auxquels M. Patin, qui avait deshérité son méchant fils, légua en mourant toute sa fortune ; Jean et Jeannette, disons-nous, furent particulièrement des modèles de vertus privées et <pb n="153" xml:id="p153"/> sociales, comme ils en avaient été, dans leur enfance., de courage, de raison et de résignation.</p>
           <p>Fin.</p>
         </div>
-      </div>
     </body>
   </text>
 </TEI>

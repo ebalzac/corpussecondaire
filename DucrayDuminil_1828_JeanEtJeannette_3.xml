@@ -5,32 +5,99 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
-      <editionStmt/>
+      <titleStmt>
+        <title>Jean et Jeannette, ou Les Petits Aventuriers parisiens : tome troisième</title>
+        <author key="Ducray-Duminil, François-Guillaume (1761-1819)">François-Guillaume Ducray-Duminil</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+        <editor>Maxime Perret</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Cette édition a été établie
+          dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche
+          (2015-2019).</edition>
+        <respStmt>
+          <name>Élise Delannoy</name>
+          <resp>Établissement du texte</resp>
+        </respStmt>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Élise Delannoy</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jean-Denis Spinel</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
+              « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités »
+              (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électronique comportera le nom de l’ANR Phœbus et surtout
+              l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette
+              ressource électronique, notamment en intégrant toutes les contributions extérieures,
+              la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno type="pdf">http://catalogue.bnf.fr/ark:/12148/cb303665019</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>Jean et Jeannette, ou Les Petits Aventuriers parisiens : tome troisième</title><author>par François-Guillaume Ducray-Duminil</author>Paris, Corbet, Libraires, Quai des Augustins, N. 59<date>1828</date></bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>L'océrisation de ce fichier a fourni une transcription satisfaisante.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1838">1838</date>
+      </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">JEAN ET JEANNETTE, OU LES PETITS AVENTURIERS PARISIENS</titlePart>
+          <titlePart type="sub">TOME TROISIÈME</titlePart>
+        </docTitle>
+        <docAuthor>Ducray-Duminil, François-Guillaume (1761-1819)</docAuthor>
+        <epigraph>
+          <p>Ma foi, vive Paris !… Quand on a de l’argent.
+            <lb/>NANINE de Voltaire.</p>
+        </epigraph>
+      </titlePage>
+    </front>
     <body>
-      <p rend="noindent">Ducray-Duminil, François-Guillaume, <hi rend="i">Jean et Jeannette ou Les Petits Aventuriers parisiens</hi>, Paris, Corbet, 1838, Tome 3/5.</p>
-      <epigraph>
-        <p>Ma foi, vive Paris !… Quand on a de l’argent.
-<lb/>NANINE de Voltaire.</p>
-      </epigraph>
-      <head>Jean et Jeannette, ou Les Petits Aventuriers parisiens</head>
-      <div xml:id="__DdeLink__129388_1553867307">
-        <head>Livre troisième</head>
-        <div>
-          <head><pb n="1" xml:id="p1"/> Chapitre I</head>
+      <div><pb n="1" xml:id="p1"/> 
+          <head>Chapitre I</head>
           <argument>
             <p>Jean et Jeannette sont-ils appelés à faire tous les métiers</p>
           </argument>
@@ -54,8 +121,8 @@
           <p><pb n="24" xml:id="p24"/> Comme le sort change les projets des hommes, se dit Jean, quand il est couché ! Tantôt j’allais me faire comédien ; ce soir, je suis presque moine !… Resterai-je long-temps ici ? Le malheur ne m’en bannira-t-il pas ? car il ne peut pas nous laisser long-temps dans chaque maison où nous entrons. Il faut qu’il nous en chasse pour nous faire courir sans cesse de nouvelles aventures. Celle-ci est bien singulière ! La rencontre de ce bon religieux !… elle est fort heureuse pour nous… jusqu’à présent du moins. Nous voilà sûrs d’un asile et de notre existence ! Ô mon Dieu ! fais que cet état de choses dure, et que de pauvres enfans, que tu prends visiblement sous ta protection, puisque tu les admets dans cette sainte maison, ne soient pas de nouveau <pb n="25" xml:id="p25"/> ballottés par la fortune, qui semble prendre à tâche de les accabler de chagrins, et qui peut les poursuivre encore jusqu’aux pieds de tes divins autels ! Mon Dieu, exauce ma prière, et je me consacre à jamais à ton culte si vénérable et si sacré !</p>
           <p>Il s’endormit après cette prière, et des songes agréables vinrent accroître ses espérances d’une immuable félicité.</p>
         </div>
-        <div>
-          <head><pb n="26" xml:id="p26"/> Chapitre II</head>
+      <div><pb n="26" xml:id="p26"/> 
+          <head>Chapitre II</head>
           <argument>
             <p>Le Réfectoire. – Voyage à Livry. – Encore du changement ; mais il paraît devoir être heureux.</p>
           </argument>
@@ -102,8 +169,8 @@
           <p>Jean répond : J’en connais fort peu. J’en ai lu un cependant en entier ; c’est le Diable-Boiteux. – Fi donc ! ce n’est pas cela qui nous amuse. Il nous faut des tours, des vieux châteaux, des souterrains, des spectres, des cachots, des chaînes et des visions ! Il n’y a que cela, mon cher, pour intéresser, il <pb n="55" xml:id="p55"/> n’y a que cela ; je n’en dors pas souvent, il est vrai, et ma fille en a quelquefois des crispations de nerfs : mais c’est charmant. À propos, cela me fait penser. Damisse ! – Monsieur ! – Notre lecteur habituel n’est pas venu de la journée d’hier ? Georges ne s’est pas présenté à l’hôtel ? – Non, monsieur. – Cela m’étonne. Il est si exact à nos lectures !</p>
           <p>Jean allait demander qui était ce monsieur Georges ; mais on annonça soudain son arrivée ; il entra et nos enfans virent un très jeune homme assez bien de figure, mesquinement habillé, et qui les regarda d’un air tout étonné.</p>
         </div>
-        <div>
-          <head><pb n="56" xml:id="p56"/> Chapitre III</head>
+      <div><pb n="56" xml:id="p56"/> 
+          <head>Chapitre III</head>
           <argument>
             <p>Ils retrouvent leur cousin Georges Patin ; ce qui s’ensuit.</p>
           </argument>
@@ -140,8 +207,8 @@
           <p>Là ! vois-tu, mon frère, dit Jeannette en pleurant, mes pressentimens se sont vérifiés. Que n’avons-nous suivi les avis de la mère Fauvet ! <pb n="83" xml:id="p83"/> – C’est un misérable, répond Jean, de sang-froid ; j’aurais bien dû écouter aussi quelqu’un qui me disait avant-hier que Georges avait déjà enlevé comme cela trois femmes ; c’est la quatrième ; il est coutumier du fait. – Quel est ce quelqu’un, mon frère, et pourquoi cela ne t’a-t-il pas fait impression ? Tu aurais dès lors dû te méfier. – Ce quelqu’un, ma sœur, c’est un de ses créanciers que j’ai rencontré chez lui, qui lui a fait une scène abominable, et qui lui a dit, en descendant l’escalier : Va, misérable ! tu gardes mon argent pour plonger d’honnêtes familles dans la douleur. Voilà trois filles de bonnes maisons que tu enlèves et que tu mènes je ne sais où, avec l’argent de tes créanciers ! Georges, après le départ de cet homme, m’a persuadé <pb n="84" xml:id="p84"/> que c’était une calomnie que dans sa rage, il débitait par excès de haine contre lui !… Que n’ai-je dès lors surveillé Georges, averti M. Bernard !</p>
           <p>M. Bernard écoutait la conversation des enfans et n’était pas du tout persuadé qu’ils disaient la vérité ; il s’imagina que ce billet de Georges et tout ce que débitaient le frère et la sœur étaient concertés entre ce Georges et eux pour mettre ceux-ci à l’abri de la juste indignation du père de Laura. Nous allons voir, dans le chapitre suivant, ce qu’il leur dit à ce sujet.</p>
         </div>
-        <div>
-          <head><pb n="85" xml:id="p85"/> Chapitre IV</head>
+      <div><pb n="85" xml:id="p85"/> 
+          <head>Chapitre IV</head>
           <argument>
             <p>Nos enfans déménagent encore une fois. Le pauvre Hypocondre.</p>
           </argument>
@@ -171,8 +238,8 @@
           <p>Jeannette lève les yeux au ciel, en répliquant : Tu as bien raison !… et surtout de l’appeler romantique : car je parierais que c’est sa manie de faire lire de mauvais romans à sa <pb n="105" xml:id="p105"/> fille qui a tourné la tête de cette jeune personne. On dit qu’il y a beaucoup d’enlèvemens dans ces livres-là ; elle aura voulu en goûter à son tour. – Il n’y a pas de doute. Je ris vraiment de le voir puni par sa manie de lecture et par son imprévoyance. Comment s’imaginait-il qu’un jeune homme de vingt ans vînt s’assujétir à lire, là, chez lui, tous les jours, dans la seule intention de l’amuser ? Si j’ai jamais une jolie fille, je ne souffrirai pas auprès d’elle de lecteur de cet âge-là ; je craindrais trop qu’on ne me l’enlevât. J’en ai l’expérience, à présent. Ainsi causèrent nos enfans, et, dans leurs petits raisonnemens, le lecteur doit voir qu’il y avait souvent de la justesse et un certain esprit d’observation ; il est même possible qu’on leur trouve trop d’esprit pour leur âge. Parens heureux, qui <pb n="106" xml:id="p106"/> élevez, qui gâtez vos enfans près de vous, peut-être ; l’excès même de votre tendresse s’oppose-t-il au développement de leur raison ! Qu’ils vous perdent, qu’ils deviennent orphelins, dans la misère ; qu’ils aient besoin, en un mot, de tous leurs moyens, pour exciter l’intérêt, la compassion des hommes, on ne les reconnaîtra plus ; leur esprit paraîtra aussi au-dessus de leur âge, pour se procurer un peu de ce qu’ils avaient chez vous en abondance, sans faire le moindre effort, souvent même avec une satiété qui leur répugnait, et annullait en eux toutes les ressources de l’industrie, ressources qu’on retrouve quand on est malheureux.</p>
           <p>Mais revenons à nos enfans, qui vont faire un singulier dîner, et être témoins d’une conversation des plus bizarres.</p>
         </div>
-        <div>
-          <head><pb n="107" xml:id="p107"/> Chapitre V</head>
+      <div><pb n="107" xml:id="p107"/> 
+          <head>Chapitre V</head>
           <argument>
             <p>Dialogue à la muette. – Histoire du pauvre Hypocondre.</p>
           </argument>
@@ -223,8 +290,8 @@
           <p>« Je l’ai vu, ce méprisable Georges, dans sa prison de Saint-Lazare : Oh ! il n’est pas corrigé ; il a plus de front que jamais, et, il est furieux contre son père qui lui a joué un si vilain tour. Mais patience, quelques années de séminaire le calmeront… La seule obligation que je lui aye, c’est de m’avoir éclairé sur votre innocence, mes enfans. Il vous avait persuadé qu’il ne voulait que me demander la main de Laura : vous l’avez cru ; mais vous ne l’avez nullement aidé dans son enlèvement. Ainsi donc je vous rends mon amitié, et je vous préviens que vous êtes, dès ce jour, libres de <pb n="130" xml:id="p130"/> quitter ce triste asyle, de rentrer à l’hôtel ; dont vous ne sortirez plus. »</p>
           <p>Le lendemain matin, nos enfans firent leurs adieux à Sombreman, et montèrent dans la voiture du chevalier, qui vint les prendre pour les ramèner à l’hôtel, rue Bergère. Voyons, faisons connaissance avec le chevalier de Saint-Amand, dont l’éloge est dans la bouche de tout le monde.</p>
         </div>
-        <div>
-          <head><pb n="131" xml:id="p131"/> Chapitre VI</head>
+      <div><pb n="131" xml:id="p131"/> 
+          <head>Chapitre VI</head>
           <argument>
             <p>Revue d’anciens amis. L’homme à deux réputations.</p>
           </argument>
@@ -265,8 +332,8 @@
           <p>Au moment où Damisse allait fouetter le cheval, un jeune homme passa, regarda beaucoup nos enfans, <pb n="162" xml:id="p162"/> comme s’il cherchait à se remettre leurs traits ; mais ne le pouvant pas, il continua sa marche. Jean et Jeannette l’avaient déjà reconnu, c’était le jeune Déprévil, mais changé aussi ; et vêtu avec une pauvreté qui faisait trembler. Ce jour, dit Jean, est heureux pour nous faire revoir tous nos amis ; mais le dernier paraît dans la misère. Grand Dieu ! que lui est-il donc arrivé ? – Moi, mon frère, je ne pense qu’à ce qu’on nous a dit sur la personne en question. – Paix ! ma sœur ; j’en frémis encore ; mais taisons-nous et observons !</p>
           <p>Toujours tristes et pensifs, ils reviennent à l’hôtel.</p>
         </div>
-        <div>
-          <head><pb n="163" xml:id="p163"/> Chapitre VII</head>
+      <div><pb n="163" xml:id="p163"/> 
+          <head>Chapitre VII</head>
           <argument>
             <p>Nouveaux indices peu rassurans. La fantasmagorie.</p>
           </argument>
@@ -299,7 +366,6 @@
           <p>Arrivés à l’hôtel, le portier est bien étonné de les voir si matin ; ils lui disent, ainsi qu’aux autres <pb n="194" xml:id="p194"/> personnes de la maison, qu’ils se sont fait conduire, la veille, chez madame Richard, où ils ont passé la nuit.</p>
           <p>Fin du troisième volume.</p>
         </div>
-      </div>
     </body>
   </text>
 </TEI>

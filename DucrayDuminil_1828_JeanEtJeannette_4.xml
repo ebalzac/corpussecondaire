@@ -5,32 +5,99 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
-      <editionStmt/>
+      <titleStmt>
+        <title>Jean et Jeannette, ou Les Petits Aventuriers parisiens : tome quatrième</title>
+        <author key="Ducray-Duminil, François-Guillaume (1761-1819)">François-Guillaume Ducray-Duminil</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+        <editor>Maxime Perret</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Cette édition a été établie
+          dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche
+          (2015-2019).</edition>
+        <respStmt>
+          <name>Élise Delannoy</name>
+          <resp>Établissement du texte</resp>
+        </respStmt>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Élise Delannoy</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jean-Denis Spinel</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
+              « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités »
+              (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électronique comportera le nom de l’ANR Phœbus et surtout
+              l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette
+              ressource électronique, notamment en intégrant toutes les contributions extérieures,
+              la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno type="pdf">http://catalogue.bnf.fr/ark:/12148/cb303665019</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>Jean et Jeannette, ou Les Petits Aventuriers parisiens : tome quatrième</title><author>par François-Guillaume Ducray-Duminil</author>Paris, Corbet, Libraires, Quai des Augustins, N. 59<date>1828</date></bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>L'océrisation de ce fichier a fourni une transcription satisfaisante.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1838">1838</date>
+      </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">JEAN ET JEANNETTE, OU LES PETITS AVENTURIERS PARISIENS</titlePart>
+          <titlePart type="sub">TOME QUATRIÈME</titlePart>
+        </docTitle>
+        <docAuthor>Ducray-Duminil, François-Guillaume (1761-1819)</docAuthor>
+        <epigraph>
+          <p>Ma foi, vive Paris !… Quand on a de l’argent.
+            <lb/>NANINE de Voltaire.</p>
+        </epigraph>
+      </titlePage>
+    </front>
     <body>
-      <p rend="noindent">Ducray-Duminil, François-Guillaume, <hi rend="i">Jean et Jeannette ou Les Petits Aventuriers parisiens</hi>, Paris, Édition Corbet, 1838, tome 4/5.</p>
-      <epigraph>
-        <p>Ma foi, vive Paris !… Quand on a de l’argent.
-<lb/>NANINE de Voltaire.</p>
-      </epigraph>
-      <head>Jean et Jeannette, ou Les Petits Aventuriers parisiens</head>
-      <div xml:id="__DdeLink__129388_1553867307">
-        <head>Livre quatrième</head>
-        <div>
-          <head><pb n="5" xml:id="p5"/> Chapitre premier</head>
+      <div><pb n="5" xml:id="p5"/> 
+          <head>Chapitre premier</head>
           <argument>
             <p>Les tablettes. Quelques aperçus faciles à saisir.</p>
           </argument>
@@ -69,8 +136,8 @@
           <p><pb n="32" xml:id="p32"/> Vois-tu, dit Jeannette, ce qui m’a encore frappée dans tout cela, ce sont ces deux petits enfans qu’on appelle Julien et Julienne. Qui sont ces enfans ? M. le chevalier est-il leur père ? sont-ils les enfans de…, ainsi que s’exprime notre oncle Rodolphe, sans nommer aucun des auteurs de leurs jours ? Enfin, mon frère, sont-ce ces enfans là que nous devions épouser après qu’on aurait placé sur notre tête, à chacun de nous, cent mille francs ? – Il paraît, Jeannette, qu’en effet tu devais devenir la femme de Julien, tandis que moi j’aurais épousé Julienne ; car, nulle part, notre oncle Rodolphe ne nomme leurs père et mère, ce qui prouve qu’ils sont bien les enfans de… de celui ou de celle dont sa plume se refuse à retracer le nom. Mais que sont-ils devenus ? <pb n="33" xml:id="p33"/> où sont-ils ? M. le chevalier ne les a donc pas ramenés des îles ; car on les verrait ; il nous les montrerait il les élèverait, en un mot, ici ou ailleurs, et je ne suppose pas qu’il ait quelque motif de nous les cacher. Julien et Julienne ! voilà deux jolis noms. Ils sont sans doute de notre âge… Par exemple, quoique Damisse ait promis à son maître de garder, quand ils reviendraient en France, le secret sur la cause de ses malheurs, je ne pense pas que nous soyons indiscrets de lui demander ce que c’est que Julien et Julienne. Il nous faudra l’interroger là-dessus.</p>
           <p>Jeannette est également frappée d’une réflexion soudaine ; elle réplique : À propos, te rappelles-tu, Jean, que lorsque nous sommes arrivés ici pour la première fois, <pb n="34" xml:id="p34"/> M. Bernard nous a parlé des malheurs de son maître en nous promettant de nous les raconter ? – C’est vrai. – Sur ce que nous lui objections que nous étions assez raisonnables pour en entendre le récit, il nous répondit : Je le crois ; aussi je ne renonce pas à vous faire ce récit ; mais un autre jour ; nous avons le temps d’être ensemble. Il ne regardait donc pas cela, lui, comme un si grand secret ? – Apparemment. On s’y perd. Il faudra toujours lui rappeler cette promesse, le prier de la tenir… En attendant, commençons par interroger Damisse, que voici.</p>
         </div>
-        <div>
-          <head><pb n="35" xml:id="p35"/> Chapitre II</head>
+      <div><pb n="35" xml:id="p35"/> 
+          <head>Chapitre II</head>
           <argument>
             <p>Où il y a plusieurs interrogatoires qui n’avanceront pas de beaucoup le lecteur.</p>
           </argument>
@@ -145,8 +212,8 @@
           <p>Le chevalier s’empresse de répondre : ce n’est point une mauvaise langue, mes enfans ! La mère Saint-Ambroise peut avoir raison de penser et de parler ainsi ; mais cette digne femme est prévenue contre moi. On lui en a imposé ; elle croit tout ce qu’on lui a dit sur mon compte. Il y a des gens qui me font une réputation épouvantable, d’autres qui savent me rendre justice. Votre bonne religieuse a écouté mes calomniateurs, voilà tout ; mais cette conversation et la lecture des tablettes de Rodolphe m’ont fatigué… J’ai besoin de repos ; laissez-moi, mes enfans… demain, vous jouerez, vous vous amuserez toute <pb n="63" xml:id="p63"/> la journée, et, le soir, suivant votre usage, vous retournerez à Paris pour profiter, lundi, de bonne heure, des leçons de vos maîtres.</p>
           <p>Jean et sa sœur quittent le chevalier, en se disant tout bas : Allons, il est décidé que nous ne saurons rien.</p>
         </div>
-        <div>
-          <head><pb n="64" xml:id="p64"/> Chapitre III</head>
+      <div><pb n="64" xml:id="p64"/> 
+          <head>Chapitre III</head>
           <argument>
             <p>Retour prévu. Nouveaux personnages. Nouvelle condition pour nos enfans.</p>
           </argument>
@@ -189,8 +256,8 @@
           <p>Jean et Jeannette ont le cœur brisé. Ils sentent que leur père et <pb n="93" xml:id="p93"/> leur mère ont des droits sacrés ; que des enfans ne doivent pas résister à la volonté de leurs pareils ; mais quel changement pour eux ! ils vont servir ! ils vont quitter le plus généreux protecteur pour être domestiques d’un étranger ! À quoi leur aura servi d’avoir eu des maîtres, de posséder aujourd’hui tant de belles sciences ! Quand le sort les condamnait à faire, pour ainsi dire, le métier d’aventuriers, ils auraient été trop heureux de retrouver leur père, de l’aider dans son état, quelque commun qu’il fût ! mais aujourd’hui ! aujourd’hui que tout est si heureusement changé pour eux !</p>
           <p>Ils n’osent pas répliquer un seul mot aux ordres impérieux de leur père ; ils sortent, lui promettant de revenir le plus tôt qu’ils le pourront ; <pb n="94" xml:id="p94"/> et quand ils sont hors de la maison, ils entrent dans une allée prochaine pour laisser un libre cours aux torrens de larmes qui s’échappent soudain de leurs yeux.</p>
         </div>
-        <div>
-          <head><pb n="95" xml:id="p95"/> Chapitre IV</head>
+      <div><pb n="95" xml:id="p95"/> 
+          <head>Chapitre IV</head>
           <argument>
             <p>Débats d’un nouveau genre. Voyons qui l’emportera.</p>
           </argument>
@@ -231,8 +298,8 @@
           <p>L’embarras des enfans est inexprimable. Commandés par la nature et par la reconnaissance, ils ne savent auquel des deux sentimens ils doivent céder. L’excellence de leur cœur leur indique cependant la conduite qu’ils ont à tenir. Jean dit à sa sœur : Que faire, Jeannette ? nous avons deux pères. – Lequel suivrons-nous, mon frère ? – La nature et le devoir exigent que nous suivions celui qui nous a donné le jour. Partons. Viens, ma sœur, partons, mon père.</p>
           <p>Monjoly, triomphant, les entraîne.</p>
         </div>
-        <div>
-          <head><pb n="124" xml:id="p124"/> Chapitre V</head>
+      <div><pb n="124" xml:id="p124"/> 
+          <head>Chapitre V</head>
           <argument>
             <p>Le petit jardinier, la petite chambrière et la correction paternelle.</p>
           </argument>
@@ -273,8 +340,8 @@
           <p>Jeannette est là, dans la cour, où elle tire un seau d’eau du puits. Elle est témoin de cette brutalité, et, levant ses beaux yeux au ciel, elle s’écrie : Quel changement douloureux pour mon frère et pour moi ! quel traitement, mon Dieu, lui fait-on subir ! Et c’est un père qui nous rend plus malheureux que ne l’ont jamais fait des étrangers !</p>
           <p>Quant à Jean, furieux de se sentir frappé, il jette au loin son outil de jardinage, et, jurant qu’il ne veut plus travailler, il va trouver sa mère en fondant en larmes. Perrette est bonne ; elle est indignée de l’action de son mari ; elle console <pb n="155" xml:id="p155"/> Jean, essuie ses pleurs, le caresse ; puis, descendant au jardin, elle gronde Monjoly, qui lui répond que c’est un mouvement de vivacité dont il n’a pas été maître. Il lui promet d’être moins emporté à l’avenir. ; et pour faire oublier à son fils cet acte de violence, il lui ordonne de passer un petit habit gris qu’il lui a acheté pour les dimanches. Il va, dit-il, l’emmener promener, et songer en même temps aux acquisitions dont l’a chargé M. le marquis de la Roche. Jean, sans dire un mot, sort avec son père.</p>
         </div>
-        <div>
-          <head><pb n="156" xml:id="p156"/> Chapitre VI</head>
+      <div><pb n="156" xml:id="p156"/> 
+          <head>Chapitre VI</head>
           <argument>
             <p>Le pour et le contre. Qui donc croire ?</p>
           </argument>
@@ -328,7 +395,6 @@
           <p>Revenus à l’hôtel, ou nos enfans furent embrassés par tout le monde ils changèrent de vêtemens. On dîna, et, l’après-midi le chevalier, enfermé avec eux dans son cabinet, leur fit le récit suivant.</p>
           <p>Fin du quatrième tome.</p>
         </div>
-      </div>
     </body>
   </text>
 </TEI>
