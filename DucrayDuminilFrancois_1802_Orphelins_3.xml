@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Les Petits Orphelins du Hameau : tome 3</title>
+        <title>Les Petits Orphelins du Hameau : tome troisième</title>
         <author key="Ducray-Duminil, François-Guillaume (1761-1819)">François-Guillaume Ducray-Duminil</author>
         <principal>Andrea Del Lungo</principal>
         <principal>Pierre Glaudes</principal>
@@ -26,7 +26,7 @@
           <resp>Établissement du texte et stylage</resp>
         </respStmt>
         <respStmt>
-          <name>Claire Carpentier</name>
+          <name>Mathis Goddet</name>
           <resp>Édition XML/TEI</resp>
         </respStmt>
         <respStmt>
@@ -66,7 +66,8 @@
         <idno type="pdf">http://gallica.bnf.fr/ark:/12148/bpt6k63458611</idno>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Les petits Orphelins du hameau : tome 3</title><author>par Monsieur François-Guillaume Ducray-Duminil</author>Paris, Ambroise Dupont et Cie, Libraires, Rue Vivienne, N. 16<date>1828</date></bibl>
+        <bibl><title>Les petits Orphelins du hameau : tome troisième</title><author>par le cit. François-Guillaume Ducray-Duminil</author> <edition>Seconde Edition, revue par l'Auteur</edition> A Paris, Chez le prieur, librairie, rue Saint-Jacques, No. 278<date>An X (1802)</date></bibl>
+        
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -85,18 +86,22 @@
     <front>
       <titlePage> <docTitle>
         <titlePart type="main">LES PETITS ORHELINS DU HAMEAU</titlePart>
-        <titlePart type="sub">TOME 3</titlePart> </docTitle>
-        <docAuthor>Ducray-Duminil, François-Guillaume (1761-1819)</docAuthor>
+        <titlePart type="sub">TOME TROISIEMEMathis Goddet</titlePart> 
+      </docTitle>
+        <!-- ici j'ai fait une erreur : il ne faut pas utiliser la forme normée du nom de l'auteur mais la forme la plus courante-->
+        <docAuthor>François-Guillaume Ducray-Duminil</docAuthor>
+        <epigraph><p>Enfans si doux, si timides, si bons.... qu'avez-vous donc fait aux hommes !</p></epigraph>
       </titlePage>
     </front>
-    <body>     
-      <div>
-        <head>Les Petits Orphelins du hameau</head>
+    <body>  
+      <!--on ne remet pas le nom de l'oeuvre dans le body, on commence directement par le texte ou, le cas échéant, par le titre du chapitre. type="chapter est facultatif. Si on l'utilise, il faut le faire pour tous les chapitres. Sinon, on utilise simplement div-->
         <div type="chapter">
-          <head>Chapitre premier</head>
-          <argument>
+          <head>Chapitre premier<lb/>
+            Retour au Hameau
+          </head>
+          <!--<argument>
             <p>Retour au Hameau.</p>
-          </argument>
+          </argument>-->
           <p>L’excès du bonheur glace les facultés, comme l’excès de l’infortune. Un changement de situation si subit, si peu attendu, rend nos enfans muets de saisissement. Ils ne peuvent se rendre compte de leurs pensées ; ils ne peuvent se les communiquer d’ailleurs : leurs conducteurs fendent l’air, et il est impossible de se dire un mot. Mais qui l’aurait cru, pense tout bas Bénédit ? Eh quoi, c’est au comble même du malheur, dans la situation la plus désespérée, que nous avons recouvré notre <pb n="6" xml:id="p6"/> liberté ; et cette liberté précieuse, c’est la châtelaine elle-même qui a contribué à nous la rendre ! O bonté céleste ! ô mânes de notre mère ! sans doute vous nous avez regardés avec compassion ; et comme tu nous l’as dit cent fois, infortunée Laurence, la providence ne nous abandonnera jamais…</p>
           <p>Voilà tout ce que peut se dire Bénédit : pour Achille, il ne comprend rien à cette délivrance inattendue. Occupé de sa douleur, son frère avait oublié de lui faire part de l’heureux avertissement qu’il avait trouvé sur la plateforme ; et quand il y aurait pensé, le délicat Bénedit n’aurait point aggravé le désespoir d’Achille, en lui communiquant des moyens, devenus inutiles, de se sauver. L’idée d’un bonheur dont on ne peut jouir, est un tourment de plus pour l’infortuné ! Achille donc attend que son frère puisse lui donner une explication après laquelle il soupire ; et comme il est faible et souffrant encore, <pb n="7" xml:id="p7"/> il se cramponne après son conducteur, qui presse son agile coursier.</p>
           <p>Nos enfans voyent clairement qu’on ne ne les a pas entraînés dans un piège en les sauvant. Ils reconnaissent la route, et déjà aux premiers rayons de l’aurore, ils apperçoivent au loin les masures du hameau d’Olival. Le haut clocher de l’église des Blaves se détache aussi derrière le hameau, sur un ciel d’azur, et les ruines des Blaves frappent également leurs regards.</p>
@@ -116,8 +121,8 @@
           <p>Le père Simon paraît bientôt armé d’une cruche pleine de la liqueur vermeille qui lui plaît tant. Il apperçoit les enfans, et peu s’en faut qu’il ne laisse tomber sa cruche : mais il pense qu’elle est pleine, et la dépose prudemment sur la table ; puis, courant aux enfans de Laurence, il les serre contre son cœur, en les accablant des preuves de sa tendresse. Ha ça, dit-il, enfans, vous n’avez pas déjeûné ? – Non, va, je t’assure, que nous n’avons guères pensé à manger dans ce maudit château !</p>
           <p>– Eh bien, mettez-vous là. – Très volontiers, père Simon.</p>
           <p>Les enfans sont à table auprès de Paul, de Marie, et du bon Justin, cet heureux époux de Louise, qui partage <pb n="15" xml:id="p15"/> l’affection de ses parens pour les petits orphelins. Gervais veut savoir comment ses amis ont été délivrés. Mangeons, mangeons., dit père Simon ; ils auront après le temps de nous conter tout cela.</p>
-          <p>L’avis du bon Simon est suivi : on déjeûne : nos enfans dévorent, et Marthe est obligée de les arrêter, pour qu’ils ne s’incommodent pas ; car la joie, le bonheur, tout trouble leur raison ; ils ne savent plus ce qu’ils disent, ni ce qu’ils font. Enfin, ils mettent de l’ordre dans leurs idées, et c’est Bénédit qui est chargé de raconter tout ce qui lui est arrivé, ainsi qu’à son frère, dans le manoir funeste de la châtelaine sans nom. Bénédit s’en acquitte très-bien : il ne passe aucune particularité, n’oublie pas de faire le plus grand éloge de Frank, de Sophie, de tous ceux qui lui ont témoigné de l’intérêt, et termine son récit par son évasion, et par un tableau, assez bien tracé, des égaremens nocturnes de la méchante châtelaine.</p>
-          <p><pb n="16" xml:id="p16"/> Ce récit effrayant fait une peur horrible aux femmes qui l’entendent. Louise, Marie et Marthe, elles-mêmes, rapprochent leur chaise, pâlissent, et prennent tout cela pour un conte de revenans.</p>
+          <p>L’avis du bon Simon est suivi : on déjeûne : nos enfans dévorent, et Marthe est obligée de les arrêter, pour qu’ils ne s’incommodent pas ; car la joie, le bonheur, tout trouble leur raison ; ils ne savent plus ce qu’ils disent, ni ce qu’ils font. Enfin, ils mettent de l’ordre dans leurs idées, et c’est Bénédit qui est chargé de raconter tout ce qui lui est arrivé, ainsi qu’à son frère, dans le manoir funeste de la châtelaine sans nom. Bénédit s’en acquitte très-bien : il ne passe aucune particularité, n’oublie pas de faire le plus grand éloge de Frank, de Sophie, de tous ceux qui lui ont témoigné de l’intérêt, et termine son récit par son évasion, et par un tableau, assez bien tracé, des égaremens nocturnes de la méchante châtelaine.<pb n="16" xml:id="p16"/></p>
+          <p> Ce récit effrayant fait une peur horrible aux femmes qui l’entendent. Louise, Marie et Marthe, elles-mêmes, rapprochent leur chaise, pâlissent, et prennent tout cela pour un conte de revenans.</p>
           <p>Quand Bénédit a cessé de parler, Gervais, Simon, Justin et Paul l’embrassent de nouveau. Achille a sa part aussi de leurs caresses, et Gervais prend la parole : Mes enfans, dit-il aux petits orphelins, tout ce que vous venez de nous raconter est si extraordinaire, si singulier, qu’on prendrait cela vraiment pour des contes de veillées, faits pour effrayer les femmes et les petits enfans.</p>
           <p>Oh, combien vous avez souffert et sans le sort, ou plutôt la providence qui vous a retirés des mains de cette mégère, combien vous ailiers souffrir encore ! Elle vous aurait sacrifiés, cette femme féroce ; oh oui, elle me garait capable des plus grands forfaits ! et nous ignorons son nom. C’est votre parente ; c’est la fille de ce bon pèlerin <pb n="17" xml:id="p17"/> qui vient de temps en temps demander l’aumône dans le hameau, vous n’en pouvez plus douter ; mais quel est donc ce pèlerin ? J’en reviendrai toujours à mes premiers pressentimens ; ce pélerin est un Castelli, et vous êtes, mes enfans, du sang des Castellis ! – Quoi, père Gervais, cette châtelaine serait une descendante de ce bon seigneur dont tu parles avec tant d’éloges ? – Mes enfans, je le soupçonne, et c’est aussi l’opinion de monsieur l’abbé Durand of qui a connu mieux que nous cette famille infortunée, car il a été le précepteur du chevalier de Castelli. Ce pauvre abbé Durand ! dans quel chagrin l’a plongé cette aventure ! Il vous attend ; vous ne revenez point au presbytère : on ne sait ce que vous êtes devenus ! ce digne homme court à Olival ; il me demande, et me fait part de ses inquiétudes sur votre longue absence. Quelques gens du hameau ont vu passer une voiture où deux enfans étaient assis avec une dame <pb n="18" xml:id="p18"/> et un homme à la mine rébarbative : nous ne doutons plus que la châtelaine de Morange ne vous ai fait enlever. Je vais moi-même à Morange ; je m’informe : un bon laboureur m’apprend qu’en effet on dit qu’il y a deux enfans au château : ce brave homme me donne l’hospitalité pour une nuit ; il est arrêté ; je me sauve, j’erre dans l’avenue, j’y rencontre votre fidèle agent, qui me remet votre lettre sans me dire un seul mot.</p>
           <p>Cette lettre, vous savez ce que j’y ai répondu : un autre billet de vous m’en apprend davantage. Je tremble moi-même pour ma liberté, et je reviens ici. Désespérés que nous étions tous nous nous déterminions déjà à présenter des placets aux intendans de ces provinces, aux ministres, au gouvernement, en un mot ; vous paraissez, mes enfans ; le ciel vous rend à nos prières, et nous sommes tous heureux !</p>
@@ -130,10 +135,11 @@
           <p>Gervais et Simon descendirent sur la place avec les enfans, qui furent bientôt embrassés, caressés, fêtés par tous les habitans du hameau. Gervais satisfit, comme il le jugea à propos, leur curiosité ; et les notables, le bon Michelin à leur tête, se réunirent ensuite chez Gervais, où un grand repas fut donné pour célébrer le retour des petits orphelins adoptés par ces bonnes gens. La journée se passa ainsi en plaisirs, en fêtes ; et, le soir, nos deux jeunes héros allèrent goûter les douceurs d’un sommeil <pb n="23" xml:id="p23"/> qui ne fut interrompu par aucun rêve fâcheux, jusqu’au lendemain matin, où les premiers rayons du soleil r’ouvrirent leurs yeux à la lumière, au bonheur.</p>
         </div>
         <div type="chapter">
-          <head>Chapitre II</head>
-          <argument>
+          <head>Chapitre II<lb/>
+            Dénouement qui s’éloigne</head>
+        <!--  <argument>
             <p>Dénouement qui s’éloigne.</p>
-          </argument>
+          </argument>-->
           <p>Une voix, bien douce à leur oreille, se fait entendre à la porte de leur tranquille retraite : Mes enfans, allons, il est temps de partir pour les Blaves. – Bon Gervais, nous sommes prêts, à tes ordres.</p>
           <p>Achille court ouvrir la porte de la chambre… Gervais entre accompagné de Simon. Nouvelles caresses, nouvelles effusions. Tous quatre descendent ensuite chez Martin, qui leur a préparé un bon déjeuner. On prend des forces, et l’on part. Martin, Paul et Justin accompagnèrent nos amis jusqu’à la <pb n="24" xml:id="p24"/> moitié du chemin : là, on se sépara, et le souffle léger du zéphir sut rafraîchir seul l’air, qui, de temps en temps, apporta à nos voyageurs les émanations odorantes des végétaux nourriciers. Personne ne paraissait dans la campagne : seulement au loin, on voyait courir, sur la grande route, quelques cavaliers à cheval. Cette vue effraya un peu Gervais, qui, sans faire part de ses craintes à ses jeunes amis, sentit qu’il commettait une imprudence, en les engageant dans ce lieu écarté, et seulement accompagné de son frère, vieillard presque aussi débile que lui. Si la châtelaine faisait épier leurs démarches, si ses vils agens les attaquaient dans cette vaste campagne, qui prendrait leur défense ?</p>
           <p>Gervais fit ces réflexions, et fut très fâché de ne pas avoir engagé Martin, Paul et Justin à ne pas les quitter de la journée. Il presse sa marche, hâte celle des enfans, et se raffermit cependant, en voyant qu’il n’est suivi ni précédé <pb n="25" xml:id="p25"/> d’aucun étranger. Ceux qu’on voit au loin, sont des voyageurs qui, sans doute, vont passer la Durance qu’on entend se précipiter au loin, et rouler dans son lit. Pas la moindre inquiétude à former, et l’aspect des plaines d’oliviers est aussi riant que la nature est majestueuse et tranquille.</p>
@@ -170,12 +176,13 @@
           <p>Le pèlerin se retourne, se lève, regarde Gervais, et lui dit avec le plus grand sang-froid : Ils ne l’oseront pas, tant que je serai là. – Ayez donc la bonté de ne pas les abandonner, et de nous accompagner tous jusques chez M. le curé des Blaves, où nous nous rendions ce matin. – Moi, que je vous accompagne ! Cédez à la prière que nous vous en faisons ? – Mais qu’ont-ils donc fait à cette femme sanguinaire ?</p>
           <p>– Si vous daigniez m’écouter un moment, je vous dirais quel est leur crime à ses yeux. – Parlez, bon vieillard.</p>
           <p>Gervais, enchanté du calme que fait paraître le pélerin, en profite pour lui faire succinctement le récit suivant.</p>
-        </div>
-        <div><pb n="40" xml:id="p40"/>
-          <head> Chapitre III</head>
-          <argument>
+         <pb n="40" xml:id="p40"/></div>
+       <div type="chapter">
+          <head>Chapitre III<lb/>
+            Toujours la même obscurité</head>
+         <!-- <argument>
             <p>Toujours la même obscurité.</p>
-          </argument>
+          </argument>-->
           <p>« Ces enfans s’appellent Achille et Bénédit : du moins tels sont les noms qu’on leur a donnés. Jamais ils n’ont connu leur père ; mais leur mère a pris soin de quelques années de leur enfance.</p>
           <p>Cette mère infortunée, poursuivie par une ennemie puissante, qui sans doute est votre fille, la châtelaine de Morange ; cette mère, dis-je, est morte de faim et de misère sur la route de Lambesc, dans les bras de ses deux enfans. Une espèce de domestique arrive à ce moment fatal : il remet aux deux petits un paquet cacheté dans lequel est renfermé le secret de leur naissance. Ce sont ces papiers que la châtelaine veut avoir à tout prix.</p>
           <p>C’est pour les obtenir qu’elle a enlevé.</p>
@@ -199,12 +206,12 @@
           <p>Le délire de cet homme est vraiment effrayant, dit le curé à ses amis ; je crains bien qu’il ne tombe malade, et <pb n="52" xml:id="p52"/> ne meure dans ma maison. Cela me ferait une peine, et me causerait un embarras ! Qu’a-t-il donc fait qui le trouble à ce point ? quels sont ses crimes ?</p>
           <p>Vous le voyez, mes enfans, combien il est pénible le poids du remords ! O mon Dieu ! si le coupable n’en éprouvait point, quel serait donc l’avantage de la vertu ! Je ne puis revenir de mon étonnement : je retrouve mon élève, et je le retrouve criminel ; moi qui avais pris tant de soins pour former son cœur à la sagesse ! Il avait vingt ans lorsqu’il se maria : c’était un modèle de douceur et de raison. Il est vrai que je l’ai perdu de vue depuis plus de trente ans ; et il aurait commis des crimes ! je ne puis le croire : au surplus je l’apprendrai au tribunal de la pénitence ; car je sais qu’il désire que je l’entende : c’est un poids dont il veut se soulager en le déposant dans mon sein. Pauvre chevalier ! il a donc une fille, et cette fille est la femme <pb n="53" xml:id="p53"/> scélérate qui persécute nos enfans ! Il n’en faut plus douter, Achille et Bénédit sont ces en fans dont il parle à tout moment. Peut-être la châtelaine connaît-elle mieux que lui le secret de leur naissance ; mais quel mystère profond ! quelle obscurité ! qui l’éclaircira, bon Dieu ! qui l’éclaircira ? À l’instant cela se peut faire, interrompt Gervais : leurs papiers sont près d’ici, allons les chercher. – Non, non ; il est tard, et je suis fatigué autant que vous devez l’être. Tout cela me fait des révolutions ! À soixante-cinq ans, mes amis, la moindre chose influe sur la santé. Demain matin, nous verrons tout cela, nous verrons tout cela. – Demain, M. le curé t mon frère et moi, nous comptions retourner ce soir à Olival ; on nous y attend. – Oui ? soyez assez imprudens pour vous mettre en route à la nuit. Si vous rencontriez Roland ! – Il est vrai : nous resterons donc. <pb n="54" xml:id="p54"/> – À la bonne heure. Marguerite, fais nous souper ?</p>
           <p>Marguerite servit la collation du soir, et la conversation roula sur les événemens singuliers dont nos enfans et le chevalier étaient les héros. Après le souper, l’abbé Durand fit tendre, dans sa propre chambre, des lits pour Gervais et Simon ; et les enfans de la bonne Laurence furent conduits par Marguerite à leur ancienne chambre, qu’ils revirent avec le plus vif plaisir. Quel bonheur pour eux, quand ils furent seuls, de regarder ce séjour tranquille, d’examiner tous leurs petits effets ! Ils ne finissaient pas de se mettre au lit : enfin la fatigue l’emporta sur la curiosité, ils se couchèrent, et dormirent très-bien jusqu’au lendemain matin.</p>
-        </div>
-        <div><pb n="55" xml:id="p55"/>
-          <head> Chapitre IV</head>
-          <argument>
+        <pb n="55" xml:id="p55"/></div>
+        <div type="chapter">
+          <head>Chapitre IV<lb/>Éclaircissement bien attendu</head>
+         <!-- <argument></argument>
             <p>Éclaircissement bien attendu.</p>
-          </argument>
+          </argument>-->
           <p>Marguerite vient les éveiller, en fleur apprenant que tout le monde est depuis long-tems réuni dans la salle d’en bas. Ils s’habillent à la hâte, et descendent. Gervais et Simon sont en effet ~près du curé, qui fait la guerre à nos enfans sur leur long sommeil. Les enfans appaisent leurs bienfaiteurs en les accablant de caresses. Bénédit demande des nouvelles du pélérin ; on lui apprend qu’il va assez bien, et que sa raison parait plus saine que la veille. Un homme s se présente ; c’est le chevalier de Castelli lui-même : sa tête est plus froide ; il demande pardon à son hôte de l’embarras qu’il lui a causé ; il le prie d’être son soutien, son consolateur, son père ; mais il fixe les enfans, et nos amis <pb n="56" xml:id="p56"/> remarquent que chaque fois qu’il les regarde, son délire est prêt à l’absorber.</p>
           <p>Il commence même à dire à voix basse : Je ne puis me faire à ces traits, ils me rappellent trop ceux d’un père chéri ! Enfans, enfans, dit-il en élevant la voix, seriez-vous les fils de M. le comte ? seriez-vous mes frères ?</p>
           <p>Ses frères, interrompt Gervais ! quelle, apparence ! les fils du comte de Castelli, d’un vieillard ! allons, allons, il n’y a pas un moment à perdre ; suivez-moi, mes enfans.</p>
@@ -234,9 +241,8 @@
             <p>RAYMOND, COMTE DE CASTELLI.</p>
           
           <p>L’abbé Durand prit le cahier annoncé par cet épilogue, et lut l’histoire suivante, qui fit verser bien des larmes à ses auditeurs.</p>
-        </div>
-      </div>
-      <div><pb n="67" xml:id="p67"/>
+        <pb n="67" xml:id="p67"/></div>
+      <div type="appendix">
         <head> HISTOIRE DE LAURENCE ET DE RAYMOND, OU LES DANGERS DE L’AMOUR POUR UN VIEILLARD
 <lb/>NOUVELLE</head>
         <p>Les orages de l’automne ont plus d’éclat, plus de force, plus de durée, plus d’impétuosité que les orages du printems. C’est l’image de la vieillesse.</p>
@@ -483,7 +489,7 @@
         <p>« <note place="bottom">[NdA] Ici finissait le cahier de l’histoire, écrite par le comte lui-même. On a cru devoir les détails suivans, qui sont guillemettés, pour ne point revenir sur cet événement.</note> Baptiste revient le matin : il a <pb n="224" xml:id="p224"/> cherché par-tout dans la ville ; mais ignorant l’asyle que Laurence s’était choisi, il n’a pu la rencontrer. Douleur extrême pour le comte, qui lui remet le paquet qu’il a écrit. Retourne, lui dit-il, ami fidèle ! vois encore ; et si tu ne la retrouves point, garde ces papiers qui peuvent lui être bien utiles, jamais tu la rencontres. Mon heure suprême est venue ; donne-moi la dernière preuve de ton zèle, en courant encore à la recherche de cette infortunée, qui est mon épouse, mais dont les droits pourraient être contestés par-là plus scélérate des femmes ! »</p>
         <p>« Baptiste prend le paquet, et sort de nouveau. Dans la rue, il remarque qu’il est épié par les gens de la baronne, qui ne s’est pas éloignée. Baptiste monte à cheval, et, feignant un voyage indispensable, il fait plusieurs fois le tour de fi ville avec assez de rapidité pour croire qu’il n’est pas suivi. Plus heureux la veille, il apprend, par des gens qui <pb n="225" xml:id="p225"/> travaillent aux champs, qu’on a vu passer ce matin une femme souffrante appuyée sur les épaules de deux enfans charmans. Baptiste ne doute point que ce ne soit Laurence, d’après le signalement qu’on lui donne de cette infortunée, et il vole sur la route de Lambesc, où il arrive, hélas ! trop tard. L’infortunée Laurence venait d’expirer : c’est à ses enfans qu’il remet le paquet mystérieux ; mais il apperçoit au loin des cavaliers ; Baptiste tremble d’avoir épié, suivi par les gens de la baronne.</p>
         <p>Il frémit aussi de trouver son maître mort à son retour ; et, troublé par tant de terreurs, il donne le paquet aux enfans, y joint sa bourse, et retourne à Aix, où le désordre qui règne dans l’hôtel de Castelli ne lui apprend que trop que son maître, pendant son absence, a cessé de vivre, comme s’il eût attendu, pour finir, qu’il eût rendu justice à l’innocence, et rempli les devoirs d’un père et d’un époux !</p>
-        <p><pb n="226" xml:id="p226"/> « Déjà la baronne est entrée en héritière, ou plutôt en spoliatrice, dans l’hôtel de son aïeul. Baptiste se soustrait, à sa haine par la fuite, et il court jusqu’à Marseille, où il a des amis. Laissons-le jusqu’à ce que nous le retrouvions, terminons là le récit des malheurs de Laurence et de Raymond. Le volume suivant éclaircira quelques obscurités que le lecteur a pu y trouver, telles que la destinée du<anchor xml:id="_GoBack"/> chevalier de Castelli, et les aventures de Sophie et d’Armand de Rivemar, trois personnages dont on n’a plus entendu parler depuis l’incendie des Blaves, parce que le comte, qui ignorait leurs aventures, n’a pu donner des détails que sur lui et sur Laurence, dans le récit de son histoire ; histoire morale, effrayante, et qui doit détourner des dangers de l’amour et d’un second mariage les pères de famille qui sont assez faibles pour se laisser dominer par leurs enfans !</p>
+        <p><pb n="226" xml:id="p226"/> « Déjà la baronne est entrée en héritière, ou plutôt en spoliatrice, dans l’hôtel de son aïeul. Baptiste se soustrait, à sa haine par la fuite, et il court jusqu’à Marseille, où il a des amis. Laissons-le jusqu’à ce que nous le retrouvions, terminons là le récit des malheurs de Laurence et de Raymond. Le volume suivant éclaircira quelques obscurités que le lecteur a pu y trouver, telles que la destinée du chevalier de Castelli, et les aventures de Sophie et d’Armand de Rivemar, trois personnages dont on n’a plus entendu parler depuis l’incendie des Blaves, parce que le comte, qui ignorait leurs aventures, n’a pu donner des détails que sur lui et sur Laurence, dans le récit de son histoire ; histoire morale, effrayante, et qui doit détourner des dangers de l’amour et d’un second mariage les pères de famille qui sont assez faibles pour se laisser dominer par leurs enfans !</p>
         <p>Nous savons maintenant comment <pb n="227" xml:id="p227"/> s’appelle la méchante châtelaine qui a tant tourment é nos en fans dans le second volume de cet ouvrage : nous savons aussi que ces intéressans orphelins sont les propres fils du comte de Castelli, frères du Chevalier, et oncles de la baronne de Tresvil et de Sophie. Nous allons voir maintenant ce qui va résulter pour eux de cette connaissance tant désirée, et quels conseils vont leur donner le bon curé des Blaves, et les deux respectables notables du hameau d’Olival.</p>
           <p>Fin du troisième Volume.</p>
       </div>

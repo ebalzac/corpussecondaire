@@ -69,9 +69,9 @@
         <bibl><title>Gertrude : tome premier</title><author>par Madame Hortense Allart de Therase</author>Paris, Ambroise Dupont et Cie, Libraires, Rue Vivienne, N. 16<date>1828</date></bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
-      <p>Description (sommaire) des difficultés éventuelles du fichier.</p>
-    </encodingDesc>
+   <!-- <encodingDesc>
+      <p>difficultés de lecture liées à une mauvaise océrisation ou autres problèmes techniques à signaler</p>
+    </encodingDesc>-->
     <profileDesc>
       <creation>
         <date when="1828">1828</date>
@@ -88,7 +88,7 @@
           <titlePart type="main">GERTRUDE</titlePart>
           <titlePart type="sub">TOME PREMIER</titlePart>
         </docTitle>
-        <docAuthor>Allart de Méritens, Hortense (1801-1879)</docAuthor>
+        <docAuthor>Hortense Allart de Therase</docAuthor>
              </titlePage>
     
     <div>
@@ -99,7 +99,7 @@
     
     </front>
         <body>
-          <div><pb n="1" xml:id="p1"/> 
+          <div> 
           <head>Chapitre I</head>
           <p>Hedwige avait été frappée, comme son père et sa sœur, de la tristesse que Gertrude montrait depuis quelque temps. On observait en elle un grand changement.</p>
           <p>Hedwige voulut avoir le secret de sa cousine, et un matin où celle-ci était plus sérieuse qu’à l’ordinaire, elle l’emmena <pb n="2" xml:id="p2"/> pour faire une longue promenade dans le parc ; elle commença bientôt à la questionner avec son ton habituel, plein à la fois de charme, d’amitié et d’une sorte de flatterie, car le caractère d’Hedwige était adroit mais noble.</p>
