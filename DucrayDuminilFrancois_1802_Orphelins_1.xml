@@ -5,32 +5,99 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
-      <editionStmt/>
+      <titleStmt>
+        <title>Les Petits Orphelins du Hameau : tome 1</title>
+        <author key="Ducray-Duminil, François-Guillaume (1761-1819)">François-Guillaume Ducray-Duminil</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+        <editor>Maxime Perret</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Cette édition a été établie
+          dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche
+          (2015-2019).</edition>
+        <respStmt>
+          <name>Mathis Goddet</name>
+          <resp>Établissement du texte</resp>
+        </respStmt>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Claire Carpentier</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jean-Denis Spinel</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
+              « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités »
+              (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électronique comportera le nom de l’ANR Phœbus et surtout
+              l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette
+              ressource électronique, notamment en intégrant toutes les contributions extérieures,
+              la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno type="pdf">http://gallica.bnf.fr/ark:/12148/bpt6k6347527k</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>Les petits Orphelins du hameau : tome 1</title><author>par Monsieur François-Guillaume Ducray-Duminil</author>Paris, Ambroise Dupont et Cie, Libraires, Rue Vivienne, N. 16<date>1828</date></bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>Quelques problèmes d'OCRisation, le texte a été coupé.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1802">1802</date>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <titlePage> <docTitle>
+        <titlePart type="main">LES PETITS ORHELINS DU HAMEAU</titlePart>
+        <titlePart type="sub">TOME 1</titlePart> </docTitle>
+        <docAuthor>Ducray-Duminil, François-Guillaume (1761-1819)</docAuthor>
+      </titlePage>
+    </front>
     <body>
-      <p>Ducray-Duminil, François, <hi rend="i">Les Petits Orphelins du hameau</hi>, 2<hi rend="sup">e</hi> éd., Paris, Le Prieur, 1802, t. 1/4.</p>
-      <head>Les Petits Orphelins du hameau</head>
-      <label>AVIS</label>
-      <p>Nous, soussignés, déclarons que les ouvrages du Cit. DUCRAY-DUMINIL : savoir Lolotte et Fanfan, 4 vol. in-18, fig. Alexis ou la Maisonnette dans les Bois, 4 vol. in-18, fig. Petit Jacques et Georgette, ou les petits Montagnards, 4 vol. in 18, fig. Codicile Sentimental, 2 vol. in-18, fig. Les Soirées de la Chaumière, ou les Leçons du vieux Père, 8 vol. in-18, fig. Victor ou l’Enfant de la Forêt, 4 v. in-18, fig. Cœlina ou l’Enfant du Mystère, 6 vol. ; in-18, fig. Les Cinquante francs de Jeannette, 2 vol. 1 in-18, fig. Les Contes de Famille, 6 vol. in-18, fig. Paul ou la Ferme abandonnée, 4 v. in-12, fig., Ne se trouvent, avoués par l’Auteur, quai chez LE PRIEUR, Libraire, rue Saint Jacques, qui en est le seul propriétaire ; que toute autre édition serait une contrefaçon, et que nous poursuivrons les contrefacteurs devant les Tribunaux. DUCRAY-DUMINIL. LE PRIEUR.</p>
+        <head>Les Petits Orphelins du hameau</head>
+      <div>  
       <epigraph>
         <p>Oh, sauvez-nous, secourez-nous ?
 <lb/>Enfans si doux si timides si bons qu’avez-vous donc fait aux hommes !</p>
-      </epigraph>
-      <div>
-        <head><pb n="5" xml:id="p5"/> Chapitre premier</head>
+      </epigraph></div>
+      <div><pb n="5" xml:id="p5"/>
+        <head> Chapitre premier</head>
         <argument>
           <p>Annales du Hameau</p>
         </argument>
@@ -90,8 +157,8 @@
         <p>À la fin, l’un des deux s’écrie en sanglottant : Nous sommes sans asyle, sans parens, sans amis, et nous venons de perdre notre mère ! – Votre mère n’est plus ? – Elle est tombée là-bas, sur la route, morte ! morte ! à nos côtés. – Ciel ! et vous avez abandonné son corps inanimé ? – Oui, pour venir nous jeter aux pieds de quelque homme sensible, pour le prier de nous sauver du désespoir ; car j’allais mourir sur le corps de notre pauvre mère : c’est mon frère qui ne l’a pas voulu. – Ton frère avait raison. Ta mère se nomme ? – Laurence ; voilà le seul nom que nous lui sachions. – Et ton père ? – Nous ne l’avons jamais connu. – Jamais ! Vous, l’on vous appelle ? – Moi, Achille, et mon frère, Bénédit. Nous sommes jumeaux : je ne sais pas trop ce que veux dire ce mot ; mais on nous a appris que nous étions jumeaux. – Jumeaux ! pauvres enfans ! Mais ce corps, sur cette route ! est-ce bien loin <pb n="49" xml:id="p49"/> d’ici ? -O mon Dieu, non ; là-bas. Elle expirait au moment même où, la nuit venant obscursir les objets, nous avons vu de loin allumer beaucoup de flambeaux. Nous avons présumé que ce lieu était habité, et nous sommes venus y implorer la pitié des hommes sensibles, s’il y en a ici ; car notre mère nous a dit souvent qu’on n’en trouvait plus sur la terre. – Il y en a encore, oh, oui, encore, mes bons enfans ; et vous allez l’éprouver, si tout ce que vous m’avez dit est vrai. – Vrai, vrai ! oh, très vrai ! j’en atteste Dieu qui nous écoute ! – Vous n’avez point d’asyle ? – Point d’asyle. – – Point de parens ? – Point de parens, ni d’amis ! – Mais d’où venait votre mère ? – D’une grande ville, bien éloignée. – Où vous conduisait-elle ? – Elle ne nous l’a pas dit : elle pleurait tant ! elle souffrait tant ! Mes enfans, nous disait-elle tout le long du chemin, vous n’avez plus que moi sur la terre, et vous allez me perdre ! je sens <pb n="50" xml:id="p50"/> que vous allez me perdre ! Oh ! qu’est-ce que vous deviendrez, pauvres petites créatures ! Maman pleurait ; nous tâchions, mon frère et moi, de la consoler par nos caresses ; mais, hélas ! elle est tombée nous voulions la porter nous n’étions pas assez forts ; et puis elle est morte ! ô mon Dieu !</p>
         <p>Les deux enfans font retentir de nouveau les airs de leurs gémissemens. Tout le monde verse des larmes autour d’eux ; leurs malheurs, la faiblesse de leur âge (ils paraissaient avoir huit à neuf ans), la candeur, l’ingénuité de leurs discours, leurs petites figures jolies et intéressantes, tout excitait la compassion et la sensibilité. On ne pensait plus à danser ; tous les habitans du hameau étaient pénétrés, debout autour d’eux, et leur éloge volait de bouche en bouche.</p>
       </div>
-      <div>
-        <head><pb n="51" xml:id="p51"/> Chapitre III</head>
+      <div><pb n="51" xml:id="p51"/>
+        <head> Chapitre III</head>
         <argument>
           <p>Joie et tristesse.</p>
         </argument>
@@ -259,8 +326,8 @@
         <p>Tous cinq revinrent au presbytère, où bientôt Gervais et père Simon prirent congé du curé et des orphelins. Ce fut une grande douleur pour ces bons <pb n="187" xml:id="p187"/> enfans, que de se séparer de leurs vieux amis : il y eut quelques larmes de répandues, et l’on ne se quitta qu’en se promettant réciproquement de se revoir bientôt. Le reste de la journée fut consacré, par nos orphelins, à l’office divin, à des exercices de piété, et ils ne se livrèrent au repos qu’après s’être raffermis dans leur projet de ne pas dire encore en quel lieu ils avaient caché leur précieux dépôt. Cependant Achille rêva, toute la nuit, des ruines du village des Blaves, et sur-tout de celles du château de Castelli, des sombres galeries et de l’antique chapelle dont ils avaient osé, la veille, s’approcher pour la première fois. À son réveil, Achille proposa à son frère d’y aller promener, et d’examiner tout cela plus en détail. Bénédit approuva ce désir qu’il partageait ; mais comme c’était fête ce jour-là, et qu’ils avaient beaucoup d’occupations à l’église, les deux frères remirent cette promenade au lendemain matin. Pour le <pb n="188" xml:id="p188"/> moment, ils se vêtirent de leurs petites aubes de sacristains, et ils se rendirent à l’église, où il y avait déjà beaucoup de fidèles qui accouraient de tous les environs pour adorer la châsse de sainte Ildégonde. L’abbé Durand avait obtenu de ses supérieurs ecclésiastiques cette châsse, qui renfermait je ne sais quels ossemens d’une sainte à laquelle on avait donné un nom singulier, pour piquer la curiosité, pour exciter la dévotion. Sainte Ildégonde faisait, disait-on, des prodiges, des miracles pour les maux d’yeux, et c’était à qui viendrait frotter à ses reliques un taffetas vert, qui, mis ensuite sur les yeux, devait fortifier la vue, et proscrire l’usage des lunettes. Bien entendu qu’au pied de la châsse on avait mis une bassine de cuivre pour recevoir les aumônes ; et, nonobstant cela, les deux enfans devaient colporter toute la journée chacun un petit tronc, et demander à tous les assistans : Pour sainte Ildégonde, s’il vous plaît. <pb n="189" xml:id="p189"/> C’est ainsi que, comme un autre, l’abbé Durand tirait parti des idées superstitieuses, pour accroître le modique revenu de sa pauvre cure. C’était un jour de recette pour lui, et il ne l’aurait pas donné pour ce qu’on appelait les quatre nataux.</p>
         <p>L’abbé Durand, levé de bonne heure vit avec plaisir que ses jeunes élèves suivaient déjà les instructions qu’il leur avait données la veille. Il apprit qu’ils étaient à l’église, et il s’y rendit pour commencer le service divin, qui devait être long. Le bedeau avait tendu de vieilles tapisseries autour du chœur ; la citasse était éclairée par deux cierges, et déjà il entrait une foule considérable, qui, s’agenouillant, priait et ne se retirait qu’après avoir laissé son offrande dans la bassine de sainte Ildégonde. Voyons, dans le chapitre suivant, si tout le monde apportait à cette solemnité un cœur vraiment fidèle et pur.</p>
       </div>
-      <div>
-        <head><pb n="190" xml:id="p190"/> Chapitre X</head>
+      <div><pb n="190" xml:id="p190"/>
+        <head> Chapitre X</head>
         <argument>
           <p>Première attaque portée à l’enfance.</p>
         </argument>
@@ -305,8 +372,8 @@
         <p>Elle dit, et soudain retirant à elle le fil qui tient la pierre, Gervais la voit, ainsi que le paquet de lettres, s’enlever vers le château, et disparaître à ses regards. Gervais, désolé de ce contre-tems, adresse quelques plaintes à la prisonnière, qui ne lui répond plus, et s’est retirée apparemment dans l’intérieur de la tour. <pb n="229" xml:id="p229"/></p>
         <p>Gervais attend toujours son vieux villageois ; il ne vient point : l’aurore commence à paraître : il n’est pas prudent qu’il attende le jour à cette place ; il faut qu’il se retire, qu’il fuie même cet asyle de douleur, et il est écrit qu’il ne saura rien. Après avoir long -tems combattu entre le désir de rester et la nécessité de fuir, Gervais prend ce dernier parti. Il s’éloigne de Morange, après avoir adopté tour-à-tour et rejeté mille moyens dangereux de se présenter au château. Au point du jour, il est déjà entré dans la ville d’Aix, où tous les habitans commencent à s’agiter. Il ne s’y arrête pas ; et remontant sur sa mule, il se rend, sans débrider, à Olival, où il arrive encore tout ému de la dangereuse aventure qu’il a courue.</p>
       </div>
-      <div>
-        <head><pb n="230" xml:id="p230"/> Chapitre XII</head>
+      <div><pb n="230" xml:id="p230"/>
+        <head> Chapitre XII</head>
         <argument>
           <p>Pauvres enfans ! où vont-ils !</p>
         </argument>

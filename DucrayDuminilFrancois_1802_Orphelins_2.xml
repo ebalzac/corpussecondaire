@@ -63,10 +63,10 @@
               la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
           </licence>
         </availability>
-        <idno type="pdf">http://gallica.bnf.fr/ark:/12148/bpt6k63458611</idno>
+        <idno type="pdf">http://gallica.bnf.fr/ark:/12148/bpt6k6345999t</idno>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Les petits Orphelins du hameau : tome 3</title><author>par Monsieur François-Guillaume Ducray-Duminil</author>Paris, Ambroise Dupont et Cie, Libraires, Rue Vivienne, N. 16<date>1828</date></bibl>
+        <bibl><title>Les petits Orphelins du hameau : tome 2</title><author>par Monsieur François-Guillaume Ducray-Duminil</author>Paris, Ambroise Dupont et Cie, Libraires, Rue Vivienne, N. 16<date>1828</date></bibl>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -79,28 +79,20 @@
       <langUsage>
         <language ident="fre"/>
       </langUsage>
-      <abstract>
-          <p>Résumé du document</p>
-         </abstract>
     </profileDesc>
   </teiHeader>
   <text>
     <front>
       <titlePage> <docTitle>
         <titlePart type="main">LES PETITS ORHELINS DU HAMEAU</titlePart>
-        <titlePart type="sub">TOME 3</titlePart> </docTitle>
+        <titlePart type="sub">TOME 2</titlePart> </docTitle>
         <docAuthor>Ducray-Duminil, François-Guillaume (1761-1819)</docAuthor>
       </titlePage>
-    </front
-  <text>
-    <front>
-      
     </front>
-    <body>
-      <p>Ducray-Duminil, François, <hi rend="i">Les Petits Orphelins du hameau</hi>, 2<hi rend="sup">e</hi> éd., Paris, Le Prieur, 1802, t. 2/4.</p>
+    <body>   
       <head>Les Petits Orphelins du hameau</head>
-      <div>
-        <head><pb n="5" xml:id="p5"/> Chapitre premier</head>
+      <div><pb n="5" xml:id="p5"/>
+        <head> Chapitre premier</head>
         <argument>
           <p>Encore un vieux Château.</p>
         </argument>
@@ -317,16 +309,14 @@
         <p>La châtelaine les fixe d’un œil courroucé, et passe dans une autre pièce : les enfans libres s’empressent de descendre dans la cour pour voir si le domestique allemand est revenu. Frank est là en effet ; ils l’apperçoivent ; mais cet homme prudent feint de ne pas les soir et s’éloigne même. Achille est disposé déjà à se livrer à sa méfiance : Bénédit le prend par la main, et l’emmène au jardin, du côté de l’hermitage <pb n="90" xml:id="p90"/> eu ils ont été le matin ils n’y sont à long-tems sans voir arriver Frank avec ses précautions ordinaires. Ils l’interrogent par signes sur sa commission, bien persuadés que s’il l’a remplie avec fidélité, il a attendu en vain l’homme imaginaire et vêtu de gris qu’ils lui ont indiqué au huitième arbre de tavaut., lis – restent bien étonnés quand Franck leur fait signe qu’il a trouvé la châtelaine et qu’il lui a remis la lettre des enfans. Bénédit regarde Achille, Achille fixe Bénédit : ils ne peuvent revenir de leur surprise. Comment ! une commission donnée en l’air, pour éprouver Franck pour voir s’il aura eu la patience d’attendre et de rapporter le billet insignifiant qu’ils lui ont confié, cette commune mission a réussi ! un homme vêtu ! gris s’est trouvé là exprès pour prendre ce billet ! Qu’est – ce que cela veut-il dire ?</p>
         <p>Frank leur remet un papier : il est écrit au crayon, Bénédit y lit :</p>
         <p><pb n="91" xml:id="p91"/> « Votre agent fidèle, mes enfans, m’a remis votre billet ; mais il ne m’apprend rien. Je ne comprends pas comment vous avez pu deviner que j’étais à Morange, et justement dans l’avenue où vous avez envoyé. Je suis la cause du malheur d’un honnête cultivateur qui m’a logé cette nuit, et c’est un regret bien vif pour moi ! Je ne veux plus exposer personne à souffrir pour nous. Je reviendrai demain matin dans la même avenue, à la même place, et j’aurai tout ce qu’il faudra pour vous en écrire davantage ».</p>
-        <argument>
           <p>MARTIN-GERVAIS DESBORDES.</p>
-        </argument>
         <p>Les enfans sautèrent de joie de savoir leur ami si près d’eux, et de voir que le plus grand hasard leur procurait de ses nouvelles. Ils ne doutèrent pas que Gervais, inquiet, n’eût soupçonné leur ennemie de les avoir enlevés, et ne lût venu errer près du château, au moment où Frank y cherchait un personnage <pb n="92" xml:id="p92"/> imaginaire. Ils virent clairement que ce bon Frank leur était sincèrement dévoué, et ils le serrèrent dans leurs jeune : bras, en l’inondant des larmes de la reconnaissance. Quel malheur que ce brave homme ne pût pas s’exprimer ni de vive voix, ni par écrit ! car i ne savait écrire que l’allemand, et personne que Roland, dans le château n’entendait cette langue. Frank leur A entendre par signes qu’il sacrifierait s ; vie pour les servir : quant aux motif de ce tendre intérêt, il ne pouvait le développer ; mais il faisait sentir e mettant la main sur son cœur, qu’il en avait de puissans. Peut-être les connaîtrons-nous par la suite ; pour le m ment, profitons de sa bienveillance pour nos jeunes héros, et voyons ce qu’elle leur vaudra.</p>
         <p>Bénédit fait comprendre à Frank qu’il a besoin de lui demain matin, aussitôt le lever du soleil, et que tous trois se réuniront à la même place, près des <pb n="93" xml:id="p93"/> l’hermitage. Cependant Achille objecte que leurs imprudences de la nuit dernière pourraient bien engager Roland à les enfermer le soir, ce qui les forcerait d’attendre, le matin, qu’on vînt les délivrer, et si l’on y venait tard, Ils manqueraient l’occasion de correspondre avec Gervais. Bénédit. fit entendre ce sujet d’embarras au bon Frank, en lui faisant de la main le mouvement d’une clef qui ferme une porte et des verroux quand les gens sont couchés et endormis. Frank, qui saisit le sens de ce geste, fit soudain le même mouvement, mais en sens contraire, pour leur faire comprendre que, si cela arrivait, il viendrait lui-même ouvrir leur porte. Il leur montra même une clef qu’il portait toujours sur lui, et qui avait l’air d’un passe-par-tout. Quand ils furent convenus tacitement de tous leurs faits, Frank leur remit du papier, son j écritoire, les embrassa de nouveau, et se retira. <pb n="94" xml:id="p94"/></p>
         <p>La nuit commençait à obscurcir les objets. Déjà la cloche lugubre du château sonnait le couvre-feu, et appelait à leurs différens postes les satellites de la châtelaine. Il fallait rentrer : nos enfans s’y décidèrent, non sans un serrement de cœur ; car, la nuit, le séjour du château était pour eux une véritable prison, un lieu sinistre où ils avaient peut-être encore de nouvelles aventures à courir : ils rentrèrent donc.</p>
         <p>Ce soir-là, ils ne virent point madame. Fabre, leur domestique, leur servit un excellent souper, qu’ils dévorèrent ; puis, sans leur permettre d’assister à la garde montante qui avait lieu à neuf heures ; et que nos enfans brûlaient de voir manœuvrer, Fabre les conduisit dans leur appartement de la veille, ce qui les flatta beaucoup ; car ils craignaient bien qu’on ne les changeât de logement. Mais, madame, disait Fabre, ne voulait pas qu’on les déplaçât sans cesse ; elle craignait que cela ne nuisît <pb n="95" xml:id="p95"/> leur santé ; et d’ailleurs, madame espérait que, mûris par l’expérience, fils seraient plus prudens, et surtout moins peureux. Madame avait même ordonné qu’on ne fermât point à double tour, sur eux, la porte de leur chambre, qui communiquait à la bibliothèque. Tant d’égards, tant de complaisance de la part de leur ennemie leur firent plaisir : ils sentirent bien qu’elle avait ses raisons pour agir avec une douceur dont telle se flattait que l’excès les amènerait à son but. Ils se décidèrent toujours à une pas céder à cet excès de bonté ; mais ils en profitèrent : en conséquence, Fabre leur souhaita le bon soir, et se retira, après avoir fait rouler sur leurs gonds les énormes portes qui fermaient toute communication avec les escaliers et les autres appartemens du château.</p>
       </div>
-      <div>
-        <head><pb n="96" xml:id="p96"/> Chapitre VI</head>
+      <div><pb n="96" xml:id="p96"/>
+        <head> Chapitre VI</head>
         <argument>
           <p>Une seconde nuit orageuse.</p>
         </argument>
@@ -450,8 +440,8 @@
         <p>D’heure en heure ils entendaient relever les sentinelles, et cette précaution les faisait frémir, dans la crainte qu’on ne vînt les chercher pour le fusiller comme on avait fait à ces trois malheureux soldats. Le tableau de leur mort cruelle fut toute la nuit devant les yeux des deux frères, et le jour les surprit noyés dans les larmes.</p>
         <p>Le soleil commençait à peine sa carrière, lorsqu’ils virent entrer, qui ? leur ami Frank, qui ferma la porte sur lui, et leur fit signe de parler très-bas pour ne pas être entendus des sentinelles. Il s’assit, tira son dictionnaire de sa poche, prit une plume, de l’encre, du papier, et il s’engagea, entre lui et nos enfans, la conversation suivante :</p>
       </div>
-      <div>
-        <head><pb n="169" xml:id="p169"/> Chapitre X</head>
+      <div><pb n="169" xml:id="p169"/>
+        <head> Chapitre X</head>
         <argument>
           <p>Nouvelles persécutions.</p>
         </argument>
