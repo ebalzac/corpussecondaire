@@ -5,31 +5,98 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
-      <editionStmt/>
+      <titleStmt>
+        <title>Jules, ou le toit paternel : tome premier</title>
+        <author key="Ducray-Duminil, François-Guillaume (1761-1819)">François-Guillaume Ducray-Duminil</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+        <editor>Maxime Perret</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Cette édition a été établie
+          dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche
+          (2015-2019).</edition>
+        <respStmt>
+          <name>Élise Delannoy</name>
+          <resp>Établissement du texte</resp>
+        </respStmt>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Élise Delannoy</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jean-Denis Spinel</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
+              « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités »
+              (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électronique comportera le nom de l’ANR Phœbus et surtout
+              l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette
+              ressource électronique, notamment en intégrant toutes les contributions extérieures,
+              la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno type="pdf">http://catalogue.bnf.fr/ark:/12148/cb30366504b</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>Jules, ou le toit paternel : tome premier</title><author>par François-Guillaume Ducray-Duminil</author>Paris, Dentu, Libraire, Quai des Augustins, N. 17<date>1806</date></bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>L'océrisation de ce fichier a fourni une transcription satisfaisante.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1838">1806</date>
+      </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">JULES, OU LE TOIT PATERNEL</titlePart>
+          <titlePart type="sub">TOME PREMIER</titlePart>
+        </docTitle>
+        <docAuthor>Ducray-Duminil, François-Guillaume (1761-1819)</docAuthor>
+        <epigraph>
+          <p>Quel est cet asile champêtre, au fond de ce vallon, près de ce ruisseau limpide ?… Ciel, je le reconnais, c’est la maison de mon père…</p>
+        </epigraph>
+      </titlePage>
+    </front>
     <body>
-      <p rend="noindent">Ducray-Duminil, François-Guillaume, <hi rend="i">Jules ou le toit parternel</hi>, Paris, Dentu, 1806, Tome 1/4.</p>
-      <epigraph>
-        <p>Quel est cet asile champêtre, au fond de ce vallon, près de ce ruisseau limpide ?… Ciel, je le reconnais, c’est la maison de mon père…</p>
-      </epigraph>
-      <head>Jules, ou le toit paternel</head>
-      <div>
-        <head>Tome premier</head>
-        <div>
-          <head><pb n="1" xml:id="p1"/> I</head>
+      <div><pb n="1" xml:id="p1"/>
+          <head>I</head>
           <epigraph>
             <p>Il arrive enfin cet âge où l’on secoue la poussière des études pour devenir le premier ami de son père.</p>
           </epigraph>
@@ -48,9 +115,9 @@
           <p>Entre Vienne et Auberive, Asselino lui fit remarquer, de l’autre côté de la rivière, le fameux coteau qui donne le vin de Côte-Rotie. À dix-sept lieues plus loin, ils admirèrent de même la montagne <pb n="21" xml:id="p21"/> de l’Hermitage, d’où vient le vin de ce nom. Ils ne s’arrêtèrent qu’à des remarques de ce genre. Asselino, qui avait beaucoup voyagé, qui d’ailleurs était doué de quelque instruction, rappelait à son jeune ami, sur les villes, les sites, les provinces, des souvenirs historiques que Jules saisissait à merveilles ; et le bon Asselino vit avec plaisir que le fils de M. Berny avait fait de très-bonnes études, qu’il avait des connaissances assez étendues pour son âge, qu’il possédait enfin de l’esprit, de la gaîté, de l’érudition, et du piquant dans ses réponses ou dans ses saillies.</p>
           <p>Ce fut ainsi qu’en entrant dans la Provence, Jules, excité par le désir de faire briller sa science, s’écria du ton d’un inspiré : Je te salue, <pb n="22" xml:id="p22"/> ô contrée qui dus ta première célébrité aux phocéens, aux phocéens qui fondèrent Marseille et civilisèrent les habitans de cette belle partie de l’Europe – C’est que, tu ne sais pas, Asselino, sous l’empire des romains, la Provence acquit encore un nouveau degré de splendeur, et cette partie de la Gaule… – Fort bien, interrompit le bon serviteur ; ce que vous dites, ce que vous allez dire est trop savant pour moi. Je n’en sais pas si long ; et à mon âge, tout cela troublerait ma pauvre cervelle, plutôt que de s’y loger commodément comme dans la vôtre, par exemple. – Écoute donc, Asselino, c’est mon pays, la Provence ; je l’ai bien étudié, vas : si je ne savais pas l’histoire de mon pays ! oh ! mon père me ferait de <pb n="23" xml:id="p23"/> jolis reproches ; et il aurait raison.</p>
           <p>Asselino néanmoins était enchanté de ce que son jeune maître savait mêler, à beaucoup d’enfantillage sans doute, de l’instruction, du goût, du jugement, et le désir de mériter l’estime autant que la tendresse de ses parens. Asselino se faisait une fête de présenter un enfant aussi intéressant à M. et à Mme Berny ; et ce bonheur arriva enfin, car, après six jours de route vers le soir, le soleil n’éclairant plus qu’à peine le sommet des montagnes, Jules aperçut, dans une belle plaine, une maison de campagne d’un aspect ravissant, et Asselino lui dit : Mon ami, voilà le toit paternel !…</p>
-        </div>
-        <div>
-          <head><pb n="24" xml:id="p24"/> II</head>
+        
+        <div><pb n="24" xml:id="p24"/> 
+          <head>II</head>
           <epigraph>
             <p>Conçoit-on le bonheur du père de famille qui retrouve un homme dans l’enfant éloigné de son sein depuis huit années !… Un moment ? pourquoi le nuage de l’inquiétude vient-il obscurcir un jour aussi serein !…</p>
           </epigraph>
@@ -90,8 +157,8 @@
           <p>Madame Berny, douce, confiante, rassura son mari, lui persuada qu’il n’y avait rien à redouter d’un pareil avis, et M. Berny ne s’en proposa pas moins un plan de conduite pour élever son fils en <pb n="54" xml:id="p54"/> homme probe et délicat, plan de conduite qu’il soumit à l’adoption de sa femme, qu’elle adopta, et dont nous verrons bientôt les effets.</p>
           <p>Cette conversation entre deux tendres époux fut longue. Ils revinrent ensuite se joindre à leurs enfans, et ils satisfirent avec de légers détours la curiosité de Jules qui s’était alarmé de l’altération qu’il avait remarquée dans les traits de son père.</p>
         </div>
-        <div>
-          <head><pb n="55" xml:id="p55"/> III</head>
+        <div><pb n="55" xml:id="p55"/> 
+          <head>III</head>
           <epigraph>
             <p>Ne nous écartons jamais, avec et devant l’enfance, de ces principes, de cette tenue, de ces formes respectables qui tiennent à l’âge mûr, à l’état, au degré d’élévation de supérieurs dignes d’estime ; car nos enfans ne remarquent que trop nos ridicules. Ils deviennent des hommes, et finissent par nous juger, avec plus de sévérité souvent que des étrangers.</p>
           </epigraph>
@@ -131,8 +198,8 @@
           <p>« Et puis je travaille dans le cabinet de mon père, avec lui ou seul. Nous traduisons des auteurs ; car mon père m’apprend l’anglais et l’italien, deux langues que j’aime à la folie. Nous faisons des remarques sur l’histoire, sur la morale ou bien nous nous amusons à des expériences de physique. Nous avons tous les instrumens nécessaires pour cela. Tu sens bien que, depuis huit jours, je n’ai pas encore pu faire beaucoup de choses ; mais tels sont nos projets pour l’avenir. <pb n="85" xml:id="p85"/> Mon père m’a averti qu’il ne me quitterait pas d’une minute. Il veut que je sois son meilleur ami. Oh ! Amédée, qu’il me sera doux d’obéir à un pareil ordre !… Quand je pense à sa bonté, à celle de ma mère, des larmes d’attendrissement coulent de mes yeux. Elles baignent ce papier… en voilà deux ou trois qui tombent sur cette lettre… elle est déjà trop longue… Je la termine, Amédée, en te disant que je t’aime toujours et pour la vie. »</p>
           <p>Jules Berny.</p>
         </div>
-        <div>
-          <head><pb n="86" xml:id="p86"/> IV</head>
+        <div><pb n="86" xml:id="p86"/> 
+          <head>IV</head>
           <epigraph>
             <p>Entré par hasard dans ce champ funèbre, je m’étais assis sur cette pierre sépulcrale, et je me disais : Consolons, soulageons nos semblables ; soyons bons et vertueux, car bientôt, couchés pour jamais sous ce sol, il ne nous sera plus possible de faire le bien !</p>
           </epigraph>
@@ -159,8 +226,8 @@
           <p>Le vieillard s’éloigne à la hâte ; et laisse Jules pétrifié d’une prédiction à laquelle il ne comprend rien. Asselino en paraît aussi fort étonné. Que veut donc dire ce respectable vieillard, lui demande Jules ? – Mon ami, vous m’en voyez tout aussi surpris que vous. Je ne conçois rien non plus, moi, à cette espèce d’oracle. Il est possible que Dieu accorde à la vieillesse sage et éclairée, le don de la divination, et que vous soyez appelé un jour à de hautes destinées… Au surplus , que cet homme soit un inspiré ou un extravagant, suivez toujours ses <pb n="112" xml:id="p112"/> avis, mon cher maître ; ils ne peuvent que vous mener dans la route du bonheur.</p>
           <p>Et nos deux voyageurs revinrent au Paradis, en s’entretenant de cette étrange aventure.</p>
         </div>
-        <div>
-          <head><pb n="113" xml:id="p113"/> V</head>
+        <div><pb n="113" xml:id="p113"/> 
+          <head>V</head>
           <epigraph>
             <p>Quelle obscurité règne dans certains événemens ; et qu’il est difficile à parcourir le chemin de la vie ! À mesure que nous y avançons, il nous est possible de voir, en nous retournant, la trace que nous y avons laissée ; mais, en face, un voile épais nous précède, nous cache les objets, et marche devant nous à chaque pas que nous faisons, jusqu’à ce qu’il tombe… devant la Mort, qui nous attend au bout de cette route pénible.</p>
           </epigraph>
@@ -191,8 +258,8 @@
           <p>Et ce cadeau, demande M. Berny à son fils, qu’est-ce que c’est ? – D’abord, quantité de livres ; puis un étui de mathématiques complet, des sphères, toutes sortes de belles choses. On a remis la caisse qui contient tout cela, ce matin, à Niquet le jardinier, pendant que nous étions tous à l’église. Je devinais bien, moi, que ce prétendu mendiant me connaissait !</p>
           <p>M. Berny se recueille, puis il dit : Je n’y comprends rien. C’est un mystère impénétrable. Nous étions tranquilles, nous étions heureux, et voilà qu’un brouillon, un <pb n="133" xml:id="p133"/> fou sans doute, vient semer sur notre carrière les doutes, les soucis, les sollicitudes. Quelle obscurité règne dans certains événemens ; et qu’il est difficile à parcourir le chemin de la vie ! À mesure que nous y avançons, il nous est possible de voir, en nous retournant, la trace que nous y avons laissée ; mais, en face, un voile épais nous précède, nous cache les objets, et marche devant nous, à chaque pas que nous faisons, jusqu’à ce qu’il tombe devant la Mort, qui nous attend au bout de cette route pénible. Mais allons visiter ce singulier présent qu’on fait à Jules, et interrogeons de nouveau Asselino. Il n’est pas possible que ce vieillard ne sache pas quelque chose des causes de cette aventure !</p>
         </div>
-        <div>
-          <head><pb n="134" xml:id="p134"/> VI</head>
+        <div><pb n="134" xml:id="p134"/> 
+          <head>VI</head>
           <epigraph>
             <p>Tout périt. La fleur de la jeunesse peut se faner et mourir avant que le front chauve du vieillard soit courbé dans la tombe… Eh, quel père de famille peut se flatter que ses enfans lui fermeront les yeux.</p>
           </epigraph>
@@ -220,8 +287,8 @@
           <p>Cette morale ne consola nullement madame d’Arancourt Elle ne voulut point voir Rose, dont l’aspect eût ajouté à ses regrets. M. et Mme Berny, Jules lui-même, essayèrent de calmer cette mère trop à plaindre. Elle refusa de rester au Paradis, quoiqu’on l’en pressât avec instances. L’infortunée retourna près du lit de sa fille chérie. Le soir, en effet, Eugénie n’existait plus !</p>
           <p>Quand on a le cœur de M. Berny et de sa famille, on est sensible aux malheurs de ses amis. Quelques jours furent employés en visites réciproques, en consolations, et la douleur des habitans du Paradis <pb n="152" xml:id="p152"/> fut un peu dissipée par plusieurs événemens, dont un sur-tout fit un très-grand plaisir à leurs ames bienfaisantes.</p>
         </div>
-        <div>
-          <head><pb n="153" xml:id="p153"/> VII</head>
+        <div><pb n="153" xml:id="p153"/> 
+          <head>VII</head>
           <epigraph>
             <p>Allez ; n’oubliez jamais votre serment. Aimez constamment celle qui vous jure de vous aimer toujours, et vous la retrouverez fidelle.</p>
           </epigraph>
@@ -257,8 +324,8 @@
           <p>La mère Andrée était une petite vieille toute sèche, toute rechignée, que le bonheur et le malheur affectaient fort peu. Elle prit bravement son parti ; son amour-propre fut même flatté de l’espoir que sa fille serait un jour une haute et puissante dame, et elle retourna à sa basse-cour.</p>
           <p>Quand elle fut partie, Jules fit ce petit raisonnement qui ne parut <pb n="176" xml:id="p176"/> pas du tout faux pour son âge : Je ne conçois pas, moi, mon papa, l’espèce de la tendresse maternelle de cette madame d’Arancourt. Elle adorait sa fille, et elle lui en substitue une autre à qui elle va donner le même nom, les mêmes droits. Quelque chose peut-il remplacer sur la terre l’enfant à qui on a donné le jour ! – Tu as raison, mon ami, lui répondit son père. La nature ne se laisse pas abuser à ce point, et, dans la tendresse que la marquise va prodiguer à Rose, tu verras qu’il y aura mille petites nuances, qui ne seront pas d’une mère, qui trahiront la protectrice. Je sens bien, moi, que rien ne saurait te remplacer dans mon cœur, si j’avais le malheur de te perdre. Je fuirais au contraire ceux dont les traits pourraient <pb n="177" xml:id="p177"/> me rappeler les tiens ; ils renouvelleraient trop mes vives douleurs!… mais tous les hommes ne voient pas de la même manière. Celle de madame d’Arancourt est comme cela ; il faut la lui laisser, l’en féliciter même, puisqu’elle va faire le bonheur d’une enfant à qui nous nous intéressions tous dans cette maison. Mais, par exemple, je ne sais plus ce que deviendra Jacques dans tout cela. – Oh, Jacques ! Jacques, mon papa ! j’ai bien peur’ qu’il tienne tout seul le serment auquel je l’ai si indiscrètement engagé de rester fidèle !</p>
         </div>
-        <div>
-          <head><pb n="178" xml:id="p178"/> VIII</head>
+        <div><pb n="178" xml:id="p178"/> 
+          <head>VIII</head>
           <epigraph>
             <p>C’est en vain que le méchant cherche à s’envelopper des ombres du mystère. Tout dans la nature tend à dévoiler ses odieux projets. Les vents portent ses paroles à l’écho fidèle qui les répète, ou le hasard peut amener près de lui un témoin invisible, inattendu ; et c’est alors, pour me servir d’une expression populaire, que les murs ont des oreilles !</p>
           </epigraph>
@@ -289,8 +356,8 @@
           <p>Elle donne au vieux serviteur les détails de la mauvaise nuit qu’elle vient de passer, et lui rapporte tout ce qu’elle a pu saisir de la conversation des deux amis. Asselino sourit de pitié : vous ne m’étonnez pas, lui dit-il, je le savais, je me doutais de tout cela. Je n’ignore pas qu’ils sont en garde contre moi ; mais leurs plus secrettes pensées me sont connues. Ah ! M. Adalbert, vous avez eu l’imprudence de confier votre secret à un homme… digne de vous sans doute !… et vous croyant seul avec lui, vous avez laissé échapper quelques parties du complot le plus infernal ! C’est en vain, mademoiselle <pb n="209" xml:id="p209"/> Prudence, oui, c’est en vain que le méchant cherche à s’envelopper des ombres du mystère. Tout dans la nature tend à dévoiler ses odieux projets. Les vents portent ses paroles à l’écho fidèle qui les répète, ou le hasard peut amener près de lui un témoin invisible ; inattendu ; et c’est alors pour me servir d’une expression populaire, que les murs ont des oreilles… Ils en avaient les murs de votre appartement, et j’en rends grace au ciel ; c’est une preuve sans doute que de loin, ce ciel équitable et juste daigne veiller sur l’innocence. – Mettez-moi donc au fait, M. Asselino ; contez-moi quels rapports… – Mademoiselle Prudence, vous aimez nos bons maîtres, leur cher fils? – Si je les aime ! je sacrifierais la <pb n="210" xml:id="p210"/> main que voilà pour leur bonheur ! – Eh bien, leur bonheur à tous dépend du silence que vous et moi nous devons garder sur cet événement. – Quoi ! il faut… – Vous taire ; oui, me jurer même sur l’honneur que vous ne parlerez de cela à monsieur, à madame Berny, ni à Jules, que lorsque je jugerai à propos qu’ils en soient instruits ! – Cependant… – Vous m’estimez, mademoiselle Prudence ; vous me jugez comme un honnête homme, n’est-ce pas, dévoué à ses maîtres ? – Autant que moi. – Vous devez donc penser que ce n’est que pour leur bien que je vous demande un serment que vous ne pouvez pas me refuser. – Je vous obéis aveuglément, M. Asselino, et je vous jure de me taire tant que <pb n="211" xml:id="p211"/> vous l’exigerez ; mais aussitôt que vous me permettrez de parler, oh, je dirai tout d’abord, je me vengerai de la nuit d’enfer que ces deux méchans hommes m’ont fait passer pour entendre leurs vilains projets.</p>
           <p>Asselino savait que mademoiselle Prudence, qui avait du caractère, tiendrait sa parole. Cette certitude le rassura, et il se promit de surveiller plus que jamais des perfides dont il connaissait les vues, et que malheureusement il lui était impossible de démasquer. C’est ce que prouvera la suite de cette histoire.</p>
         </div>
-        <div>
-          <head><pb n="212" xml:id="p212"/> IX</head>
+        <div><pb n="212" xml:id="p212"/> 
+          <head>IX</head>
           <epigraph>
             <p>Je les entends encore, et toujours avec effroi, ces mots cruels du plus injuste des pères. « Fuis, fils indigne de moi, fuis à jamais ma présence… je te donne ma malédiction, entends-tu que je te maudis !… » Ô Jules ! quel poids affreux sur ma tête !</p>
           </epigraph>
@@ -323,8 +390,8 @@
           <p>« Adalbert, avec sa petite fortune, que je ne lui enviai jamais alla s’établir à Paris. Le père Augely nous tint quelque tems compagnie ; mais appelé auprès d’un frère, dans une autre province, il nous quitta, et nous vécûmes, bornant nos vœux à l’héritage de ma femme, ainsi qu’à ma faible légitime. Je n’ai pas besoin de te <pb n="244" xml:id="p244"/> dire qu’après la mort de mon père nous prîmes avec nous ce bon Asselino qui avait en vain cherché à nous rendre auprès de lui les plus grands services. Par un oubli difficile à exprimer, M. Evrard n’avait rien laissé, à ce bon serviteur ; il trouve chez nous une retraite assurée, et qu’il mérite bien par son attachement et sa fidélité ! »</p>
           <p>Ainsi parla M. Berny. Jules fit mille réflexions, suivant son âge, sur la bizarrerie de tant d’évènemens ; puis, après avoir rendu leurs devoirs au tombeau d’Evrard, le père et le fils allèrent rejoindre, madame Berny qui, charmée de ce que son fils était au fait des secrets de sa famille, l’embrassa en lui recommandant <pb n="245" xml:id="p245"/> de mettre à profit les leçons de l’expérience, pour dédommager par un juste retour de tendresse, le bon père qu’il possédait, des malheurs qu’il avait essuyés.</p>
         </div>
-        <div>
-          <head><pb n="246" xml:id="p246"/> X</head>
+        <div><pb n="246" xml:id="p246"/> 
+          <head>X</head>
           <epigraph>
             <p>Deux états s’offrent à ton activité : jeune homme, défends ton pays contre ses ennemis ; ou, si tu le préfères, sois l’avocat de la veuve et de l’orphelin. Dans ces professions si honorables, on sert sa patrie ; mais, si l’une vous couvre de lauriers, l’autre appelle sur votre tête les bénédictions des infortunés. Eh, la gloire vaut-elle le bonheur d’être utile à ses semblables.</p>
           </epigraph>
@@ -338,8 +405,8 @@
           <p>Adalbert en effet écrit à M. Berny que l’intérêt qu’il prend à tout ce qui lui est cher, l’engage à réveiller <pb n="269" xml:id="p269"/> son zèle sur le compte de Jules. Il lui fait sentir qu’il est plus que tems que ce jeune homme choisisse un état ; il entre dans les détails de tous les avantages que procure le barreau ; il proteste de sa tendresse pour la famille de son père adoptif, et finit par demander Jules à Paris, où la quantité des amis qu’il a dans la magistrature doivent procurer bientôt un état solide et brillant au fils d’un frère que lui a donné l’amitié.</p>
           <p>Jules n’a vu qu’un moment Adalbert ; et, s’il en a été charmé, la correspondance qu’il a entretenue depuis par lettres avec lui, lui a donné pour cet ami de sa famille, un attachement inviolable ; Jules n’est pas éloigné d’accepter l’offre d’Adalbert ; seulement il <pb n="270" xml:id="p270"/> regrette de se séparer d’Aloyse Madame Berny, qui vient se mêler à cette conversation, approuve les raisons de son mari, appuie sur la nécessité du voyage de son fils, malgré l’extrême douleur qu’elle éprouvera de s’en voir privée : et tout décide Jules à suivre les intentions de ses parens… Il ne sait pas néanmoins comment il aura la force d’annoncer cette nouvelle à sa chère cousine. Madame Berny se charge de ce soin. Dans la même journée, Aloyse prévenue, imite la fermeté, la résignation de sa tante ; elle encourage de son côté le jeune homme dans ses nouvelles résolutions ; et, à la colation du soir, M. Berny annonce qu’il vient de faire partir une lettre pour Adalbert, <pb n="271" xml:id="p271"/> dans laquelle il le prévient qu’il lui confiera son fils sans inquiétude, et qu’il peut venir le chercher quand il lui plaira.</p>
         </div>
-        <div>
-          <head><pb n="272" xml:id="p272"/> XI</head>
+        <div><pb n="272" xml:id="p272"/> 
+          <head>XI</head>
           <epigraph>
             <p>Ah, quand on possède un cœur pur, un esprit juste, la fortune, les grandeurs peuvent bien éblouir l’esprit ; mais jamais, non jamais elles ne corrompent le cœur !</p>
           </epigraph>
