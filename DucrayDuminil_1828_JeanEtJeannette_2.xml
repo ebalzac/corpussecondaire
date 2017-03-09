@@ -63,7 +63,7 @@
               la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
           </licence>
         </availability>
-        <idno type="pdf">http://catalogue.bnf.fr/ark:/12148/cb303665019</idno>
+        <idno type="pdf">http://gallica.bnf.fr/ark:/12148/bpt6k5783798z</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><title>Jean et Jeannette, ou Les Petits Aventuriers parisiens II</title><author>par M. François-Guillaume Ducray-Duminil</author>Paris, Corbet Ainé, Libraire, Quai des Augustins, 59<date>1838</date></bibl>
@@ -116,7 +116,8 @@
       <div type="chapter">
           <head>Chapitre II<lb/>
             Où l’on verra que nos enfans ont du caractère</head>
-          <!--<argument>
+          <!-- Il est également possible d'utiliser la balise "argument", car, ici, nous nous trouvons avec un élément situé entre le titre et le mini-sommaire du chapitre :
+            <argument>
             <p>Où l’on verra que nos enfans ont du caractère.</p>
           </argument>-->
           <p>Ce frère, ainsi que son maître Déprévil, rentrèrent ce soir-là aussi tard que la veille, et Jean parut à Jeannette beaucoup plus content. Jeannette lui dit : Est-ce que tu reviens encore de cette vilaine maison de jeu d’hier ? – Oui, ma sœur ; mais cette fois, nous n’avons pas été si malheureux. Tiens, vois-tu cette bourse ? – Comment cette bourse ? est-ce qu’elle est à toi ? – À moi, à toi, à nous deux. <pb n="19" xml:id="p19"/> – Cette bourse ? – Eh ! oui ; elle contient douze écus de six francs. – Ah ! mon Dieu, quelle fortune ! Comment possèdes-tu tout cela ? – Tu vas le savoir :</p>
