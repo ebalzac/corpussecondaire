@@ -65,6 +65,8 @@
         </availability>
         <idno type="pdf">http://catalogue.bnf.fr/ark:/12148/cb30366504b</idno>
       </publicationStmt>
+     <!-- <notesStmt><note type="abstract"><p>On peut insérer le résumé ici, c'est validé par le schéma.</p></note></notesStmt>
+       -->
       <sourceDesc>
         <bibl><title>Jules, ou le toit paternel : tome premier</title><author>par François-Guillaume Ducray-Duminil</author>Paris, Dentu, Libraire, Quai des Augustins, N. 17<date>1806</date></bibl>
       </sourceDesc>
@@ -79,6 +81,7 @@
       <langUsage>
         <language ident="fre"/>
       </langUsage>
+   
     </profileDesc>
   </teiHeader>
   <text>

@@ -76,10 +76,11 @@
       <creation>
         <date when="1833">1833</date>
       </creation>
-      <langUsage>
+        <langUsage>
         <language ident="fre"/>
       </langUsage>
-    </profileDesc>
+        
+      </profileDesc>
   </teiHeader>
   <text>
     <front>
