@@ -5,26 +5,95 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
-      <editionStmt/>
+      <titleStmt>
+        <title>Victor ou l'enfant de la forêt</title>
+        <author key="Ducray-Duminil, François-Guillaume (1761-1819)">François-Guillaume Ducray-Duminil</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+        <editor>Maxime Perret</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Cette édition a été établie
+          dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche
+          (2015-2019).</edition>
+        <respStmt>
+          <name>Mathis Goddet</name>
+          <resp>Établissement du texte</resp>
+        </respStmt>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Claire Carpentier</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jean-Denis Spinel</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
+              « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités »
+              (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électronique comportera le nom de l’ANR Phœbus et surtout
+              l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette
+              ressource électronique, notamment en intégrant toutes les contributions extérieures,
+              la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno type="pdf">http://gallica.bnf.fr/ark:/12148/bpt6k49045x</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>Victor ou l'enfant de la forêt : tome 1</title><author>par Monsieur François-Guillaume Ducray-Duminil</author>Paris, Ambroise Dupont et Cie, Libraires, Rue Vivienne, N. 16<date>1798</date></bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>Quelques problèmes d'OCRisation, le texte a été coupé.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1798">1798</date>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <titlePage> <docTitle>
+        <titlePart type="main">Victor ou l'enfant de la forêt</titlePart>
+        <titlePart type="sub">TOME 1</titlePart> </docTitle>
+        <docAuthor>Ducray-Duminil, François-Guillaume (1761-1819)</docAuthor>
+      </titlePage>
+    </front>
     <body>
       <head>Victor, ou L’Enfant de la forêt</head>
-      <argument>
-        <p>AVIS.</p>
-      </argument>
+      <div>
+        <p>AVIS.</p></div>
+      <div>
       <p>Les Romances répandues dans cet Ouvrage, se trouvent, mises en musique, avec accompagnemens de harpe ou forte-piano, par le citoyen Ducray-Duminil, chez M. Imbault, Marchand éditeur de Musique, rue Saint-Honoré, au Mont-d’Or, près la Croix-du-Trahoir, qui a les Romances de Lolotte et Fanfan, Roman du même Auteur.</p>
       <p>Nous, soussignés, déclarons que les Ouvrages du citoyen DUCRAY-DUMINIL, savoir : Lolotte et Fanfan, Alexis ou la Maisonnette dans les Bois, Petit-Jacques et Georgette, le Codicile Sentimental, les Soirées de la Chaumière, et Victor ou l’Enfant de la Forêt, ne se trouvent, avoués par l’Auteur, que chez le citoyen le Prieur, Libraire, rue de Savoie, qui en est propriétaire ; que toute autre édition serait une contrefaçon, et que nous en poursuivrons les contrefacteurs pardevant les Tribunaux.</p>
       <p>DUCRAY-DUMINIL, LE PRIEUR.</p>
@@ -37,8 +106,8 @@
       <p>À PARIS, Chez LE PRIEUR, Libraire, rue de Savoie, nº. 12. AN V… – 1797.</p>
       <label>UN MOT AU LECTEUR.</label>
       <p>Prouver que la vertu est supérieure à tous les événemens ; qu’elle sait braver les coups du sort, et ceux de la méchanceté des hommes ; qu’elle est toujours grande, toujours sublime, même quand elle a le<anchor xml:id="_GoBack"/> malheur de succomber sous les efforts du vice, tel est le but moral que s’est prescrit l’Auteur. Si son Victor intéresse, s’il fournit quelques méditations, quelques rêveries touchantes au philosophe, à l’ami de l’humanité ; si son plan est senti enfin par ceux qui lisent avec attention, qui cherchent toujours le fruit sous les fleurs, il sera bien récompensé d’avoir entrepris cet Ouvrage, qu’on trouvera d’ailleurs bizarre, romanesque, extraordinaire, invraisemblable, tout ce que l’on voudra.</p>
-      <div>
-        <head><pb n="6" xml:id="p6"/> CHAPITRE PREMIER.</head>
+      <div><pb n="6" xml:id="p6"/>
+        <head> CHAPITRE PREMIER.</head>
         <argument>
           <p>LA VEUVE ET L’ORPHELIN.</p>
         </argument>
@@ -64,8 +133,8 @@
         <p><pb n="27" xml:id="p27"/> Victor était charmé de voir que la personne qu’il venait de secourir était digne de son estime. Il regardait avec délices cette femme vertueuse, qui faisait pour un enfant étranger ce que le baron avait fait pour lui ; il trouvait, dans la situation de l’inconnue, une sorte de rapprochement avec la sienne propre, et son âme jouissait….</p>
         <p>Cependant il pense que ces infortunés n’ont rien pris depuis douze heures. Personne n’est éveillé dans le château… Comment faire ? C’est Valentin qui va le tirer de cette sollicitude. Valentin, ce bon garçon que nous connaîtrons un peu mieux par la suite, a toujours en réserve chez lui une armoire remplie de petites provisions. Valentin apporte à l’inconnue de quoi rétablir un peu ses forces ; et comme il est trop honnête pour ne pas tenir compagnie à tout le monde et à toute heure, il boit un verre de vin, dont il faut convenir qu’il a un peu besoin…… Victor regarde avec plaisir ce <pb n="28" xml:id="p28"/> tableau touchant ; Victor oublie et son amour, et ses projets : tant il est vrai que le sentiment de l’humanité est le seul qui puisse remplir un cœur sensible sans douleur, sans serremens, sans toutes ces affections pénibles qui accompagnent toujours les passions !</p>
       </div>
-      <div>
-        <head><pb n="29" xml:id="p29"/> CHAPITRE II.</head>
+      <div><pb n="29" xml:id="p29"/>
+        <head> CHAPITRE II.</head>
         <argument>
           <p>LE SONGE ET L’HOSPITALITÉ.</p>
         </argument>
@@ -96,8 +165,8 @@
         <p>Chacun se retira ensuite pour vaquer à ses diverses occupations. Madame Wolf fut se reposer dans son appartement, et Clémence ne songea plus qu’à chercher le moment favorable de parler en particulier à son frère.</p>
         <p>Tous deux avaient les mêmes affections, les mêmes inquiétudes ; tous deux devaient se chercher, se plaindre, ou se consoler ensemble.</p>
       </div>
-      <div>
-        <head><pb n="47" xml:id="p47"/> CHAPITRE III.</head>
+      <div><pb n="47" xml:id="p47"/>
+        <head> CHAPITRE III.</head>
         <argument>
           <p>TRAIT DE LUMIÈRE.</p>
         </argument>
@@ -129,8 +198,8 @@
         <p>C’est le secret d’une autre, d’une autre, qui n’est plus à la vérité ; mais, en lui fermant les yeux, je lui ai promis de ne le révéler à personne, à personne ! Vous entendez, mon cher monsieur ? je l’ai déjà dit à votre aimable fils ; s’il faut, par mon indiscrétion, reconnaître vos bienfaits, j’y renonce, oui, j’y renonce : laissez-moi partir ; j’emporterai au moins le souvenir de vos vertus et… mon secret… – Femme cruelle !… vous voulez donc gémir et pleurer seule ? Je vous en avertis, je verrai couler vos larmes, et je ne les essuierai point. Vous ne savez pas, vous ne sentez pas ce que c’est qu’un ami ! vous vous en privez ; eh bien ! je ne vous en parlerai plus… Peut-être votre récit m’eût-il été nécessaire pour quelques explications dont j’ai besoin, relatives à ce Roger…. – Ah ! ne prononçons jamais son nom ! Oublions-le, <pb n="71" xml:id="p71"/> oublions les chagrins passés pour n’admirer que votre bienfaisance et les vertus aimables de votre famille ! – Madame Wolf, votre obstination m’a fait de la peine ; je me suis emporté un peu : je vous en demande pardon. Ne pensons plus à ce petit démêlé ? J’éviterai les occasions de le faire renaître, et j’attendrai, sans vous persécuter, que le temps, la confiance, l’amitié même, que je me flatte de vous inspirer par la suite, vous engagent à verser dans le sein d’un ami des peines qui, dès ce moment, s’allégeraient de moitié. Adieu, madame Wolf.</p>
         <p>Le vieillard lui tendit sa main, qu’elle couvrit de larmes et de baisers. Tous deux se séparèrent ; et Fritzierne fut rejoindre ses enfans, qui, en blâmant, comme lui, la résistance de madame Wolf, lui promirent de partager les égards qu’il voulait avoir dorénavant pour cette femme intéressante.</p>
       </div>
-      <div>
-        <head><pb n="72" xml:id="p72"/> CHAPITRE IV.</head>
+      <div><pb n="72" xml:id="p72"/>
+        <head> CHAPITRE IV.</head>
         <argument>
           <p>PROJETS MANQUÉS, SURCROÎT D’EMBARRAS.</p>
         </argument>
@@ -197,8 +266,8 @@
         <p>Valentin, qui se serait tenu volontiers <pb n="94" xml:id="p94"/> éveillé, s’il eût pu raconter quelques histoires de son pays, regarda son maître avec envie, se frotta les yeux, et ne tarda pas à suivre son exemple, à ronfler autant que le lui permirent sa jeunesse, sa force et sa santé. Tous deux oublièrent l’heure prescrite et favorable pour retirer le billet des mains du baron avant qu’il ait eu le temps de le lire. Ce ne fut qu’à neuf heures du matin que, confus, désespérés, Victor et Valentin se réveillèrent.</p>
         <p>Pendant leur sommeil, trop prolongé, il s’était passé bien des choses que nous allons connaître dans le chapitre suivant.</p>
       </div>
-      <div>
-        <head><pb n="95" xml:id="p95"/> CHAPITRE V.</head>
+      <div><pb n="95" xml:id="p95"/>
+        <head> CHAPITRE V.</head>
         <argument>
           <p>ON CROIT TOUCHER AU DÉNOUEMENT.</p>
         </argument>
@@ -242,8 +311,8 @@
         <p>« ROGER, chef des indépendans ».</p>
         <p>Qu’on juge de la surprise de Fritzierne et de Victor, à la lecture de ce terrible billet ! Ils restent quelques momens absorbés, sans pouvoir prononcer une parole. On leur demande de livrer à des bandits la femme la plus estimable, madame Wolf !… Nous verrons dans le chapitre suivant les réflexions qu’ils firent, et le parti auquel ils s’arrêtèrent.</p>
       </div>
-      <div>
-        <head><pb n="118" xml:id="p118"/> CHAPITRE VI.</head>
+      <div><pb n="118" xml:id="p118"/>
+        <head> CHAPITRE VI.</head>
         <argument>
           <p>INTRIGUE PLUS OBSCURE QUE JAMAIS.</p>
         </argument>
@@ -270,8 +339,8 @@
         <p>Madame Wolf qui causait tous ces embarras, en parut pénétrée de douleur.</p>
         <p>Clémence, que l’absence de son amant avait également affligée, s’occupa du soin de consoler son ami. Toute cette famille passa une soirée tranquille, et fut goûter sans trouble, un repos dont elle avait besoin après tant d’agitations.</p>
       </div>
-      <div>
-        <head><pb n="137" xml:id="p137"/> CHAPITRE VII.</head>
+      <div><pb n="137" xml:id="p137"/>
+        <head>> CHAPITRE VII.</head>
         <argument>
           <p>TACTIQUE, EXPOSITION.</p>
         </argument>
@@ -429,6 +498,6 @@
         <p>Amis de l’enfance, amis de l’infortune, venez vous attendrir à mes tableaux ; et vous ; ames froides, vous qui ne croyez pas à la fatalité, aux malheurs inévitables, dont le hasard fait souvent dépendre notre destinée ; vous qui ne savez pas que la vertu peut être <pb n="236" xml:id="p236"/> grande et sublime au milieu des persécutions qu’elle n’a pu s’attirer ni éviter, ne lisez point mon livre, ne lisez point sur-tout mon dernier volume, vous n’y verriez que les défauts d’un roman, tandis que le lecteur philanthrope et sensible y trouvera, j’ose le croire, l’histoire de l’homme et la morale des êtres malheureux.</p>
         <p>FIN DU TOME PREMIER.</p>
       </div>
-    </body>
+    </div></body>
   </text>
 </TEI>

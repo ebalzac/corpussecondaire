@@ -5,26 +5,94 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
-      <editionStmt/>
+      <titleStmt>
+        <title>Victor ou l'enfant de la forêt : tome 2</title>
+        <author key="Ducray-Duminil, François-Guillaume (1761-1819)">François-Guillaume Ducray-Duminil</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+        <editor>Maxime Perret</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Cette édition a été établie
+          dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche
+          (2015-2019).</edition>
+        <respStmt>
+          <name>Mathis Goddet</name>
+          <resp>Établissement du texte</resp>
+        </respStmt>
+        <respStmt>
+          <name>Maxime Perret</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Claire Carpentier</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+        <respStmt>
+          <name>Jean-Denis Spinel</name>
+          <resp>Informatique</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p> Copyright © 2016 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR
+              « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités »
+              (ci-après dénommé ANR Phœbus). </p>
+            <p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ». </p>
+            <p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électronique comportera le nom de l’ANR Phœbus et surtout
+              l’adresse Internet de la ressource. </p>
+            <p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite. </p>
+            <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette
+              ressource électronique, notamment en intégrant toutes les contributions extérieures,
+              la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno type="pdf">http://gallica.bnf.fr/ark:/12148/bpt6k56482q</idno>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>Victor ou l'enfant de la forêt : tome 2</title><author>par Monsieur François-Guillaume Ducray-Duminil</author>Paris, Ambroise Dupont et Cie, Libraires, Rue Vivienne, N. 16<date>1798</date></bibl>
+      </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <p>Quelques problèmes d'OCRisation, le texte a été coupé.</p>
+    </encodingDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1798">1798</date>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <titlePage> <docTitle>
+        <titlePart type="main">Victor ou l'enfant de la forêt</titlePart>
+        <titlePart type="sub">TOME 2</titlePart> </docTitle>
+        <docAuthor>Ducray-Duminil, François-Guillaume (1761-1819)</docAuthor>
+      </titlePage>
+    </front>
     <body>
       <head>Victor, ou L’Enfant de la forêt</head>
-      <label>TOME SECOND.</label>
-      <div>
-        <head><pb n="5" xml:id="p5"/> CHAPITRE PREMIER. COMBATS ; LE NOUVEL OEDIPE.</head>
+      <div><pb n="5" xml:id="p5"/>
+        <head> CHAPITRE PREMIER. COMBATS ; LE NOUVEL OEDIPE.</head>
         <p>Le baron de Fritzierne, Victor et Clémence, regardent avec un intérêt mêlé d’effroi, madame Wolf qui couvre de baisers et de larmes le portrait de l’inconnue ; ils sont trop troublés pour avoir la faculté de lui parler, de l’interroger ; mais leurs regards fixés, leurs bras tendus vers elle, expriment assez leur curiosité, et le désir qu’ils ont de l’entendre s’expliquer sur un rapprochement aussi extraordinaire. <pb n="6" xml:id="p6"/> Quelle est cette femme, dont le baron et madame Wolf possèdent chacun un portrait ? Est-ce cette amie dont madame Wolf veut garderie secret jusqu’au tombeau ? Personne n’en peut douter. Est-ce la mère de Victor ?</p>
         <p>C’est la mère de Victor, puisque son portrait se trouva au fond de sa barcelonnette. Madame Wolf connaît la mère de Victor, et sans doute son père ; madame Wolf va, par des explications franches, abréger les recherches de l’amant de Clémence ; elle va hâter son bonheur, puisque la main de celle qu’il aime est attachée à la découverte du secret de sa naissance. Son père enfin sera connu ; son père !… Ah ! sans doute cet homme vertueux fut aussi infortuné que celle pour qui il soupira. Tous deux malheureux, tous deux persécutés apparemment par un tyran farouche, séparés peut-être pour jamais, tous deux ont fini leurs jours loin de l’autre, ou ensemble et par les mêmes coups ; madame Wolf sait tout cela ; madame Wolf <pb n="7" xml:id="p7"/> va dévoiler ce mystère ; et le baron, en apprenant le sort et le nom du père de Victor, va combler pour toujours les vœux de son fils adoptif en lui donnant Clémence ; ô bonheur !</p>
         <p>Telles sont les réflexions qui s’accumulent en foule dans la tête de Victor ; il ne peut les détailler, ces réflexions mêlées de joie et de tristesse ; mais tandis que son cœur bat d’impatience et de sensibilité ; ses yeux, qu’humectent quelques larmes, entrevoient déjà l’aurore d’un bonheur prochain ; les yeux expressifs du bon Victor sont attachés sur les yeux de madame Wolf : sa bouche est ouverte, et sa langue veut articuler quelques mots qu’il ne peut prononcer. Mille sentimens divers assiégent à-la-fois le cœur de Victor : la curiosité, l’espoir du bonheur, l’amitié, la reconnaissance et la voix de la nature.</p>
@@ -51,8 +119,8 @@
         <p>À l’instant commence le plus terrible combat ; les coups les plus violens se portent de part et d’autre ; Roger, qui attend toujours le secours des siens, voit tomber à ses côtés le pesant Sermoneck, et la plupart de ses compagnons ; <pb n="22" xml:id="p22"/> c’est Victor qui les abat à ses pieds, Victor est comme l’ouragan furieux qui entraîne dans sa course les arbres les plus élevés. Victor garantit des coups de Roger son protecteur, qui, malgré son âge, fait encore des prodiges de valeur ; Victor voudrait faire mordre la poussière au traître Roger ; mais les amis du perfide le défendent, et s’exposent seuls aux coups de Victor, qui les immole comme la pierre, qui roule du haut du rocher, écrase des milliers d’insectes qui rampaient dans la plaine… Enfin Roger est resté seul de sa petite troupe ; Roger écumant de rage, recule quelques pas en mutilant du pied les cadavres de ses complices… Victor lui crie de se rendre ; le scélérat l’ajuste avec un pistolet ; il va tirer ! le jeune héros se précipite sur le monstre, le désarme, l’étend à ses pieds, et n’écoutant plus que sa juste colère, il le saisit par les cheveux, et se dispose à lui couper la tête…</p>
         <p><pb n="23" xml:id="p23"/> Roger va donc périr… il va donc subir la peine due à ses forfaits… Mais, ô surprise ! quel est l’imprudent qui vient suspendre les coups de Victor ?… C’est une femme ! c’est madame Wolf !… Malheureux, s’écrie-t-elle en arrêtant le bras de Victor prêt à frapper !… jeune insensé ! qu’allez-vous faire ? – Madame !… Ô crime ! arrêtez ! Dieu ! je meurs !…</p>
       </div>
-      <div>
-        <head><pb n="24" xml:id="p24"/> CHAPITRE II. COUP DU SORT.</head>
+      <div><pb n="24" xml:id="p24"/>
+        <head> CHAPITRE II. COUP DU SORT.</head>
         <p>Madame Wolf perd connaissance ; elle tombe, mais dans les bras de Clémence, qui la suivait, ignorant la cause de sa fuite précipitée… L’étonnement du vieux baron et de Victor est à son comble ; Victor sur-tout est immobile d’effroi et de saisissement. Pendant que nos héros restent comme enchantés, Roger se relève ; il fixe madame Wolf en pâlissant… Femme à qui je dois le tourment de ma vie, s’écrie-t-il, tu ne m’échapperas pas… oui, je te retrouverai…</p>
         <p>Il dit ; et profitant de l’issue que lui offre un appartement ouvert devant lui, il s’y sauve, ouvre une croisée, et se précipite dans le fossé, sans que Victor, Fritzierne, ni aucun des assistans songent à le retenir.</p>
         <p><pb n="25" xml:id="p25"/> Laissons Roger gagner la rive à la nage, jusqu’à ce que les siens le reconnaissant, le sauvent transportés de joie. Laissons ce chef de brigands, honteux de sa défaite, pénétré du regret d’avoir perdu une partie de ses complices étouffés dans les flammes de la tour, rallier sa troupe à la hâte, et fuir dans le fond de ses forêts, après avoir encore essuyé le feu des batteries des tours, que Valentin et les gens du baron, ignorant ce qui se passe en bas, font toujours jouer. Revenons à nos amis, que nous avons laissés dans les corridors du château, et que la tête de Méduse, ou la baguette de Médée, n’aurait pas pétrifiés plus promptement que ne l’a fait l’étonnante exclamation de madame Wolf.</p>
@@ -97,8 +165,8 @@
         <p>Enfin il le sait, Victor ; il connaît le coupable auteur de ses jours.</p>
         <p>Oh ! qu’il est à plaindre, Victor !… il est maintenant malheureux pour sa vie entière : mais suivons le fil des nombreux événemens qui vont naître de cette affreuse découverte.</p>
       </div>
-      <div>
-        <head><pb n="42" xml:id="p42"/> CHAPITRE III. FAIBLE ADOUCISSEMENT.</head>
+      <div><pb n="42" xml:id="p42"/>
+        <head> CHAPITRE III. FAIBLE ADOUCISSEMENT.</head>
         <p>Le baron, rentré chez lui, s’est jeté dans un fauteuil. Clémence est à ses pieds ; elle arrose de larmes les mains de son père. Victor se promène à grands pas dans l’appartement. Absorbé sous le poids du malheur, il ne peut plus exprimer une seule de ses pensées. Quelques exclamations vagues sortent de temps en temps de sa bouche, et soulagent son cœur oppressé… Le baron le regarde souvent, et souvent il détourne les yeux, comme saisi d’un mouvement d’horreur. Victor s’en apperçoit, et frémit à son tour en pensant à sa singulière ressemblance avec Roger… Cette scène muette se prolonge si long-temps, qu’elle fatigue nos trois héros ; Victor lui-même est prêt à tomber sans <pb n="43" xml:id="p43"/> connaissance. Monsieur, lui dit doucement Fritzierne, ma fille et moi nous avons besoin de repos ; j’espère que vous allez nous laisser maîtres de nous y livrer au moins pendant la fin de cette funeste journée…</p>
         <p>Victor veut répliquer, il ne le peut, sa langue se glace sur ses lèvres ; il jette un regard plein d’expression sur son bienfaiteur et sur Clémence, qui s’en apperçoit seule, et seule lui répond en usant du même langage. Clémence lui fait même signe de la main de se retirer, de la laisser seule avec un père qui a besoin de ses consolations… Victor sort d’un air si sombre et si effrayant, que le vieux baron, inquiet, lui crie de loin : Mon ami, donne tes soins pour que tout rentre dans l’ordre dans le château : je te ferai dire l’heure à laquelle tu pourras me parler… Je veux te parler, Victor, j’en ai besoin.</p>
         <p>Ce peu de mots, le ton de bonté avec lequel il est prononcé, tout calme un <pb n="44" xml:id="p44"/> peu le sombre désespoir de Victor, qui, sûr d’ailleurs du zèle de son fidèle Valentin, pour tout ce qui regarde le château, rentre chez lui, ferme sa porte à double tour, pour n’être point interrompu, et se livre de nouveau à tout l’excès de sa douleur.</p>
@@ -128,8 +196,8 @@
         <p>Il se fait un grand silence, et madame Wolf poursuit en ces termes :</p>
         <p>@q narrative</p>
       </div>
-      <div>
-        <head><pb n="62" xml:id="p62"/> CHAPITRE IV. Une seule faute, Nouvelle.</head>
+      <div><pb n="62" xml:id="p62"/>
+        <head> CHAPITRE IV. Une seule faute, Nouvelle.</head>
         <argument>
           <p>La voiture publique, une nuit d’auberge.</p>
         </argument>
@@ -158,8 +226,8 @@
         <p>Ira-t-elle se plaindre à l’hôte, à l’hôtesse ? De quoi ? D’une aventure dont le public est toujours disposé à rire, et dont le ridicule retombe souvent sur la femme qui en est l’héroïne ! Non, il faut se taire, il faut cacher à jamais au fond de son cœur ce fatal secret ; mais en même temps, il faut fuir la présence de ceux qui l’ont trompée ; elle ne pourrait soutenir leur vue ni leur sourire malin : elle doit donc rester seule avec son déshonneur et ses regrets.</p>
         <p>« Je ne sais, monsieur le baron, si cette aventure vous a paru singulière et peu commune ; mais j’ai dû vous la raconter pour vous amener à l’histoire de ma tendre amie ; car de cette nuit fatale, de ce crime affreux commis sur la vertueuse madame du Sézil, est née <pb n="82" xml:id="p82"/> ma malheureuse compagne, la sensible Adèle, ta mère, ô mon cher Victor !… Oui, mon Victor, ta mère a dû le jour à madame du Sézil, et à ce jeune inconnu, que nous retrouverons néanmoins par la suite ; mais suivons le fi des événemens qui doivent nous le ramener ».</p>
       </div>
-      <div>
-        <head><pb n="83" xml:id="p83"/> CHAPITRE V. TOUT LE MONDE LA TROMPE.</head>
+      <div><pb n="83" xml:id="p83"/>
+        <head> CHAPITRE V. TOUT LE MONDE LA TROMPE.</head>
         <p>« Madame du Sézil se lève aux cris du conducteur, et fait ensemble toutes les réflexions que je viens de vous communiquer. Elle met ses deux mains sur son front, et se détermine à cacher son malheur à tout le monde. Si M. de Rosange, se dit-elle, si ce respectable bienfaiteur connaissait ma faute !… Je lui écrivais, à ce digne ami de mon époux ; je lui marquais !…</p>
         <p>« Elle va pour mettre la main sur sa lettre, elle ne la trouve plus ! Ciel, s’écrie-t-elle, qui peut me l’avoir prise !… Elle cherche encore cette lettre, où le secret de son voyage est renfermé ; elle est disparue. À sa place est un autre billet conçu en ces termes :</p>
         <p>« Je pars, j’emporte le regret <pb n="84" xml:id="p84"/> d’avoir déshonoré la plus estimable des femmes ! La raison a repris son empire sur mes sens trop impétueux !…</p>
@@ -188,8 +256,8 @@
         <p><pb n="101" xml:id="p101"/> « Pendant que la mère Michel fait son petit ménage, madame du Sézil prend une lumière, et demande qu’on la laisse seule un moment dans sa chambre.</p>
         <p>Entrons-y avec elle, et voyons ce que renferme le paquet que lui a remis le petit garçon de l’auberge de Clermont ; car ce ne peut être que pour satisfaire sa curiosité que notre héroïne a demandé à ses hôtes un moment de solitude ».</p>
       </div>
-      <div>
-        <head><pb n="102" xml:id="p102"/> CHAPITRE VI. ON CROIRAIT LIRE UN ROMAN.</head>
+      <div><pb n="102" xml:id="p102"/>
+        <head> CHAPITRE VI. ON CROIRAIT LIRE UN ROMAN.</head>
         <p>« Seule et tranquille, madame du Sézil se hâte de défaire les nombreux cachets qui entourent le paquet mystérieux. Quelle surprise ! une superbe boîte d’or enrichie de brillans ! un portrait d’homme ! Dieu ! c’est celui du jeune étranger : ce sont ses traits, il est parlant ! madame du Sézil ne peut s’y tromper… Mais quels sentimens éprouve-t-elle, madame du Sézil ? Les traits d’un homme qui l’a si cruellement trahie, devraient lui faire horreur ? c’est tout le contraire ; ces traits charmans la fixent et l’attachent, elle se surprend à admirer ses beaux yeux pleins de douceur, cette bouche qui a osé… Son cœur se serre, elle veut détourner ses regards… impossible ! L’amour est dans son cœur, l’amour est peint sur ce portrait <pb n="103" xml:id="p103"/> touchant, il est par-tout ; comment lui résister. Cependant madame du Sézil ouvre la boîte ; qu’y voit-elle ? une lettre et des rouleaux de louis !… Eh quoi ! ce perfide ose lui faire accepter des présens ! prétend-il par-là dédommager sa victime de la perte de l’honneur ? espère-t-il faire oublier sa faute par des bienfaits ? ils sont insultans ses bienfaits, puisqu’ils sont le prix du crime !… Mais voyons sa lettre ?… Ce sont des vers !… Une romance !… et sur un air que madame du Sézil sait ; car elle lui en a fait entendre quelques phrases, en se promenant avec lui dans la ville d’Amiens… Voyons :</p>
         <p>@q poem</p>
         <argument>
@@ -243,8 +311,8 @@
         <p>Ici madame Wolf se reposa quelque temps. Le baron la força, ainsi que Victor et Clémence, à prendre quelques rafraîchissemens, dont ils avaient tous besoin après tant de fatigues, et qu’il partagea avec eux.</p>
         <p>Ensuite madame Wolf reprit son récit ainsi qu’on le verra dans le chapitre suivant.</p>
       </div>
-      <div>
-        <head><pb n="123" xml:id="p123"/> CHAPITRE VII. NOUVEAUX TROUBLES, NOUVEAUX VOYAGES.</head>
+      <div><pb n="123" xml:id="p123"/>
+        <head> CHAPITRE VII. NOUVEAUX TROUBLES, NOUVEAUX VOYAGES.</head>
         <p>« Madame du Sézil n’avait pas d’autre consolation que sa fille, qui réunissait toutes les qualités physiques et morales qu’on peut désirer à quinze ans. Adèle était grande, très-forte, et la meilleure amie de sa mère. La lecture, la musique, et les petits ouvrages du sexe, occupaient les momens de ces deux êtres vertueux : ils n’étaient qu’eux deux, pour ainsi dire, dans la nature, ou plutôt ils ne faisaient qu’un ; mais leur bonheur ne devait pas être de longue durée, ou du moins il allait être traversé par une catastrophe terrible, inattendue.</p>
         <p>« Des voisins, amis de madame du Sézil, lui offrent deux places dans une <pb n="124" xml:id="p124"/> loge qu’ils ont louée pour aller, ce soir même, voir jouer une pièce de Molière au théâtre des comédiens ordinaires du roi, rue des Fossés-Saint-Germain-des-Prés. Madame du Sézil n’avait pas été deux fois au spectacle depuis ses malheurs, et sa fille n’avait pas non plus un goût très décidé pour ce genre d’amusement. En général on les voyait rarement dans un endroit public : leur goût les portait vers la campagne ; elles aimaient les fêtes champêtres ; et c’était au loin qu’elles allaient rêver, lire, causer, ou admirer la nature. Cependant les places qu’on leur offrait étaient attrayantes : on donnait le Misanthrope, et ce chef-d’œuvre qu’elles connaissaient d’ailleurs, était trop dans leurs principes, pour qu’elles manquassent l’occasion de l’admirer. Nos dames vont donc dans la loge de leurs voisins : le spectacle commence, et elles y prêtent la plus constante attention. Cependant, dans la loge en face d’eux était une <pb n="125" xml:id="p125"/> femme de condition, très-parée, surchargée de rouge et de diamans, qui, depuis long-temps, fixait la veuve et sa fille avec une curiosité mêlée de dépit. À côté d’elle était un homme d’une quarantaine d’années, qui, de son côté, lorgnait la loge de nos dames, et paraissait mettre, à les regarder, l’intérêt le plus vif. La vieille marquise, car c’en était une, se lève tout-à-coup, avant que son cavalier ait le temps de s’informer du sujet qui la trouble. Elle descend précipitamment, remonte avec un vieillard, reparaît dans une autre loge voisine de celle où elle était, fixe de nouveau la loge de nos dames, et fait une question à l’oreille du vieillard. L’homme de quarante ans entend celui-ci répondre distinctement à la marquise : Ce sont elles. Le cavalier sort aussi de sa loge, fait le tour, et vient à celle où nos dames, ignorant ce qui se passait, n’étaient livrées uniquement qu’au spectacle… Madame du Sézil entend <pb n="126" xml:id="p126"/> frapper doucement à sa loge : elle ouvre ; le cavalier, troublé, ne peut que lui dire ce peu de mots :</p>
         <p>Retirez-vous… prenez garde d’être suivies ; ne craignez rien ; demain je vous expliquerai ce mystère.</p>
@@ -273,8 +341,8 @@
         <p>Ici, madame Germain (nous ne l’appellerons plus madame Wolf) fut interrompue par le baron de Fritzierne, <pb n="144" xml:id="p144"/> qui lui prouva son estime dans les termes les plus flatteurs : la jeune Clémence embrassa cette femme sensible, et Victor ému, attendri, ne put que se jeter sur une de ses mains, qu’il couvrit des douces larmes de la reconnaissance.</p>
         <p>Madame Germain remercia ses amis de l’intérêt qu’ils lui prouvaient ; puis elle reprit ainsi son intéressante narration.</p>
       </div>
-      <div>
-        <head><pb n="145" xml:id="p145"/> CHAPITRE VIII. L’AMOUR ET L’HYMEN.</head>
+      <div><pb n="145" xml:id="p145"/>
+        <head> CHAPITRE VIII. L’AMOUR ET L’HYMEN.</head>
         <p>« Madame du Sézil, retirée avec sa fille, ne put s’empêcher d’admirer la providence, qui assigne à chaque individu une destinée qu’il ne peut fuir. Quoi ! s’écria-t-elle, mon inconnu qui s’est caché à mes regards depuis seize ans, cet étranger sensible et généreux qui a su faire les plus grands sacrifices pour réparer une seule faute, c’est le fils du bienfaiteur de mon époux, c’est le jeune Jules dont M. du Sézil m’a parlé autrefois avec tant d’intérêt, l’ami de son enfance, le compagnon de ses jeux, de ses moindres plaisirs !…</p>
         <p>« La veuve relit les lettres, que depuis long-temps elle reçoit de l’inconnu : aucune n’est signée ; mais toutes sont souscrites d’un J. et d’un R. ce qui fait <pb n="146" xml:id="p146"/> bien Jules Rosange. Elle s’étonne de ne l’avoir point deviné ; mais elle s’abuse, il était impossible que sa pensée s’arrêtât sur un jeune homme qu’elle ne connaissait que de nom, et qu’elle ne pouvait pas supposer se rencontrer sur la même route qu’elle avait à parcourir, dans la même voiture qu’elle a choisie. Les choses les plus simples sont souvent tellement éloignées de la vraisemblance, qu’il y aurait de la folie à vouloir leur trouver des rapprochemens.</p>
         <p>« Adèle et sa mère attendaient le marquis avec la plus vive impatience : lui seul pouvait leur donner des explications indispensables sur bien des points qu’elles ne comprenaient pas encore ; mais vœux inutiles ! le marquis, qu’on attendait sous peu de jours, ne vint pas ; un mois s’écoula sans qu’on entendît parler de lui, sans qu’on vît revenir le fidèle Michel lui-même. L’inquiétude, la douleur, et la révolution violente qu’avaient causée à madame du Sézil <pb n="147" xml:id="p147"/> l’entrevue du spectacle et la scène affreuse de la vieille marquise, tout avait altéré sa santé à un point qu’un médecin, appelé, déclara que l’infortunée avait tout au plus huit jours à vivre. Sa fille et moi, nous ne quittions pas le chevet de son lit, nous lui prodiguions les soins les plus empressés ; mais nous ne pouvions calmer le vif désir qu’éprouvait la veuve de voir</p>
@@ -305,8 +373,8 @@
         <p>« Voilà le mystère de l’absence de Michel, lorsque vous rentrâtes chez vous, au sortir du spectacle ; il a suivi mes ordres, et la marquise s’est vu arracher ses victimes sans pouvoir les découvrir. La rage et la fureur se sont emparées du cœur de cette femme, qui, dans l’impuissance de se venger, a pris le parti de tomber malade et de mourir de dépit.</p>
         <p>Voilà ce qui a retardé mon départ et celui de Michel ; car je n’avais plus que ce fidèle serviteur à qui je pusse me confier ; il m’était utile à Paris, pour vous avertir des moindres événemens, en cas qu’il en arrivât d’une nature à m’y retenir long-temps. Tel est le récit exact des événemens qui m’ont conduit enfin à la liberté, et qui me permettent aujourd’hui de reprendre mes premiers liens, les seuls faits pour fixer mon cœur, jaloux de se livrer à tous les sentimens que font éprouver l’amour et la nature ».</p>
       </div>
-      <div>
-        <head><pb n="169" xml:id="p169"/> CHAPITRE IX. SUITES D’UNE PROMENADE SOLITAIRE.</head>
+      <div><pb n="169" xml:id="p169"/>
+        <head> CHAPITRE IX. SUITES D’UNE PROMENADE SOLITAIRE.</head>
         <p>« Quand M. de Rosange eut fini de parler, Adèle se jeta une seconde fois dans ses bras ; pour madame du Sézil, elle ne put résister à l’excès du bonheur qui venait terminer ses maux. Après avoir balbutié quelques exclamations, elle tomba dans une faiblesse qui nous fit craindre pour sa vie. Nous nous retirâmes, et le médecin qui arriva bientôt, nous apprit qu’il désespérait des jours de cette tendre amie. Vous vous peignez notre douleur, et sur-tout celle du marquis, qui se reprochait sa mort, et craignait de ne pouvoir réparer tous les maux qu’il avait causés. Mais il avait une fille, le marquis ; il lui devait un nom, un état dont sa malheureuse mère n’avait <pb n="170" xml:id="p170"/> pu jouir. Le marquis prit son parti ; il mit dans ses intérêts le respectable curé de Saint-Pierre, à qui il confia ses fautes et le projet qu’il avait formé. En conséquence le bon curé vint trouver madame du Sézil ; et, après l’avoir préparée par degrés à la mort, qui s’avançait à grands pas, il la pria de permettre que le marquis lui donnât sa main pour le bonheur et la fortune de sa fille, à qui elle se devait à ses derniers momens. Madame du Sézil montra en cette occasion une fermeté au-dessus de son sexe ; elle consentit à tout… Ce fut donc au pied du lit de douleur que se contracta l’acte le plus saint, le plus auguste, le plus utile, puisqu’il réparait une faute, et donnait à une fille vertueuse une existence civile. Je vous abrégerai les détails de cette triste cérémonie, qui arracha des larmes de tous les yeux qui en furent témoins ; je vous dirai seulement qu’un notaire fut mandé, et que tout fut fait dans les formes, et avec la plus grande <pb n="171" xml:id="p171"/> sûreté pour Adèle.</p>
         <p>Madame du Sézil avait renoncé à l’espoir de jouir de cet hymen brillant ; elle sentit s’avancer sa fin sans la craindre, et bientôt elle expira dans nos bras, résignée et satisfaite d’avoir fait au moins le bonheur de sa fille…</p>
         <p>« Qu’on ne me demande pas la nature d’une maladie cruelle qui venait de la plonger si précipitamment dans le tombeau : on sait qu’il y a des momens où un saisissement seul suffit pour causer à notre sexe des maux irréparables !… L’infortunée venait de périr enfin, et le deuil le plus sombre remplaçait la tranquillité de ma maison… Le marquis, inconsolable, passa quelques jours avec nous ; puis il nous laissa Michel, et retourna à Paris, où l’appelaient des arrangemens de famille relatifs aux biens et aux parens de sa première femme ; je dis de sa première femme, car il venait d’être veuf deux fois en huit jours ; mais la perte qu’il avait faite en madame du <pb n="172" xml:id="p172"/> Sézil lui était bien plus sensible que la première. Il partit donc en me recommandant sa fille.</p>
@@ -362,8 +430,8 @@
         <p>« Telles étaient les expressions de mon amie, et je vous avoue que je les entendis avec peine, sans leur supposer néanmoins toute la passion qu’elles avaient. Toute la nuit Adèle ne dormit point ; l’image de l’inconnu vint troubler, ou plutôt charmer son insomnie. Le lendemain matin je m’apperçus de quelque altération dans ses traits ; je lui en témoignai mon <pb n="186" xml:id="p186"/> inquiétude ; elle me dit que le triste tableau de la veille avait été présent à sa mémoire, et je me contentai de cette réponse. Je m’apperçus qu’elle parlait bas à Michel, et j’ai su depuis qu’elle l’avait envoyé à l’hôtel du Paradis pour savoir des nouvelles de l’étranger. Funeste inconséquence qui enfla l’amour-propre de ce dernier, et lui fit prendre tous les droits dont il abusa si étrangement par la suite. Quelques jours se passèrent sans qu’Adèle me parlât de l’inconnu ; mais elle devint rêveuse, triste, ennuyée, et je fus assez aveugle pour ne pas me douter du motif de ce changement. Enfin le quatrième jour on annonça notre inconnu, et la joie brilla sur les traits de mon amie. L’étranger était parfaitement rétabli ; il exalta beaucoup nos bontés pour lui, et nous fit, sur ses prétendus malheurs, un récit qui me parut un conte, tant était pressé et invraisemblable. Il était allemand ; il se nommait Roger, <pb n="187" xml:id="p187"/> baron de Walfein. Fixé en France avec sa mère (son père était mort à l’armée), il avait vu une beauté charmante qu’il avait adorée. Sa mère, à lui, ne voulant point consentir à l’unir à l’objet de son amour, il avait quitté sa mère : son amante l’avait suivi ; mais devenue enceinte, l’infortunée venait de mourir en mettant au monde un enfant mort aussi. La douleur avait égaré les sens de Roger, qui n’osait plus revoir une mère, dont son absence faisait le tourment ; et c’était dans l’intention de venger la nature et l’amour affligés, qu’il avait voulu se donner la mort au moment où nous avions été assez généreuses pour l’engager, et l’aider même à vivre, à souffrir.</p>
         <p>« Je vous passe, mes amis, les voyages, les détails sans nombre dont Roger assaisonna sa longue narration ; il vous suffira de savoir qu’elle me fit quelque peine. Au milieu de ses exclamations sentimentales je distinguai une <pb n="188" xml:id="p188"/> immoralité choquante dans sa conduite, et j’étais fâchée que mon Adèle entendît des aventures faites pour blesser la délicatesse et la vertu. Que vous dirai-je ? dès cette entrevue je jugeai l’homme, sans pourtant le croire aussi pervers qu’il l’était, et il me déplut souverainement. Hélas ! pourquoi ma sensible amie ne fut-elle pas aussi clairvoyante que moi ? elle se fut épargné bien des maux, à elle et à sa famille infortunée. Mais poursuivons ».</p>
       </div>
-      <div>
-        <head><pb n="189" xml:id="p189"/> CHAPITRE X. ÉVÉNEMENS RAPIDES.</head>
+      <div><pb n="189" xml:id="p189"/>
+        <head> CHAPITRE X. ÉVÉNEMENS RAPIDES.</head>
         <p>« Adèle, jeune et sans expérience, crut voir dans le baron de Walfein, un homme doué de toutes les vertus, et sur-tout un cœur fait pour aimer ; elle, s’apperçut bien dès ce moment, ainsi qu’elle me l’avoua depuis, qu’elle éprouvait, pour ce jeune homme, un sentiment plus vif que celui d’un simple intérêt ; mais elle ne s’en effraya point ; et voyant que je ne partageais point son estime ni son admiration pour Roger, elle se détermina à dissimuler avec moi ; conduite répréhensible sans doute, qu’elle n’aurait point tenue avec sa mère, ainsi qu’elle en est convenue, mais dont elle pouvait user envers moi qui lui étais étrangère, et qu’elle ne connaissait que depuis quelques mois. <pb n="190" xml:id="p190"/> L’amour ne raisonne point ; il détruit souvent les plus rares qualités, et la dissimulation, la feinte et le mensonge sont les premiers vices qu’il jette dans le cœur de l’innocence qu’il a subjuguée.</p>
         <p>« Par l’effet d’une fatalité insurmontable, je tombai malade sur ces entrefaites, non dangereusement, mais assez pour m’aliter pendant une quinzaine de jours. Adèle profita de ce temps pour voir Roger ; elle prétextait avec moi des promenades champêtres dont sa santé avait besoin, et sortait, mais accompagnée de Michel ; car j’exigeais absolument qu’elle ne se promenât point seule. Elle fut donc obligée de mettre Michel dans ses intérêts : et ce bon garçon, entièrement dévoué à sa jeune maîtresse, qu’il avait vu naître ; intéressé d’ailleurs par les marques d’affection, plus que par les présens qu’il recevait du perfide Roger, garda quelque temps le secret à mon imprudente <pb n="191" xml:id="p191"/> amie, et se prêta ainsi à une intrigue dont il fut, hélas ! la première victime. Les détails que je vais vous transmettre, je les ignorais alors ; mais je dois vous les donner, pour vous rendre plus claire la marche des événemens.</p>
         <p>« Ce fut donc pendant mon indisposition que ma jeune amie eut tout le temps de se lier avec Roger : tantôt ils se rencontraient à la promenade, tantôt c’était chez moi, où Roger ne manquait pas de venir s’informer de ma santé ; tantôt enfin c’était à l’auberge même du séducteur, où mon Adèle ne craignait pas d’aller déjeûner, se croyant forte de la compagnie de Michel. Par-tout, chez moi, à la promenade, chez lui, le perfide Walfein saisissait l’occasion de parler d’amour à l’innocente</p>
@@ -398,8 +466,8 @@
         <p>Adèle, reconnaissante du service que je lui ai rendu, cédant d’ailleurs à la force de mon amour, aux sollicitations de ma mère, m’a donné la main… Elle vous dira peut-être que j’ai employé quelques violences pour l’obtenir, cette main si chère ; mais ne l’en croyez point : et d’ailleurs, un amour impétueux est un tyran qui subjugue, qui entraîne, et peu de femmes savent inspirer une pareille passion.</p>
         <p>« Je me taisais, suffoquée par la colère et l’indignation ; je ne pouvais <pb n="208" xml:id="p208"/> concevoir Adèle, ni Roger, ni moi-même !… Nous entrâmes enfin dans cette auberge, où, dans un appartement écarté, le spectacle le plus déchirant vint frapper mes yeux ».</p>
       </div>
-      <div>
-        <head><pb n="209" xml:id="p209"/> CHAPITRE XI. EXPLICATION DES NUITS DE LA FORÊT.</head>
+      <div><pb n="209" xml:id="p209"/>
+        <head> CHAPITRE XI. EXPLICATION DES NUITS DE LA FORÊT.</head>
         <p>« Que vois-je, sur un lit de douleur ! mon Adèle presque expirante. Un ecclésiastique est à ses côtés ; une vieille femme, sans doute la mère de Roger, lui soutient la tête et paraît sangloter. Ô mon amie, m’écriai-je, en me précipitant sur la main d’Adèle !</p>
         <p>« Elle me reconnaît : J’allais mourir, me dit-elle, si je ne vous eusse vue. Vous voilà ! vous m’êtes rendue !… Oh ! que vous avez dû souffrir, si, vous avez ressenti ce que j’ai éprouvé depuis notre séparation… – Chère et infortunée Rosange !… – Ma bonne Sophie ! – Mon amie ! – Prie-les de se retirer : leur présence m’importune.</p>
         <p>« Roger verse quelques larmes, et <pb n="210" xml:id="p210"/> emmène l’ecclésiastique dans une autre pièce : mais la vieille veut absolument rester ; elle prétend que sa bru, que sa chère fille ne doit point avoir de secret pour elle. Cette vieille me paraît tellement ridicule, que je ne puis retenir un sourire de mépris dont elle s’apperçoit, et qui va la fâcher si son fils ne l’appelle. Elle sort, en murmurant entre ses dents, et nous laisse seules.</p>
@@ -442,8 +510,8 @@
         <p>Fin d’UNE SEULE FAUTE, Nouvelle.</p>
         <p>@/q narrative</p>
       </div>
-      <div>
-        <head><pb n="237" xml:id="p237"/> CHAPITRE XII. TRÈS-COURT, MAIS QUI PROMET.</head>
+      <div><pb n="237" xml:id="p237"/>
+        <head> CHAPITRE XII. TRÈS-COURT, MAIS QUI PROMET.</head>
         <p>Madame Germain, que nous n’appellerons plus madame Wolf, jugea à propos de terminer là son récit ; elle pouvait avoir encore quelques aventures à raconter ; mais ces aventures lui étaient particulières ; elles n’avaient plus le même intérêt pour ses auditeurs, puisqu’il n’était plus question que de ses voyages, jusqu’au moment où elle revint en Hongrie. Ce fut alors qu’elle se chargea de l’orphelin Hyacinthe, fils d’un bon fermier qui lui avait donné l’hospitalité, et qu’il lui arriva, dans un chemin de traverse, l’aventure qui lui valut un asyle dans le château de</p>
         <p>Fritzierne. Elle n’avait changé de nom que pour se soustraire aux recherches de Roger, qui avait juré de l’atteindre <pb n="238" xml:id="p238"/> en quelque lieu qu’elle se retirât ; et par un effet funeste de la bizarrerie du sort, tout ce qu’elle avait fait pour s’éloigner de son tyran, l’avait justement ramenée au point d’où elle était partie ; elle se retrouvait près de Roger, occupée de Roger, du souvenir de son épouse, des intérêts de son fils ; enfin, tout ce qui lui était arrivé depuis seize ans ne lui paraissait plus qu’un songe qui trouble vos sens pendant une nuit agitée, et vous rend, au réveil, aux coups du sort qui vous accablait la veille.</p>
         <p>Madame Germain cessa donc de parler, et Victor attendri, se saisit encore une fois d’une de ses mains, qu’il couvrit de larmes et des baisers de la reconnaissance. Il appela cette femme généreuse sa seconde mère, et Clémence elle-même la remercia de lui avoir conservé son ami, et d’avoir soustrait ses premiers ans, au crime et au malheur qui assiégeaient son berceau. Madame Germain les embrassa tous deux, et les <pb n="239" xml:id="p239"/> remercia de leur amitié, avec cette douce modestie que donne toujours l’assurance où l’on est que l’on n’a fait que son devoir.</p>
