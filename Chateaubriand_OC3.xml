@@ -56,7 +56,7 @@
 </encodingDesc>
 <profileDesc>
 <creation>
-	<date when="1852">1852</date>
+	<date when="1852"/>
 </creation>
 <langUsage>
 <language ident="fr"/>
@@ -65,7 +65,7 @@
 </teiHeader>
 <text>
 	<front><titlePage><docAuthor>François-René de Chateaubriand</docAuthor>
-		<docTitle><titlePart type="main">Œuvres complètes de Chateaubriand. - Volume 2</titlePart>
+		<docTitle><titlePart type="main">Œuvres complètes de Chateaubriand. - Volume 3</titlePart>
 	<titlePart type="main">Génie du christianisme.</titlePart>
 </docTitle>
 </titlePage><pb n="1" xml:id="p6"/>
