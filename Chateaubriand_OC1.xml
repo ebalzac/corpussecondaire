@@ -18,7 +18,7 @@
 				</respStmt>
 				<respStmt>
 					<name>Gallica</name>
-					<resp>Établissement du texte et stylage</resp>
+					<resp>Établissement du texte et stylage.  fichier est le résultat de la conversion en XML-TEI d'un format pivot adaptable DAISY DT BOOK mis à disposition par la BnF.</resp>
 				</respStmt>
 				<respStmt>
 					<name>Karolina Suchecka</name>
