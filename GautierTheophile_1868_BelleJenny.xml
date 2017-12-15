@@ -48,7 +48,7 @@
 </publicationStmt>
 <sourceDesc>
 <bibl>
-<author>Gautier, Téophile</author>. / <title>Belle Jenny</title>. / Paris, / Michel Lévy Frères, / 2 bis rue Vivienne. / <date>1868</date>.</bibl>
+<author>Gautier, Théophile</author>. / <title>Belle Jenny</title>. / Paris, / Michel Lévy Frères, / 2 bis rue Vivienne. / <date>1868</date>.</bibl>
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
@@ -66,9 +66,9 @@
 <text>
 <front>
 <titlePage>
-<docAuthor/>
+<docAuthor>Théophile Gautier</docAuthor>
 <docTitle>
-<titlePart type="main"/>
+<titlePart type="main">Belle Jenny</titlePart>
 </docTitle>
 </titlePage>
 </front>
