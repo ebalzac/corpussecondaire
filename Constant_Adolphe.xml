@@ -4,7 +4,7 @@
 <fileDesc>
 <titleStmt>
 <title>Adolphe</title>
-<author key="Benjamin Constant">Benjamin Constant</author>
+  <author key="Constant, Benjamin (1767-1830)">Benjamin Constant</author>
 <principal>Andrea Del Lungo</principal>
 <principal>Pierre Glaudes</principal>
 <principal>Jean-Gabriel Ganascia</principal>
@@ -48,14 +48,16 @@
 </publicationStmt>
 <sourceDesc>
 <bibl>
-<author>Benjamin Constant</author>. / <title>Adolphe</title>. / Paris, / . / <date/>.</bibl>
+  <author>Constant, Benjamin</author>. / <title>Adolphe</title>. / Paris, / . / <date/>.</bibl>
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
 <p/>
 </encodingDesc>
 <profileDesc>
-<creation/>
+<creation>
+  <date when="1849"/>
+</creation>
 <langUsage>
 <language ident="fr"/>
 </langUsage>
@@ -72,9 +74,6 @@
 </front>
 <body>
   
-  
-    
-      <div xmlns="">
         <div>
           
           
@@ -564,7 +563,7 @@ Votre aide est la bienvenue.</quote>######
             ######<ref target="index_split_018.html#filepos197389">Fin</ref>######
           </p>
         </div>
-      </div>
+      
     
   
 </body>
