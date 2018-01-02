@@ -18,7 +18,7 @@
 </respStmt>
 <respStmt>
 <name>Les Bourlapapey Bibliothèque numérique romande</name>
-<resp>Établissement du texte et stylage en version ePub</resp>
+<resp>Établissement du texte et stylage en version EPUB. Ce fichier est le résultat de la conversion en XML-TEI d'un format EPUB mis à disposition par la Bibliothèque numérique romande.</resp>
 </respStmt>
 <respStmt>
 <name>Karolina Suchecka</name>
@@ -48,11 +48,11 @@
 </publicationStmt>
 <sourceDesc>
 <bibl>
-  <author>Théophile Gautier</author>. / <title>Les Roués innocents</title>. / Paris, / . / <date/>.</bibl>
+    <author>Théophile Gautier</author>. / <title>Les Roués innocents</title>. / Paris, / Desessart, 8, rue des Beaux-Arts. / <date>1847</date>.</bibl>
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
-<p/>
+    <p>Renseignement de sources par la Bibliothèque numérique romande : « Ce livre numérique est réalisé d'après : Gauthier Théophile, Les roués innocents, Desessart, Paris, 1847. La ponctuation et quelques éléments du texte ont été revus, s'appuyant, pour une part, sur l'édition de la Pléiade des œuvres complètes de Théophile Gautier. »</p>
 </encodingDesc>
 <profileDesc>
 <creation>
