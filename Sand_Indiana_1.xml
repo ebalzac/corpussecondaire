@@ -17,7 +17,7 @@
                <resp>Corrections OCR</resp>
             </respStmt>
             <respStmt>
-               <name>Gallica</name>
+               <name>Karolina Suchecka</name>
                <resp>Établissement du texte et stylage</resp>
             </respStmt>
             <respStmt>
@@ -44,7 +44,7 @@
                   <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
                </licence>
             </availability>
-            <idno>http ://gallica.bnf.fr/ark :/12148/bpt6k118942j ?rk=42918 ;4</idno>
+            <idno>http://gallica.bnf.fr/ark:/12148/bpt6k118942j?rk=42918;4</idno>
          </publicationStmt>
          <sourceDesc>
             <bibl>

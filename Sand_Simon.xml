@@ -12,11 +12,11 @@
 </titleStmt>
 <editionStmt>
 <edition>Cette édition a été établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</edition>
-  <respStmt><name>Bibliothèque électronique du Quebec</name>
+  <respStmt><name>Bibliothèque électronique du Québec</name>
   <resp>Corrections OCR</resp>
   </respStmt>
   <respStmt>
-    <name>Bibliothèque électronique du Quebec</name>
+    <name>Bibliothèque électronique du Québec</name>
     <resp>Établissement du texte et stylage en version ePub</resp>
   </respStmt>
 <respStmt>
@@ -43,7 +43,7 @@
 <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
 </licence>
 </availability>
-<idno/>
+    <idno><!--https://books.google.fr/books?id=zHQMAQAAMAAJ&dq=Simon%20George%20Sand%201847&hl=fr&pg=PA1#v=onepage&q&f=false--></idno>
 </publicationStmt>
 <sourceDesc>
 <bibl>
@@ -51,7 +51,7 @@
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
-  <p>Version établie à partir de l'édition électronique fournie par Bibliothèque électronique du Quebec dans la collection <title>À tous les vents</title>, volume 478.</p>
+  <p>Version établie à partir de l'édition électronique fournie par Bibliothèque électronique du Québec dans la collection <title>À tous les vents</title>, volume 478.</p>
 </encodingDesc>
 <profileDesc>
 <creation>

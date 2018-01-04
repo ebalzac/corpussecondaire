@@ -44,11 +44,11 @@
 <p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
 </licence>
 </availability>
-<idno/>
+    <idno>http://gallica.bnf.fr/ark:/12148/bpt6k80430n?rk=21459;2</idno>
 </publicationStmt>
 <sourceDesc>
 <bibl>
-<author>Théophile Gautier</author>. / <title>Mademoiselle de Maupin</title>. / Paris, / . / <date/>.</bibl>
+    <author>Théophile Gautier</author>. / <title>Mademoiselle de Maupin</title>. / Paris, / Charpentier, / 13, rue de Grenelle-Saint-Germain. / <date>1876</date>.</bibl>
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
