@@ -1,4 +1,4 @@
-<?xml-model  href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -3961,46 +3961,46 @@
         </div>
         <div>
         <index>
-          <term xml:id="note1">  La jeune fille.</term>
-          <term xml:id="note2">  Le prêtre.</term>
-            <term xml:id="note3">  Le chemin creux.</term>
-          <term xml:id="note4">  Bien raisonné.</term>
-          <term xml:id="note5">  Des hommes de tête.</term>
-          <term xml:id="note6">  Du cou.</term>
-          <term xml:id="note7">  L’autre dans la bouche, pour lui prendre la langue.</term>
-          <term xml:id="note8">  Que nous l’avons noyée après lui avoir enlevé une caisse entourée de toile cirée noire. (Ces sortes de paquets s’appellent en argot des négresses.)</term>
-          <term xml:id="note9">  Du bourreau.</term>
-          <term xml:id="note10">  Criminel habile.</term>
-          <term xml:id="note11">  D’être sur le coup d’une accusation capitale.</term>
-          <term xml:id="note12">  Tué.</term>
-          <term xml:id="note13">  Homme naïf et simple.</term>
-          <term xml:id="note14">  Ta femme.</term>
-          <term xml:id="note15">  Le diable.</term>
-          <term xml:id="note16">  Volé ton or.</term>
-          <term xml:id="note17">  De ta conscience.</term>
-          <term xml:id="note18">  Mourir.</term>
-          <term xml:id="note19">  Est mort.</term>
-          <term xml:id="note20">  En prison.</term>
-          <term xml:id="note21">  Grand juge.</term>
-          <term xml:id="note22">  Que le bourreau lui coupe le cou.</term>
-          <term xml:id="note23">  Je tuerai.</term>
-          <term xml:id="note24">  Anneau qui tient à la chaîne des forçats.</term>
-          <term xml:id="note25">  Indiqué, préparé le vol.</term>
-          <term xml:id="note26">  Sans yeux.</term>
-          <term xml:id="note27">  Qu’un avocat.</term>
-          <term xml:id="note28">  Sorte de surveillant employé dans les grandes exploitations des environs de Paris.</term>
-          <term xml:id="note29">  Nous rappellerons au lecteur que Polidori était médecin distingué lorsqu’il se chargea de l’éducation de Rodolphe.</term>
-          <term xml:id="note30">  On trouve fréquemment dans les quartiers populeux des débitants de veaux mort-nés, de bestiaux morts de maladie, etc.</term>
-          <term xml:id="note31">  Le lecteur se souvient peut-être que Fleur-de-Marie avait été confiée toute jeune à ce notaire, et que sa femme de charge abandonna l’enfant à la Chouette, qui devait s’en charger moyennant mille francs une fois payés.</term>
-          <term xml:id="note32">  Emprisonné.</term>
-          <term xml:id="note33">  Le créancier.</term>
-          <term xml:id="note34">  L’habile notaire, ne pouvant poursuivre en son nom personnel, avait fait faire au malheureux Morel ce qu’on appelle une acceptation en blanc et avait fait remplir la lettre de change par un tiers.</term>
-          <term xml:id="note35">  Le créancier.</term>
-          <term xml:id="note36">  Une voie d’eau équivaut à deux seaux.</term>
-          <term xml:id="note37">  Une voie de bois valait deux stères et demi environ.</term>
-          <term xml:id="note38">  On verra plus tard les mœurs de ces pirates parisiens.</term>
-          <term xml:id="note39">  Nous croyons inutile de rappeler au lecteur que l’enfant dont il est question est Fleur-de-Marie, fille de Rodolphe et de Sarah, et que celle-ci, en parlant d’une prétendue sœur, fait un mensonge nécessaire à ses projets, ainsi qu’on va le voir. Sarah était d’ailleurs convaincue comme Rodolphe de la mort de la petite fille.</term>
-          <term xml:id="note40">  Alors <hi rend="i">libertinage</hi> signifiait indépendance de caractère, insouciance du qu’en-dira-t-on.</term></index>
+          <term xml:id="note1"> La jeune fille.</term>
+          <term xml:id="note2"> Le prêtre.</term>
+            <term xml:id="note3"> Le chemin creux.</term>
+          <term xml:id="note4"> Bien raisonné.</term>
+          <term xml:id="note5"> Des hommes de tête.</term>
+          <term xml:id="note6"> Du cou.</term>
+          <term xml:id="note7"> L’autre dans la bouche, pour lui prendre la langue.</term>
+          <term xml:id="note8"> Que nous l’avons noyée après lui avoir enlevé une caisse entourée de toile cirée noire. (Ces sortes de paquets s’appellent en argot des négresses.)</term>
+          <term xml:id="note9"> Du bourreau.</term>
+          <term xml:id="note10"> Criminel habile.</term>
+          <term xml:id="note11"> D’être sur le coup d’une accusation capitale.</term>
+          <term xml:id="note12"> Tué.</term>
+          <term xml:id="note13"> Homme naïf et simple.</term>
+          <term xml:id="note14"> Ta femme.</term>
+          <term xml:id="note15"> Le diable.</term>
+          <term xml:id="note16"> Volé ton or.</term>
+          <term xml:id="note17"> De ta conscience.</term>
+          <term xml:id="note18"> Mourir.</term>
+          <term xml:id="note19"> Est mort.</term>
+          <term xml:id="note20"> En prison.</term>
+          <term xml:id="note21"> Grand juge.</term>
+          <term xml:id="note22"> Que le bourreau lui coupe le cou.</term>
+          <term xml:id="note23"> Je tuerai.</term>
+          <term xml:id="note24"> Anneau qui tient à la chaîne des forçats.</term>
+          <term xml:id="note25"> Indiqué, préparé le vol.</term>
+          <term xml:id="note26"> Sans yeux.</term>
+          <term xml:id="note27"> Qu’un avocat.</term>
+          <term xml:id="note28"> Sorte de surveillant employé dans les grandes exploitations des environs de Paris.</term>
+          <term xml:id="note29"> Nous rappellerons au lecteur que Polidori était médecin distingué lorsqu’il se chargea de l’éducation de Rodolphe.</term>
+          <term xml:id="note30"> On trouve fréquemment dans les quartiers populeux des débitants de veaux mort-nés, de bestiaux morts de maladie, etc.</term>
+          <term xml:id="note31"> Le lecteur se souvient peut-être que Fleur-de-Marie avait été confiée toute jeune à ce notaire, et que sa femme de charge abandonna l’enfant à la Chouette, qui devait s’en charger moyennant mille francs une fois payés.</term>
+          <term xml:id="note32"> Emprisonné.</term>
+          <term xml:id="note33"> Le créancier.</term>
+          <term xml:id="note34"> L’habile notaire, ne pouvant poursuivre en son nom personnel, avait fait faire au malheureux Morel ce qu’on appelle une acceptation en blanc et avait fait remplir la lettre de change par un tiers.</term>
+          <term xml:id="note35"> Le créancier.</term>
+          <term xml:id="note36"> Une voie d’eau équivaut à deux seaux.</term>
+          <term xml:id="note37"> Une voie de bois valait deux stères et demi environ.</term>
+          <term xml:id="note38"> On verra plus tard les mœurs de ces pirates parisiens.</term>
+          <term xml:id="note39"> Nous croyons inutile de rappeler au lecteur que l’enfant dont il est question est Fleur-de-Marie, fille de Rodolphe et de Sarah, et que celle-ci, en parlant d’une prétendue sœur, fait un mensonge nécessaire à ses projets, ainsi qu’on va le voir. Sarah était d’ailleurs convaincue comme Rodolphe de la mort de la petite fille.</term>
+          <term xml:id="note40"> Alors <hi rend="i">libertinage</hi> signifiait indépendance de caractère, insouciance du qu’en-dira-t-on.</term></index>
         </div>
 </body>
 </text>
