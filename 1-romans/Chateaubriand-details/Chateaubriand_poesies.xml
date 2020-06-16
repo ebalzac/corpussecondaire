@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="fr"><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Poésies.</title>
+<author key="Chateaubriand, François-René de (1768-1848)">François-René de Chateaubriand</author>
+<principal>Andrea Del Lungo</principal>
+<principal>Pierre Glaudes</principal>
+<principal>Jean-Gabriel Ganascia</principal>
+<editor>Maxime Perret</editor>
+</titleStmt>
+<editionStmt>
+<edition>Cette édition a été établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</edition>
+<respStmt>
+<name>Gallica</name>
+<resp>Corrections OCR</resp>
+</respStmt>
+<respStmt>
+<name>Gallica</name>
+<resp>Établissement du texte et stylage. Ce fichier est le résultat de la conversion en XML-TEI d'un format pivot adaptable DAISY DT BOOK mis à disposition par la BnF.</resp>
+</respStmt>
+<respStmt>
+<name>Karolina Suchecka</name>
+<resp>Édition XML/TEI</resp>
+</respStmt>
+<respStmt>
+<name>Maxime Perret</name>
+<resp>Coordinateur de l’édition</resp>
+</respStmt>
+</editionStmt>
+<publicationStmt>
+<publisher>eBalzac</publisher>
+<publisher>ALITHILA (Université Lille III)</publisher>
+<publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+<publisher>LIP6 (Université Paris VI)</publisher>
+<date when="2017"/>
+<availability status="restricted">
+<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+<p> Copyright © 2017 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités » (ci-après dénommé ANR Phœbus). </p>
+<p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ». </p>
+<p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout l’adresse Internet de la ressource. </p>
+<p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite. </p>
+<p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+</licence>
+</availability>
+<idno>http://gallica.bnf.fr/ark:/12148/bpt6k57869567</idno>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title>Œuvres complètes</title>. <title>Augmentées d'un essai sur la vie et les ouvrages de l'auteur</title>, vol. 1 (1851-1852)/ Saint-Esprit, Delandine de (éd.), / Paris, / P.-H. Krabbe, / 32, rue Notre-Dame-des-Victoires. / <date>1851</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<p/>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date when="1851"/>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+</teiHeader><text>
+<front>
+<titlePage>
+<docAuthor>François-René de Chateaubriand</docAuthor>
+<docTitle>
+<titlePart type="main">Poésies.</titlePart>
+</docTitle>
+</titlePage><pb n="281" xml:id="p286"/>
+</front>
+<body>
+    
+    
+    
+    
+    <div>
+<head>Préface.</head>
+     
+     
+     <p>Dans l’avertissement placé à la tête du premier volume des OEuvres complètes (édition de 1829), j’ai dit : « J’ai longtemps fait des vers avant de descendre à la prose. Ce n’était qu’avec regret que M. de Fontanes m’avait vu renoncer aux Muses : moi-même je ne les ai quittées que pour exprimer plus rapidement des vérités que je croyais utiles. »</p>
+     <p>Dans la préface des ouvrages politiques j’ai dit : « Les Muses furent l’objet du culte de ma jeunesse ; ensuite je continuai d’écrire en prose avec un penchant égal sur des sujets d’imagination, d’histoire, de politique, et même de finances. Mon premier ouvrage, l’essai <hi rend="i">historique,</hi> est un long traité d’histoire et de politique. Dans le <hi rend="i">Génie du Christianisme,</hi> la politique se retrouve partout, et je n’ai pu me défendre de l’introduire jusque dans l’<hi rend="i">I</hi>
+<hi rend="i">tinéraire</hi> et dans les <hi rend="i">Martyrs.</hi> Mais, par l’impossibilité où sont les hommes d’accorder deux aptitudes à un même esprit, on ne voulut sortir pour moi du préjugé commun qu’à l’apparition delà <hi rend="i">Monarchie selon la Charte. »</hi>
+</p>
+     <p>Vous avez fait beaucoup de vers, me dira-t-on : soit ; mais sont-ils bons ? voilà toute la question pour le public.</p>
+     <p>Je sais fort bien que ce n’est pas à moi, mais au public, à trancher cette question. Je ne pourrais appuyer mes espérances que sur une autorité grave à la vérité, mais peut-être fascinée par les illusions de l’amitié. Je vais présenter quelques observations dont je ne prétends faire aucune application à ma personne : je le dis avec sincérité, et j’espère qu’on le croira.</p>
+     <p>Les grands poètes ont été souvent de grands écrivains en prose ; qui peut le plus peut le moins ; mais les bons écrivains en prose ont été presque toujours de méchants poètes. La difficulté est de déterminer, lorsqu’on écrit aussi facilement en prose qu’en vers, et en vers qu’en prose, si la nature vous avait fait poëte d’abord et prosateur ensuite, ou prosateur en premier lieu, et poêle après.</p>
+     <p>Si vous avez écrit plus de vers que de prose, ou plus de prose que de vers, on vous range dans la catégorie des écrivains en vers ou en prose, d’après le nombre et le succès de vos ouvrages.</p>
+     <pb n="282" xml:id="p287"/>
+     <p>Si l’un des deux talents domine chez vous, vous êtes vite classé.</p>
+     <p>Si les deux talents sont à peu près sur la même ligne, à l’instant on vous en’refuse un, par <hi rend="i">cette impossibilité où sont les hommes d’accorder deux aptitudes à un même-esprit,</hi> comme je l’ai déjà remarqué. On vous loue même excessivement de ce que vous avez, pour déprécier ce que vous avez encore, mais ce qu’on ne veut pas reconnaître ; on vous élève aux nues, pour vous rabaisser au-dessous de tout. L’envie est fort embarrassée, car elle se voit obligée d’accroître votre gloire pour la détruire ; et si le résultat lui fait plaisir, le moyen lui fait peine.</p>
+     <p>Répétez, par exemple, jusqu’à satiété que presque tous les grands talents politiques et militaires de la Grèce, de l’Italie ancienne, de l’Italie moderne, de l’Allemagne, de l’Angleterre ; ont été aussi de grands talents littéraires ; vous ne parviendrez jamais à convaincre de cette vérité de fait la partie médiocre et envieuse de notre société. Ce préjugé barbare qui sépare les talents n’existe qu’en France, où l’amour-propre est inquiet, où chacun croit perdre ce que son voisin possède, où enfin on avait divisé les facultés de l’esprit comme les classes des citoyens. Nous avions nos trois ordres intellectuels, le génie politique, le génie militaire, le génie littéraire, comme nous avions nos trois ordres politiques, le clergé, la noblesse et le tiers état ; mais dans la constitution des trois ordres intellectuels, <hi rend="i">il était de principe</hi> qu’ils ne pouvaient jamais se trouver réunis dans la même chambre, c’est-à-dire dans la même tête.</p>
+     <p>Le gouvernement public dont nous jouissons maintenant fera disparaître peu à peu ces notions dignes des Welches. Il était tout simple que dans une monarchie militaire, où l’on n’avait besoin ni de l’étude politique ni de l’éloquence de la tribune, les lettres parussent un amusement de cabinet ou une occupation de collège. Force sera aujourd’hui de reconnaître que le consul Cicéron était non-seulement un grand orateur, mais encore un grand écrivain, comme César était un grand historien et un grand poëte.</p>
+     <p>De ces considérations (que, pour le dire encore une fois, je présente dans un intérêt général, nullement dans celui de ma vanité) je passe à <hi rend="i">l’historique </hi>de mes poésies.</p>
+     <p>Si j’avais voulu tout imprimer, le public n’en aurait pas été quitte à moins de deux ou trois gros volumes. Je faisais des vers au collège, et j’ai continué d’en faire jusqu’à ce jour : <hi rend="i">Je me suis gardé de les montrer aux gens.</hi> Les Muses ont été pour moi des divinités de famille, des lares que je n’adorais qu’à mes foyers.</p>
+     <p>Les poésies, en très-petit nombre, que je me suis déterminé à conserver, sont divisées en deux classes, savoir : les poésies échappées à ma première jeunesse, et celles que j’ai composées aux différentes époques de ma vie. J’en ai marqué les dates autant que possible, afin qu’on pût suivre dans mes vers, comme on a suivi dans ma prose, l’ordre chronologique des idées, et le développement graduel de l’art.</p>
+     <p>Tous mes premiers vers, sans exception, sont inspirés par l’amour des champs ; ils forment une suite de petites idylles sans <hi rend="i">moutons,</hi> et où l’on trouve à peine un <hi rend="i">berger.</hi> J’ai compris les vers de 1784 à 1790, sous ce titre : <hi rend="i">Tableaux de la nature.</hi> Je n’ai rien ou presque rien changé à ces vers : composés à une époque, <pb n="283" xml:id="p288"/> où Dorât avait gâté le goût des jeunes poètes, ils n’ont rien de maniéré, quoique la langue y soit quelquefois fortement invertie ; ils sont d’ailleurs coupés avec une liberté de césure que l’on ne se permettait guère alors. Les rimes sont soignées, les mètres, variés, quoique disposés à se former en dix syllabes. On retrouve dans ces essais de ma Muse des descriptions que j’ai transportées depuis dans ma prose.</p>
+     <p>C’est dans ces idylles d’une espèce nouvelle que le lecteur rencontrera les premières lignes qui aient jamais été imprimées de moi. Le neuvième tableau fut inséré dans <hi rend="i">l’Almanach des Muses</hi> de 1790 ; il y figure à la page 205, sous ce titre que je lui ai conservé : <hi rend="i">l’Amour de la campagne,</hi> par le chevalier de C***. On en parla dans la société de Ginguené, de Le Brun, de Chamfort, de Parny, de Flins, de La Harpe et de Fontanes, avec lesquels j’avais des liaisons plus ou moins étroites. Je prenais mal mon temps pour faire <hi rend="i">ma veille des armes</hi> dans <hi rend="i">l’Almanach des Muses ;</hi> on était déjà en pleine révolution, et ce n’était plus avec des quatrains qu’on pouvait aller à la renommée.</p>
+     <p>Voici ce que je lis dans les Mémoires inédits de ma vie, au sujet de mon début dans la carrière littéraire. Après avoir fait le tableau des diverses sociétés de Paris à celte époque et le portrait des principaux acteurs, je dis :</p>
+     <p>On me demandera : Et l’histoire de votre présentation, que devint-elle ? – Elle resta là. – Vous ne chassâtes donc plus avec le roi après avoir monté dans les carrosses ? – Pas plus qu’avec l’empereur de la Chine. – Vous ne retournâtes donc plus à la cour ? – J’allai deux fois jusqu’à Sèvres, et revins à Paris. – Vous ne tirâtes donc aucun parti de votre position et de celle de votre frère ? – Aucun. – Que faisiez-vous donc ? – Je m’ennuyais. – Ainsi vous ne sentiez aucune ambition ? – Si fait : à force d’intrigues et de soucis, je parvins, par la protection de Delisle de Sales, à la gloire de faire insérer dans <hi rend="i">l’Almanach des Muses</hi> une idylle <hi rend="i">(l’Amour de la campagne) </hi>dont l’apparition me pensa faire mourir de crainte et d’espérance. »</p>
+     <p>Au retour de l’émigration, mon ami M. de Fontanes, qui connaissait mes secrets poétiques, m’engagea à laisser insérer dans le <hi rend="i">Mercure</hi> les vers intitulés <hi rend="i">la Forêt.</hi> Tandis que j’étais à Londres, M. Peltier avait publié dans son journal mon imitation de l’élégie de Gray sur un <hi rend="i">Cimetière de Campagne.</hi> Cette imitation a été réimprimée en 1828 dans les <hi rend="i">Annales romantiques.</hi> Les autres pièces ont été publiées pour la première fois en 1828, dans l’édition de mes OEuvres complètes.</p>
+     
+    </div>
+    <div>
+<head>Poèmes divers</head>
+     <pb n="284" xml:id="p289"/>
+     
+     
+     <div>
+<head>Tableaux de la nature. (de 1784 a 1790.)</head>
+      
+      
+      
+      
+      <div type="poem">
+       <head>Premier tableau. Invocation</head>
+       <lg>
+        <l>Je voudrais célébrer dans des vers ingénus</l>
+<l>Les plantes, leurs amours, leurs penchants inconnus,</l>
+<l>L’humble mousse attachée aux voûtes des fontaines,</l>
+<l>L’herbe qui d’un tapis couvre les vertes plaines,</l>
+<l>Sur ces monts exaltés le cèdre précieux</l>
+<l>Qui parfume les airs et s’approche des cieux</l>
+<l>Pour offrir son encens au Dieu de la nature,</l>
+<l>Le roseau qui frémit au bord d’une onde pure,</l>
+<l>Le tremble au doux parler, dont le feuillage frais</l>
+<l>Remplit de bruits légers les antiques forêts,</l>
+<l>Et le pin qui, croissant sur des grèves sauvages,</l>
+<l>Semble l’écho plaintif des mers et des orages :</l>
+<l>L’innocente nature et ses tableaux touchants</l>
+<l>Ainsi qu’à mon amour auront part à mes chants.</l>
+</lg>
+      </div>
+     
+      
+      <div type="poem">
+       <head> Second tableau. La forêt</head>
+       <lg>
+        <l>Forêt silencieuse, aimable solitude,</l>
+<l>Que j’aime à parcourir votre ombrage ignoré !</l>
+<l>Dans vos sombres détours en rêvant égaré,</l>
+<l>J’éprouve un sentiment libre d’inquiétude.</l>
+<l>Prestige de mon cœur ! je crois voir s’exhaler</l>
+<l>Des arbres, des gazons, une douce tristesse :</l>
+<l>Cette onde que j’entends murmure avec mollesse,</l>
+<l>Et dans le fond des bois semble encor m’appeler.</l>
+<l>Oh ! que ne puis-je, heureux, passer ma vie entière</l>
+<l>Ici, loin des humains ! – Au bruit de ces ruisseaux,</l>
+<l>Sur un tapis de fleurs, sur l’herbe printanière,</l>
+<l>Qu’ignoré je sommeille à l’ombre des ormeaux I</l>
+<l>Tout parle, tout me plaît sous ces voûtes tranquilles ;</l>
+<l>Ces genêts, ornements d’un sauvage réduit ;</l> <pb n="285" xml:id="p290"/>
+<l>Ce chèvrefeuille atteint d’un vent léger qui fuit,</l>
+<l>Balancent tour à tour leurs guirlandes mobiles.</l>
+<l>Forêts, dans vos abris gardez mes vœux offerts !</l>
+<l>A quel amant jamais serez-vous aussi chères ?</l>
+<l>D’autres vous rediront des amours étrangères ;</l>
+<l>Moi, de vos charmes seuls j’entretiens vos déserts (<ref target="#note1461">I</ref>
+</l>
+</lg>
+      </div>
+     
+      
+      <div type="poem">
+       <head>Troisième tableau. Le soir, au bord de la mer.</head>
+       <lg>
+        <l>Les bois épais, les sirtes mornes, nues,</l>
+<l>Mêlent leurs bords dans les ombres chenues.</l>
+<l>En scintillant dans le zénith d’azur,</l>
+<l>On voit percer l’étoile solitaire ;</l>
+<l>A l’occident, séparé de la terre,</l>
+<l>L’écueil blanchit sous un horizon pur,</l>
+<l>Tandis qu’au nord, sur les mers cristallines,</l>
+<l>Flotte la nue, en vapeurs purpurines.</l>
+<l>D’un carmin vif les monts sont dessinés ;</l>
+<l>Du vent du soir se meurt la voix plaintive ;</l>
+<l>Et, mollement l’un à l’autre enchaînés,</l>
+<l>Les flots calmés expirent sur la rive.</l>
+<l>Tout est grandeur, pompe, mystère, amour :</l>
+<l>Et la nature, aux derniers feux du jour,</l>
+<l>Avec ses monts, ses forêts magnifiques,</l>
+<l>Son plan sublime et son ordre éternel,</l>
+<l>S’élève ainsi qu’un temple solennel,</l>
+<l>Resplendissant de ses beautés antiques.</l>
+<l>Le sanctuaire où le Dieu s’introduit</l>
+<l>Semble voilé par une sainte nuit ;</l>
+<l>Mais dans les airs la coupole hardie,</l>
+<l>Des arts divins gracieuse harmonie,</l>
+<l>Offre un contour peint des fraîches couleurs</l>
+<l>De l’arc-en-ciel, de l’aurore et des fleurs.</l>
+</lg>
+      </div>
+      
+      
+      
+      <div type="poem">
+       <head>Quatrième tableau. Le soir, dans une valée.</head>
+       <lg>
+        <l>Déjà le soir de sa vapeur bleuâtre</l>
+<l>Enveloppait les champs silencieux :</l> <pb n="286" xml:id="p291"/>
+<l>Par le nuage étaient voilés les cieux :</l>
+<l>Je m’avançais vers la pierre grisâtre.</l>
+<l>Du haut d’un mont une onde, rugissant,</l>
+<l>S’élançait : sous de larges sycomores,</l>
+<l>Dans ce désert d’un calme menaçant,</l>
+<l>Roulaient les flots agités et sonores.</l>
+<l>Le noir torrent, redoublant de vigueur,</l>
+<l>Entrait fougueux dans la forêt obscure</l>
+<l>De ces sapins, au port plein de langueur,</l>
+<l>Qui, négligés comme dans la douleur,</l>
+<l>Laissent tomber leur longue chevelure,</l>
+<l>De branche en branché errant à l’aventure.</l>
+<l>Se regardant dans un silence affreux ;</l>
+<l>Des rochers nus s’élevaient ténébreux.</l>
+<l>Leur front aride et leurs cimes sauvages</l>
+<l>Voyaient glisser et fumer les nuages :</l>
+<l>Leurs longs sommets, en prisme partagés,</l>
+<l>Étaient des eaux et des mousses rongés.</l>
+<l>Des liserons, d’humides capillaires,</l>
+<l>Couvraient les flancs de ces monts solitaires ;</l>
+<l>Plus tristement des lierres encor</l>
+<l>Se suspendaient aux rocs inaccessibles ;</l>
+<l>Et contrasté, teint de couleurs paisibles <hi rend="i"> ;</hi>
+</l>
+<l>Le jonc, couvert de ses papillons d’or,</l>
+<l>Riait au vent sur des sites terribles.</l>
+<l>Mais tout s’efface ; et, surpris de la nuit,</l>
+<l>Couché parmi des bruyères laineuses,</l>
+<l>Sur le courant des ondes orageuses</l>
+<l>Je vais pencher mon front chargé d’ennui.</l>
+</lg>
+      </div>
+      
+      <div type="poem">
+       <head>Cinquième tableau. Nuit de printemps.</head>
+       <lg>
+        <l>Le ciel est pur, la lune est sans nuage :</l>
+<l>Déjà la nuit au calice des fleurs</l>
+<l>Verse la perle et l’ambre de ses pleurs ;</l>
+<l>Aucun zéphyr n’agite le feuillage.</l>
+<l>Sous un berceau, tranquillement assis,</l>
+<l>Où le lilas flotte et pend sur ma tête,</l>
+<l>Je sens couler mes pensers rafraîchis</l>
+<l>Dans les parfums que la nature apprête.</l>
+<l>Des bois dont l’ombre, en ces prés blanchissants,</l> <pb n="287" xml:id="p292"/>
+<l>Avec lenteur se dessine et repose,</l>
+<l>Deux rossignols, jaloux de leurs accents,</l>
+<l>Vont tour à tour réveiller le printemps</l>
+<l>Qui sommeillait sous ces touffes de rose.</l>
+<l>Mélodieux, solitaire Ségrais,</l>
+<l>Jusqu’à mon cœur vous portez votre paix !</l>
+<l>Des prés aussi traversant le silence,</l>
+<l>J’entends au loin, vers ce riant séjour,</l>
+<l>La voix du chien qui gronde et veille autour</l>
+<l>De l’humble toit qu’habite l’innocence.</l>
+<l>Mais quoi, déjà, belle nuit, je te perds !</l>
+<l>Parmi les cieux à l’aurore entr’ouverts,</l>
+<l>Phébé n’a plus que des clartés mourantes ;</l>
+<l>Et le zéphyr, en rasant le verger,</l>
+<l>De l’orient, avec un bruit léger,</l>
+<l>Se vient poser sur ces tiges tremblantes.</l>
+</lg>
+      </div>
+      
+      
+      <div type="poem">
+       <head>Sixième tableau. Nuit d’automne.</head>
+       <lg>
+        <l>Mais des nuits d’automne</l>
+<l>Goûtons les douceurs ;</l>
+<l>Qu’aux aimables fleurs</l>
+<l>Succède Pomone !</l>
+<l>Le pâle couchant</l>
+<l>Brille encore à peine ;</l>
+<l>De Vénus, qu’il mène,</l>
+<l>L’astre va penchant ;</l>
+<l>La lune, emportée</l>
+<l>Vers d’autres climats</l>
+<l>Ne montrera pas</l>
+<l>Sa face argentée,</l>
+<l>De ces peupliers,</l>
+<l>Au bord des sentiers,</l>
+<l>Les zéphyrs descendent,</l>
+<l>Dans les airs s’étendent,</l>
+<l>Effleurent les eaux,</l>
+<l>Et de ces ormeaux</l>
+<l>Ranimant la sève :</l>
+<l>Comme une vapeur,</l>
+<l>La douce fraîcheur</l>
+<l>De ces bois s’élève.</l>
+<l>Sous ces arbres verts,</l> <pb n="288" xml:id="p293"/>
+<l>Qu’un vent frais balancé,</l>
+<l>J’entends en silence</l>
+<l>Leurs légers concerts :</l>
+<l>Mollement bercée,</l>
+<l>La voûte pressée</l>
+<l>En dôme orgueilleux</l>
+<l>Serre son ombrage,</l>
+<l>Et puis s’entr’ouvrant,</l>
+<l>Du ciel lentement</l>
+<l>Découvre l’image.</l>
+<l>Là, des nuits l’azur</l>
+<l>Dans un cristal pur</l>
+<l>Déroule ses voiles</l>
+<l>Et le flot brillant</l>
+<l>Coule en sommeillant</l>
+<l>Sur un lit d’étoiles.</l>
+</lg>
+       <lg>
+        <l>O charme nouveau !</l>
+<l>Le son du pipeau</l>
+<l>Dans l’air se déploie,</l>
+<l>Et du fond des bois</l>
+<l>M’apporte à la fois</l>
+<l>L’amour et la joie.</l>
+<l>Près des ruisseaux clairs,</l>
+<l>Au chaume d’Adèle</l>
+<l>Le pasteur fidèle</l>
+<l>Module ses airs.</l>
+<l>Tantôt il soupire,</l>
+<l>Tantôt il désire,</l>
+<l>Se tait : tour à tour</l>
+<l>Sa simple cadence</l>
+<l>Me peint son amour</l>
+<l>Et son innocence.</l>
+<l>Dans son lit heureux</l>
+<l>La pauvre attentive</l>
+<l>Écoute, pensive,</l>
+<l>Ces sons dangereux :</l>
+<l>Le drap qui la couvre</l>
+<l>Loin d’elle a roulé,</l>
+<l>Et son œil troublé</l>
+<l>Mollement s’enlr’ouvre.</l>
+<l>Tout entière au bruit</l>
+<l>Qui, pendant la nuit,</l>
+<l>La charme et l’accuse,</l>
+<l>Adèle au vainqueur</l> <pb n="289" xml:id="p294"/>
+<l>Son aveu refuse,</l>
+<l>Et donne son cœur.</l>
+</lg>
+      </div>
+    
+      
+      <div type="poem">
+       <head>Septième tableau. Le printemps, l’été et l’hiver</head>
+       <lg>
+        <l>Vallée au nord, onduleuse prairie,</l>
+<l>Déserts charmants, mon cœur, formé pour vous,</l>
+<l>Toujours vous cherche en sa mélancolie.</l>
+<l>A ton aspect, solitude chérie,</l>
+<l>Je ne sais quoi de profond et de doux</l>
+<l>Vient s’emparer de mon âme attendrie.’</l>
+<l>Si l’on savait le calme qu’un ruisseau</l>
+<l>En tous mes sens porte avec son murmure,</l>
+<l>Ce calme heureux que j’ai sur la verdure</l>
+<l>Goûté cent fois seul au pied d’un coteau,</l>
+<l>Les froids amants du froid séjour des villes</l>
+<l>Rechercheraient ces voluptés faciles.</l>
+</lg>
+       
+       <lg>
+        <l>Si le printemps les champs vient émailler,</l>
+<l>Dans un coin frais de ce vallon paisible</l>
+<l>Je lis assis sous le rameux noyer,</l>
+<l>Au rude tronc, au feuillage flexible.</l>
+<l>Du rossignol le suave soupir</l>
+<l>Enchaîne alors mon oreille captive,</l>
+<l>Et, dans un songe au-dessus du plaisir,</l>
+<l>Laisse flotter mon âme fugitive.</l>
+<l>Au fond d’un bois quand l’été va durant,</l>
+<l>Est-il une onde aimable et sinueuse</l>
+<l>Qui, dans son cours, lente et voluptueuse,</l>
+<l>A chaque fleur s’arrête en soupirant ?</l>
+<l>Cent fois au bord de cette onde infidèle</l>
+<l>J’irai dormir sous le coudre odorant,</l>
+<l>Et disputer de paresse avec elle.</l>
+</lg>
+       
+       <lg>
+        <l>Sous le saule nourri de ta fraîcheur amie,</l>
+<l>Fleuve témoin de mes soupirs,</l>
+<l>Dans ces prés émaillés, au doux bruit des zéphyrs,</l>
+<l>Ton passage offre ici l’image de la vie.</l>
+<l>En des vallons déserts, au sortir de ces fleurs,</l>
+<l>Tu conduis les ondes errantes :</l>
+<l>Ainsi nos heures inconstantes</l>
+<l>Passent des plaisirs aux douleurs,</l> <pb n="290" xml:id="p295"/>
+<l>Mais si voluptueux, du moins dans notre course,</l>
+<l>Du printemps nous savons jouir,</l>
+<l>Nos jours plus doucement s’éloignent de leur source,</l>
+<l>Emportant avec eux un tendre souvenir :</l>
+<l>Ainsi tu vas moins triste au rocher solitaire</l>
+<l>Vers ces bois où tu fuis toujours,</l>
+<l>Si de ces prés ton heureux cours</l>
+<l>Entraîne quelque fleur légère.</l>
+</lg>
+       
+       <lg>
+        <l>De mon esprit ainsi l’enchantement</l>
+<l>Naît et s’accroît pendant tout un feuillage.</l>
+<l>L’aquilon vient, et l’on voit tristement</l>
+<l>L’arbre isolé, sur le coteau sauvage,</l>
+<l>Se balancer au milieu de l’orage.</l>
+<l>De blancs oiseaux en troupes partagés</l>
+<l>Quittent les bords de l’Océan antique :</l>
+<l>Tous, en silence à la file rangés,</l>
+<l>Fendent l’azur d’un ciel mélancolique.</l>
+<l>J’erre aux forêts où pendent les frimas :</l>
+<l>Interrompu par le bruit de la feuille</l>
+<l>Que lentement je traîne sous mes pas,</l>
+<l>Dans ses pensers mon esprit se recueille.</l>
+</lg>
+       
+       <lg>
+        <l>Qui le croirait ? plaisirs solacieux,</l>
+<l>Je vous retrouve en ce grand deuil des deux :</l>
+<l>L’habit de veuve embellit la nature.</l>
+<l>Il est un charme à des bois sans parure :</l>
+<l>Ces prés riants entourés d’aulnes verts,</l>
+<l>Où l’onde molle énerve la pensée,</l>
+<l>Où sur les fleurs l’âme rêve, bercée</l>
+<l>Aux doux accords du feuillage et des airs ;</l>
+<l>Ces prés riants que l’aquilon moissonne</l>
+<l>Plaisent aux cœurs. Vers la terre courbés,</l>
+<l>Nous imitons, ou flétris ou tombés,</l>
+<l>L’herbe en hiver et la feuille en automne.</l>
+</lg></div>
+       
+       
+       <div><head>Huitème tableau. La mer.</head>
+        <lg><l>Des vastes mers tableau philosophique ;</l>
+<l>Tu plais au cœur de chagrins agité :</l>
+<l>Quand de ton sein par les vents tourmenté,</l>
+<l>Quand des écueils et des grèves antiques</l>
+<l>Sortent des bruits, des voix mélancoliques,</l> <pb n="291" xml:id="p296"/>
+<l>L’âme attendrie en ses rêves se perd,</l>
+<l>Et, s’égarant de penser en penser,</l>
+<l>Comme les flots de murmure en murmure,</l>
+<l>Elle se mêle à toute la nature :</l>
+<l>Avec les vents, dans le fond des déserts,</l>
+<l>Elle gémit le long des bois sauvages,</l>
+<l>Sur l’Océan vole avec les orages,</l>
+<l>Gronde en la foudre, et tonne dans les mers.</l>
+<l>Mais quand le jour sur les vagues tremblantes</l>
+<l>S’en va mourir ; quand, souriant encor,</l>
+<l>Le vieux soleil glace de pourpre et d’or</l>
+<l>Le vert changeant des mers étincelantes,</l>
+<l>Dans des lointains fuyants et veloutés,</l>
+<l>En enfonçant ma pensée et ma vue,</l>
+<l>J’aime à créer des mondes enchantés,</l>
+<l>Baignés des eaux d’une mer inconnue.</l>
+<l>L’ardent désir, des obstacles vainqueur,</l>
+<l>Trouve, embellit des rives bocagères,</l>
+<l>Des lieux de paix, des îles de bonheur,</l>
+<l>Où transporté par les douces chimères,</l>
+<l>Je m’abandonne aux songes de mon cœur.</l>
+</lg>
+      </div>
+      
+      
+      <div type="poem">
+       <head>Neuvième tableau. L’amour de la campagne</head>
+       <lg>
+        <l>Que de ces prés l’émail plaît à mon cœur !</l>
+<l>Que de ces bois l’ombrage m’intéresse !</l>
+<l>Quand je quittai cette onde enchanteresse,</l>
+<l>L’hiver régnait dans toute sa fureur.</l>
+</lg>
+       
+       <lg>
+        <l>Et cependant mes yeux demandaient ce rivage ;</l>
+<l>Et cependant d’ennuis, de chagrins dévoré,</l>
+<l>Au milieu des palais, d’hommes froids entouré,</l>
+<l>Je regrettais partout mes amis du village.</l>
+<l>Mais le printemps me rend mes champs et mes beaux jours.</l>
+<l>Vous m’allez voir encore, ô verdoyantes plaines,</l>
+<l>Assis nonchalamment auprès de vos fontaines,</l>
+<l>Un Tibulle à la main, me nourrissant d’amours.</l>
+<l>Fleuve de ces vallons, là, suivant tes détours,</l>
+<l>J’irai seul et content gravir ce mont paisible ;</l>
+<l>Souvent tu me verras, inquiet et sensible,</l>
+<l>Arrêté sur tes bords en regardant ton cours.</l>
+</lg>
+       
+       <lg>
+        <l>J’y veux terminer ma carrière ;</l> <pb n="292" xml:id="p297"/>
+<l>Rentré dans la nuit des tombeaux,</l>
+<l>Mon ombre, encor tranquille et solitaire,</l>
+<l>Dans les forêts cherchera le repos.</l>
+<l>Au séjour des grandeurs mon nom mourra sans gloire ;</l>
+</lg>
+       
+       <lg>
+        <l>Mais il vivra longtemps sous les toits de roseaux ;</l>
+<l>Mais d’âge en âge, en gardant leurs troupeaux,</l>
+<l>Des bergers attendris feront ma courte histoire :</l>
+</lg>
+       
+       <lg>
+        <l>Notre ami, diront-ils, naquit sous ce berceau ;</l>
+<l>Il commença sa vie à l’ombre de ces chênes ;</l>
+<l>II la passa couché près de celte eau,</l>
+<l>Et sous les fleurs sa tombe est dans ces plaines <ref target="#note1462">1</ref>. »</l>
+</lg>
+      </div>
+     
+      
+      <div type="poem">
+       <head>Dixième et dernier tableau. Les adieux.</head>
+       <lg>
+        <l>Le temps m’appelle : il faut finir ces vers.</l>
+<l>A ce penser défaillit mon courage.</l>
+<l>Je vous salue, ô vallons que je perds !</l>
+<l>Écoutez-moi : c’est mon dernier hommage.</l>
+<l>Loin, loin d’ici, sur la terre égaré,</l>
+<l>Je vais traîner une importune vie ;</l>
+<l>Mais, quelque part que j’habite ignoré,</l>
+<l>Ne craignez point qu’un ami vous oublie.</l>
+<l>Oui, j’aimerai ce rivage enchanteur,</l>
+<l>Ces monts déserts qui remplissaient mon cœur</l>
+<l>Et de silence et de mélancolie ;</l>
+<l>Surtout ces bois chers à ma rêverie,</l>
+<l>Où je voyais, de buisson en buisson,</l>
+<l>Voler sans bruit un couple solitaire,</l>
+<l>Dont j’entendais, sous l’orme héréditaire,</l>
+<l>Seul, attendri, la dernière chanson.</l>
+<l>Simples oiseaux, retiendrez-vous la mienne ?</l>
+<l>Parmi ces bois, ah ! qu’il vous en souvienne.</l>
+<l>En te quittant je chante tes attraits,</l>
+<l>Bord adoré ! de ton maître fidèle</l>
+<l>Si les talents égalaient les regrets,</l>
+<l>Ces derniers vers n’auraient point de modèle.</l>
+<l>Mais aux pinceaux de la nature épris</l>
+<l>La gloire échappe et n’en est point le prix.</l>
+<l>Ma Muse est simple, et rougissante, et nue ;</l> <pb n="293" xml:id="p298"/>
+<l>Je dois mourir ainsi que l’humble fleur</l>
+<l>Qui passe à l’ombre et seulement connue</l>
+<l>De ces ruisseaux qui faisaient son bonheur.</l>
+</lg>
+      </div>
+     </div>
+      <div><head>Les tombeaux champêtres.</head>
+      
+       <div type="poem"><head>Élégie imitée de Grat<ref target="#note1463">1</ref>.</head>
+      
+      <opener><dateline>Londres, 1796.</dateline></opener>
+      
+       <lg>
+        <l>Dans les airs frémissants j’entends le long murmure</l>
+<l>De la cloche du soir qui tinte avec lenteur.</l>
+<l>Les troupeaux en bêlant errent sur la verdure ;</l>
+<l>Le berger se retire, et livre la nature</l>
+<l>A la nuit solitaire, à mon penser rêveur.</l>
+</lg>
+       
+       <lg>
+        <l>Dans l’orient d’azur l’astre des nuits s’avance,</l>
+<l>Et tout l’air se remplit d’un calme solennel.</l>
+<l>Du vieux temple, verdi sous ce lierre immortel,</l>
+<l>L’oiseau de la nuit seul trouble le grand silence.</l>
+<l>On n’entend que le bruit de l’insecte incertain,</l>
+<l>Et quelquefois encore, au travers de ces hêtres,</l>
+<l>Les sons interrompus des sonnettes champêtres</l>
+<l>Du troupeau qui s’endort sur le coteau lointain.</l>
+</lg>
+       
+       <lg>
+        <l>Dans ce champ où l’on voit l’herbe mélancolique</l>
+<l>Flotter sur les sillons que forment ces tombeaux,</l>
+<l>Les rustiques aïeux de nos humbles hameaux,</l>
+<l>Au bruit du vent des nuits, dorment sous l’if antique.</l>
+<l>De la jeune Progné le ramage confus,</l>
+<l>Du zéphyr, au matin, la voix fraîche et céleste,</l>
+<l>Les chants perçants du coq ne réveilleront plus</l>
+<l>Ces bergers endormis sous cette couche agreste.</l>
+<l>Près de l’âtre brûlant une épouse modeste</l>
+<l>N’apprête plus pour eux le champêtre repas ;</l>
+<l>Jamais à leur retour ils ne verront, hélas !</l>
+<l>D’enfants au doux parler une troupe légère,</l>
+<l>Entourant leurs genoux et retardant leurs pas,</l>
+<l>Se disputer l’amour et les baisers d’un père.</l>
+</lg>
+       
+       <lg>
+        <l>Souvent, ô laboureurs ! Cérès mûrit pour vous</l>
+<l>Les flottantes moissons dans les champs qu’elle dore</l>
+<l>Souvent avec fracas tombèrent sous vos coups</l>
+<l>Les pins retentissants dans la forêt sonore.</l>
+<l>En vain l’ambition, qu’enivre ses désirs,</l> <pb n="294" xml:id="p299"/>
+<l>Méprise et vos travaux et vos simples loisirs :</l>
+<l>Eh ! que sont les honneurs ? l’enfant de la victoire,</l>
+<l>Le paisible mortel qui conduit un troupeau,</l>
+<l>Meurent également ; et les pas de la gloire,</l>
+<l>Comme ceux du plaisir, ne mènent qu’au tombeau.</l>
+<l>Qu’importe que pour nous de vains panégyriques</l>
+<l>D’une voix infidèle aient enflé les accents ?</l>
+<l>Les bustes animés, les pompeux monuments</l>
+<l>Font-ils parler des morts les muettes reliques ?</l>
+</lg>
+       
+       <lg>
+        <l>Jetés loin des hasards qui forment la vertu,</l>
+<l>Glacés par l’indigence aux jours qu’ils ont vécu,</l>
+<l>Peut-être ici la mort enchaîne en son empire</l>
+<l>De rustiques Newtons de la terre ignorés,</l>
+<l>D’illustres inconnus dont les talents sacrés</l>
+<l>Eussent charmé lès dieux sur le luth qui respire :</l>
+<l>Ainsi brille la perle au fond des vastes mers ;</l>
+<l>Ainsi meurent aux champs des roses passagères</l>
+<l>Qu’on ne voit point rougir, et qui, loin des bergères,</l>
+<l>D’inutiles parfums embaument les déserts.</l>
+</lg>
+       
+       <lg>
+        <l>Là, dorment dans l’oubli des poètes sans gloire,</l>
+<l>Des orateurs sans voix, des héros sans victoire :</l>
+<l>Que dis-je ! des Titus faits pour être adorés.</l>
+<l>Mais si le sort voila tant de vertus sublimes</l>
+<l>Sous ces arbres en deuil, combien aussi de crimes</l>
+<l>Le silence et la mort n’ont-ils point dévorés !</l>
+<l>Loin d’un monde trompeur, ces bergers sans envie,</l>
+<l>Emportant avec eux leurs tranquilles vertus,</l>
+<l>Sur le fleuve du temps passagers inconnus,</l>
+<l>Traversèrent sans bruit les déserts de la vie.</l>
+<l>Une pierre, aux passants demandant un soupir,</l>
+<l>Du naufrage des ans a sauvé leur mémoire ;</l>
+<l>Une muse ignorante y grava leur histoire,</l>
+<l>Et le texte sacré qui nous aide à mourir.</l>
+</lg>
+       
+       <lg>
+        <l>En fuyant pour toujours les champs de la lumière,</l>
+<l>Qui ne tourne la tête au bout de la carrière ?</l>
+<l>L’homme qui va passer cherche un secours nouveau :</l>
+<l>Que la main d’un ami, que ses soins chers et tendres</l>
+<l>Entr’ouvrent doucement la pierre du tombeau !</l>
+<l>Le feu de l’amitié vit encor dans nos cendres.</l>
+</lg>
+       
+       <lg>
+        <l>Pour moi, qui célébrai ces tombes sans honneurs,</l>
+<l>Si quelque voyageur, attiré sur ces rives</l>
+<l>Par l’amour du rêver et le charme des pleurs,</l>
+<l>S’informe de mon sort dans ses courses pensives,</l> <pb n="295" xml:id="p300"/>
+<l>Peut-être un vieux pasteur, en gardant ses troupeaux,</l>
+<l>Lui fera simplement mon histoire en ces mots :</l>
+</lg>
+       
+       <lg>
+        <l>« Souvent nous l’avons vu, dans sa marche posée,</l>
+<l>Au souris du matin, dans l’orient vermeil,</l>
+<l>Gravir les frais coteaux à travers la rosée,</l>
+<l>Pour admirer au loin le lever du soleil.</l>
+<l>Là-bas, près du ruisseau, sur la mousse légère,</l>
+<l>A l’ombre du tilleul que baigne le courant,</l>
+<l>Immobile il rêvait, tout le jour demeurant</l>
+<l>Les regards attachés sur l’onde passagère.</l>
+<l>Quelquefois dans les bois il méditait ses vers</l>
+<l>Au murmure plaintif du feuillage et des airs.</l>
+<l>Un matin nos regards, sous l’arbre centenaire</l>
+<l>Le cherchèrent en vain au repli du ruisseau ;</l>
+<l>L’aurore reparut ; et l’arbre et le coteau,</l>
+<l>Et la bruyère ncore, tout était solitaire.</l>
+<l>Le jour suivant, hélas ! à la file allongé,</l>
+<l>Un convoi s’avança par le chemin du temple,</l>
+<l>Approche, voyageur ! lis ces vers, et contemple</l>
+<l>Ce triste monument que la mousse a rongé. »</l>
+</lg></div>
+       <div><head>Épitaphe.</head>
+       
+       <lg>
+        <l>Ici dort, à l’abri des orages du monde,</l>
+<l>Celui qui fut longtemps jouet de leur fureur.</l>
+<l>Des forêts il chercha la retraite profonde,</l>
+<l>Et la mélancolie habita dans son cœur.</l>
+<l>De l’amitié divine il adora les charmes ;</l>
+<l>Aux malheureux donna tout ce qu’il eut, des larmes »</l>
+<l>Passant, ne porte point un indiscret flambeau</l>
+<l>Dans l’abîme où la mort le dérobe à ta vue</l>
+<l>Laisse-le reposer sur la rive inconnue,</l>
+<l>De l’autre côté du tombeau.</l>
+</lg></div></div>
+       <div><head>À Lydie. Imitation d’Alcée, poète grec.</head>
+       
+       <opener><dateline>Londres 1797.</dateline></opener>
+       <lg>
+        <l>Lydie, es-tu sincère ? excuse mes alarmes i</l>
+<l>Tu t’embellis en accroissant mes feux ;</l>
+<l>Et le même moment qui t’apporte des charmes</l>
+<l>Ride mon front et blanchit mes cheveux.</l>
+</lg>
+       
+       <pb n="296" xml:id="p301"/>
+       <lg>
+        <l>Au matin de tes ans, de la foule chérie,</l>
+<l>Tout est pour toi joie, espérance, amour :</l>
+<l>Et moi, vieux voyageur, sur ta route fleurie</l>
+<l>Je marche seul et vois finir le jour.</l>
+</lg>
+       
+       <lg>
+        <l>Ainsi qu’un doux rayon, quand ton regard humide</l>
+<l>Pénètre au fond de mon cœur ranimé,</l>
+<l>J’ose à peine effleurer d’une lèvre timide</l>
+<l>De ton beau front le voile parfumé.</l>
+</lg>
+       
+       <lg>
+        <l>Tout à la fois honteux et fier de ton caprice,</l>
+<l>Sans croire en toi je m’en laisse enivrer.</l>
+<l>J’adore tes attraits, mais je me rends justice :</l>
+<l>Je sens l’amour, et ne puis l’inspirer.</l>
+</lg>
+       
+       <lg>
+        <l>Parque ! enchantement ai-je pu te séduire ?</l>
+<l>N’aurais-tu point, dans mon dernier soleil,</l>
+<l>Cherché l’astre de feu qui sur moi semblait luire</l>
+<l>Quand de Sapho je chantais le réveil ?</l>
+</lg>
+       
+       <lg>
+        <l>Je n’ai point le talent qu’on encense au Parnasse :</l>
+<l>Eussé-je un temple au sommet d’Hélicon,</l>
+<l>Le talent ne rend point ce que le temps efface ;</l>
+<l>La gloire, hélas ! ne rajeunit qu’un nom.</l>
+</lg>
+       
+       <lg>
+        <l>Le <hi rend="i">Guerrier de Samos,</hi> le <hi rend="i">Berger d’Alphélie</hi> <ref target="#note1464">1</ref>,</l>
+<l>Mes fils ingrats, m’ont-ils ravi ta foi ?</l>
+<l>Ton admiration me blesse et m’humilie :</l>
+<l>Le croirais-tu ? je suis jaloux de moi.</l>
+</lg>
+       
+       <lg>
+        <l>Que m’importe de vivre au delà de ma vie ?</l>
+<l>Qu’importe un nom par la mort publié ?</l>
+<l>Pour moi-même un moment aime-moi, ma Lydie,</l>
+<l>Et que je sois à jamais oublié !</l>
+</lg></div>
+       <div type="poem"><head>Milton et Davenant.</head>
+       <opener><dateline> Londres, 1797. </dateline></opener>
+       <lg>
+        <l>Charles avait péri : des bourreaux-commissaires,</l>
+<l>Des lois qu’on appelait révolutionnaires,</l>
+<l>L’exil et l’échafaud, la confiscation…</l>
+<l>C’était la France enfin sous la Convention.</l>
+</lg>
+       
+       <lg>
+        <l>Dans les nombreux suivants de l’étendard du crime,</l>
+<l>L’Angleterre voyait un homme magnanime :</l> <pb n="297" xml:id="p302"/>
+<l>Milton, le grand Milton (pleurons sur les humains !)</l>
+<l>Prodiguait son génie à de sots puritains ;</l>
+<l>Il détestait surtout, dans son indépendance,</l>
+<l>Ce parti malheureux qu’une noble constance</l>
+<l>Attachait à son roi. Par ce zèle cruel,</l>
+<l>Milton s’était flétri des honneurs de Cronrvvell.</l>
+</lg>
+       
+       <lg>
+        <l>Un matin que du sang il avait appétence,</l>
+<l>Des prédicants-soldats traînent en sa présence</l>
+<l>Un homme jeune encor, mais dont le front pâli</l>
+<l>Est prématurément par le chagrin vieilli,</l>
+<l>Un royaliste enfin. Dans le feu qui l’anime,</l>
+<l>Milton d’un œil brûlant mesure sa victime,</l>
+<l>Qui, loin d’être sensible à ses propres malheurs,</l>
+<l>Semble admirer son juge et plaindre ses erreurs.</l>
+<l>Dis-nous quel est ton nom, sycophante d’un maître,</l>
+<l>Vassal au double cœur d’un esclave et d’un traître.</l>
+<l>Réponds-moi. – Mon nom est Davenant. » À ce nom</l>
+<l>Vous eussiez vu soudain le terrible Milton</l>
+<l>Tressaillir, se lever, et, renversant son siège,</l>
+<l>Courir au prisonnier que la cohorte assiège.</l>
+</lg>
+       
+       <lg>
+        <l>Ton nom est Davenant, dis-tu ? ce nom chéri !</l>
+<l>Serais-tu ce mortel par les Muses nourri</l>
+<l>Qui, dans les bois sacrés égarant sa jeunesse,</l>
+<l>Enchanta de ses vers les rives du Permesse ? »</l>
+</lg>
+       
+       <lg>
+        <l>Davenant repartit : « Il est vrai qu’autrefois</l>
+<l>La lyre d’Aoni a frémi sous mes doigts. »</l>
+</lg>
+       
+       <lg>
+        <l>A ces mots, répandant une larme pieuse,</l>
+<l>Oubliant des témoins la présence envieuse,</l>
+<l>Milton serre la main du poëte admiré.</l>
+<l>Et puis de cette voix, de ce ton inspiré</l>
+<l>Qui d’Eve raconta les amours ineffables :</l>
+<l>Tu vivras, peintre heureux des élégantes fables,</l>
+<l>J’en jure par les arts qui nous avaient unis,</l>
+<l>Avant que d’Albion le sort les eût bannis.</l>
+<l>A des cœurs embrasés d’une flamme si belle,</l>
+<l>Eh ! qu’importe d’un Pym la vulgaire querelle ?</l>
+<l>La mort frappe au hasard les princes, les sujets j</l>
+<l>Mais les beaux vers, voilà ce qui ne meurt jamais,</l>
+<l>Soit qu’on chante le peuple ou le tyran injuste :</l>
+<l>Virgile est immortel en célébrant Auguste ?</l>
+<l>Quoi ! la loi frapperait de son glaive irrité</l>
+<l>Un enfant d’Apollon ?… Non, non, postérité !</l>
+<l>Soldats, retirez-vous ; merci de votre zèle.</l> <pb n="298" xml:id="p303"/>
+<l>Cet homme est sûrement un citoyen fidèle,</l>
+<l>Un grand républicain : je sais de bonne part</l>
+<l>Qu’il s’est fort réjoui de la mort de Stuart.</l>
+<l>– Non ! » criait Davenant que ce reproche touche.</l>
+<l>Mais Milton, de sa main en lui couvrant la bouche,</l>
+<l>Au fond d’un cabinet le pousse tout d’abord,</l>
+<l>L’enferme à double tour, puis avec un peu d’or</l>
+<l>Éconduit poliment la horde jacobine.</l>
+</lg>
+       
+       <lg>
+        <l>Vers son hôte captif ensuite il s’achemine,</l>
+<l>Fait apporter du vin qu’il lui verse à grands flots,</l>
+<l>Sème le déjeuner d’agréables propos :</l>
+<l>De politique point, mais beaucoup de critiques</l>
+<l>Sur l’esprit des Latins et les grâces attiques.</l>
+<l>Davenant récita l’idylle du <hi rend="i">Ruisseau ;</hi>
+</l>
+<l>Milton lui repartit par le vif <hi rend="i">Allegro,</hi>
+</l>
+<l>Du doux <hi rend="i">Penseroso</hi> redit le chant si triste,</l>
+<l>Et déclama les chœurs du <hi rend="i">Samson agoniste.</hi>
+</l>
+<l>Les poètes, charmés de leurs talents divers,</l>
+<l>Se quittèrent enfin, en murmurant leurs vers.</l>
+</lg>
+       
+       <lg>
+        <l>Cependant, fatigué de ces longues misères,</l>
+<l>Le peuple soupirait pour les lois de ses pères :</l>
+<l>Il rappela son roi ; les crimes refrénés</l>
+<l>Furent par un édit sagement pardonnes.</l>
+<l>On excepta pourtant quelques hommes perfides,</l>
+<l>Complices et fauteurs des sanglants régicides :</l>
+<l>Milton, au premier rang, s’était placé parmi.</l>
+</lg>
+       
+       <lg>
+        <l>Dénoncé par sa gloire, au toit d’un vieil ami</l>
+<l>Il avait espéré trouver ombre et silence.</l>
+<l>De son sort une nuit il pesait l’inconstance :</l>
+<l>D’une lampe empruntée à la tombe des morts,</l>
+<l>La lueur pâlissante éclairait ses remords.</l>
+<l>Il entend tout à coup vers la douzième heure</l>
+<l>Heurter de son logis la porte extérieure ;</l>
+<l>Les verrous sont brisés par de nombreux soldats.</l>
+<l>La fille de Milton accourt ; on suit ses pas.</l>
+<l>Dans l’asile secret un chef se précipite :</l>
+<l>Un chapeau, de ses yeux venant toucher l’orbite,</l>
+<l>Voile à demi ses traits ; il a les yeux remplis</l>
+<l>De larmes qu’un manteau reçoit dans ses replis.</l>
+</lg>
+       
+       <lg>
+        <l>Milton ne le voit point : privé de la lumière,</l>
+<l>La nuit règne à jamais sous sa triste paupière.</l>
+<l>Eh bienl que me veut-on ? dit le chantre d’Adam.</l>
+<l>Parlez : faut-il mourir ? – C’est encor Davenant, »</l> <pb n="299" xml:id="p304"/>
+<l>Répond l’homme au manteau. Milton soudain s’écrie :</l>
+<l>O noire trahison ! moi qui sauvai ta vie !</l>
+</lg>
+       
+       <lg>
+        <l>– Oui, repart le poète interdit, rougissant ;</l>
+<l>Mais vous êtes coupable, et j’étais innocent.</l>
+<l>Ferme stoïcien, montrez votre courage !</l>
+<l>Mon vieil ami, la mort est le commun partage :</l>
+<l>Ou plus tôt ou plus tard, le trajet est égal</l>
+<l>Pour tous les voyageurs. Voici l’ordre fatal. »</l>
+<l>La fille de Milton, objet rempli de charmes,</l>
+<l>Ouvre l’affreux papier, qu’elle baigne de larmes :</l>
+<l>C’est elle qui souvent dans un docte entretien</l>
+<l>Relit le viel Homère à l’Homère chrétien ;</l>
+<l>Et des textes sacrés, interprète modeste,</l>
+<l>A son père elle rend la lumière céleste,</l>
+<l>En échange du jour qu’elle reçut de lui.</l>
+<l>Au chevet paternel empruntant un appui,</l>
+<l>D’une voix altérée elle lit la sentence :</l>
+<l>
+<hi rend="i">Voulant à la justice égaler la clémence,</hi>
+</l>
+<l>
+<hi rend="i">Il nous plaît d’octroyer, de pleine autorité,</hi>
+</l>
+<l>
+<hi rend="i">A Davenant, pour prix de sa fidélité,</hi>
+</l>
+<l>
+<hi rend="i">La grâce de Milton.</hi> CHARLES. »</l>
+<l>Qu’on se figure</l>
+<l>Les transports que causa la touchante aventure,</l>
+<l>Combien furent de pleurs dans Londres répandus</l>
+<l>Pour les talents sauvés et les bienfaits rendus !</l>
+</lg></div>
+       <div type="poem"><head>Clarisse. Imitation d’un poète écossais.</head>
+       <opener><dateline> Londres, 1797.</dateline></opener>
+       <lg>
+        <l>Oui, je me plais, Clarisse, à la saison tardive,</l>
+<l>Image de cet âge où le temps m’a conduit ;</l>
+<l>Du vent à tes foyers j’aime la voix plaintive</l>
+<l>Durant la longue nuit.</l>
+</lg>
+       
+       <lg>
+        <l>Philomèle a cherché des climats plus propices ;</l>
+<l>Progné fuit à son tour : sans en être attristé,</l>
+<l>Des beaux jours près de toi retrouvant les délices,</l>
+<l>Ton vieux cygne est resté.</l>
+</lg>
+       
+       <lg>
+        <l>Viens, dans ces champs déserts où la bise murmure,</l>
+<l>Admirer le soleil qui s’éloigne de nous ;</l>
+<l>Viens goûter de ces bois qui perdent leur parure</l>
+<l>Le charme triste et doux.</l>
+</lg>
+       
+       <pb n="300" xml:id="p305"/>
+       <lg>
+        <l>Des feuilles que le vent détache avec ses ailes</l>
+<l>Voltige dans les airs le défaillant essaim :</l>
+<l>Ah ! puissé-je en mourant me reposer comme elles</l>
+<l>Un moment sur ton sein !</l>
+</lg>
+       
+       <lg>
+        <l>Pâle et dernière fleur qui survit à Pomone,</l>
+<l>La Veilleuse<ref target="#note1465">1</ref> en ces prés peint mon sort et ma foi :</l>
+<l>De mes ans écoulés tu fais fleurir l’automne,</l>
+<l>Et je veille pour toi.</l>
+</lg>
+       
+       <lg>
+        <l>Ce ruisseau sous tes pas cache au sein de la terre</l>
+<l>Son cours silencieux et ses flots oubliés :</l>
+<l>Que ma vie inconnue, obscure et solitaire,</l>
+<l>Ainsi passe à tes pieds !</l>
+</lg>
+       
+       <lg>
+        <l>Aux portes du couchant le ciel se décolore ;</l>
+<l>Le jour n’éclaire plus notre aimable entretien :</l>
+<l>Mais est-il un sourire aux lèvres de l’Aurore</l>
+<l>Plus charmant que le tien ?</l>
+</lg>
+       
+       <lg>
+        <l>L’astre des nuits s’avance en chassant les orages :</l>
+<l>Clarisse, sois pour moi l’astre calme et vainqueur</l>
+<l>Qui de mon front troublé dissipe les nuages,</l>
+<l>Et fait rêver mon cœur.</l>
+</lg></div>
+       <div type="poem"><head>L’Esclave.</head>
+        <opener><dateline>Tonis, 1807</dateline></opener>
+       <lg>
+        <l>Le vigilant derviche à la prière appelle</l>
+<l>Du haut des minarets teints des feux du couchant.</l>
+<l>Voici l’heure du lion qui poursuit la gazelle :</l>
+<l>Une rose au jardin moi je m’en vais cherchant.</l>
+<l>Musulmane aux longs yeux d’un maître que je brave,</l>
+<l>Fille délicieuse, amante des concerts,</l>
+<l>Est-il un sort plus doux que d’être ton esclave,</l>
+<l>Toi que je sers, toi que je sers ?</l>
+</lg>
+       
+       <lg>
+        <l>Jadis, lorsque mon bras faisait voler la prame</l>
+<l>Sur le fluide azur de l’abîme calmé,</l>
+<l>Du sombre désespoir les pleurs mouillaient ma rame :</l>
+<l>Un charme m’a guéri, j’aime et je suis aimé.</l>
+<l>Le noir rocher me plaît ; la tour que le flot lave</l>
+<l>Me sourit maintenant aux grèves de ces mers :</l>
+<l>Le flambeau du signal y luit pour ion esclave,</l>
+<l>Toi que je sers, loi que je sers !</l>
+</lg>
+       
+       <pb n="301" xml:id="p306"/>
+       <lg>
+        <l>Belle et divine es-tu dans toute ta parure,</l>
+<l>Quand la nuit au harem je glisse un pied furtif !</l>
+<l>Les tapis ; l’aloès, les fleurs et l’onde pure</l>
+<l>Sont par toi prodigués à ton jeune captif.</l>
+<l>Quel bonheur ! au milieu du péril que j’aggrave,</l>
+<l>T’entourer de mes bras, te parer de mes fers,</l>
+<l>Mêler à tes colliers l’anneau de ton esclave,</l>
+<l>Toi que je sers, toi que je sers !</l>
+</lg>
+       
+       <lg>
+        <l>Dans les sables mouvants, de ton blanc dromadaire</l>
+<l>Je reconnais de loin le pas sûr et léger ;</l>
+<l>Tu m’apparais soudain : un astre solitaire</l>
+<l>Est moins doux sur la vague au pauvre passager ;</l>
+<l>Du matin parfumé le souffle est moins suave,</l>
+<l>Le palmier moins charmant au milieu des déserts.</l>
+<l>Quel sultan glorieux égale ton esclave,</l>
+<l>Toi que je sers, toi que je sers !</l>
+</lg>
+       
+       <lg>
+        <l>Mon pays, que j’aimais jusqu’à l’idolâtrie,</l>
+<l>N’est plus dans les soupirs de ma simple chanson :</l>
+<l>Je ne regrette plus ma mère et ma patrie ;</l>
+<l>Je crains qu’un prêtre saint n’apporte ma rançon.</l>
+<l>Ne m’affranchis jamais ! laisse-moi mon entrave !</l>
+<l>Oui, sois ma liberté, mon Dieu, mon univers !</l>
+<l>Viens sous tes beaux pieds nus, viens fouler ton esclave,</l>
+<l>Toi que je sers, toi que je sers !</l>
+</lg></div>
+       <div type="poem"><head>Nous verrons.</head>
+       <opener><dateline>Paris, 1810.</dateline></opener>
+       <lg>
+        <l>Le passé n’est rien dans la vie,</l>
+<l>Et le présent est moins encor :</l>
+<l>C’est à l’avenir qu’on se fie</l>
+<l>Pour nous donner joie et trésor.</l>
+<l>Tout mortel dans ses vœux devance</l>
+<l>Cet avenir où nous courons ;</l>
+<l>Le bonheur est en espérance ;</l>
+<l>On vit en disant : Nous verrons.</l>
+</lg>
+       
+       <lg>
+        <l>Mais cet avenir plein de charmes,</l>
+<l>Qu’est-il lorsqu’il est arrivé ?</l>
+<l>C’est le présent qui de nos larmes</l>
+<l>Malin et soir est abreuvé !</l>
+<l>Aussitôt que s’ouvre la scène</l>
+<l>Qu’avec ardeur nous désirons,</l> <pb n="302" xml:id="p307"/>
+<l>On bâille, on la regarde à peine ;</l>
+<l>On voit en disant : Nous verrons.</l>
+</lg>
+       
+       <lg>
+        <l>Ce vieillard penche vers la terre ;</l>
+<l>Il touche à ses derniers instants :</l>
+<l>Y pense-t-il ? Non, il espère</l>
+<l>Vivre encor soixante et dix ans.</l>
+<l>Un docteur, fort d’expérience</l>
+<l>Veut lui prouver que nous mourons,</l>
+<l>Le vieillard rit de la sentence,</l>
+<l>Et meurt en disant : Nous verrons.</l>
+</lg>
+       
+       <lg>
+        <l>Valère et Damis n’ont qu’une âme ;</l>
+<l>C’est le modèle des amis.</l>
+<l>Valère en un malheur réclame</l>
+<l>La bourse et les soins de Damis :</l>
+<l>Je viens à vous, ami sincère,</l>
+<l>Ou ce soir au fond des prisons…</l>
+<l>Quoi ! ce soir même ? – Oui ! – Cher Valère,</l>
+<l>Revenez demain : nous verrons. »</l>
+</lg>
+       
+       <lg>
+        <l>Gare ! faites place aux carrosses</l>
+<l>Où s’enfle l’orgueilleux manant</l>
+<l>Qui jadis conduisait deux rosses</l>
+<l>A trente sous, pour le passant !</l>
+<l>Le peuple, écrasé par la roue,</l>
+<l>Maudit l’enfant des Porcherons.</l>
+<l>Moi, du prince évitant la boue,</l>
+<l>Je me range, et dis : Nous verrons.</l>
+</lg>
+       
+       <lg>
+        <l>
+         <hi rend="i">Nous verrons</hi> est un mot magique</l>
+<l>Qui sert dans tous les cas fâcheux :</l>
+<l>Nous verrons, dit le politique ;</l>
+<l>Nous verrons, dit le malheureux.</l>
+<l>Les grands hommes de nos gazettes,</l>
+<l>Les rois du jour, les fanfarons,</l>
+<l>Les faux amis et les coquettes,</l>
+<l>Tout cela vous dit : Nous verrons.</l>
+</lg></div>
+       <div><head>Peinture de Dieu. Tiré de l’écriture</head>
+       <opener><dateline>Paris, 1810.</dateline></opener>
+       <lg>
+        <l>Savez-vous, ô pécheur ! quel est ce Dieu jaloux</l>
+<l>Quand l’œuvre de l’impie allume son courroux ?</l> <pb n="303" xml:id="p308"/>
+<l>Sur un char foudroyant il roule dans l’espace ;</l>
+<l>La Mort et le Démon volent devant sa face ;</l>
+<l>Les trois cieux dont il fait trembler l’immensité</l>
+<l>S’abaissent sous les pas de son éternité ;</l>
+<l>Le soleil pâlissant et la lune sanglante</l>
+<l>Marchent à la lueur de sa lance brûlante ;</l>
+<l>Des gouffres de l’enfer il fait sortir la nuit ;</l>
+<l>Il parle, et tout se tait ; la mer le voit et fuit,</l>
+<l>El l’Abîme, du fond des vagues tourmentées ;</l>
+<l>Lève en criant vers lui ses mains épouvantées.</l>
+<l>Au crime couronné ce Dieu redit : « Malheur ! »</l>
+<l>Et c’est le même Dieu qui bénit la douleur.</l>
+</lg></div>
+     
+      
+     
+      
+      <div type="poem">
+       <head>Pour le mariage de mon neveu.</head>
+       <opener><dateline>Au Ménil, 1812.</dateline></opener>
+       <lg>
+        <l>L’autel est prêt, la foule l’environne :</l>
+<l>Belle Zélie, il réclame la foi.</l>
+<l>Viens ! de ton front est la blanche couronne</l>
+<l>Moins virginale et moins pure que toi.</l>
+</lg>
+      
+<lg>
+<l>J’ai quelquefois peint la grâce ingénue,</l>
+<l>Et la pudeur sous ses voiles nouveaux :</l>
+<l>Ah ! si mes yeux plus tôt t’avaient connue,</l>
+<l>On aurait moins critiqué mes tableaux.</l>
+</lg>
+
+<lg>
+<l>Mon cher Louis, chez la race étrangère</l>
+<l>Tu n’iras point t’égarer comme moi :</l>
+<l>A qui la suit la fortune est légère ;</l>
+<l>Il faut l’attendre et l’enfermer chez soi.</l>
+</lg>
+
+<lg>
+<l>Cher orphelin, image de ta mère,</l>
+<l>Au ciel pour toi je demande ici-bas</l>
+<l>Les jours heureux retranchés à ton père,</l>
+<l>Et les enfants que ton oncle n’a pas.</l>
+</lg>
+
+<lg>
+<l>Fais de l’honneur l’idole de ta vie ;</l>
+<l>Rends tes aïeux fiers de leur rejeton,</l>
+<l>Et ne permets qu’à la seule Zélie</l>
+<l>Pour un moment de rougir à ton nom.</l>
+</lg>
+</div>
+<div type="poem">
+ <head>Pour la fête de Madame de ***</head>
+ <opener><dateline>Vorneuil, 1812</dateline></opener>
+<lg>
+<l>De tes amis vois la troupe fidèle</l>
+<l>Pour te fêter s’unir à tes enfants :</l> <pb n="304" xml:id="p309"/>
+<l>Tu nous parais toujours fraîche et nouvelle</l>
+<l>Comme la fleur qu’ils t’offrent tous les ans.</l>
+<l>Par la vertu quand la grâce est produite ;</l>
+<l>Son charme au temps ne peut être soumis ;</l>
+<l>Des jours pour toi nous seuls marquons la fuite :</l>
+<l>Tu restes jeune avec de vieux amis.</l>
+</lg>
+</div>
+<div type="poem">
+ <head>Vers trouvés sur le pont du Rhône</head>
+ <opener><dateline>1812.</dateline></opener>
+<lg>
+<l>Il est minuit, et tu sommeilles ;</l>
+<l>Tu dors, et moi je vais mourir.</l>
+<l>Que dis-je ? hélas ! peut-être que tu veilles !</l>
+<l>Pour qui ?… l’enfer me fera moins souffrir.</l>
+<l>Demain, quand, appuyée au bras de ta conquête,</l>
+<l>Lasse de trop d’amour et cherchant le repos,</l>
+<l>Tu passeras ce fleuve, avance un peu la tête,</l>
+<l>Et regarde couler ces flots.</l>
+</lg>
+</div>
+<div type="poem">
+ <head>Ode. Les malheurs de la Révolution</head>
+ <opener><dateline>Paris, 1813.</dateline></opener>
+<lg>
+<l>Sors des demeures souterraines,</l>
+<l>Néron, des humains le fléau !</l>
+<l>Que le triste bruit de nos chaînes</l>
+<l>Te réveille au fond du tombeau.</l>
+<l>Tout est plein de trouble et d’alarmes ;</l>
+<l>Notre sang coule avec nos larmes ;</l>
+<l>Ramper est la première loi :</l>
+<l>Nous traînons d’ignobles entraves ;</l>
+<l>On ne voit plus que des esclaves ;</l>
+<l>Viens, le monde est digne de toi.</l>
+</lg><lg>
+<l>Ils sont dévastés dans nos temples</l>
+<l>Les monuments sacrés des rois :</l>
+<l>Mon œil effrayé les contemple ;</l>
+<l>Je tremble et je pleure à la fois.</l>
+<l>Tandis qu’une fosse commune</l>
+<l>Des grandeurs et de la fortune</l>
+<l>Reçoit les funèbres lambeaux,</l>
+<l>Un spectre, à la voix menaçante,</l>
+<l>A percé la tombe récente</l>
+<l>Qui dévora les vieux tombeaux.</l> <pb n="305" xml:id="p310"/>
+<l>Sa main d’une pique est armée,</l>
+<l>Un bonnet cache son orgueil ;</l>
+<l>Par la mort sa vue est charmée :</l>
+</lg><lg>
+<l>Il cherche un tyran <ref target="#note1466">1</ref> au cercueil.</l>
+<l>Courbé sur la poudre insensible,</l>
+<l>Il saisit un sceptre terrible</l>
+<l>Qui du lis a flétri la fleur ;</l>
+<l>Et d’une couronne gothique</l>
+<l>Chargeant son bonnet anarchique,</l>
+<l>Il se fait roi de la douleur.</l>
+<l>Voilà le fantôme suprême,</l>
+<l>Français, qui va régner sur vous.</l>
+<l>Du républicain diadème</l>
+<l>Portez le poids léger et doux,</l>
+<l>L’anarchie et le despotisme</l>
+<l>Au vil autel de l’athéisme</l>
+<l>Serrent un nœud ensanglanté ;</l>
+<l>Et, s’embrassant dans l’ombre impure,</l>
+<l>Ils jouissent de la torture</l>
+<l>De leur double stérilité.</l>
+<l>L’échafaud, la torche fumante,</l>
+<l>Couvrent nos campagnes de deuil :</l>
+<l>La Révolution béante</l>
+<l>Engloutit le fils et l’aïeul.</l>
+<l>L’adolescent qu’atteint sa rage</l>
+<l>Va mourir au champ du carnage,</l>
+<l>Ou dans un hospice exilé ;</l>
+<l>Avant qu’en la tombe il s’endorme,</l>
+<l>Sur un appui de chêne ou d’orme</l>
+<l>Il traîne un buste mutilé.</l>
+</lg><lg>
+<l>Ainsi quand l’affreuse Chimère <ref target="#note1467">2</ref>
+</l>
+<l>Apparut non loin d’Ascalon,</l>
+<l>En vain la tendre et faible mère</l>
+<l>Cacha ses enfants au vallon.</l>
+<l>Du Jourdain les roseaux frémirent,</l>
+<l>Au Liban les cèdres gémirent</l>
+<l>Les palmiers à Jézeraël,</l>
+<l>Et le chameau, laissé sans guides.</l>
+<l>Pleura dans les sables arides</l>
+<l>Avec les femmes d’Ismaël.</l> <pb n="306" xml:id="p311"/>
+<l>Napoléon, de son génie,</l>
+<l>Enfin écrase les pervers ;</l>
+<l>L’ordre renaît : la France unie</l>
+</lg><lg>
+<l>Reprend son rang dans l’univers.</l>
+<l>Mais, géant, fils aîné de l’homme,</l>
+<l>Faut-il d’un trône qu’on te nomme</l>
+<l>Usurpateur ? Mal fécondé,</l>
+<l>L’illustre champ de ta victoire</l>
+<l>Devait-il renier la gloire</l>
+<l>Du vieux Cid et du grand Condé ?</l>
+</lg><lg>
+<l>Racontez, nymphe de Vincenne,</l>
+<l>Racontez des faits inouïs <ref target="#note1468">1</ref>,</l>
+<l>Vous qui présidiez sous un chêne</l>
+<l>A la justice de Louis !</l>
+<l>Oh ! de la mort chantre sublime <ref target="#note1469">2</ref>,</l>
+<l>Toi qui d’un héros magnanime</l>
+<l>Rends plus grand le grand souvenir,</l>
+<l>Quels cris aurais-tu fait entendre,</l>
+<l>Si, quand tu pleurais sur sa cendre.</l>
+<l>Ton œil eût sondé l’avenir ?</l>
+</lg><lg>
+<l>Le vieillard-roi, dont la clef sainte</l>
+<l>De Rome garde les débris,</l>
+<l>N’a pu, dans l’éternelle enceinte,</l>
+<l>A son front trouver des abris.</l>
+<l>On peut charger ses mains débiles</l>
+<l>De fers ingrats <ref target="#note1470">3</ref> mais inutiles ;</l>
+<l>Car il reste au Juste nouveau</l>
+<l>La force de sa croix divine,</l>
+<l>El de sa couronne d’épine,</l>
+<l>Et de son sceptre de roseau.</l>
+</lg><lg>
+<l>Triomphateur, notre souffrance)</l>
+<l>Se fatigue de tes lauriers :</l>
+<l>Loin du doux soleil de la Franco</l>
+<l>Devais-tu laisser nos guerriers <ref target="#note1471">4</ref>
+</l>
+<l>La Duna, que tourmente Éole,</l>
+<l>Au Neptune inconnu du pôle,</l>
+<l>Roule leurs ossements blanchis,</l>
+<l>Tandis que le noir Rorysthène</l>
+<l>Va conter le deuil de la Seine</l>
+<l>Aux mers brillantes de Colchisi</l>
+</lg><lg>
+<l>A l’avenir  ton âme aspire i</l>
+<l>Avide encore du passé,</l> <pb n="307" xml:id="p312"/>
+<l>Tu veux Memphis ; du temps l’empire</l>
+<l>Par l’aigle sera traversé.</l>
+<l>Mais, Napoléon, ta mémoire</l>
+<l>Ne se montrera dans l’histoire</l>
+<l>Que sous le voile de nos pleurs ;</l>
+<l>Lorsqu’à t’admirer tu m’entraînes,</l>
+<l>La liberté me dit ses chaînes,</l>
+<l>La vertu m’apprend ses douleurs.</l>
+</lg>
+</div>
+<div type="poem">
+ <head>Vers écrits sur un souvenir<ref target="#note1472">1</ref> donné par Madame la Marquise de Grollier à M. Le Baron de Humboldt</head>
+ <opener><dateline>Paris, 1818.</dateline></opener>
+<lg>
+<l>Vous qui vivrez toujours, comment pourrez-vous croire</l>
+<l>Qu’on vous offre des fleurs si promptes à mourir ?</l>
+<l>« Présentez, direz-vous, ces filles dû zéphyt</l>
+<l>A la beauté, mais non pas à la gloire. »</l>
+<l>Des dons de l’amitié connaissez mieux le prix ;</l>
+<l>Dédaignez moins ces fleurs nouvelles :</l>
+<l>En les peignant sur vos écrits,</l>
+<l>J’ai trouvé le secret de les rendre immortelles.</l>
+</lg>
+</div>
+     <div><head>Charlottembourg ou le tombeau de la Reine de Prusse.</head>
+      <opener><dateline>Berlin, 1821.</dateline></opener>
+      <lg><l>LE VOYAGEUR.</l>
+       <l>Sous les hauts pins qui protègent ces sourdes,</l>
+       <l>Gardien, dis-moi quel est ce monument nouveau ?</l>
+      </lg>
+      <lg><l>LE GARDIEN.</l>
+       <l>Un jour il deviendra le terme de tes courses :</l>
+<l>O voyageur ! c’est un tombeau,</l>
+      </lg>
+      <lg><l>LE VOYAGEUR.</l>
+       <l>Qui repose en ces lieux ?</l></lg>
+<lg><l>LE GARDIEN.</l>
+ <l>Un objet plein de charmes.</l>
+</lg>
+      <lg><l>LE VOYAGEUR.</l>
+       <l>Qu’on aima ?</l>
+      </lg>
+      <lg><l>LE GARDIEN.</l>
+       <l>Qui fut adoré.</l>
+      </lg><pb n="308" xml:id="p313"/>
+      <lg><l>LE VOYAGEUR.</l>
+       <l>Ouvre-moi.</l></lg>
+      <lg><l>LE GARDIEN.</l>
+       <l>Si tu crains les larmes,</l>
+       <l>N’entre pas.</l></lg>
+      <lg><l>LE VOYAGEUR.</l>
+       <l>J’ai souvent pleuré.</l></lg>
+      <l>(Le voyageur et le gardien entrent.)</l>
+      <lg><l>LE VOYAGEUR.</l>
+<l>De la Grèce ou de l’Italie</l>
+<l>On a ravi ce marbre à la pompe des morts.</l>
+<l>Quel tombeau l’a cédé pour enchanter ces bords ?</l>
+<l>Est-ce Antigone ou Cornélie ?</l>
+</lg>
+      <lg><l>LE GARDIEN.</l>
+       <l>La beauté dont l’image excite tes transport</l>
+<l>Parmi nos bois passa sa vie.</l>
+      </lg>
+      <lg><l>LE VOYAGEUR.</l>
+       <l>Qui pour elle, à ces murs de marbre revêtus,</l>
+<l>A suspendu ces couronnes fanées ?</l>
+      </lg>
+      <lg><l>LE GARDIEN.</l>
+       <l>Les beaux enfants dont ses vertus</l>
+<l>Ici-bas furent couronnées.</l>
+      </lg>
+      <lg><l>LE VOYAGEUR.</l>
+       <l>On vient.</l></lg>
+      <lg><l>LE GARDIEN.</l>
+       <l>C’est un époux ; il porte ici ses pas,</l>
+<l>Pour nourrir en secret un souvenir funeste.</l>
+      </lg>
+      <lg><l>LE VOYAGEUR.</l><l>Il a donc tout perdu ?</l>
+      </lg>
+      <lg><l>LE GARDIEN.</l>
+       <l>Non : un trône lui reste.</l>
+      </lg>
+      <lg><l>LE VOYAGEUR.</l>
+       <l>Un trône ne console pas.</l></lg></div>
+     
+     
+     
+<div type="poem">
+ <head>les Alpes ou l’Italie.</head>
+ <opener><dateline>1822.</dateline></opener>
+<lg>
+<l>Donc reconnaissez-vous au fond de vos abîmes</l>
+<l>Ce voyageur pensif,</l>
+<l>Au cœur triste, aux cheveux blanchis comme vos cimes,</l>
+<l>Au pas lent et tardif ?</l>
+</lg><lg>
+<l>Jadis de ce vieux bois où fuit une eau limpide</l>
+<l>Je sondais l’épaisseur,</l>
+<l>Hardi comme un aiglon, comme un chevreuil rapide,</l>
+<l>El gai comme un chasseur,</l>
+</lg><pb n="309" xml:id="p314"/>
+<lg>
+<l>Alpes, vous n’avez point subi mes destinées ;</l>
+<l>Le temps ne vous peut rien ;</l>
+<l>Vos fronts légèrement ont porté les années</l>
+<l>Qui pèsent sur le mien.</l>
+</lg><lg>
+<l>Pour la première fois quand, rempli d’espérance,</l>
+<l>Je franchis vos remparts,</l>
+<l>Ainsi que l’horizon, un avenir immense</l>
+<l>S’ouvrait à mes regards.</l>
+</lg><lg>
+<l>L’Italie à mes pieds, et devant moi le monde,</l>
+<l>Quel champ pour mes désirs !</l>
+<l>Je volai, j’évoquai cette Rome féconde</l>
+<l>En puissants souvenirs.</l>
+</lg><lg>
+<l>Du Tasse une autre fois je revis la patrie :</l>
+<l>Imitant Godefroi,</l>
+<l>Chrétien et chevalier, j’allais vers la Syrie</l>
+<l>Plein d’ardeur et de foi.</l>
+</lg><lg>
+<l>Ils ne sont plus ces jours que point mon cœur n’oublie !</l>
+<l>Et ce cœur aujourd’hui,</l>
+<l>Sous le brillant soleil de la belle Italie,</l>
+<l>Ne sent plus que l’ennui.</l>
+</lg><lg>
+<l>Pompeux ambassadeurs que la faveur caresse,</l>
+<l>Ministres, valez-vous</l>
+<l>Les obscurs compagnons de ma vive jeunesse,</l>
+<l>Et mes plaisirs si doux ?</l>
+</lg><lg>
+<l>Vos noms aux bords riants que l’Adige décore</l>
+<l>Du temps seront vaincus,</l>
+<l>Que Catulle et Lesbie enchanteront encore</l>
+<l>Les flots du Renacus.</l>
+</lg><lg>
+<l>Politiques, guerriers, vous qui prétendez vivre</l>
+<l>Dans la postérité,</l>
+<l>J’y consens : mais on peut arriver sans vous suivre</l>
+<l>A l’immortalité.</l>
+</lg><lg>
+<l>J’ai vu ces fiers sentiers tracés par la victoire</l>
+<l>Au milieu des frimas,</l>
+<l>Ces rochers du Simplon que le bras de la gloire</l>
+<l>Fendit pour nos soldats :</l>
+</lg><lg>
+<l>Ouvrage d’un géant, monument du génie,</l>
+<l>Serez-vous plus connus</l>
+<l>Que la roche où Saint-Preux contait à Meillerie</l>
+<l>Les tourments de Vénus ?</l>
+</lg><lg>
+<l>Je vous peignis aussi, chimère enchanteresse,</l>
+<l>Fictions des amours</l> <pb n="310" xml:id="p315"/>
+<l>Aux tristes vérités le temps qui fuit sans cesse</l>
+<l>Livre à présent mes jours.</l>
+</lg><lg>
+<l>L’histoire et le roman font deux parts de la vie,</l>
+<l>Qui si tôt se ternit :</l>
+<l>Le roman la commence, et lorsqu’elle est flétrie</l>
+<l>L’histoire la finit.</l>
+</lg></div>
+ 
+ <div><head>Le départ.</head>
+  <opener><dateline>Paris, 1827.</dateline></opener>
+  <lg>
+<l>Compagnons, détachez des voûtes du portique</l>
+<l>Ces dons du voyageur, ce vêtement antique,</l>
+<l>Que j’avais consacrés aux dieux hospitaliers.</l>
+<l>Pour affermir mes pas dans ma course prochaine,</l>
+<l>Remettez dans ma main le vieil appui de chêne ;</l>
+<l>Qui reposait à mes foyers.</l>
+</lg><lg>
+<l>Où vais-je aller mourir ? dans les bois des Florides ?</l>
+<l>Aux rives du Jourdain ? Aux monts des Thébaïdes ?</l>
+<l>Ou bien irai-je encore à ce bord renommé,</l>
+<l>Chez un peuple affranchi par les efforts du brave,</l>
+<l>Demander le sommeil que l’Eurotas esclave</l>
+<l>M’offrit dans son lit embaumé ?</l>
+</lg><lg>
+<l>Ah ! qu’importe le lieu ? Jamais un peu de terre,</l>
+<l>Dans le champ-du potier, sous l’arbre solitaire,</l>
+<l>Ne peut manquer aux os dû fils de l’étranger.</l>
+<l>Nul ne rira du moins de ma mort advenue ;</l>
+<l>Du pèlerin assis sur ma tombe inconnue</l>
+<l>Du moins le poids sera léger.</l>
+</lg>
+  <closer>Fin des poésies diverses</closer></div>
+</div>
+ <div>
+     <index><term xml:id="note1461">
+      (I) Vers imprimes dans le Mercure, Voyez la Préface,
+     </term>
+     <term xml:id="note1462">
+      (1) Vers imprimés dans l’Almanach <hi rend="i">des Huit ;</hi> année 1790, pag. 205. Voyez la Préfaçe.
+     </term>
+     <term xml:id="note1463">
+      (1) Celle imitation a été imprimée à Londres, dans le journal de Peltier, Voyez la Préface.
+     </term>
+     <term xml:id="note1464">
+      (1) Deux ouvrages d’Alcée.
+     </term>
+     <term xml:id="note1465">
+      (1) Nom populaire du Colchique.
+     </term>
+     <term xml:id="note1466">
+      (1) Louis XI. Ce roi ne fui point enterré à Saint-Denis : peu importe au poête.
+     </term>
+     <term xml:id="note1467">
+      (2) Prise ici par la monstre marin d’Andromède.
+     </term>
+     <term xml:id="note1468">
+      (1) Mort du duc d’Énghien ;
+     </term>
+     <term xml:id="note1469">
+      (2) Bossuet ;
+     </term>
+     <term xml:id="note1470">
+      (3) Le pape à Fontainebleau.
+     </term>
+     <term xml:id="note1471">
+      (4) Campagne du Moseod.
+     </term>
+     <term xml:id="note1472">
+      (1) Ce <hi rend="i">Soutenir</hi> renfermait des pensées de l’illustre voyageur, et élait orné de fleurs peintes par madame de Grollier.
+     </term></index>
+    </div>
+   </body>
+</text></TEI>

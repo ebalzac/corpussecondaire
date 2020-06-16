@@ -1,0 +1,3793 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="fr"><teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Moïse tragédie</title>
+<author key="Chateaubriand, François-René de (1768-1848)">François-René de Chateaubriand</author>
+<principal>Andrea Del Lungo</principal>
+<principal>Pierre Glaudes</principal>
+<principal>Jean-Gabriel Ganascia</principal>
+<editor>Maxime Perret</editor>
+</titleStmt>
+<editionStmt>
+<edition>Cette édition a été établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</edition>
+<respStmt>
+<name>Gallica</name>
+<resp>Corrections OCR</resp>
+</respStmt>
+<respStmt>
+<name>Gallica</name>
+<resp>Établissement du texte et stylage. Ce fichier est le résultat de la conversion en XML-TEI d'un format pivot adaptable DAISY DT BOOK mis à disposition par la BnF.</resp>
+</respStmt>
+<respStmt>
+<name>Karolina Suchecka</name>
+<resp>Édition XML/TEI</resp>
+</respStmt>
+<respStmt>
+<name>Maxime Perret</name>
+<resp>Coordinateur de l’édition</resp>
+</respStmt>
+</editionStmt>
+<publicationStmt>
+<publisher>eBalzac</publisher>
+<publisher>ALITHILA (Université Lille III)</publisher>
+<publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+<publisher>LIP6 (Université Paris VI)</publisher>
+<date when="2017"/>
+<availability status="restricted">
+<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+<p> Copyright © 2017 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR « Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités » (ci-après dénommé ANR Phœbus). </p>
+<p> Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ». </p>
+<p> Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout l’adresse Internet de la ressource. </p>
+<p> Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite. </p>
+<p> Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+</licence>
+</availability>
+<idno>http://gallica.bnf.fr/ark:/12148/bpt6k57869567</idno>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title>Œuvres complètes</title>. <title>Augmentées d'un essai sur la vie et les ouvrages de l'auteur</title>, vol. 1 (1851-1852)/ Saint-Esprit, Delandine de (éd.), / Paris, / P.-H. Krabbe, / 32, rue Notre-Dame-des-Victoires. / <date>1851</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<p/>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date when="1851"/>
+</creation>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+</profileDesc>
+</teiHeader><text>
+<front>
+<titlePage>
+<docAuthor>François-René de Chateaubriand</docAuthor>
+<docTitle>
+<titlePart type="main">Moïse tragédie.</titlePart>
+</docTitle>
+</titlePage>
+ <pb n="78" xml:id="p83"/>
+ 
+</front>
+<body>
+
+    <div type="argument">
+<argument><castList><head>Personnages.</head>
+  
+ <castItem xml:id="p">MOISE.</castItem>
+  <castItem>AARON, frère de Moïse.</castItem>
+  <castItem>MARIE, sœur de Moïse et d’Aaron.</castItem>
+  <castItem>NADAB, fils d’Aaron.</castItem>
+  <castItem>CALEB, prince de la tribu de Juda, attaché à celle de Lévi.</castItem>
+  <castItem>DATHAN, compagnon de Nadab.</castItem>
+  <castItem>ARZANE, reine des Amalécites.</castItem>
+  <castItem>NÉBÉE, jeune Tyrienne de la suite d’Arzane.</castItem>
+  <castItem>CHŒUR DE JEUNES FILLES AMALÉCITES.</castItem>
+  <castItem>CHŒUR DE JEUNES FILLES ISRAÉLITES.</castItem>
+  <castItem>CHŒUR DE LÉVITES.</castItem>
+  <castItem>VIEILLARDS, PRINCES DU PEUPLE, PASTEURS, PEUPLE ET SOLDATS.</castItem></castList></argument>
+ <pb n="77" xml:id="p82"/>
+
+     <stage><p>Le théâtre représente le désert de Sinaï. On voit à droite le camp des douze tribus, dont les tentes, faites de peaux de brebis noires, sont entremêlées de troupeaux de chameaux, de dromadaires, d’onagres, de cavales, de moutons et de chèvres ; on voit à gauche le rocher d’Oreb frappé par Moïse, et d’où sort une source ; quelques palmiers ; sous ces palmiers le cercueil ou le tombeau de Joseph, déposé sur des pierres qui lui servent d’estrade. Le fond du théâtre offre de vastes plaines de sable, parsemées de buissons de nopals et d’aloès, terminées d’un côté par la mer Rouge, et de l’autre par les monts Oreb et Sinaï, dont les croupes viennent border l’avant-scène.</p>
+     
+     <p>La scène est sous les palmiers, près de la source, à la tête du camp.</p></stage>
+     
+    </div>
+    <div type="act">
+<head>Préface.</head>
+     
+     <pb n="79" xml:id="p84"/>
+     
+     
+     <p>Les Israélites, conduits par Moïse et poursuivis par Pharaon, sortirent d’Égypte et passèrent la mer Rouge ; ils emportaient avec eux les os de Joseph, selon que Joseph le leur avait fait promettre sous serment, en leur disant : « Dieu vous visitera ; emportez d’ici mes os avec vous. »</p>
+     <p>Le passage de la mer Rouge accompli, Marie, prophétesse, sœur de Moïse et d’Aaron, chanta le cantique d’actions de grâces au Seigneur, qui avait enseveli Pharaon et son armée dans les flots. Le peuple de Dieu entra dans la solitude de Sur, puis il vint à Mara, où Moïse adoucit les eaux amères. De Mara, les Israélites arrivèrent à Élim ; il y avait là douze fontaines. D’Élim ils passèrent à Sin ; ils y murmurèrent contre Moïse et Aaron, regrettant l’abondance de la terre d’Égypte. Dieu envoya la manne qui tombait le matin comme une rosée, et que l’on recueillait chaque jour. Les Hébreux, partis de Sin, campèrent à Raphidim, où le peuple murmura de nouveau. Moïse, par l’ordre du Seigneur, frappa la pierre d’Oreb avec la verge dont il avait frappé le Nil, et il en sortit de l’eau.</p>
+     <p>Les Amalécites vinrent à Raphidim attaquer Israël : ils descendaient d’Amalec, petit-fils d’Ésaü. Ésaü, fils d’Isaac, avait été supplanté par son frère Jacob, auquel il avait vendu son droit d’aînesse pour un plat de lentilles. Dans la suite, Dieu voulut que Saül exterminât la race entière des Amalécites.</p>
+     <p>Josué combattit les ennemis à Raphidim, et remporta la victoire. Moïse priait Sur le haut d’une colline, en tenant les mains élevées vers le ciel : Aaron et Hur lui soutenaient les mains des deux côtés, car Amalec avait l’avantage lorsque les mains de Moïse s’abaissaient de lassitude.</p>
+     <p>De Raphidim, les Hébreux gagnèrent le désert de Sinaï. Moïse alla parler à Dieu qui l’avait appelé au haut de la montagne : il était accompagné de Josué. Le troisième jour, on commença à entendre des tonnerres et à voir briller des éclairs. Une nuée très-épaisse couvrit la montagne ; une trompette sonnait avec grand bruit : Moïse parlait à Dieu, et Dieu lui répondait. Le Seigneur promulgua ses lois au milieu de la foudre ; il donna à Moïse les deux tables du Témoignage, qui étaient de pierre, et écrites du doigt de Dieu. Moïse descendit de la montagne avec les tables, Josué ouït du tumulte dans le camp. Moïse reconnut que ce n’étaient point les voix confuses de gens qui poussaient leur ennemi, mais les voix de personnes qui chantaient.</p>
+     <p>Pendant l’absence de Moïse, le peuple s’était élevé contre Aaron, et lui avait dit : « Faites-nous des dieux qui marchent devant nous, » Un Veau d’or avait été formé, et les Hébreux l’avaient adoré avec des chants et des danses. Moïse brisa les <pb n="80" xml:id="p85"/> Tables de la loi et le Veau d’or. Ensuite il se tint à la porte du camp, et dit : « Si quelqu’un est au Seigneur, qu’il se joigne à moi. » Et les enfants de Lévi s’assemblèrent autour de lui. Moïse ordonna à chacun d’eux de passer et de repasser au travers du camp, d’une tente à l’autre et de tuer chacun son frère, son ami, et celui qui lui était le plus proche ; et il y eut environ vingt-trois mille hommes de tués ce jour-là.</p>
+     <p>Nadab, fils d’Aaron, ayant offert un feu étranger au Seigneur, fut dévoré par le feu du ciel. Caleb et Josué furent les seuls des Hébreux sortis d’Égypte qui entrèrent dans la Terre-Promise ; Moïse même n’y entra point, et ne la vit que du sommet du mont Abarim.</p>
+     <p>C’est de cette histoire que j’ai tiré le fond de la tragédie de <hi rend="i">Moïse.</hi> Le sujet de cette tragédie est la <hi rend="i">première idolâtrie des Hébreux,</hi> idolâtrie qui compromettait les destinées de ce peuple et du monde. Je suppose que parmi les causes qui précipitèrent Israël dans le péché, il y en eut une principale. Ici même, dans l’invention, je reste encore fidèle à l’histoire sainte ; toute l’Écriture nous apprend que les Hébreux furent entraînés à l’idolâtrie par les femmes étrangères. Il suffit de citer l’exemple de Salomon : « Le roi Salomon aima passionnément plusieurs femmes étrangères… Le Seigneur avait dit aux enfants d’Israël : Vous ne prendrez point des femmes de Moab et d’Ammon, des femmes d’Idumée, des Sidoniennes et du pays Héthéen, car elles vous pervertiront le cœur pour vous faire adorer leurs dieux… Salomon servait Astarté, déesse des Sidoniens, et Moloch, l’idole des Ammonites… Il bâtit un temple à Chamos, l’idole des Moabites. »</p>
+     <p>La tragédie apprendra aux lecteurs quelle est Arzane ; je ne sais si l’on a jamais remarqué que Judith, qui cause une si grande admiration aux soldats d’Holoferne, est le premier modèle de l’Armide du Tasse dans le camp de Godefroi de Bouillon. Arzane, reine des Amalécites, environnée de jeunes filles de Tyr et de Sidon, adorant Astarté et les divinités de la Syrie, m’a mis à même d’opposer des fables voluptueuses à la sévère religion des Hébreux. Les personnes versées dans la lecture des livres saints verront ce que j’en ai imité ; elles auront lieu de le remarquer dans le rôle entier de Moïse et dans les chœurs. Le chant de la <hi rend="i">Courtisane</hi>, dans le chœur des Amalécites, est tiré du chapitre vu des <hi rend="i">Proverbes</hi> de Salomon, <hi rend="i">Victimas pro salute vovi, hodie reddidi vota mea. </hi>Le chœur du troisième acte rappelle le XVIII<hi rend="sup">e</hi> psaume, <hi rend="i">Cœli enarrant gloriam Dei, </hi>et le chœur du IV<hi rend="sup">e</hi> reproduit le cantique de Marie après le passage de la mer Rouge : <hi rend="i">Equum et ascensorem ejus dejecit in mare.</hi>
+</p>
+     <p>A Dieu ne plaise que je prétende un seul instant avoir soutenu l’éloquence de l’Écriture ! je dis ce que j’ai tenté, non ce que j’ai fait. Racine, tout Racine qu’il était, a quelquefois été vaincu dans ses efforts, comme l’a remarqué La Harpe. Qu’est-ce donc que moi, chétif, qui ai osé mettre en scène, non pas Joad, mais Moïse même, ce législateur aux rayons de feu sur le front, ce prophète qui délivrait Israël, frappait l’Égypte, entr’ouvrait la mer, écrivait l’histoire de la création, peignait d’un mot la naissance de la lumière, et parlait au Seigneur face à face, bouche à bouche : <hi rend="i">Ore ados loquor ei ? (Num., </hi>cap XII.)</p>
+     <pb n="81" xml:id="p86"/>
+     <p>Le lieu de la scène est fixé dès les premiers vers de <hi rend="i">Moïse,</hi> l’exposition vient tout de suite après. Les trois unités sont observées, toutes les entrées et les sorties, motivées ; enfin c’est un ouvrage strictement classique. L’auteur en demande de grandes excuses :</p>
+     
+     <quote type="poem">
+      <lg>
+       <l>Pardonne à sa <hi rend="i">faiblesse</hi> en faveur de son âge !</l>
+      </lg>
+     </quote>
+     
+     <p>J’avais autrefois conçu le dessein de faire trois tragédies : la première sur un sujet antique dans le système complet de la tragédie grecque ; la seconde, sur un sujet emprunté de l’Écriture ; la troisième, sur un sujet tiré de l’histoire des temps modernes.</p>
+     <p>Je n’ai exécuté mon dessein qu’en partie : j’ai le plan en prose et quelques scènes en vers de ma tragédie grecque, <hi rend="i">Astyanax.</hi> Saint Louis eût été le héros de ma tragédie <hi rend="i">romantique ;</hi> je n’en ai rien écrit. Pour sujet de ma tragédie hébraïque, j’ai choisi <hi rend="i">Moïse.</hi> Cette tragédie en cinq actes, avec des chœurs, m’a coûté un long travail ; je n’ai cessé de la revoir et de la corriger depuis une vingtaine d’années. Le grand tragédien Talma, qui l’avait lue, m’avait donné d’excellents conseils, dont j’ai profité : il avait à cœur de jouer le rôle de <hi rend="i">Moïse,</hi> et son incomparable talent pouvait laisser la chance d’un succès.</p>
+     <p>La tragédie de <hi rend="i">Moïse</hi> appartenait, par mon contrat de vente, aux propriétaires de mes œuvres ; je ne m’étais réservé que le droit d’accorder ou de refuser la permission de la mise en scène. Je résistai longtemps aux sollicitations des propriétaires ; mais enfin, soit faiblesse, soit mauvaise tentation d’auteur, je cédai. <hi rend="i">Moïse,</hi> lu au comité du Théâtre-Français, en 1828, fut reçu à l’unanimité. M. le vicomte Sosthènes de La Rochefoucauld se prêta avec beaucoup de complaisance à tous les arrangements ; M. Taylor s’occupa des ordres à donner pour les décorations et les costumes avec cet amour des arts qui le distingue ; M. Halevy, dont le beau talent est si connu, se voulut bien charger d’écrire la musique nécessaire ; et les chœurs de l’Opéra se devaient joindre à la Comédie-Française pour l’exécution de la pièce telle que je l’avais conçue.</p>
+     <p>Plusieurs personnes désiraient encore voir donner <hi rend="i">Moïse,</hi> afin d’essayer une diversion en faveur de cette pauvre école classique, si battue, si délaissée, à laquelle je devais bien quelque réparation, moi l’aïeul du romantique par mes enfants sans joug, <hi rend="i">Atala</hi> et <hi rend="i">René.</hi> Ces personnes espéraient quelque succès dans la pompe du spectacle de <hi rend="i">Moïse,</hi> la multitude des personnages, le contraste des chœurs, la manière dont ces chœurs (marquant le midi, le coucher du soleil, le minuit, le lever du soleil) se trouvent liés à l’action. Je pense moi-même et je puis le dire sans amour-propre, puisqu’il ne s’agit que d’un effet tout matériel indépendant du talent de l’auteur, je pense que la descente de Moïse du mont Sinaï, à la clarté de la lune, portant les Tables de la loi ; que le chœur du troisième acte avec sa double musique, l’une lointaine dans le camp, l’autre grave et plaintive sur le devant de la scène ; que le chœur du quatrième acte, groupé sur la montagne au lever de l’aurore ; que le dénoûment en action amené par le sacrifice ; que les décorations représentant la mer Rouge <pb n="82" xml:id="p87"/> au loin, le mont Sinaï, le désert avec ses palmiers, ses nopals, ses aloès, le camp avec ses tentes noires, ses chameaux, ses onagres, ses dromadaires ; je pense que cette variété de scène donnerait peut-être à <hi rend="i">Moïse</hi> un mouvement qui manque trop, il en faut convenir, à la tragédie classique. Une autre innovation que je conseillais pouvait encore ajouter à cet intérêt de pure curiosité : selon moi, les chœurs doivent être déclamés et non chantés, soutenus seulement par une sorte de mélopée, et coupés par quelques morceaux d’ensemble de peu de longueur : autrement vous mêlez deux arts qui se nuisent, la musique à la poésie, l’opéra à la tragédie. Ainsi, par exemple, la prière du troisième chœur,</p>
+     <quote type="poem">
+      <lg>
+       <l>N’écoute point dans ta colère,</l>
+<l>O Dieu, le cri de ces infortunes !</l>
+</lg>
+     </quote>
+     
+     <p>me semblerait d’un meilleur effet débité que chanté.</p>
+     <p>Quoi qu’il en soit de mes faiblesses et de mes rêves, aussitôt que l’on sut que <hi rend="i">Moïse</hi> allait être joué, des représentations m’arrivèrent de toutes parts : les uns avaient la bonté de me croire un trop grand personnage pour m’exposer aux sifflets ; les autres pensaient que j’allais gâter ma vie politique et interrompre en même temps la carrière de tous les hommes qui marchaient avec moi. Quand j’aurais fait <hi rend="i">Athalie,</hi> le temps était-il propre aux ouvrages de celte nature, aux ouvrages entachés de classique et de religion ? Le public ne voulait plus que de violentes émotions, que des bouleversements d’unités, des changements de lieux, des entassements d’années, des surprises, des effets inattendus, des coups de théâtre et de poignard. Que serait-ce donc si, menacé même pour un chef-d’œuvre, je n’avais fait (ce qui était possible et même extrêmement probable) qu’une pièce insipide ? car enfin, puisque j’écrivais passablement en prose, n’était-il pas évident que je devais être un très-méchant poëte ? Les considérations qui ne s’appliquaient qu’à moi m’auraient peu touché : je n’avais aucune envie d’être président du conseil, et la liberté de la presse m’avait aguerri contre les sifflets ; mais quand je vis que d’autres destinées se croyaient liées à la mienne, je n’hésitai pas à retirer ma pièce : si je fais toujours bon marché de ma personne, je n’exposerai jamais celle de mes voisins.</p>
+     <p>La fortune, qui s’est constamment jouée de mes projets, n’a pas même voulu me passer une dernière fantaisie littéraire. Je ne puis plus attendre une occasion incertaine et éloignée de voir jouer <hi rend="i">Moïse.</hi> Que de trônes auront croulé avant qu’on soit disposé à s’enquérir comment Nadab prétendait élever le sien ! <hi rend="i">Moïse</hi> ne m’appartient pas ; il a dû entrer dans la collection de mes œuvres, qu’il était plus que temps de compléter. On lira donc cette tragédie, si on la lit, dans la solitude et le silence du cabinet, au lieu de la voir environnée des prestiges et du bruit du théâtre ; c’est la mettre à une rude épreuve : si elle était jouée après avoir été imprimée, elle aurait perdu son plus puissant et peut-être son seul attrait, la nouveauté,</p>
+     
+    </div>
+    <div type="act">
+<head>Acte premier</head>
+     <pb n="83" xml:id="p88"/>
+     <div type="scene"><head>Scène première.</head>
+     
+      <sp who="p"><speaker>NADAB</speaker><stage>, seul.</stage>
+     <stage>(Il regarde quelque temps autour de lui, comme pour reconnaître les lieux où il se trouve.)</stage>
+     
+      <lg>
+       <l>A la porte du camp, sous ces palmiers antiques</l>
+<l>Où des vieillards hébreux les sentences publiques</l>
+<l>Des diverses tribus terminent les débats,</l>
+<l>Par quel nouveau sentier ai-je égaré mes pas ?</l>
+</lg>
+      <stage>(Après un moment de silence, en s’avançant sur la scène.)</stage>
+
+<lg>
+<l>Silencieux abris, profonde solitude,</l>
+<l>Ne pouvez-vous calmer ma noire inquiétude ?</l>
+<l>Soulève enfin, Nadab, ton œil appesanti ;</l>
+<l>Vois les fils de Jacob au pied du Sinaï,</l>
+<l>Le désert éclatant de miracles sans nombre,</l>
+<l>La colonne à la fois et lumineuse et sombre,</l>
+<l>L’eau sortant du rocher, des signes dans les airs,</l>
+<l>Dieu prêt à nous parler du milieu des éclairs :</l>
+<l>Prétends-tu, sourd au bruit de la foudre qui gronde,</l>
+<l>Coupable fils d’Aaron, changer le sort du monde ?</l>
+<l>Mais que te fait, Nadab, le Seigneur et sa loi ?</l>
+<l>Le monde et les Hébreux ne sont plus rien pour loi.</l>
+</lg>
+ <stage>(Il s’approche du cercueil de Joseph.)</stage>
+
+<lg>
+<l>Ma main aux bords du Nil déroba cette cendre ;</l>
+<l>Je pouvais sans rougir alors m’en faire entendre.</l>
+<l>O Joseph, fils aimé, qui dors dans ce tombeau,</l>
+<l>A l’épouse du roi toi qui parus si beau,</l>
+<l>Rends mon cœur moins ardent ou ma voix plus puissante,</l>
+<l>Ou donne-moi ton charme ou ta robe innocente !</l>
+<l>De Joseph retrouvé je n’ai point la grandeur,</l>
+<l>Mais de Joseph perdu j’ai l’âge et le malheur.</l>
+</lg></sp></div>
+ <pb n="84" xml:id="p89"/>
+     <div type="scene"><head>Scène II.</head>
+      <stage>AARON, DATHAN.</stage>
+      <sp who="p"><speaker>AARON</speaker><stage>, appelant Nadab qui s’éloigne, et disparaît sous les palmiers.</stage>
+
+<lg>
+<l>Nadab ! Il n’entend point ! Dans sa mélancolie</l>
+<l>Son âme est à présent toujours ensevelie.</l>
+<l>O mon cher fils ! reçois mes bénédictions :</l>
+<l>Tes maux doublent le poids de mes afflictions :</l>
+<l>Mes jours ont été courts et mauvais sur la terre,</l>
+<l>Et n’ont point égalé ceux d’Isaac mon père.</l>
+<l>Nadab, que l’Éternel prenne pitié de toi !</l>
+</lg></sp>
+ <sp who="p"><speaker>DATHAN.</speaker>
+<lg>
+<l>Sur le sort des Hébreux, Aaron, éclairez-moi.</l>
+<l>Par Moïse envoyé vers le Madianite,</l>
+<l>Depuis trois mois sorti du camp israélite,</l>
+<l>Je trouve à mon retour le peuple menaçant,</l>
+<l>L’Iduméen détruit et le prophète absent ;</l>
+<l>J’ignore également nos maux et notre gloire :</l>
+<l>Daignerez-vous, Aaron, m’en raconter l’histoire ?</l>
+</lg></sp>
+ <sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Dathan, cher compagnon que regrettait mon fils,</l>
+<l>Quand Israël, fuyant les princes de Memphis,</l>
+<l>Eut franchi de la mer les ondes divisées,</l>
+<l>Nos tribus, par le ciel toujours favorisées,</l>
+<l>En suivant du désert le merveilleux chemin,</l>
+<l>Non loin du Sinaï s’arrêtèrent enfin.</l>
+<l>Ce fut là qu’Amalec, à sa haine fidèle,</l>
+<l>Nous chercha pour vider son antique querelle.</l>
+<l>Thémar régnait alors sur ce peuple nombreux ;</l>
+<l>Il vint à Raphidim attaquer les Hébreux.</l>
+<l>Aux autels d’Adonis son épouse attachée,</l>
+<l>Méprisant du fuseau la gloire humble et cachée,</l>
+<l>Arzane, dans l’orgueil de toute sa beauté,</l>
+<l>Presse, anime Thémar, et marche à son côté :</l>
+<l>De sa main au vainqueur une palme est promise.</l>
+<l>La trompette a sonné, les traits sifflent : Moïse,</l>
+<l>Sur un mont à l’écart, debout, les bras levés,</l>
+<l>Priait le Dieu par qui les flots sont soulevés.</l>
+<l>Ses redoutables bras, étendus sur nos têtes,</l>
+<l>Paraissaient dans le ciel assembler les tempêtes :</l>
+<l>Quand il les abaissait, de fatigue vaincu,</l>
+<l>Amalec triomphait d’Israël abattu ;</l>
+<l>Mais quand ses bras au ciel reportaient sa prière,</l>
+<l>Nos plus fiers ennemis roulaient sur la poussière.</l>
+<l>Soutenant dans les airs ce bras fort et puissant,</l>
+<l>Qui sans porter de coups versait des flots de sang,</l>
+<l>J’achevai parmi nous de fixer la victoire.</l>
+<l>Un seul jour vit périr Thémar et sa mémoire :</l> <pb n="85" xml:id="p90"/>
+<l>Sa veuve, à des dieux sourds ayant ses vœux offerts</l>
+<l>N’en fut pas entendue et tomba dans nos fers.</l>
+</lg></sp>
+<sp who="p"><speaker>DATHAN.</speaker>
+<lg>
+<l>Je ne vois jusqu’ici que d’heureuses prémices.</l>
+</lg></sp>
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Écoute. Après avoir réglé les sacrifices,</l>
+<l>Mon frère, qu’en secret appelle l’Éternel,</l>
+<l>Moïse se dérobe aux regards d’Israël,</l>
+<l>Il monte au Sinaï ; Josué l’accompagne :</l>
+<l>Depuis quarante jours caché sur la montagne,</l>
+<l>Mille bruits de sa mort dans le camp répandus</l>
+<l>Tiennent de nos vieillards les esprits suspendus.</l>
+<l>On s’agite au milieu du peuple qui murmure ;</l>
+<l>Je ne sais quel démon souffle une flamme impure ;</l>
+<l>Le soldat se soulève, et proclame en ce lieu</l>
+<l>Et Nadab pour son chef et Baal pour son dieu.</l>
+</lg></sp>
+<sp who="p"><speaker>DATHAN.</speaker>
+<lg>
+<l>Nadab accepte-t-il cet honneur populaire ?</l>
+</lg></sp>
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>De ses mâles vertus rejetant le salaire,</l>
+<l>Mon fils porte en son sein un trait qu’il veut cacher</l>
+<l>Et que toi seul, Dathan, tu pourras arracher.</l>
+<l>Pâle et silencieux dans sa marche pensive,</l>
+<l>Il erre autour du camp comme une ombre plaintive</l>
+<l>Il prononce tout bas le nom de ses aïeux ;</l>
+<l>Son regard languissant se tourne vers les cieux :</l>
+<l>La nuit, à sa douleur se livrant sans obstacles,</l>
+<l>On l’a trouvé pleurant auprès des tabernacles.</l>
+<l>Mais j’aperçois Caleb, ce flambeau de la loi,</l>
+<l>Et ma sœur, dont les chants raniment notre foi.</l>
+<l>Dathan, cherche Nadab, et dis-lui que son père</l>
+<l>L’attend ici.</l>
+</lg></sp></div>
+
+<div type="scene"><head>Scène III.</head><stage>AARON, MARIE, CALEB.</stage>
+ 
+<sp who="p"><speaker>AARON</speaker><stage>, <hi rend="i">à Marie.</hi></stage>
+<lg>
+<l>Marie, en qui Jacob espère,</l>
+<l>Dans vos yeux attristés quels malheurs ai-je lus ?</l>
+<l>Qu’allez-vous m’annoncer ?</l>
+</lg>
+</sp>
+ <sp who="p"><speaker>MARIE.</speaker>
+<lg>
+<l>Notre frère n’est plus</l>
+<l>Josué, de Moïse héritier prophétique,</l>
+<l>De même a disparu sur la montagne antique :</l>
+<l>Ils n’ont pu sans mourir contempler Jéhovah.</l>
+<l>Comme ils priaient, dit-on, au sommet du Sina,</l>
+<l>Du Seigneur à leur voix la gloire est descendue.</l>
+<l>Dans une ombre effrayante, au milieu d’une nue ;</l>
+<l>La nue en s’entr’ouvrant les a couverts de feux,</l> <pb n="86" xml:id="p91"/>
+<l>Et le ciel tout à coup s’est refermé sur eux ;</l>
+<l>Ils sont morts consumés.</l>
+</lg>
+</sp>
+ <sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>C ma sœur, ô Marie !</l>
+<l>O promesse du ciel ! ô future patrie !</l>
+<l>Par qui du saint prophète a-t-on su le trépas ?</l>
+</lg>
+</sp>
+<sp who="p"><speaker>MARIE.</speaker>
+<lg>
+<l>Par les chefs envoyés pour découvrir ses pas.</l>
+</lg>
+</sp>
+ <sp who="p"><speaker>CALEB.</speaker>
+<lg>
+<l>Jeûnons, pleurons, veillons revêtus du cilice ;</l>
+<l>Crions vers le Très-Haut du fond du précipice,</l>
+<l>Le destin de la terre est au nôtre lié…</l>
+<l>Et Nadab, que je vois, l’a peut-être oublié.</l>
+</lg>
+</sp> </div>
+     <div type="scene"><head>Scène IV.</head><stage>NADAB, AARON, MARIE, CALEB.</stage>
+ 
+<sp who="p"><speaker>NADAB</speaker><stage>, <hi rend="i">à Auron.</hi></stage>
+<lg>
+<l>Dathan, qui m’a rejoint au mont de la Gazelle,</l>
+<l>M’a dit que dans ce lieu votre voix me rappelle,</l>
+<l>Aaron.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Oui, je voulais vous parler sans témoins :</l>
+<l>Mais ce moment, Nadab, réclame d’autres soins.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Ma volonté toujours à la vôtre est soumise ;</l>
+<l>Commandez.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>L’Éternel nous a ravi Moïse.</l>
+</lg>
+</sp>
+
+      <sp who="p"><speaker>NADAB.</speaker><stage>(A part.)</stage>
+<lg>
+<l>Moïse ? Est-ce, ô Seigneur, ou grâce ou châtiment ?</l>
+</lg>
+</sp>
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Que de maux produira ce triste événement !</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Il change nos devoirs avec nos destinées.</l>
+<l>Aux sables d’Ismaël désormais confinées,</l>
+<l>Nos tribus, qui n’ont plus les doux regards du ciel,</l>
+<l>Ne verront point la terre et de lait et de miel.</l>
+<l>De cent peuples voisins calmant la défiance,</l>
+<l>Élevons avec eux la pierre d’alliance,</l>
+<l>Et fixons de Jacob l’avenir incertain,</l>
+<l>Sans regretter le Nil, sans chercher le Jourdain.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>CALEB.</speaker>
+<lg>
+<l>Eh quoi ! le fils d’Aaron tient un pareil langage !</l>
+<l>A rester dans ces lieux c’est lui qui nous engage !</l>
+<l>Ami, si nous perdons notre libérateur,</l>
+<l>Toi, sorti de son sang, sois notre conducteur :</l>
+<l>Atteins, perce, et détruis cette race proscrite,</l>
+<l>Dont au livre éternel la ruine est écrite.</l>
+</lg>
+</sp> <pb n="87" xml:id="p92"/>
+ <sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Je laisse à ta valeur ces sanglants embarras.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>CALEB.</speaker>
+<lg>
+<l>Ah ! je sais quelle main a désarmé ton bras.</l>
+<l>Le conseil de nos chefs, par qui tout se décide,</l>
+<l>Dira s’il faut sauver une race homicide,</l>
+<l>Qui jusque dans ce camp, avec un art fatal,</l>
+<l>Introduit et répand le culte de Baal.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Charitable Caleb, sont-ce là les cantiques</l>
+<l>Que du temple promis rediront les portiques ?</l>
+<l>Sur un autel de paix, au Dieu que tu défends,</l>
+<l>Tu veux donc immoler des femmes, des enfants ?</l>
+</lg>
+</sp>
+<sp who="p"><speaker>CALEB.</speaker>
+<lg>
+<l>Quand on est criminel, on subit sa sentence,</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Quand on est sans pitié, croit-on à l’innocence ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>CALEB.</speaker>
+<lg>
+<l>A de trop doux penchants crains de t’abandonner.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Toi, sache quelquefois pleurer et pardonner.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>CALEB.</speaker>
+<lg>
+<l>La rigueur est utile.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Et la clémence auguste.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>CALEB.</speaker>
+<lg>
+<l>Le faible est méprisable.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Et le fort est injuste.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>CALEB.</speaker>
+<lg>
+<l>Retourne à tes devoirs, au Jourdain viens mourir.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Un peu de sable ici suffit pour me couvrir.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Jeunes hommes, cessez ; n’augmentez pas nos larmes</l>
+<l>Confondez vos regrets et mariez vos armes.</l>
+<l>Vous, Caleb, de ma sœur adoucissez l’ennui :</l>
+<l>La publique douleur me réclame aujourd’hui.</l>
+<l>Que Dieu de ses desseins dissipe les ténèbres !</l>
+<l>Vous, Nadab, ordonnez aux trompettes funèbres</l>
+<l>De convoquer trois fois, dans un morne appareil,</l>
+<l>Les princes des tribus aux tentes du conseil.</l>
+</lg>
+</sp>
+</div>
+<div type="scene"><head>Scène V.</head>
+ <stage>MARIE, CALEB.</stage>
+ <sp who="p"><speaker>CALEB.</speaker>
+<lg>
+<l>Exemple d’Israël, prophétesse Marie,</l>
+<l>La source de nos pleurs n’est donc jamais tarie ?</l>
+<l>D’invisibles filets Nadab environné</l>
+<l>D’Arzane n’a pu fuir le trait empoisonné.</l> <pb n="88" xml:id="p93"/>
+<l>Je crains encor sur lui la perverse puissance</l>
+<l>Du dangereux ami dont il pleurait l’absence,</l>
+<l>De l’inique Dathan, froidement factieux,</l>
+<l>Ennemi de Moïse et contempteur des cieux.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>MARIE.</speaker>
+<lg>
+<l>Et que fait Israël ? quel espoir le soulage ?</l>
+</lg>
+</sp>
+<sp who="p"><speaker>CALEB.</speaker>
+<lg>
+<l>Ce peuple à l’esprit dur, au cœur faible et volage,</l>
+<l>Déjà las de la gloire et de la liberté,</l>
+<l>Regrette lâchement le joug qu’il a porté.</l>
+<l>« Abandonnons, dit-il, ces plages désolées.</l>
+<l>Retournons à Tanis, où des chairs immolées,</l>
+<l>Où des plantes du Nil l’Égyptien pieux</l>
+<l>Nourrissait nos enfants à la table des dieux. »</l>
+<l>Peuple murmurateur, race ingrate et perfide !</l>
+</lg>
+</sp>
+<sp who="p"><speaker>MARIE.</speaker>
+<lg>
+<l>La terre, cher Caleb, pour le juste est aride ;</l>
+<l>Mais il s’élève à Dieu : le palmier de Jeddiel</l>
+<l>A ses pieds dans le sable et son front dans le ciel.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>CALEB.</speaker>
+<lg>
+<l>Des chefs séditieux pour combattre l’audace</l>
+<l>Il est temps qu’au conseil j’aille prendre ma place.</l>
+<l>Dans ce triste moment les vierges d’Israël,</l>
+<l>Instruites par vos soins à prier à l’autel,</l>
+<l>Pour plaindre et partager votre douleur auguste</l>
+<l>S’avancent.</l>
+</lg>
+</sp>
+<stage>(Le chœur des jeunes filles israélites entre dans ce moment sur la scène :</stage><stage>Caleb sort.)</stage>
+ 
+<sp who="p"><speaker>MARIE</speaker><stage>, <hi rend="i">au chœur.</hi></stage>
+<lg>
+<l>Approchez, postérité du juste,</l>
+<l>Doux trésor de Jacob, par le ciel réclamé.</l>
+<l>Désarmez du Seigneur le carquois enflammé ;</l>
+<l>Au père qui nous frappe, au Dieu qui nous châtie,</l>
+<l>Présentez de vos pleurs la pacifique hostie ;</l>
+<l>Il est pour l’affligé des cantiques touchants,</l>
+<l>Et souvent la douleur s’exprime par des chants.</l>
+</lg>
+</sp></div>
+<div type="scene"><head>Scène VI.</head>
+ <stage>MARIE, LE CHOEUR DES JEUNES FILLES ISRAÉLITES.</stage>
+ <stage>(Cette scène est en partie déclamée, en partie chantée. Le chœur est divisé en deux demi-chœurs qui se placent l’un à droite et l’autre à gauche de Marie : le premier demi-chœur tient à la main des harpes, et le second des tambours.)</stage>
+ <sp who="p"><speaker>PREMIER DEMI-CHOEUR.</speaker>
+<lg>
+<l>Imitons dans nos concerts</l>
+<l>Le pélican des déserts ;</l>
+<l>Jacob, ta gloire est passée,</l>
+<l>Et de ton Dieu la clémence est lassée.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>SECOND DEMI-CHŒUR.</speaker>
+<lg>
+<l>Au divin Maître ayons recours ;</l> <pb n="89" xml:id="p94"/>
+<l>A ses douces lois qu’on se range ;</l>
+<l>Qu’il soit la vigne de secours</l>
+<l>Où le pécheur toujours vendange.</l>
+</lg>
+
+<lg>
+<l>Sa grâce est au cœur pur, au cœur religieux,</l>
+<l>Ce qu’est à nos autels un parfum précieux.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>UN ISRAÉLITE DU PREMIER DEMI-CHOEUR.</speaker>
+<lg>
+<l>N’espérons rien, pour finir nos souffrances,</l>
+<l>De ses bontés.</l>
+</lg>
+</sp>
+ <sp who="p"><speaker>UNE ISRAÉLITE DU SECOND DEMI-CHOEUR.</speaker><stage>A ses clartés</stage>
+<lg>
+<l>Nous voulons rallumer nos vives espérances</l>
+</lg>
+</sp>
+ <sp who="p"><speaker>UNE ISRAÉLITE SEULE.</speaker>
+<lg>
+<l>Suspendons notre harpe, en ces temps de regrets Au palmier de la solitude.</l>
+<l>Jourdain ! fleuve espéré, séjour de quiétude,</l>
+<l>Mes yeux ne te verront jamais.</l>
+<l>Où sont les cèdres superbes,</l>
+<l>Liban, que tu devais au temple projeté ?</l>
+<l>Jacob, de son Dieu rejeté,</l>
+<l>Rampe plus bas que les herbes</l>
+<l>Dans le lit du torrent desséché par l’été.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>DEUX ISRAÉLITES.</speaker>
+<lg>
+<l>Douloureux mystère</l>
+<l>D’un trépas caché,</l>
+<l>Pleurons à la terre</l>
+<l>Moïse arraché.</l>
+<l>Loin du frais rivage</l>
+<l>Où fut son berceau,</l>
+<l>L’onagre sauvage</l>
+<l>Foule son tombeau.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>LA PLUS JEUNE DES ISRAÉLITES.</speaker>
+<lg>
+<l>Mais qui me gardera sous l’aile de ma mère ?</l>
+<l>Moïse a disparu, Moïse était mon père.</l>
+<l>O terre de Gessen ! prés émaillés de fleurs</l>
+<l>Où je cueillais ma parure !</l>
+<l>Comme un jeune olivier privé d’une onde pure,</l>
+<l>Je languis et je meurs.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>TOUT LE CHŒUR.</speaker>
+<lg>
+<l>Dieu nourrit de ses dons l’innocente colombe,</l>
+<l>Le juste au temps marqué sortira de sa tombe.</l>
+<l>D’Amalec les dieux mortels</l>
+<l>Ne peuvent renverser les desseins éternels.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>UNE ISRAÉLITE.</speaker>
+<lg>
+<l>Ma sœur, avez-vous vu cette superbe Arzane ?</l>
+<l>De quel regard profane</l>
+<l>Elle insultait nos autels !</l>
+</lg>
+</sp>
+<sp who="p"><speaker>UNE AUTRE ISRAÉLITE.</speaker>
+<lg>
+<l>Plus inconstante que les ondes,</l>
+<l>Ses démarches sont vagabondes ;</l> <pb n="90" xml:id="p95"/>
+<l>Ses lèvres et son cœur pour tromper sont d’accord,</l>
+<l>Sa douce volupté d’amertume est suivie ;</l>
+<l>Et quand sa bouche invite à jouir de la vie,</l>
+<l>Ses pas nous mènent à la mort.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>UNE TROISIÈME ISRAÉLITE.</speaker>
+<lg>
+<l>De nos jeunes guerriers le prince et le modèle,</l>
+<l>Nadab était auprès d’elle.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>TOUT LE CHOEUR.</speaker>
+<lg>
+<l>Ah ! fuyons, fuyons, mes sœurs,</l>
+<l>Des passions les trompeuses douceurs !</l>
+</lg>
+</sp>
+<sp who="p"><speaker>TROIS ISRAÉLITES.</speaker>
+<lg>
+<l>Ne vous reposez point à la source étrangère ;</l>
+<l>Buvez l’onde de vos ruisseaux.</l>
+<l>Qu’une épouse fidèle, à l’ombre des berceaux,</l>
+<l>Soit plus belle à vos yeux que la biche légère !</l>
+</lg>
+</sp>
+<sp who="p"><speaker>TOUT LE CHOEUR.</speaker>
+<lg>
+<l>Ah ! fuyons, fuyons, mes sœurs,</l>
+<l>Des passions les trompeuses douceurs !</l>
+</lg>
+</sp>
+<sp who="p"><speaker>PREMIER DEMI-CHOEUR.</speaker>
+<lg>
+<l>L’homme marche à travers une nuit importune.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>SECOND DEMI-CHOEUR.</speaker>
+<lg>
+<l>Attachons-nous au Dieu qui bénit l’infortune ;</l>
+</lg>
+</sp>
+<sp who="p"><speaker>UNE ISRAÉLITE.</speaker>
+<lg>
+<l>Qui sur un lit de pleurs mouillé</l>
+<l>Retourne le mourant, soutient son front livide ;</l>
+</lg></sp>
+ <sp who="p"><speaker>LA PLUS JEUNE DES ISRAÉLITES</speaker>
+ <lg>
+<l>Qui mesure le vent à l’agneau dépouillé</l>
+<l>Par le pasteur avide.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>TOUT LE CHOEUR.</speaker>
+<lg>
+<l>Ingrats mortels, en vain vous résistez</l>
+<l>Au Dieu qui vous conduit dans ses sublimes voies,</l>
+<l>Et qui d’intarissables joies</l>
+<l>Rassasiera les cœurs en son nom contristés.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>MARIE.</speaker>
+<lg>
+<l>Mes enfants, c’est assez : allez, toujours dociles,</l>
+<l>Vous livrer au repos sous vos tentes tranquilles.</l>
+<l>Voici l’heure pesante accordée au sommeil :</l>
+<l>Tout se tait à présent sous les feux du soleil ;</l>
+<l>Les vents ont expiré : du palmier immobile</l>
+<l>L’ombre se raccourcit sur l’arène stérile ;</l>
+<l>L’Arabe fuit du jour les traits étincelants,</l>
+<l>Et le chameau s’endort dans les sables brûlants.</l>
+</lg>
+</sp></div></div>
+    <div type="act">
+<head>Acte second.</head>
+     <pb n="91" xml:id="p96"/>
+     
+     
+     <div type="scene"><head>Scene première.</head>
+     <stage>ARZANE, NÉBÉE.</stage>
+     
+     <sp who="p"><speaker>NÉBÉE.</speaker>
+      <lg>
+       <l>Nadab veut vous parler dans ce lieu solitaire.</l>
+<l>Arzane, expliquez-moi cet étonnant mystère.</l>
+<l>Quelle joie inconnue éclate dans vos yeux !</l>
+<l>Dormirons-nous bientôt aux champs de nos aïeux ?</l>
+<l>Par votre ordre à Séir un moment retournée,</l>
+<l>Je n’ai point vu d’Oreb la funeste journée ;</l>
+<l>Mais je suis revenue au bruit de vos malheurs,</l>
+<l>Pour vous offrir du moins le secours de mes pleurs.</l>
+</lg>
+     </sp>
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Qu’il en coûte, Nébée, à servir l’infortune !</l>
+<l>Qu’un sceptre brisé pèse à l’amitié commune !</l>
+<l>La tienne est rare et grande : oui, tu mérites bien</l>
+<l>Que je t’ouvre mon cœur dans un libre entretien.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>J’ai su que, par Moïse à mourir condamnées,</l>
+<l>Les femmes d’Amalec qui comptaient seize années,</l>
+<l>Ou qui du joug d’hymen portèrent le fardeau,</l>
+<l>Devaient livrer leur sang au glaive du bourreau.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>On m’arracha des rois les saintes bandelettes,</l>
+<l>Et le malheur me mit au rang de mes sujettes.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NÉBÉE.</speaker>
+ <lg><l>Ciel !</l></lg></sp>
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Dans un parc formé par d’épineux rameaux.</l>
+<l>Nous attendions la mort comme de vils troupeaux.</l>
+<l>L’Hébreu vient ; on entend un long cri d’épouvante.</l>
+<l>Déjà brillait du fer la lumière mouvante,</l>
+<l>Lorsque le fils d’Aaron, que la pitié combat,</l>
+<l>Retint le glaive ardent avant qu’il retombât.</l>
+<l>Il contemple attendri ces femmes éplorées,</l>
+<l>Qui lui tendaient de loin leurs mains décolorées.</l>
+<l>Je paraissais surtout attirer ses regards ;</l>
+<l>Soit qu’un habit de deuil et des cheveux épars</l>
+<l>A ma frêle beauté prêtassent quelques charmes ;</l>
+<l>Soit enfin qu’une reine, en répandant des larmes,</l>
+<l>Trouve dans ses revers de nouvelles splendeurs,</l>
+<l>Et n’ait fait seulement que changer de grandeurs.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>Nadab au doux pardon inclina ses pensées.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>« Femmes, vivez, dit-il : nos tribus offensées</l> <pb n="92" xml:id="p97"/>
+<l>« M’ont vainement chargé d’un devoir trop cruel.</l>
+<l>« Et je vais implorer les anciens d’Israël. »</l>
+<l>Coré, Sthur, Abiron, dans un conseil propice,</l>
+<l>Firent avec Nadab suspendre mon supplice.</l>
+<l>D’un ramas d’affranchis digne législateur,</l>
+<l>Moïse alla chercher quelque oracle menteur.</l>
+<l>Resté maître en ce camp, Nadab qu’un Dieu possède,</l>
+<l>De soins officieux incessamment m’obsède :</l>
+<l>Il m’aime, et toutefois n’ose me découvrir</l>
+<l>Le feu qui le dévore et que j’ai su nourrir.</l>
+<l>Aujourd’hui même enfin par sa bouche informée</l>
+<l>De la mort du tyran qui gourmandait l’armée,</l>
+<l>Ici plus longuement il veut m’entretenir,</l>
+<l>Et de ma délivrance avec moi convenir.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>Je conçois maintenant l’espoir qui vous enflamme.</l>
+<l>Vous êtes adorée et l’amour dans votre âme…</l>
+</lg>
+</sp>
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Non : je n’ai point trahi mes aïeux, mes revers.</l>
+<l>Lorsque le sort me livre à ce peuple pervers,</l>
+<l>Reine malgré le sort, je n’ai point la faiblesse</l>
+<l>De partager les feux d’un amour qui me blesse,</l>
+<l>Mais je sais écouter des soupirs ennemis,</l>
+<l>Pour sortir de l’abîme où le ciel nous a mis :</l>
+<l>De l’odieux Jacob je troublerai la cendre.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>Arzane, de l’amour on ne se peut défendre !</l>
+</lg>
+</sp>
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Tu te trompes, Nébée, et dans mon sein ce cœur</l>
+<l>Au nom du peuple juif ne bat que de fureur.</l>
+<l>Faut-il te rappeler nos discordes antiques,</l>
+<l>Des deux fils d’Isaac les haines domestiques,</l>
+<l>Le droit du premier-né si follement vendu,</l>
+<l>Et l’innocent festin qui perdit Ésaü ?</l>
+<l>Nous, d’un prince trahi postérité fidèle,</l>
+<l>Lorsque nous embrassons une cause si belle</l>
+<l>Nous voyons triompher les ignobles drapeaux</l>
+<l>Du gendre vagabond d’un pâtre de chameaux</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>Mais Nadab lui succède.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>A Nadab, a sa gloire</l>
+<l>Mon époux doit la mort, et l’Hébreu, la victoire.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>Quel est votre projet, votre espoir ?</l>
+</lg>
+</sp>
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Me venger ;</l>
+<l>Écouter les aveux du soldat étranger ;</l>
+<l>Feindre pour l’asservir, et par quelque artifice</l>
+</lg>
+<pb n="93" xml:id="p98"/>
+
+<lg>
+<l>Nous sauver, en poussant Jacob au précipice.</l>
+<l>Oui, je triompherai, si Nadab amoureux</l>
+<l>Au culte d’Abraham arrache les Hébreux.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>Vous croyez donc leur Dieu puissant et redoutable ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Je sais du moins, je sais qu’il est impitoyable :</l>
+<l>Amalec autrefois déserta son autel,</l>
+<l>Lorsqu’il maudit Édon et bénit Israël.</l>
+<l>Jaloux de son pouvoir, jamais il ne pardonne :</l>
+<l>Il frappera Jacob, si Jacob l’abandonne.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>Nadab…</l>
+</lg>
+</sp>
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Est l’ennemi du sang de mes aïeux.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>Il est sincère.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Eh bien ! je le tromperai mieux.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>Il fait de vous servir sa plus constante étude.</l>
+<l>On vous reprochera…</l>
+</lg>
+</sp>
+<sp who="p"><speaker>ARZANE.</speaker><lg><l>Poursuis !</l></lg></sp>
+      <sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>L’ingratitude.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Non, si par le succès mes vœux sont couronnés :</l>
+<l>On ne traite d’ingrats que les infortunés.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>Nadab…</l>
+</lg>
+</sp>
+<sp who="p"><speaker>ARZANE.</speaker>
+ <lg><l>M’est odieux.</l></lg></sp>
+<sp who="p"><speaker>NÉBÉE.</speaker>
+ <lg><l>Sa clémence…</l></lg></sp>
+      <sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>M’outrage.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>Il veut votre bonheur.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Ma honte est son ouvrage.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>Il vous rendra le trône.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Il m’a donné des fers.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>S’il s’attache à vos pas ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Je le mène aux enfers.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>A vos desseins secrets que je prévois d’obstacles !</l>
+</lg>
+</sp> <pb n="94" xml:id="p99"/>
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>L’amour de la patrie enfante des miracles.</l>
+<l>Mais j’aperçois Nadab… Reine de la beauté,</l>
+<l>Prête-moi ta ceinture, ô brillante Astarté !</l>
+<l>Donne à tous mes discours ta grâce souveraine ;</l>
+<l>Déesse de l’amour, sers aujourd’hui la haine.</l>
+<l>Descends ! à ton secours amène tous les dieux :</l>
+<l>Si Jéhovah triomphe, ils tomberont des cieux.</l>
+</lg>
+</sp> </div>
+<div type="scene"><head>Scène II.</head>
+ <stage>NADAB, ARZANE, NÉBEE.</stage>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>De ses destins, Nadab, votre esclave incertaine</l>
+<l>Accourt à votre voix près de cette fontaine.</l>
+<l>Si par ces yeux baissés je juge de mon sort,</l>
+<l>Je crains bien qu’Amalec ne soit pas libre encor.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Étrangère, il me faut vous le dire sans feinte :</l>
+<l>Les vieillards de Caleb ont écoulé la plainte.</l>
+<l>Le conseil, à qui seul le pouvoir appartient,</l>
+<l>Pour quelques jours encor dans ce camp vous retient.</l>
+<l>Sans gardes cependant vous pouvez de la plage</l>
+<l>Parcourir les sentiers et l’arène sauvage.</l>
+<l>Dathan, dont l’amitié ne craint aucun péril,</l>
+<l>Amène auprès de vous vos compagnes d’exil.</l>
+<l>On vous rend des honneurs inconnus sous nos tentes,</l>
+</lg>
+
+<stage>(Dathan entre en ce moment sur la scène, suivi du chœur des jeunes filles amalécites, il se retire ensuite, et Nébée va se placer à la tête du chœur au fond du théâtre.)</stage>
+
+<lg>
+<l>Et bientôt, au milieu des pompes éclatantes,</l>
+<l>Rendue à vos sujets, embrassant l’avenir,</l>
+<l>Vous perdrez de Nadab l’importun souvenir.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Arzane par vos mains à la mort fut ravie,</l>
+<l>Et d’un nouveau bienfait cette grâce est suivie !</l>
+<l>Mon cœur reconnaissant ne peut s’exprimer mieux</l>
+<l>Que par mon peu d’ardeur à sortir de ces lieux.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>A ce langage adroit je ne puis me méprendre :</l>
+<l>Vous flattez l’ennemi dont vous croyez dépendre.</l>
+<l>Mais, nourrie à Séir pour plaire et pour aimer,</l>
+<l>Nos farouches vertus ne peuvent vous charmer.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Amalec et Jacob diffèrent de maxime,</l>
+<l>Il est vrai : nous croyons, sans nous en faire un crime,</l>
+<l>Qu’aimer est le bonheur, plaire, un don précieux,</l>
+<l>Et que la volupté nous rapproche des dieux.</l>
+<l>Sous des berceaux de fleurs nos heures fortunées</l>
+<l>S’envolent mollement l’une à l’autre enchaînées.</l>
+</lg>
+ <pb n="95" xml:id="p100"/>
+
+<lg>
+<l>Le dieu que nous servons approuve nos désirs :</l>
+<l>Dans une île féconde, aux doux chants des plaisirs,</l>
+<l>La beauté l’enfanta sur les mers de Syrie ;</l>
+<l>Il préside en riant aux banquets de la vie.</l>
+<l>Pour attirer sur vous ses bienfaisants regards,</l>
+<l>J’ai déjà, les pieds nus et les cheveux épars ;</l>
+<l>De nos rites sacrés suivant l’antique usage,</l>
+<l>Trois fois pendant la nuit conjuré son image…</l>
+<l>Mais n’ai-je point, Nadab, armé votre courroux ?</l>
+<l>Vous détestez le dieu que je priais pour vous.</l>
+<l>Pardonnez à ces vœux que dans mon innocence</l>
+<l>M’arracha le transport de la reconnaissance.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Qu’entends-je ! Amalécite, apprenez donc mon sort.</l>
+<l>Longtemps de mon amour je captivai l’essor :</l>
+<l>Vous adorant toujours, mais respectant vos larmes,</l>
+<l>Je n’aurais pas osé vous parler de vos charmes :</l>
+<l>Un mot, dont l’homme heureux ne sent pas la valeur</l>
+<l>Trop souvent peut blesser l’oreille du malheur.</l>
+<l>Quand Moïse vivait vous aviez tout à craindre ;</l>
+<l>A cacher mon ardeur je savais me contraindre :</l>
+<l>Aujourd’hui que le ciel pour vous se veut calmer,</l>
+<l>Votre bonheur me rend le droit de vous aimer.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Épargnez…</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Vous sauver changea ma vie entière,</l>
+<l>Ce cœur, que vous avez habité la première,</l>
+<l>Vit l’amour se lever terrible et violent</l>
+<l>Comme l’astre de feu dans ce désert brûlant.</l>
+<l>Le repos pour jamais s’envola de mon âme ;</l>
+<l>Mon esprit s’égara dans des songes de flamme.</l>
+<l>Abjurant la grandeur promise à nos neveux,</l>
+<l>A l’autel des Parfums je n’offrais plus mes vœux ;</l>
+<l>Je n’allais plus, lévite innocent et modeste,</l>
+<l>Chaque aurore au désert cueillir le pain céleste.</l>
+<l>Dans les champs de l’Arabe, et loin des yeux jaloux,</l>
+<l>Mon bonheur eût été de me perdre avec vous.</l>
+<l>De toi seule connue, à toi seule asservie,</l>
+<l>L’Orient solitaire aurait caché ma vie.</l>
+<l>Pour appui, du dattier, empruntant un rameau,</l>
+<l>Le jour j’aurais guidé ton paisible chameau ;</l>
+<l>Le soir, au bord riant d’une source ignorée,</l>
+<l>J’aurais offert la coupe à ta bouche altérée,</l>
+<l>Et sous la simple tente, oubliant Israël,</l>
+<l>Pressé contre mon cœur la nouvelle Rachel.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Confuse, à vos regards, je voudrais disparaître ;</l>
+<l>Mais je suis votre esclave, et vous êtes mon maître.</l>
+</lg>
+</sp> <pb n="96" xml:id="p101"/>
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>A qui maudit vos fers le reproche est bien dur !</l>
+<l>Mais de vous délivrer il est un moyen sûr.</l>
+<l>Vous connaissez du camp le trouble et les alarmes :</l>
+<l>De la féconde Égypte on regrette les charmes,</l>
+<l>On veut que des tribus je conduise les pas.</l>
+<l>Epousé de Nadab, ouvrez-nous vos États ;</l>
+<l>D’un peuple de bannis soyez la souveraine :</l>
+<l>Le soldat à l’instant va briser votre chaîne.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Je vois Marie.</l>
+</lg>
+</sp></div>
+<div type="scene"><head>Scène III.</head><stage>MARIE, ARZANE, NADAB, NÉBÉE ; CHOEUR DE JEUNES FILLES AMALECITES.</stage>
+
+<sp who="p"><speaker>MARIE.</speaker>
+<lg>
+<l>Aaron n’est point ici, Nadab ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Il pleure le prophète au torrent de Cédab.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MARIE.</speaker>
+<lg>
+<l>Rendez grâce au Seigneur ; sa paix nous accompagne.</l>
+<l>Moïse reparaît sur la sainte montagne.</l>
+<l>Cherchant partout Aaron, je cours lui répéter</l>
+<l>Ce qu’un chef des pasteurs vient de me raconter.</l>
+</lg>
+</sp> </div>
+<div type="scene"><head>Scène IV.</head><stage>NADAB, ARZANE, NÉBÉE ; CHOEUR DE JEUNES FILLES AMALÉCITES.</stage> 
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Fils d’Aaron, à mon sort il faut que je succombe !</l>
+ <l>Vous me parliez d’hymen, et je touche à ma tombe.</l></lg></sp>
+ <sp who="p"><speaker>NADAB</speaker><stage>, <hi rend="i">sans écouter Arzane.</hi></stage>
+<lg><l>Nous allons te revoir enfin, fameux mortel,</l>
+<l>Encor tout éclatant des feux de l’Éternel.</l>
+<l>Honneur à tes vertus, et gloire à ton génie !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Veillé-je ? dans mes maux quelle affreuse ironie !</l>
+<l>Quoi ! Nadab, ces desseins où tous deux engagés,</l>
+<l>Ces projets de l’amour…</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Ils ne sont point changés.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Entre Moïse et moi vous tenez la balance :</l>
+<l>De votre passion je vois la violence.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Femme, je suis sans force à tes pieds abattu ;</l>
+<l>Mais ne puis-je du moins admirer la vertu ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Qui pourra m’arracher de ce sanglant théâtre</l>
+<l>Où la mort me poursuit ?</l>
+</lg>
+</sp> <pb n="97" xml:id="p102"/>
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Ce cœur qui t’idolâtre.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Mais les remords viendront arrêter vos efforts.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Mais si je l’obéis, que te font mes remords ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>De ces hauts sentiments je serai la victime.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Laisse-moi m’enchanter d’innocence et de crime,</l>
+<l>Connaître mes devoirs sans te manquer de foi,</l>
+<l>Apercevoir l’abîme, et m’y jeter pour toi.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>je ressens vos douleurs, et n’en suis point complice.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Cesse de t’excuser : j’adore mon supplice.</l>
+<l>Ma souffrance est ma joie, et je veux à jamais</l>
+<l>Conserver la douceur du mal que tu me fais.</l>
+<l>Hélas ! mon fol amour m’épouvante moi-même ;</l>
+<l>Je me sens sous le coup de quelque arrêt suprême :</l>
+<l>D’involontaires pleurs s’échappent de mes yeux ;</l>
+<l>La nuit, dans mon sommeil, j’entends parler tes dieux.</l>
+<l>Prêt à sacrifier à leurs autels coupables,</l>
+<l>Je me réveille, au bruit de mes cris lamentables.</l>
+<l>Dis : n’est-ce pas ainsi, dans ses tourments divers,</l>
+<l>Qu’une âme est par le ciel dévouée aux enfers ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>On va vous délivrer du joug de l’étrangère.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Des légers fils d’Agar la voix est mensongère ;</l>
+<l>L’Arabe aime à conter : je veux sonder des bruits</l>
+<l>Aisément élevés, plus aisément détruits.</l>
+<l>De Moïse en ces lieux je viendrai vous apprendre</l>
+<l>Le destin. Quel parti qu’alors vous vouliez prendre</l>
+<l>Contre tout ennemi prompt à vous secourir ;</l>
+<l>Arzane, je saurai vous sauver ou mourir.</l>
+</lg>
+</sp>
+<stage>(Nadab sort.)</stage></div>
+     <div type="scene"><head>Scène V.</head>
+      <stage>ARZANE, NÉBEE ; CHOEUR DE JEUNES FILLES AMALÉCITES.</stage>
+      
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Ah ! Nébée, à ce coup je ne saurais survivre !</l>
+<l>L’implacable destin s’attache à me poursuivre.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>Et moi je ressentais un doux enchantement</l>
+<l>En écoutant des vœux si chers !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Autre tourment,</l>
+<l>Incestueux projet, effroyable à mon âme !</l> <pb n="98" xml:id="p103"/>
+<l>Je liais du fils d’Aaron cl la main et la flamme.</l>
+<l>Amalec recevoir Israël dans ses bras !</l>
+<l>Recueillir dans mon sein une race d’ingrats !</l>
+<l>Je légitimerais ces exécrables frères,</l>
+<l>Qui menacent nos fils, qui trahirent nos pères ;</l>
+<l>Ces esclaves du Nil, bâtisseurs de tombeaux,</l>
+<l>Ignobles artisans flétris par leurs travaux,</l>
+<l>Qui d’Égypte chassés avec tous leurs prophètes,</l>
+<l>Proclament en tremblant d’insolentes conquêtes,</l>
+<l>Se disent héritiers des florissants États</l>
+<l>De cent peuples divers qu’ils ne connaissent pas !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>Sauvez, sauvez vos jours !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Voudrais-tu donc, Nébée,</l>
+<l>Aux autels de Jacob voir Arzane courbée,</l>
+<l>Contrainte d’embrasser le culte menaçant</l>
+<l>Du Dieu cruel qui veut exterminer mon sang ?</l>
+<l>S’il faut suivre aujourd’hui la fortune jalouse,</l>
+<l>S’il faut que de Nadab je devienne l’épouse.</l>
+<l>Que lui-même, parjure au culte de Nachor,</l>
+<l>Serve avec moi Baal, et Moloch, et Phogor ;</l>
+<l>Que son hymen des Juifs brise les lois publiques :</l>
+<l>Qu’il me donne sa main aux autels domestiques</l>
+<l>Des dieux de mon palais, des dieux accoutumés</l>
+<l>A couronner les vœux contre Jacob formés !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>Du retour de Moïse on n’a pas l’assurance.</l>
+<l>Espérons.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Laisse là ta menteuse espérance.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NÉBÉE.</speaker>
+<lg>
+<l>L’étoile d’Astarté paraît sur l’horizon :</l>
+<l>Pour hâter le retour du jeune fils d’Aaron,</l>
+<l>Saluons l’astre heureux par des chants agréables.</l>
+</lg>
+</sp>
+      <sp who="p">
+<speaker>ARZANE</speaker><stage>, <hi rend="i">au chœur.</hi></stage>
+<lg>
+<l>Captives, suspendez ces pleurs inépuisables.</l>
+<l>Voici l’instant prédit où les filles d’Édom</l>
+<l>Vont sauver d’Amalec et la race et le nom.</l>
+<l>Nos guerriers ne sont plus, mais vous restez encore :</l>
+<l>Formez les chœurs brillants des peuples de l’Aurore.</l>
+<l>Des femmes de Byblos répétez les soupirs,</l>
+<l>Du farouche Israël enflammez les désirs.</l>
+<l>Loin d’ici la pudeur et la froide innocence !</l>
+<l>Il nous faut des plaisirs conduits par la vengeance.</l>
+<l>Chantez l’amour ; c’est lui qui du Dieu d’Israël</l>
+<l>Doit corrompre l’encens et renverser l’autel.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>LE CHOEUR.</speaker>
+<lg>
+<l>Amour, tout chérit tes mystères,</l>
+<pb n="99" xml:id="p104"/>
+<l>Tout suit tes gracieuses lois,</l>
+<l>L’hirondelle au palais des rois,</l>
+<l>L’aigle sur les monts solitaires,</l>
+<l>Et le passereau sous nos toits.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>UNE AMALÉCITE.</speaker>
+<lg>
+<l>Ton vieux temple, entouré des peuples de la terre,</l>
+<l>S’élève révéré de chaque âge nouveau,</l>
+<l>Comme au milieu d’un champ la borne héréditaire,</l>
+<l>Ou la tour du pasteur au milieu du troupeau,</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>LE CHOEUR.</speaker>
+<lg>
+<l>Amour, tout chérit tes mystères,</l>
+<l>Tout suit tes gracieuses lois,</l>
+<l>L’hirondelle au palais des rois,</l>
+<l>L’aigle sur les monts solitaires,</l>
+<l>Et le passereau sous nos toits.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>UNE AMALÉCITE.</speaker>
+<lg>
+<l>Invoquons du Liban la déesse charmante !</l>
+<l>De nos longs cheveux d’or que la tresse élégante</l>
+<l>Tombe en sacrifice à l’Amour.</l>
+<l>Soulevons les enfers, répétons tour à tour</l>
+<l>Du berger chaldéen la parole puissante.</l>
+<l>UNE AUTRE AMALÉCITE.</l>
+<l>Qui méprise l’Amour dans ses fers gémira,</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>DEUX AMALÉCITES.</speaker>
+<lg>
+<l>De prodiges divers l’Amour remplit l’Asie,</l>
+<l>Il embauma l’Arabie</l>
+<l>Des pleurs de la tendre Myrrha ;</l>
+<l>Du pur sang d’Adonis il peignit l’anémone :</l>
+<l>Fleur des regrets, symbole du plaisir,</l>
+<l>Elle vit peu de temps ; et le même zéphyr</l>
+<l>La fait éclore et la moissonne.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>UNE AMALÉCITE.</speaker>
+<lg>
+<l>Prenons notre riche ceinture,</l>
+<l>Nos réseaux les plus fins, nos bagues, nos colliers ;</l>
+<l>Vengeons aujourd’hui nos guerriers ;</l>
+<l>Les remparts et les boucliers</l>
+<l>Sont vains contre l’Amour dans toute sa parure</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>LE CHOEUR.</speaker>
+<lg>
+<l>Que dit à son amant, de plaisir transporté,</l>
+<l>Cette prêtresse d’Astarté</l>
+<l>Qui voudrait attirer le jeune homme auprès elle,</l>
+<l>Et lui percer le cœur d’une flèche mortelle ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>UNE AMALÉCITE.</speaker>
+<lg>
+<l>« Beau jeune homme, dit-elle, arrête donc les yeux</l>
+<l>Sur la tendre Abigail que ta froideur opprime.</l>
+<l>Je viens d’immoler la victime</l>
+<l>Et d’implorer la faveur de nos dieux.</l>
+<l>Viens, que je sois ta bien-aimée.</l>
+<l>J’ai suspendu ma couche en souvenir de toi ;</l> <pb n="100" xml:id="p105"/>
+<l>« D’aloès je l’ai parfumée,</l>
+<l>« Sur un riche tapis je recevrai mon roi ;</l>
+<l>« Dans l’albâtre éclatant la lampe est allumée ;</l>
+<l>« Un bain voluptueux est préparé pour moi.</l>
+<l>« L’époux qu’on a choisi, mais qui n’a pas mon âme,</l>
+<l>Est parti ce matin pour ses plants d’oliviers :</l>
+<l>Il veut écouler ses viviers ;</l>
+<l>Sa vigne ensuite le réclame.</l>
+<l>Il a pris dans sa main son bâton de palmier,</l>
+<l>Et mis deux sicles d’or dans sa large ceinture ;</l>
+<l>Il ne reviendra point que de son orbe entier</l>
+<l>« Tandis qu’en son champ il vendange,</l>
+<l>Enivrons-nous de nos désirs.</l>
+<l>De tant de jours perdus qu’un jour heureux nous venge</l>
+<l>Il n’est de bon que les plaisirs, »</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>DEUX AMALÉCITES.</speaker>
+<lg>
+<l>O filles d’Amalec ! si par un tel langage</l>
+<l>De nos tyrans nous embrasions les cœurs,</l>
+<l>Nous verrions à nos pieds cette race sauvage,</l>
+<l>Et les vaincus deviendraient les vainqueurs !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>LES MÊMES, AVEC UNE TROISIÈME AMALÉCITE.</speaker>
+<lg>
+<l>Arzane, lève-toi dans l’éclat de tes larmes !</l>
+<l>Triomphe par tes charmes !</l>
+<l>Que l’amour sur ton front s’embellissant encor</l>
+<l>Attaque des Hébreux les princes redoutables</l>
+<l>Et livre tout Jacob à nos dieux formidables,</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>LE CHOEUR.</speaker>
+<lg>
+<l>Baal, Moloch et Phogorl</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Nadab ne revient pas. Déjà la lune éclaire</l>
+<l>Des rochers du Sina le sommet solitaire :</l>
+<l>De la garde du camp on voit briller les feux.</l></lg>
+ <stage>(Au chœur.)</stage>
+ <lg>
+<l>Retournez vers Jacob ; mêlez-vous à ses jeux ;</l>
+<l>Pour subjuguer son cœur faites briller vos grâces.</l>
+<l>(A Nébée.)</l>
+<l>Et toi, du fils d’Aaron cherche et poursuis les traces :</l>
+<l>J’attendrai ton retour auprès des pavillons</l>
+<l>Où depuis si longtemps dans les pleurs nous veillons.</l>
+</lg>
+</sp></div></div>
+    <div type="act">
+<head>Acte troisième.</head>
+     <pb n="101" xml:id="p106"/>
+
+<div type="scene"><head>Scène première.</head>
+     
+     <sp who="p"><speaker>MOISE</speaker><stage>, <hi rend="i">seul.</hi></stage>
+
+     <stage>(Il fait nuit ; on voit à la clarté de la lune Moïse qui descend du mont Sinaï, portant les Tables de la loi. Il s’avance vers le bocage des palmiers, et dépose les Tables de la loi au tombeau de Joseph.)</stage>
+     
+      <lg>
+       <l>Sur ces tableaux divins la main de l’Éternel</l>
+<l>Grava toutes les lois du monde et d’Israël.</l>
+<l>O toi qui déroulas tous les cieux comme un livre,</l>
+<l>Qui détruis d’un regard et d’un souffle fais vivre</l>
+<l>Qui traças au soleil sa course de géant,</l>
+<l>Qui d’un mot fis sortir l’univers du néant !</l>
+<l>Dis par quelle bonté, maître de la nature,</l>
+<l>Tu daignais t’abaisser jusqu’à ta créature,</l>
+<l>Et parler en secret à mon cœur raffermi</l>
+<l>Comme un ami puissant cause avec son ami.</l>
+<l>Depuis que je t’ai vu dans les feux du tonnerre,</l>
+<l>Je ne puis attacher mes regards à la terre,</l>
+<l>Et mon œil cherche encor, frappé de ta splendeur,</l>
+<l>Dans ce beau firmament l’ombre de ta grandeur.</l>
+<l>(Moïse s’assied sur une pierre auprès du tombeau de Joseph.)</l>
+<l>Avant de me montrer à la foule empressée,</l>
+<l>Je veux de nos tribus connaître la pensée ;</l>
+<l>Josué, descendu par un chemin plus court,</l>
+<l>Doit avoir à mon frère annoncé mon retour ;</l>
+<l>Attendons, sous celte ombre au conseil favorable,</l>
+<l>Du grand Melchisédech l’héritier véritable.</l>
+<l>(Il regarde quelque temps le camp en silence.)</l>
+<l>Qu’avec un doux transport je vois ce camp tranquille,</l>
+<l>D’un peuple fugitif unique et noble asile !</l>
+<l>Peuple que j’ai sauvé, que je porte en mon cœur,</l>
+<l>De tous tes ennemis sois à jamais vainqueur !</l>
+<l>Servant au monde entier de modèle et d’exemple,</l>
+<l>Garde du Tout-Puissant la parole et le temple !</l>
+<l>Séparé par ta loi, ton culte, tes déserts</l>
+<l>Du reste corrompu de ce vaste univers,</l>
+<l>O Jacob, sois en tout digne du droit d’aînesse !</l>
+<l>Je veux, en dirigeant ta fougueuse jeunesse,</l>
+<l>En profitant du feu de ton esprit hautain,</l>
+<l>Te forger en un peuple et de fer et d’airain.</l>
+<l>Ouvrage des mortels, et prompt à se dissoudre,</l>
+<l>Les empires divers rentreront dans la poudre ;</l>
+<l>Toi seul subsisteras parmi tous ces débris ;</l>
+<l>Les ruines du temps t’offriront des abris ;</l> <pb n="102" xml:id="p107"/>
+<l>En te voyant toujours, les races étonnées</l>
+<l>Iront se racontant tes longues destinées,</l>
+<l>Et se montrant du doigt ce peuple paternel</l>
+<l>Que Moïse marqua du sceau de l’Éternel !</l>
+<l>Mais, Jacob, pour monter où le Seigneur t’appelle,</l>
+<l>Il faut à ses desseins n’être jamais rebelle :</l>
+<l>Sous le courroux du ciel tu pourrais succomber,</l>
+<l>Et la foudre est sur toi toujours prête à tomber.</l>
+<l>Prions pour ton salut tandis que tu sommeilles.</l>
+      </lg>
+<stage>(Il se lève, et étend ses bras vers le ciel.)</stage>
+
+<lg>
+<l>Dieu de paix !…</l>
+</lg>
+<stage>(On entend des sons lointains de musique, et des bruits de danses.)</stage>
+ <lg>
+<l>Mais quel son vient frapper mes oreilles ?</l>
+<l>Ce n’est point là le cri du belliqueux soldat</l>
+<l>Qui chante Sabaoth en courant au combat :</l>
+<l>Je reconnais l’accent d’une race coupable.</l>
+<l>Quel noir pressentiment et me trouble et m’accable ?</l>
+<l>Aaron sous ces palmiers est bien lent à venir.</l>
+<l>Fidèle Josué, qui te peut retenir ?</l>
+<l>Laissons à ce tombeau ces Tables tutélaires.</l>
+<l>Marchons… Qui vient ici ?</l>
+</lg>
+</sp>
+</div>
+<div type="scene"><head>Scène II.</head>
+ <stage>NADAB, MOISE.</stage>
+ 
+<sp who="p"><speaker>NADAB</speaker><stage>, <hi rend="i">sans voir Moïse, qui reste appuyé sur le tombeau de Joseph.</hi>
+</stage>
+<lg>
+<l>Ces lieux sont solitaires.</l>
+<l>Elle est rentrée au camp… Oui, j’aurai trop tardé.</l>
+<l>Le retour de Moïse, est un bruit hasardé,</l>
+<l>D’un Arabe menteur la nouvelle incertaine.</l>
+</lg>
+ <stage>(Il avance au bord de la scène, et demeure quelque temps en silence.)</stage>
+ <lg>
+<l>Que mon sein oppressé se soulève avec peine !</l>
+<l>Que cet air est brûlant, pour achever son tour,</l>
+<l>La nuit semble emprunter le char ardent du jour.</l>
+<l>Image de mon cœur cette arène embrasée</l>
+<l>Reçoit en vain du ciel la bénigne rosée.</l>
+ </lg>
+ <stage>(Autre silence.)</stage>
+ <lg>
+<l>Ici de la beauté j’entendis les accents.</l>
+<l>Sur sa trace de feu qu’on répande l’encens !</l>
+<l>Qu’on l’adore !… Où m’emporte une imprudente ivresse</l>
+<l>On n’a point jusqu’ici couronné ma tendresse :</l>
+<l>Si j’étais le jouet de quelque illusion !</l>
+<l>Connaissons notre sort.</l>
+ </lg>
+ <stage>(Il va pour rentrer au camp : en passant devant le bocage de palmiers il aperçoit Moïse.)</stage>
+  <lg>
+<l>O sainte vision !</l>
+<l>N’est-ce pas de Joseph l’ombre majestueuse ?</l>
+<l>Viens-tu me consoler ? Que ta voix vertueuse</l>
+<l>Des chagrins de mon cœur adoucisse le fiel,</l>
+<l>Et donne-moi la paix que tu goûtes au ciel !</l>
+</lg>
+</sp>
+ <pb n="103" xml:id="p108"/>
+
+
+<sp who="p"><speaker>MOÏSE</speaker><stage>, <hi rend="i">sans quitter le tombeau.</hi></stage>
+<lg>
+<l>Le ciel des passions n’entend point la prière.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NADAB.</speaker>
+ <lg><l>Moïse !</l></lg></sp>
+
+
+<sp who="p"><speaker>MOÏSE</speaker><stage>, <hi rend="i">descendant du tombeau.</hi></stage>
+<lg>
+<l>C’est lui-même.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>En touchant la poussière,</l>
+<l>Prophète du Seigneur, je m’incline à vos pieds,</l>
+<l>Et baisse devant vous mes yeux humiliés.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>De quel noir chagrin votre âme est agitée.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Le camp, qui déplorait votre mort racontée,</l>
+<l>Voulait mettre en mes mains un dangereux pouvoir.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Eh bien ! qu’avez-vous fait ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>J’espérais vous revoir.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Et n’avez-vous, Nadab, rien de plus à m’apprendre ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Sans doute ici bientôt les vieillards se vont rendre.</l>
+</lg>
+</sp>
+ <stage>(On entend la musique du camp.)</stage>
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Vous me dites, Nadab, que les tribus en deuil,</l>
+<l>Gémissent sur le sort de Moïse au cercueil ;</l>
+<l>Et j’entends les concerts horribles ou frivoles,</l>
+<l>Dont les fils de Baal fatiguent leurs idoles.</l>
+<l>Qui produit ces clameurs ? qui peut y prendre part ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Nos captives souvent, assises à l’écart,</l>
+<l>Aiment à répéter les hymnes de leurs pères.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Des captives ici ? des femmes étrangères ?</l>
+<l>Arzane n’a donc pas satisfait au Seigneur ?</l>
+<l>Elle vit ; et peut-être, écoutant votre ardeur,</l>
+<l>Elle reçoit ces vœux sortis d’une âme impure,</l>
+<l>Dont le vent de la nuit m’apportait la souillure</l>
+<l>Jusqu’au chaste tombeau du pudique Joseph ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB,</speaker>
+<lg>
+<l>Des Hébreux triomphants le magnanime chef</l>
+<l>Craindrait-il une femme esclave de nos armes,</l>
+<l>Qui mange un pain amer détrempé de ses larmes ?</l>
+<l>Sur le compte des grands je ne suis pas suspect :</l>
+<l>Leurs malheurs seulement attirent mon respect.</l>
+<l>Je hais le Pharaon que l’éclat environne ;</l>
+<l>Mais s’il tombe, à l’instant j’honore sa couronne ;</l>
+<l>Il devient à mes yeux roi par l’adversité.</l>
+<l>Des pleurs je reconnais l’auguste autorité.</l> <pb n="104" xml:id="p109"/>
+<l>Courtisan du malheur, flatteur de l’infortune,</l>
+<l>Tel est de mon esprit la pente peu commune :</l>
+<l>Je m’attache au mortel que mon bras a perdu,</l>
+<l>Et je voudrais sauver la race d’Ésaü.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Vous, sauver d’Astarté la nation flétrie !</l>
+<l>Regarder sans horreur l’infâme idolâtrie,</l>
+<l>Quand j’apporte aux Hébreux les lois de Jéhovah !</l>
+<l>Sur ce marbre sacré lui-même les grava ;</l>
+<l>Lisez : l’astre des nuits vous prête sa lumière.</l>
+</lg>
+</sp>
+
+
+<sp who="p"><speaker>NADAB</speaker><stage>, <hi rend="i">lisant.</hi></stage>
+<lg>
+<l>N’ADORE QU’UN SEUL DIEU.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Telle est la loi première.</l>
+<l>Et vous seul, immolant l’avenir d’Israël,</l>
+<l>De cet unique Dieu renversez-vous l’autel ?</l>
+<l>Jacob, trahirais-tu tes hautes destinées ?</l>
+<l>Ne veux-tu point, courbé sous le poids des années,</l>
+<l>T’avancer sur la terre, antique voyageur,</l>
+<l>Pour apprendre aux humains le grand nom du Seigneur ?</l>
+<l>Tu portes dans tes mains ce livre salutaire</l>
+<l>Où je traçai de Dieu le sacré caractère :</l>
+<l>Contrat original, titre où l’homme enchanté</l>
+<l>Retrouvera ses droits à l’immortalité.</l>
+<l>L’infidèle Jacob perdrait son rang suprême !</l>
+<l>Mais entrons dans ce camp ; voyons tout par nous-même.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NADAB.</speaker>
+ <lg><l>Arrêtez !</l></lg>
+</sp>
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Et pourquoi ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Pour soustraire au danger</l>
+<l>Des jours qu’au prix des miens je voudrais protéger.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>MOÏSE.</speaker>
+ <lg><l>Vous !</l></lg></sp>
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Je dois l’avouer…</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Eh bien !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Dans votre absence</l>
+<l>Le camp s’abandonnant à l’aveugle licence,</l>
+<l>A rejeté vos lois.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Par Jacob annoncé,</l>
+<l>Dieu ne retranche point l’avenir menacé !</l>
+</lg>
+</sp>
+<sp who="p"><speaker>NADAB.</speaker>
+ <lg><l>Écoutez un moment.</l></lg></sp>
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Laisse-moi, téméraire !</l>
+ <pb n="105" xml:id="p110"/>
+<l>J’ai prévu ta faiblesse, Aaron ! Malheureux frère</l>
+<l>Qu’as-tu fait ?</l>
+</lg>
+</sp>
+
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Permettez que je guide vos pas.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Non : j’affronterai seul tes coupables soldats ;</l>
+<l>Demeure, ou va plutôt (car j’entrevois ton crime),</l>
+<l>Dans son bercail impur va chercher la victime</l>
+<l>Dont le sang répandu peut encor tout sauver.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Ne vous obstinez pas, Moïse, à tout braver.</l>
+<l>J’irai vous annoncer aux troupes alarmées.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Tu n’es plus le soldat du Seigneur des armées.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Vous repoussez mon bras ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Qu’ai-je besoin de toi ?</l>
+<l>L’ange exterminateur marchera devant moi.</l>
+<l>(Moïse sort.)</l>
+</lg>
+</sp>
+ </div>
+     <div type="scene">
+      <head>Scène III</head>
+
+
+<sp who="p"><speaker>NADAB</speaker><stage>, <hi rend="i">seul.</hi></stage>
+<lg>
+<l>Moi, livrer aux bourreaux une femme éplorée !</l>
+<l>Que plutôt par l’enfer mon âme dévorée…</l>
+</lg>
+</sp>
+     </div>
+     <div type="scene"><head>Scène IV.</head>
+      <stage>NADAB, ARZANE.</stage>
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>N’espérant plus, Nadab, votre prochain retour,</l>
+<l>J’avais quitté ces lieux avec la fin du jour :</l>
+<l>Vainement sur vos pas j’ai fait voler Nébée.</l>
+<l>Dans mes pensers amers tristement absorbée,</l>
+<l>J’ai mouillé quelque temps ma couche de mes pleurs :</l>
+<l>La nuit, en accroissant mes nouvelles douleurs,</l>
+<l>A redoublé ma crainte, et je suis revenue</l>
+<l>Aux bords, où je le vois, vous m’avez attendue.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Arzane, de nos jours le sort est éclairci :</l>
+<l>Avec moi, dans l’instant, Moïse était ici.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Ici ! quelle fureur sera bientôt la sienne !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Il menace déjà votre vie et la mienne.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Eh bien ! que ferez-vous ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Ce que j’avais promis.</l>
+<l>Devenez mon épouse, et mes nombreux amis</l>
+<l>Annonçant aux soldats la fertile Idumée,</l> <pb n="106" xml:id="p111"/>
+<l>Rangeront à vos pieds le conseil et l’armée.</l>
+<l>Je ferai plus : il faut à la fille d’Édom</l>
+<l>Un époux revêtu des pompes de Sidon.</l>
+<l>Demain, pour égaler l’honneur de nia conquête,</l>
+<l>L’huile sainte des rois coulera sur ma tête.</l>
+<l>Donnez par votre amour une âme à mes projets,</l>
+<l>Et j’abaisse Moïse au rang de mes sujets.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker><stage>(A part.) (Haut.)</stage>
+<lg>
+<l>Ciel ! Le dessein est grand ! je le pense moi-même ;</l>
+<l>Il n’est pour nous, Nadab, d’abri qu’au rang suprême.</l>
+<l>Mais mesurez la cime avant que d’y monter ;</l>
+<l>Dans l’arène glissante où vous voulez lutter,</l>
+<l>En songeant au succès prévoyez la défaite.</l>
+<l>Pourrez-vous étouffer la voix d’un vieux prophète</l>
+<l>Parlant au nom des cieux à des hommes tremblants,</l>
+<l>Dans l’imposant éclat de ses longs cheveux blancs</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Si vous m’aimez, alors tout me sera facile.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Voulez-vous, d’un esprit aussi ferme qu’habile,</l>
+<l>D’un pouvoir souverain créer les éléments ?</l>
+<l>De la foi d’Israël changer les fondements.</l>
+<l>Si le peuple, poussé vers des dieux qu’il appelle,</l>
+<l>Est plus que vous encore à Moïse rebelle,</l>
+<l>Les Juifs craignant ce chef implacable et jaloux,</l>
+<l>Pour se sauver de lui se donneront à vous.</l>
+<l>Tout indique à vos yeux la route qu’il faut suivre :</l>
+<l>Onze de vos tribus aujourd’hui veulent vivre</l>
+<l>Sous le dieu d’Amalec : secondez leurs efforts ;</l>
+<l>Dans cette arche nouvelle enfermez des ressorts ;</l>
+<l>A des miracles feints opposez des miracles ;</l>
+<l>Comme Moïse, ayez des prêtres, des oracles,</l>
+<l>Et bientôt le soleil vous verra dans ces lieux</l>
+<l>Le pontife et le roi d’un peuple glorieux.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Nadab, lâche apostat ! Arzane en vain l’espère !</l>
+<l>Vous-même chérissez les dieux de votre père :</l>
+<l>Si je vous proposais aussi de les quitter ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Quand auprès d’Astarté je voudrais m’acquitter</l>
+<l>Des tendres et doux vœux que son culte réclame,</l>
+<l>La faiblesse me sied : et que suis-je ? une femme !</l>
+<l>Mais un homme au-dessus des vulgaires mortels</l>
+<l>Prend conseil de sa gloire et choisit ses autels.</l>
+<l>Votre Dieu vous menace et sa loi vous condamne ;</l>
+<l>Vous ne pouvez régner que par le dieu d’Arzane.</l>
+<l>Régnez sur elle ; allez au premier feu du jour</l>
+<l>Chercher votre couronne au temple de l’Amour ;</l> <pb n="107" xml:id="p112"/>
+<l>Et, tandis qu’Amalec frappera la victime,</l>
+<l>Vous offrirez des fleurs : ce n’est pas un grand crime</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>O magique serpent ! décevante beauté,</l>
+<l>Par quels secrets tiens-tu tout mon cœur enchanté ?</l>
+<l>Es-tu fille d’enfer ou des esprits célestes ?</l>
+<l>Réponds-moi !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Du malheur je suis les tristes restes.</l>
+<l>Suppliante à vos pieds, sans trône et sans époux,</l>
+<l>Je n’ai d’autre soutien ni d’autre espoir que vous.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>C’en est fait : il le faut ! À toi je m’abandonne !</l>
+<l>Qu’importe le poison, quand ta main me le donne ?</l>
+<l>Mais en goûtant au fruit, présent de ton hymen,</l>
+<l>Du moins entre avec moi sous les berceaux d’Éden,</l>
+<l>Ève trop séduisante ! au jardin des délices</l>
+<l>Que nos félicités précèdent nos supplices !</l>
+<l>Tu ne m’as point encore révélé tes secrets,</l>
+<l>Et même en ce moment tes regards sont muets,</l>
+<l>Un mot peut tout fixer dans mon âme incertaine.</l>
+<l>Dis : ai-je mérité ton amour ou ta haine ?</l>
+<l>Si tu l’aimes, Nadab est prêt à s’immoler.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Que faire ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Explique-toi.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Je ne saurais parler.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>M’aimes-tu ? m’aimes-tu, divine Amalécite ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Ma voix s’éteint…</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Promets à ce cœur qui palpite</l>
+<l>Que demain à l’autel…</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>A l’autel de mes dieux ?…</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>O douleur !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE</speaker><stage>, <hi rend="i">à part.</hi></stage>
+<lg>
+<l>En formant un hymen odieux,</l>
+<l>Du moins perdons Jacob.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB</speaker><stage>, <hi rend="i">à part.</hi></stage>
+<lg>
+<l>Dans ta juste colère,</l>
+<l>Ne te souviens, Seigneur, que d’Abraham mon père.</l>
+</lg>
+<stage>(A Arzane.)</stage>
+ <lg>
+<l>Achevons.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE,</speaker>
+<lg>
+<l>Vous m’aimez ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Ah ! cent fois plus que moi !</l>
+<pb n="108" xml:id="p113"/>
+<l>Puisqu’aux feux éternels je me livre pour toi !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Vous dites que demain, au lever de l’aurore,</l>
+<l>A l’autel de mes dieux…</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Je n’ai rien dit encore.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Je mourrai donc ?</l>
+</lg>
+</sp></div>
+<div type="scene">
+ <head>Scène V.</head>
+<stage>NÉBÉE, ARZANE, NADAB.</stage>
+<sp who="p"><speaker>NÉBÉE</speaker><stage>, <hi rend="i">accourant précipitamment.</hi></stage>
+<lg>
+<l>Fuyez ! le péril est pressant :</l>
+<l>Tout prend autour de vous un aspect menaçant.</l>
+<l>Je veillais près d’ici dans mon inquiétude,</l>
+<l>Quand j’ai vu s’avancer vers cette solitude,</l>
+<l>A pas lents et légers, Caleb avec Lévi.</l>
+<l>De cent prêtres armés ce cruel est suivi ;</l>
+<l>Leurs yeux sinistrement étincellent dans l’ombre ;</l>
+<l>Ils se parlent tout bas d’une voix triste et sombre.</l>
+<l>J’ai surpris quelques mots de leur noir entretien :</l>
+<l>De vous donner la mort ils cherchent le moyen.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Contre vos jours, Arzane, un lévite conspire ?</l>
+<l>Tout est fini ; demain je vous rends votre empire.</l>
+<l>De Pharaon vaincu prenez le plus beau char ;</l>
+<l>Des soldats éblouis enchantez le regard.</l>
+<l>Je vous déclarerai mon épouse adorée ;</l>
+<l>Du sceptre d’Esau vous serez décorée.</l>
+<l>D’Édom et de Jacob que les dieux fraternels</l>
+<l>Soient enfin encensés sur les mêmes autels,</l>
+</lg>
+</sp>
+ <stage>(Arzane et Nébée sortent par un côté du théâtre ; Nadab les suit de loin pour les protéger contre les lévites, qui entrent sur la scène du côté opposé : il s’arrête quand Arzane a disparu, et parle aux lévites du fond du théâtre.)</stage></div>
+     <div type="scene"><head>Scène VI.</head>
+      <stage>NADAB, CALEB, CHOEUR DE LÉVITES.</stage>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Lévites ! je me ris de vos sourdes pratiques ;</l>
+<l>Je brave vos poignards et crains peu vos cantiques.</l>
+<l>Vous m’y forcez ; je vais aussi porter des coups :</l>
+<l>Que le crime et la honte en retombent sur vous !</l>
+</lg>
+</sp></div>
+<div type="scene"><head>Scène VII.</head>
+ <stage>CALEB, CHOEUR DE LÉVITES.</stage>
+
+<sp who="p"><speaker>UN LÉVITE.</speaker>
+<lg>
+<l>Quel reproche insensé ! quelle voix ! Ce profane</l>
+<l>Ne craint plus d’annoncer ses projets pour Arzane.</l>
+</lg></sp>
+<pb n="109" xml:id="p114"/>
+ <sp who="p"><speaker>CALEB.</speaker>
+  <lg>
+<l>Josué m’avait dit que notre auguste chef</l>
+<l>Devait attendre Aaron au tombeau de Joseph ;</l>
+<l>Je venais avec vous lui porter nos épées,</l>
+<l>Au sang de l’ennemi plus d’une fois trempées :</l>
+<l>Mais déjà dans le camp il aura pénétré.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>LE MÊME LÉVITE.</speaker>
+<lg>
+<l>Au négligent pasteur l’aigle enfin s’est montré.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>CALEB.</speaker>
+<lg>
+<l>Adultère Israël, dans ton brutal caprice,</l>
+<l>Tu désertes d’Abel l’innocent sacrifice,</l>
+<l>Et, cessant d’immoler la colombe et l’agneau,</l>
+<l>Du meurtrier Caïn tu rejoins le troupeau !</l>
+<l>Vous, par qui l’Esprit saint s’explique et prophétise.</l>
+<l>Prêtres sacrés, avant d’aller trouver Moïse,</l>
+<l>Que l’ange du Seigneur, dans ce ciel de saphirs,</l>
+<l>Porte jusqu’au Très-Haut nos chants et nos soupirs.</l>
+<l>La lune est au milieu de sa belle carrière,</l>
+<l>Et c’est l’heure où des nuits nous offrons la prière.</l>
+</lg>
+</sp>
+
+ <sp who="p"><speaker>CALEB.</speaker><stage>PRIÈRE.</stage>
+<lg>
+<l>Dieu, dont la majesté m’accable,</l>
+<l>Pure essence, divine ardeur,</l>
+<l>Qui peut comprendre la grandeur</l>
+<l>De ton nom incommunicable ?</l>
+</lg>
+
+<lg>
+<l>Je me relire à ta lumière,</l>
+<l>Au tabernacle de ta loi :</l>
+<l>Des nuits où nous veillons pour toi,</l>
+<l>C’est peut-être ici la dernière.</l>
+</lg>
+
+<lg>
+<l>Si nous tombons dans les tempêtes</l>
+<l>Qu’excitent de noirs assaillants,</l>
+<l>Nous dormirons près des vaillants,</l>
+<l>Un glaive placé sous nos têtes.</l>
+</lg>
+
+<lg>
+<l>Mais que plutôt par toi nos bras soient affermis,</l>
+<l>Et de tes saints dissipe les alarmes ;</l>
+<l>Par la bride et le mors dompte tes ennemis !</l>
+</lg>
+ </sp>
+ <sp who="p">
+<speaker>LES LÉVITES</speaker><stage>, <hi rend="i">tirant leurs épées qu’ils élèvent vers le ciel en fléchissant le genou.</hi></stage>
+<lg>
+<l>Bénis nos armes !</l>
+</lg>
+</sp>
+
+ <sp who="p"><speaker>CHOEUR DE LÉVITES.</speaker><stage>CHANT NOCTURNE.</stage>
+<lg>
+<l>Les cieux racontent la gloire</l>
+<l>Du souverain Créateur ;</l>
+<l>La nuit garde la mémoire</l>
+<l>Du sublime Ordonnateur</l>
+<l>Qui fit camper sous ses voiles</l> <pb n="110" xml:id="p115"/>
+<l>Cette milice d’étoiles</l>
+<l>Dont les bataillons divers,</l>
+<l>Dans leur course mesurée,</l>
+<l>Traversent de l’empirée</l>
+<l>Les magnifiques déserts.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>UN LÉVITE.</speaker>
+<lg>
+<l>Le soleil, élevant sa tête radieuse,</l>
+<l>Ferme de ce grand chœur la marche harmonieuse ;</l>
+<l>Ainsi, de l’autel d’or franchissant le degré,</l>
+<l>Un pontife éclatant et consomme et termine</l>
+<l>Une pompe divine</l>
+<l>Dans un temple superbe au Seigneur consacré.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>LE PLUS JEUNE DES LÉVITES.</speaker>
+<lg>
+<l>Image de la mort du juste,</l>
+<l>Douce nuit, où du ciel éclate la beauté,</l>
+<l>Se peut-il que l’impie en son iniquité,</l>
+<l>Profane ton silence auguste ?</l>
+</lg>
+</sp>
+ <stage>(On entend la musique du camp.)</stage>
+<sp who="p"><speaker>UN LÉVITE.</speaker>
+<lg>
+<l>Ah ! quels horribles sons s’échappent de ce lieu !</l>
+<l>Oh ! de l’enfer détestable puissance !</l>
+<l>Dans ce camp perverti c’est Baal qu’on encense ;</l>
+<l>Ici nous prions le vrai Dieu !</l>
+</lg>
+</sp>
+ <stage>(Moment de silence, pendant lequel on entend une seconde fois la musique du camp.)</stage>
+<sp who="p"><speaker>UN AUTRE LÉVITE.</speaker>
+<lg>
+<l>Méchants, votre hymne criminelle</l>
+<l>De la nuit des enfers ranime tous les feux :</l>
+<l>Vous invoquez Satan ; qu’il exauce vos vœux !</l>
+<l>Tombez dans la nuit éternelle !</l>
+</lg>
+</sp>
+ <stage>(Nouveau silence et musique du camp.)</stage>
+<sp who="p"><speaker>UN TROISIÈME LÉVITE.</speaker>
+<lg>
+<l>Ah ! retournez plutôt à vos devoirs,</l>
+<l>Esclaves malheureux des femmes étrangères !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>LE PLUS JEUNE DES LÉVITES.</speaker>
+<lg>
+<l>Prions pour eux, ce sont nos frères ;</l>
+<l>Ils ont bu comme nous le vin de nos pressoirs,</l>
+<l>Et sucé le lait de nos mères !</l>
+</lg>
+</sp>
+
+
+<sp who="p"><speaker>PRIÈRE GÉNÉRALE, <hi rend="i">prononcée par Caleb.</hi></speaker>
+<lg>
+<l>N’écoute point dans ta colère,</l>
+<l>O Dieu ! le cri de ces infortunés :</l>
+<l>Prends pitié de leurs nouveau-nés ;</l>
+<l>Donne la paix à leur misère.</l>
+</lg>
+
+<lg>
+<l>Que le bruit des astres roulants</l>
+<l>Te rende sourd aux clameurs de l’impie,</l>
+<l>Et n’entends que la voix qui prie</l>
+<l>Pour le péché de tes enfants.</l> <pb n="111" xml:id="p116"/>
+<l>La fraîche et brillante rosée,</l>
+<l>Au bord des flots les tamarins en fleur,</l>
+<l>Le vent, qui perdant sa chaleur,</l>
+<l>Glisse sur la mer apaisée.</l>
+</lg>
+
+<lg>
+<l>Tout rit : du firmament serein</l>
+<l>S’ouvre à nos yeux le superbe portique :</l>
+<l>O Dieu ! sois doux et pacifique</l>
+<l>Comme l’ouvrage de ta main !</l>
+</lg>
+</sp>
+</div>
+</div>
+    <div type="act">
+<head>Acte quatrième.</head>
+
+<div type="scene"><head>Scène première.</head>
+     
+ <stage>MOÏSE, AARON, DATHAN, VIEILLARDS ET CHEFS D’ISRAEL.</stage>
+     
+     <sp who="p"><speaker>MOÏSE.</speaker>
+      <lg>
+       <l>Terre, frémis d’horreur ! Pleurez, portes du ciel !</l>
+<l>Sur la fleur de Juda l’enfer vomit son fiel.</l>
+<l>La maison de Jacob, par Nadab corrompue,</l>
+<l>Aux princes des démons ici se prostitue ;</l>
+<l>Et déjà, consultant les devins et les sorts,</l>
+<l>Rugit devant ses dieux comme au festin des morts.</l>
+</lg>
+     </sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Moïse, ma douleur à la vôtre est égale.</l>
+<l>Sitôt que Josué, dans cette nuit fatale,</l>
+<l>Est venu m’annoncer votre étonnant retour,</l>
+<l>J’ai rassemblé ces chefs, et par un long détour,</l>
+<l>Choisissant avec eux les routes les plus sombres,</l>
+<l>Je vous ai rencontré seul, errant dans les ombres.</l>
+<l>Daignez me pardonner, si malgré mes efforts,</l>
+<l>J’ose vous ramener à ces tranquilles bords.</l>
+<l>Le conseil des vieillards comme moi vous conjure</l>
+<l>D’éviter d’Amalec la faction impure.</l>
+<l>Vos jours sont menacés ; à des hommes ingrats</l>
+<l>La nuit qui règne encore a dérobé vos pas :</l>
+<l>Que de périls divers pour mon fils et mon frère !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Ne pleurez pas sur moi ; pleurez d’un cœur sincèr</l>
+<l>Sur ce peuple infecté du poison de l’erreur,</l>
+<l>Et que Dieu va punir dans toute sa fureur.</l>
+<l>Profitez, ô vieillards, du moment qui vous reste,</l>
+<l>Et détournez Nadab de son projet funeste.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>UN VIEILLARD.</speaker>
+<lg>
+<l>Hélas ! nous voudrions secourir Israël,</l>
+<l>Mais Dieu même à rompu son pacte solennel.</l>
+</lg>
+</sp>
+<pb n="112" xml:id="p117"/>
+ <sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Peuple de peu de foi ! vous doutez des oracles !</l>
+<l>Vos yeux ont oublié l’éclat de cent miracles !</l>
+<l>Dieu vous semble impuissant dans vos dégoûts amers,</l>
+<l>Et du haut de ce roc on aperçoit les mers</l>
+<l>Naguère sous vos pas par Moïse entr’ouvertes !</l>
+<l>Et de la manne encor vos tentes sont couvertes !</l>
+<l>Seigneur, ils ont osé murmurer contre toi,</l>
+<l>Te trahir à l’instant où j’apportais la loi</l>
+<l>Qui promet à Jacob une terre féconde,</l>
+<l>Le sceptre à ses enfants, et le Sauveur au monde !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Béni soit l’Éternel, qui ne trompe jamais !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>DATHAN.</speaker>
+<lg>
+<l>Et pourquoi donc ce Dieu, si prodigue en bienfaits,</l>
+<l>Égare-t-il nos pas au désert où nous sommes ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Pour t’enseigner les maux et les vertus des hommes ;</l>
+<l>Pour former aux combats nos faibles légions</l>
+<l>Dans le mâle berceau de l’aigle et des lions.</l>
+<l>Toi, qui jusqu’au Très-Haut veux porter ton délire,</l>
+<l>T’assieds-tu près de lui dans le céleste empire ?</l>
+<l>Vis-tu le Créateur, dans les premiers moments,</l>
+<l>De ce vaste univers creuser les fondements,</l>
+<l>Des vents et des saisons mesurer la richesse,</l>
+<l>Et jusque sous les flots promener sa sagesse ?</l>
+<l>Des portes de l’abîme as-tu posé le seuil ?</l>
+<l>As-tu dit à la mer : « Brise ici ton orgueil ? »</l>
+<l>Misérable Dathan ! quoi ! vermisseau superbe,</l>
+<l>Tu veux comprendre Dieu quand tu rampes sous l’herbe !</l>
+<l>Admire et soumets-toi : le néant révolté</l>
+<l>Peut-il dans ses desseins juger l’éternité ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>UN CHEF.</speaker>
+<lg>
+<l>J’entends des pas, vers nous quelqu’un se précipite.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Qui s’avance ? Est-ce toi, mon fils ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>UN VIEILLARD.</speaker>
+<lg>
+<l>C’est un lévite.</l>
+</lg>
+</sp>
+ </div>
+     <div type="scene"><head>Scène II.</head>
+      <stage>LES PRÉCÉDENTS, UN LÉVITE.</stage>
+      
+<sp who="p"><speaker>LE LÉVITE.</speaker>
+<lg>
+<l>Interprète du ciel, confident d’Éloé,</l>
+<l>Moïse, je vous cherche : au nom de Josué,</l>
+<l>Du progrès de nos maux j’accours pour vous instruire.</l>
+<l>L’ouvrage de vos mains est prêt à se détruire ;</l>
+<l>Le camp vous a proscrit ; et ces chefs assemblés,</l>
+<l>S’ils reviennent à vous, seront tous immolés.</l> <pb n="113" xml:id="p118"/>
+<l>Marie, avec Caleb, retirés vers l’oracle,</l>
+<l>S’efforcent de sauver le sacré tabernacle.</l>
+<l>Ici même l’aurore et le nouveau soleil</l>
+<l>Des noces de Nadab mèneront l’appareil :</l>
+<l>Une idole y. sera brillante et parfumée,</l>
+<l>Et soudain les tribus marchent vers l’Idumée.</l>
+<l>Déjà l’on a donné le signal du départ ;</l>
+<l>On abaisse la tente, on lève l’étendard</l>
+<l>Et le lâche Israël, que corrompent des traîtres,</l>
+<l>Va fuir en reniant le Dieu de ses ancêtres.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>LES VIELLILLARDS</speaker><stage>, <hi rend="i">à moïse immobile qui commence à sentir l’inspiration.</hi></stage>
+<lg><l>Moïse !</l></lg></sp>
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Il redit l’oracle du saint lieu,</l>
+<l>Et pour l’homme attentif il est l’écho de Dieu !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>LES VIEILLARDS.</speaker>
+<lg>
+<l>Écoutons !</l>
+</lg>
+</sp>
+
+
+<sp who="p"><speaker>MOÏSE</speaker><stage>, <hi rend="i">inspiré.</hi></stage>
+<lg>
+<l>Anathème à ta race volage,</l>
+<l>Jacob, si par tes mains tu te fais une image !</l>
+<l>Que maudit soit ton champ, ton pavillon, ton lit,</l>
+<l>Et que sur Gelboé ton figuier soit maudit !</l>
+<l>Tombant dans l’avenir d’abîmes en abîmes,</l>
+<l>De malheurs en malheurs et de crimes en crimes,</l>
+<l>Un jour on te verra couronner tes forfaits</l>
+<l>En égorgeant l’Agneau descendu pour la paix.</l>
+<l>Alors, peuple proscrit, dispersé sur la terre,</l>
+<l>Tu traîneras partout ta honte et ta misère ;</l>
+<l>Tu viendras, pauvre et nu, enfant déshérité,</l>
+<l>Pleurer sur les débris de ta triste cité,</l>
+<l>Dans ces débris épars trouver pour ton supplice</l>
+<l>D’un Dieu ressuscité la tombe accusatrice,</l>
+<l>Et mourir de douleur près du seul monument</l>
+<l>Qui n’aura rien à rendre au jour du jugement.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>LES VIEILLARDS.</speaker>
+<lg>
+<l>Ciel !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Arrachons Nadab à son indigne flamme.</l>
+<l>Je l’ai fait appeler pour attendrir son âme ;</l>
+<l>Sans doute il va venir, il m’obéit encor.</l>
+</lg>
+
+ <stage>(A Moïse.)</stage>
+
+<lg>
+<l>Prêtez-moi de vos vœux le fraternel accord ;</l>
+<l>Brisez de Jéhovah la flèche dévorante ;</l>
+<l>Éteignez le courroux dans sa droite fumante.</l>
+<l>Vous avez comme moi de chers et doux liens :</l>
+<l>Pensez à vos enfants, vous prierez pour les miens.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Il reste au Tout-Puissant une tribu fidèle :</l>
+<l>Je vais m’y réunir ; je marche où Dieu m’appelle.</l>
+</lg>
+</sp> <pb n="114" xml:id="p119"/>
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Prophète, que Nadab ne soit pas condamné !</l>
+<l>Si mon fils est coupable, il est infortuné.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Vous allez voir Nadab ; eh bien ! qu’il se repente,</l>
+<l>Que du chemin du crime il remonte la pente !</l>
+<l>Ce qu’il dénie au ciel, tâchez de l’obtenir ;</l>
+<l>J’attendrai vos succès pour régler l’avenir :</l>
+<l>Adieu. Lévites saints, je vous porte ces Tables,</l>
+<l>Que souilleraient ici des hommes détestables.</l>
+</lg>
+</sp>
+
+ <stage>(Il prend les Tables de la loi au tombeau de Joseph, et s’éloigne suivi du lévite.)</stage>
+      <sp who="p"><speaker>DATHAN</speaker><stage>, <hi rend="i">aux vieillards.</hi></stage>
+<lg>
+<l>Et nous, sans redouter sa menace et ses cris,</l>
+<l>De l’union d’Arzane acceptons le haut prix.</l>
+</lg>
+</sp>
+  <stage>(Il sort avec les chefs et les vieillards.)</stage></div>
+     <div type="scene"><head>Scène III.</head>
+
+<sp who="p"><speaker>AARON</speaker><stage>, <hi rend="i">seul.</hi></stage>
+<lg>
+<l>Tout fuit ! Moment affreux ! la céleste colère</l>
+<l>Me laisse seul chargé du destin de la terre.</l>
+<l>Pourrai-je triompher d’un amour criminel ?</l>
+<l>Sauverai-je mon fils en sauvant Israël ?</l>
+<l>O Père des humains, inspire ma tendresse !</l>
+</lg>
+</sp>
+     </div>
+     <div type="scene"><head>Scène IV.</head><stage>AARON, NADAB.</stage>
+
+<sp who="p"><speaker>NADAB</speaker><stage>, <hi rend="i">parlant à des soldats qu’on ne voit pas.</hi></stage>
+<lg>
+<l>Fidèles compagnons que mon sort intéresse,</l>
+<l>Je ne crains plus ici les prêtres conjurés ;</l>
+<l>N’allez pas plus avant. Vous, Ruben, demeurez.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Approche, infortuné ; dans le sein de ton père</l>
+<l>Viens confesser ta faute et cacher ta misère.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Ciel, qui savez mes maux, fortifiez mon cœur !</l>
+</lg>
+
+      <stage>(A Aaron.)</stage>
+
+<lg>
+<l>Vous me désirez voir ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Ferais-tu mon malheur,</l>
+<l>Toi dont j’ai soutenu la paisible jeunesse ?</l>
+<l>Instruisant ton berceau, protégeant la faiblesse,</l>
+<l>C’est moi qui le premier t’appris le divin nom</l>
+<l>Du Dieu que tu trahis pour la fille d’Édom.</l>
+<l>Non, mon fils bien-aimé n’est point inexorable ;</l>
+<l>Il m’entendra.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Aaron, votre bonté m’accable.</l> <pb n="115" xml:id="p120"/>
+<l>Craignez mon désespoir ; ne me condamnez pas</l>
+<l>De conduire aujourd’hui mon Arzane au trépas.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Tu peux aimer encor cette femme étrangère ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Comme en ses jeunes ans vous aimâtes ma mère.</l>
+<l>Me condamnerez-vous ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Je te plains seulement ;</l>
+<l>Je te viens consoler dans ton égarement.</l>
+<l>Quel mortel ne fut point éprouvé dans sa vie ?</l>
+<l>Chaque jour à nos cœurs une joie est ravie :</l>
+<l>J’ai vu mourir ta mère, et, plein de mes regrets,</l>
+<l>Du Seigneur en pleurant j’adore les décrets.</l>
+<l>Sache donc, s’il le faut, pour t’épargner un crime,</l>
+<l>Souffrir que le ciel rompe un nœud illégitime.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Ma parole est liée.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Aurais-tu donc promis</l>
+<l>D’abandonner ton Dieu, Moïse et tes amis ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>J’ai promis de sauver celle qu’on a proscrite</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Ainsi ton cœur se tait quand je le sollicite,</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Ne cherchez plus le fils sorti de votre sang.</l>
+<l>Un noir feu me consume et s’attache à mon flanc ;</l>
+<l>J’offre de tous les maux l’assemblage bizarre ;</l>
+<l>Je pleure, je souris, et ma raison s’égare ;</l>
+<l>Je touche également aux vertus, aux forfaits ;</l>
+<l>Des sépulcres, la nuit, je viole la paix ;</l>
+<l>Altéré de combats, quelquefois j’en frissonne.</l>
+<l>J’irais du Roi des rois attaquer la couronne !</l>
+<l>Puis, reprenant soudain des sentiments plus doux,</l>
+<l>Je songe à votre peine, et je gémis sur vous.</l>
+<l>Longtemps dans ce chaos je tourne, je me lasse.</l>
+<l>Enfin, quand mon délire et s’apaise et s’efface,</l>
+<l>Dans mon cœur, éclairé d’un tendre et nouveau jour,</l>
+<l>Je ne retrouve plus que mon funeste amour.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Formidable peinture ! étrange frénésie !</l>
+<l>Serais-tu donc, Nadab, la victime choisie ?</l>
+<l>Reviens, prodigue enfant, à tes champs nourriciers.</l>
+<l>Si le ciel te frappait, parjure à tes foyers,</l>
+<l>Sur ma tête plutôt que ton péché retombe !</l>
+<l>Moi, marqué pour la mort, je creuserais la tombe</l>
+<l>De cet enfant chéri dont les saintes douleurs</l>
+<l>A mon dernier linceul réservaient quelques pleurs :</l> <pb n="116" xml:id="p121"/>
+<l>Jeune guerrier, ma main desséchée et débile</l>
+<l>Viendrait t’ensevelir dans ce sable stérile !</l>
+<l>Mes os, à ce penser, ont tressailli d’effroi.</l>
+<l>Dieu d’Abraham, Dieu fort, Dieu bon, épargne-moi !</l>
+<l>Ne me demande pas, souveraine Justice,</l>
+<l>Même pour m’éprouver, un cruel sacrifice ;</l>
+<l>Je me dirais toujours, tremblant et peu soumis,</l>
+<l>« Si l’ange va tarder, que deviendra mon fils ? »</l>
+<l>Je n’ai point, j’en conviens, la fermeté d’un père ;</l>
+<l>J’ai plutôt la faiblesse et le cœur d’une mère.</l>
+<l>Rachel pleura ses fils au tombeau descendus ;</l>
+<l>Rien ne la consola, parce qu’ils n’étaient plus.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Père compatissant !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Enfant de ma tendresse,</l>
+<l>N’es-tu pas le soleil qui charme ma vieillesse,</l>
+<l>La lumière du jour, le doux rayon des deux</l>
+<l>Qui réchauffe mon cœur, qui réjouit mes yeux ?</l>
+<l>Si Nadab à ton joug, Seigneur, est indocile,</l>
+<l>Tout homme est ton ouvrage, et tout homme est fragile :</l>
+<l>Dans ta miséricorde attends le criminel.</l>
+<l>O Dieu ! sois patient ! n’es-tu pas éternel ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Malheur à moi ! d’Aaron je vois couler les larmes !</l>
+<l>Il faut de l’étrangère oublier tous les charmes.</l>
+<l>Mon père, entre tes bras recueille ton enfant :</l>
+<l>Sur ton paisible sein presse mon sein brûlant ;</l>
+<l>Que j’y trouve un asile, et que dans la tempête</l>
+<l>Tes bénédictions reposent sur ma tête !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Honneur de mes vieux ans, couronne de mes jours,</l>
+<l>Donne à ton repentir un large et libre cours ;</l>
+<l>Laisse à ton père Aaron achever la victoire.</l>
+<l>Nadab, tu t’attendris ; tes pleurs feront ma gloire.</l>
+<l>Prie avec moi le Dieu que tu voulais quitter.</l>
+<l>(Il prie.)</l>
+<l>« Dieu clément, contre nous cesse de t’irriter,</l>
+<l>Reçois dans ton bercail la brebis égarée,</l>
+<l>Par des loups ravissants à moitié déchirée. »</l>
+<l>As-tu prié, mon fils ? es-tu calmé ? sens-tu</l>
+<l>Cette tranquillité que nous rend la vertu ?</l>
+<l>Moïse nous attend prosterné sur la pierre :</l>
+<l>Viens avec le prophète achever ta prière ;</l>
+<l>Gravissons du Sina le roc silencieux,</l>
+<l>Et pour trouver la paix rapprochons-nous des cieux.</l>
+</lg>
+
+      <stage>(Il entraine Nadab, et tout à coup il aperçoit Arzane.)</stage>
+
+<lg>
+<l>Quel fantôme envieux épouvante ma vue !</l>
+</lg></sp>
+ <pb n="117" xml:id="p122"/></div>
+     <div type="scene"><head>Scène V.</head><stage>AARON, NADAB, ARZANE.</stage>
+
+<sp who="p"><speaker>ARZANE</speaker><stage>, <hi rend="i">à Nadab.</hi></stage>
+<lg>
+<l>Ma présence est ici sans doute inattendue ;</l>
+<l>Mais pardonnez, Nadab, si la fille des rois</l>
+<l>Demande à vous parler pour la dernière fois.</l>
+<l>On dit que dans ces lieux, écoutant votre père,</l>
+<l>Recevant ses conseils, cédant à sa colère,</l>
+<l>Vous allez par ma mort noblement consentir</l>
+<l>Au pardon qu’on promet à votre repentir.</l>
+<l>Voilà ce que Dathan s’est hâté de m’apprendre.</l>
+<l>A des reproches vains je ne sais point descendre</l>
+<l>Je dédaigne la vie, et je viens seulement</l>
+<l>Entendre mon arrêt, subir mon jugement.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Arzane !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Quelle femme insolente et rebelle</l>
+<l>Ose mêler sa voix à la voix paternelle ?</l>
+<l>Du sang et du devoir respecte le lien,</l>
+<l>Mon fils.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Nadab, aussi ne me devez-vous rien ?</l>
+<l>Moi, des rois d’Amalec et la veuve et la fille,</l>
+<l>Je vous livrais mes dieux, mon peuple et ma famille.</l>
+<l>Fallait-il, puisqu’enfin vous vouliez m’immoler,</l>
+<l>Par des aveux trompeurs chercher à me troubler,</l>
+<l>A ternir sur mon front l’éclat du diadème ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Soupçonner mon amour ! j’en appelle à vous-même :</l>
+<l>Que diriez-vous, Arzane, en cet affreux moment,</l>
+<l>Si je vous accusais de me tromper ?</l>
+</lg>
+</sp>
+<sp who="p"><speaker>ARZANE</speaker><stage>, <hi rend="i">surprise et troublée.</hi></stage>
+<lg><l>Comment !</l>
+<l>Qui ? moi ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON</speaker><stage>, <hi rend="i">à Nadab.</hi></stage>
+<lg>
+<l>N’en doute pas, c’est le ciel qui t’inspire.</l>
+<l>A perdre les Hébreux cette étrangère aspire,</l>
+<l>Sans partager ta flamme. Allier, dur et moqueur,</l>
+<l>Son regard a trahi le secret de son cœur.</l>
+<l>Elle te hait, Nadab, comme elle hait ta race.</l>
+<l>Aussitôt qu’à tes yeux elle aura trouvé grâce,</l>
+<l>Tu la verras, quittant un langage suspect,</l>
+<l>Redevenir pour toi la veuve d’Amalec.</l>
+<l>Tes fils, dignes enfants de cette digne mère,</l>
+<l>Sortiront de son sein en maudissant leur père ;</l>
+<l>Et peut-être, effaçant le crime de Caïn,</l>
+<l>Ils lèveront sur toi leur parricide main.</l>
+</lg>
+</sp> <pb n="118" xml:id="p123"/>
+
+
+<sp who="p"><speaker>ARZANE</speaker><stage>, <hi rend="i">à part.</hi></stage>
+<lg>
+<l>Ne laissons pas la haine altérer mon visage.</l>
+</lg>
+
+      <stage>(Haut.)</stage>
+
+<lg>
+<l>Le ciel lit mieux au fond de ce cœur qu’on outrage.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Aaron aurait-il dit la triste vérité ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Que son reproche, hélas ! n’était-il mérité !</l>
+<l>Je m’égare…</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Achevez !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Un dieu qui m’humilie</l>
+<l>Me force à révéler ma honte et ma folie.</l>
+<l>Cruel, quand, sans remords, tu manques à ta foi…</l>
+</lg>
+</sp>
+
+
+<sp who="p"><speaker>AARON</speaker><stage>, <hi rend="i">l’interrompant.</hi></stage>
+<lg>
+<l>Nadab, crains des aveux qui ne trompent que toi.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Jusqu’au fond du tombeau bénissant fa mémoire…</l>
+</lg>
+</sp>
+
+
+<sp who="p"><speaker>AARON</speaker><stage>, <hi rend="i">l’interrompant.</hi></stage>
+<lg>
+<l>Regarde-la, mon fils, pour cesser de la croire.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Je ne regretterai, dans le sombre séjour,</l>
+<l>Que de ne pouvoir plus t’exprimer mon amour.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Aveux délicieux ! douce et divine flamme,</l>
+<l>Qui pénètre et descend dans le fond de mon âme !</l>
+<l>Qu’est-ce que l’univers au prix d’un tel bonheur ?</l>
+<l>Et qu’importent Moïse et toute sa grandeur,</l>
+<l>Et les desseins du ciel et le sort de la terre ?</l>
+<l>Nadab, sûr d’être aimé, redevient téméraire.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Quel blasphème est sorti de ta bouche, ô Nadab !</l>
+<l>(Arzane s’incline aux pieds d’Aaron ; Aaron le repousse.)</l>
+<l>Fuis, exécrable enfant de Loth et de Moab,</l>
+<l>Et reçois, pour présent de l’hymen qui s’apprête,</l>
+<l>La malédiction dont je frappe ta tête.</l>
+</lg>
+</sp>
+ <stage>(Arzane se relève.)</stage>
+
+<sp who="p"><speaker>NADAB</speaker><stage>, <hi rend="i">égaré tout le reste de la scène.</hi></stage>
+<stage>(Arzane le prend par la main.)</stage>
+<lg>
+<l>Femme, as-tu disparu ! Ta main brûle ma main.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Des tentes d’Israël c’est ici le chemin.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>N’engage pas mon fils dans le sentier du crime.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Arzane, suis mes pas… Evite cet abîme.</l>
+<l>J’entends gronder la foudre, et la terre a tremblé.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Malheureux, par l’enfer ton esprit est troublé.</l>
+</lg>
+</sp> <pb n="119" xml:id="p124"/>
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Silence !… c’est sa voix ; c’est la voix de Moïse.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Il te montre la terre à tes aïeux promise.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Il fait rouler du Nil les flots ensanglantés ;</l>
+<l>L’ange pâle des morts se tient à ses côtés ;</l>
+<l>Le feu du ciel descend sur ma tête profane.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Demeure avec Aaron.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Il a maudit Arzane !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Il bénira Nadab.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Rejeté loin du port,</l>
+<l>D’Arzane désormais je partage le sort.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Ne revendique point l’anathème d’un père.</l>
+<l>J’anéantis l’arrêt lancé dans ma colère,</l>
+<l>S’il atteint jusqu’à toi.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Vous ne le pouvez plus :</l>
+<l>Par le Dieu paternel vos vœux sont entendus.</l>
+<l>Astarté, qu’à tes chants notre union s’achève :</l>
+<l>Marchons ; l’autel est prêt et l’aurore se lève.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Arrête !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Il est trop tard.</l>
+</lg>
+</sp>
+<sp who="p"><speaker>AARON.</speaker>
+ <lg><l>Viens.</l></lg></sp>
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Je suis entraîné.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>AARON.</speaker>
+<lg>
+<l>Dieu te pardonnera.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Vous m’avez condamné.</l></lg>
+</sp>
+<sp who="p"><speaker>AARON</speaker><stage>, <hi rend="i">à Marie, qui s’avance à la tête des chœurs.</hi></stage>
+<lg>
+<l>Ma sœur, secourez-moi ! Priez tous ! Au prophète,</l>
+<l>Pour racheter mon fils, je vais offrir ma tête.</l>
+</lg></sp>
+     </div>
+<div type="scene"><head>Scène VI.</head>
+ <stage>MARIE, CALEB ; CHOEUR DE LÉVITES, CHOEUR DE JEUNES FILLES ISRAÉLITES (Le jour commence à paraître : les lévites, ceints de leurs épées, tiennent dans la main droite un bâton blanc, et dans la gauche, une trompette. Quatre lévites portent te tabernacle qu’ils ont enlevé du camp. Les jeunes filles israélites portent des harpes et des tambourins.)</stage>
+<sp who="p"><speaker>CALEB.</speaker>
+<lg>
+<l>Moïse nous ordonne, au matin renaissant,</l>
+<l>D’aller le retrouver près du puits d’Élissant,</l> <pb n="120" xml:id="p125"/>
+<l>Tandis qu’à nos autels les vierges retirées</l>
+<l>Rediront au Seigneur les plaintes consacrées.</l>
+<l>Partons. Que de l’enfer soit confondu l’orgueil !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MARIE.</speaker>
+<lg>
+<l>Mais de Joseph ici laissons-nous le cercueil ?</l>
+<l>Verra-t-il des faux dieux les infâmes emblèmes ?</l>
+<l>Non : les morts ont horreur de ces dieux morts eux-mêmes.</l>
+<l>Dérobons ce cercueil, et courons le cacher</l>
+<l>Auprès du tabernacle, à l’abri d’un rocher :</l>
+<l>C’est Jacob tout entier qui fuit l’idolâtrie :</l>
+<l>Les enfants, les tombeaux, font toute la patrie.</l>
+</lg>
+</sp>
+ <stage>(Caleb à la tête des lévites, Marie à la tête des jeunes filles israélites, gravissent le Sina. Six lévites enlèvent le cercueil de Joseph ; quatre autres lévites portent le tabernacle. L’aurore parait ; les lévites sonnent de temps en temps de la trompette ; les deux chœurs se groupent diversement sur les rochers, et chantent ou déclament, en marchant, ce qui suit :)</stage>
+ <sp who="p">
+<speaker>CHOEUR DES LÉVITES.</speaker>
+<lg>
+<l>Emportons les os de nos pères ;</l>
+<l>De nos trésors c’est le plus beau.</l>
+<l>Joseph vivant fut trahi par ses frères,</l>
+<l>Ne trahissons point son tombeau.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>CHOEUR DE JEUNES FILLES ISRAÉLITES.</speaker>
+<lg>
+<l>Nous gardons la douceur de nos foyers antiques</l>
+<l>Dans les champs de l’exil et sous de nouveaux cieux :</l>
+<l>En conservant nos autels domestiques</l>
+<l>Et les cendres de nos aïeux.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>DEUX LÉVITES.</speaker>
+<lg>
+<l>Quel pouvoir est le sien ! que d’œuvres redoutables</l>
+<l>Moïse, aimé du ciel, accomplit à la fois !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>DEUX JEUNES FILLES.</speaker>
+<lg>
+<l>Il commande : la mer aux vagues indomptables,</l>
+<l>Comme un enfant docile, exécute ses lois.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>CALEB.</speaker>
+<lg>
+<l>Que notre bouche répète,</l>
+<l>Au fracas des tambours, au son de la trompette,</l>
+<l>L’hymne qu’au bord des flots chantait en son honneur</l>
+<l>Marie, instruite du Seigneur.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>CHOEUR GÉNÉRAL.</speaker>
+<lg>
+<l>Dieu protège et défend l’innocent qu’on opprime ;</l>
+<l>Du cruel Pharaon pour sauver la victime,</l>
+<l>Il a paru comme un guerrier,</l>
+<l>Et précipité dans l’abîme</l>
+<l>Le cheval et le cavalier.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>UN ISRAÉLITE.</speaker>
+<lg>
+<l>Mezraïm disait dans sa rage :</l>
+<l>Frappons les Hébreux fugitifs,</l>
+<l>La mer ne leur ouvre un passage</l>
+<l>Que pour nous livrer nos captifs.</l>
+<l>Qu’Israël au joug indocile,</l>
+<l>De nos murs pétrissant l’argile,</l> <pb n="121" xml:id="p126"/>
+<l>Accomplisse ses vils destins,</l>
+<l>Et que la Juive la plus fière</l>
+<l>S’épuise à broyer sur la pierre</l>
+<l>Le pur froment de nos festins. »</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>UN LÉVITE.</speaker>
+<lg>
+<l>Le Seigneur entendit ces clameurs insolentes,</l>
+<l>Et, se levant soudain,</l>
+<l>Sur la mer, partagée en deux voûtes roulantes,</l>
+<l>Il étendit sa main.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>UN AUTRE LÉVITE.</speaker>
+<lg>
+<l>De la mer aussitôt les ondes suspendues</l>
+<l>Cèdent au bras puissant,</l>
+<l>Et sur les Égyptiens les vagues épandues</l>
+<l>Tombent en mugissant.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>CHOEUR GÉNÉRAL.</speaker>
+<lg>
+<l>Oh ! quel spectacle !</l>
+<l>Les chars, les javelots,</l>
+<l>Engloutis au sein des flots,</l>
+<l>Les hurlements et les sanglots,</l>
+<l>La noire mort croissant dans ce chaos,</l>
+<l>Du vengeur d’Israël attestent le miracle.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>CHOEUR DE JEUNES ISRAÉLITES.</speaker>
+<lg>
+<l>Oh ! des méchants inutiles complots !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>CHOEUR DES LÉVITES.</speaker>
+<lg>
+<l>Oh ! quel spectacle !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>UN LÉVITE.</speaker>
+<lg>
+<l>Des ossements muets les arides monceaux</l>
+<l>S’entassèrent au bord où tant de voix gémirent.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>UNE ISRAÉLITE.</speaker>
+<lg>
+<l>Les princes de Tanis aux enfers descendirent</l>
+<l>Comme une pierre au fond des eaux.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>CHOEUR GÉNÉRAL.</speaker>
+<lg>
+<l>Dieu protège et défend l’innocent qu’on opprime :</l>
+<l>Du cruel Pharaon pour sauver la victime,</l>
+<l>Il a paru comme un guerrier,</l>
+<l>Et précipité dans l’abîme</l>
+<l>Le cheval et le cavalier.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MARIE.</speaker>
+<lg>
+<l>Du favori de Dieu vive l’antique gloire,</l>
+<l>Qui présage à nos cœurs sa nouvelle victoire !</l>
+<l>Que du lâche Ephraïm nos concerts méritants</l>
+<l>Attirent les regards sur ces sommets distants ;</l>
+<l>Qu’il voie avec remords nos cohortes fidèles</l>
+<l>Couronnant du Sina les roches éternelles ;</l>
+<l>Abraham et Jacob penchés du haut des cieux ;</l>
+<l>Les anges se mêlant à nos hymnes pieux ;</l>
+<l>Et Moïse à l’écart, prosterné sur la poudre,</l>
+<l>Suppliant le Seigneur et retenant la foudre.</l>
+</lg>
+</sp>
+  <stage>(Les chœurs disparaissent peu à peu derrière les rochers.)</stage></div>
+</div>
+    <div type="act">
+<head>Acte cinquième.</head>
+     <pb n="122" xml:id="p127"/>
+     
+    
+<div type="scene"><head>Scène première.</head>
+ <stage>NADAB, DATHAN.</stage>
+ <stage>(Dans cet acte, Nadab est revêtu d’armes brillantes, et porte le manteau royal.)</stage>
+     
+     <sp who="p"><speaker>DATHAN.</speaker>
+      <lg>
+       <l>Votre absence, Nadab, va surprendre l’armée ;</l>
+<l>Elle en paraît déjà justement alarmée :</l>
+<l>Objet de tant de vœux, vous les devez combler.</l>
+</lg>
+     </sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>N’est-ce donc pas ici qu’on se doit rassembler ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>DATHAN.</speaker>
+<lg>
+<l>Sans doute ; mais du camp, que votre absence trompe,</l>
+<l>Il ne vous convient pas de devancer la pompe.</l>
+<l>Montrez-vous radieux aux soldats satisfaits.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Sais-je ce que je veux ? sais-je ce que je fais ?</l>
+<l>A ces bords où mes pas et mes destins s’enchaînent,</l>
+<l>L’amour et le remords tour à tour me ramènent.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>DATHAN.</speaker>
+<lg>
+<l>Cachez du moins le trouble où flotte votre esprit.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Que plutôt sur mon front ce trouble soit écrit !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>DATHAN.</speaker>
+<lg>
+<l>Les conseils éternels ont rejeté Moïse ;</l>
+<l>Et c’est vous à présent que le ciel favorise.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Pure religion, dont je souille l’autel,</l>
+<l>J’entends en ce moment ton soupir maternel.</l>
+<l>Combien j’étais heureux quand tes chastes entraves</l>
+<l>Au pied d’un Dieu jaloux tenaient mes sens esclaves ;</l>
+<l>Quand un simple bandeau, déroulé par fa main,</l>
+<l>Sous un lin virginal cachait mon front serein !</l>
+<l>Dathan, j’ai tout perdu par ma coupable audace ;</l>
+<l>J’ai trahi le passé, l’avenir et ma race.</l>
+<l>Oh ! que le premier crime est pesant sur le cœur !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>DATHAN.</speaker>
+<lg>
+<l>Calmez l’emportement d’une injuste douleur :</l>
+<l>Aux rives de Séir tout vous sera prospère.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Je ne chanterai point dans la terre étrangère.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>DATHAN.</speaker>
+<lg>
+<l>Sous le manteau des rois le chagrin est léger.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Que ne suis-je vêtu du sayon du berger !</l> <pb n="123" xml:id="p128"/>
+<l>Et que n’ai-je, innocent au jour de la tempête,</l>
+<l>Une pierre au désert pour reposer ma tête !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>DATHAN.</speaker>
+<lg>
+<l>Venez : pour votre hymen tout s’apprête en ce lieu.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Il ne manque à l’autel que mon père et mon Dieu.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>DATHAN.</speaker>
+<lg>
+<l>Éloignez ces ennuis : voilà, plein d’espérance,</l>
+<l>Au-devant de vos pas le peuple qui s’avance.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Quel charme ! quel éclat ! Fuyez, tristes remords !</l>
+<l>L’aspect de la beauté me rend tous mes transports.</l>
+</lg>
+</sp></div>
+<div type="scene"><head>Scène II.</head>
+ <stage>NADAB, ARZANE, NÉBÉE, DATHAN ; CHOEUR DE JEUNES FILLES, AMALÉCITES, SOLDATS, PEUPLE, ETC.</stage>
+ <stage>Arzane paraît traînée sur un char ; onze drapeaux annoncent les onze tribus présentes au sacrifice. Les jeunes Amalécites déposent au milieu du théâtre un autel sur lequel on voit une idole : elles placent devant cet autel un trépied allumé ; quelques-unes tiennent les corbeilles des offrandes. Dathan porte le flambeau nuptial, et Nébée, le vase à l’encens.)</stage>
+
+<sp who="p"><speaker>NADAB</speaker><stage>, <hi rend="i">à Arzane.</hi></stage>
+<lg>
+<l>Arzane, qu’au bonheur l’heureux Nadab invite,</l>
+<l>Sous le sceptre d’Édom rangez l’Israélite.</l>
+</lg>
+ <stage>(Aux soldats.)</stage>
+<lg>
+<l>Soldats, que votre sort à mon sort doit unir,</l>
+<l>N’accusez plus vos chefs : tous vos maux vont finir.</l>
+<l>Vous avez demandé des dieux dont la puissance</l>
+<l>Vous guidât à des lieux de paix et d’abondance,</l>
+<l>Où vous puissiez fixer, à l’abri des tyrans,</l>
+<l>Vos tombeaux voyageurs et vos berceaux errants :</l>
+<l>Ces biens, qu’en soupirant vous espériez à peine,</l>
+<l>Vous sont tous accordés par une grande reine.</l>
+<l>Née aux monts de Séir, du sang de nos aïeux,</l>
+<l>Elle va réunir notre race et nos dieux.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>UN DES CHEFS DES SOLDATS.</speaker>
+<lg>
+<l>Qu’Arzane et que Nadab règnent pour nos délices,</l>
+<l>Et conduisent nos pas sous des cieux plus propices !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>UN DES PRINCES DU PEUPLE.</speaker>
+<lg>
+<l>Sauvez-nous du désert ; nous vous en prions tous,</l>
+<l>Et faites-nous des dieux qui marchent devant nous.</l>
+</lg>
+</sp>
+
+
+<sp who="p"><speaker>NADAB</speaker><stage>, <hi rend="i">à Dathan.</hi></stage>
+<lg>
+<l>Cher Dathan, préparez la pompe nuptiale.</l>
+</lg>
+</sp>
+
+
+<sp who="p"><speaker>ARZANE</speaker><stage>, <hi rend="i">à part.</hi></stage>
+<lg>
+<l>Je règne, et meurs.</l>
+</lg>
+</sp>
+
+
+<sp who="p"><speaker>NADAB</speaker><stage>, <hi rend="i">à part.</hi></stage>
+<lg>
+<l>D’où sort cette nuit infernale ?</l>
+</lg>
+</sp>
+ <stage>(Dathan allume le flambeau nuptial ; les Amalécites déposent les offrandes au pied de l’idole ; le peuple les imite. Nébée présente l’encens à Arzano. Arzane <pb n="124" xml:id="p129"/> prend l’encens des mains de Nébéo, l’élève au-dessus du trépied devant l’idole, et dit :)</stage>
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Puissant Dieu d’Amalec, dont Jacob aujourd’hui</l>
+<l>Reconnaît la grandeur et recherche l’appui,</l>
+<l>Ouvre tes bras d’airain, ta poitrine enflammée,</l>
+<l>Pour verser sur Jacob la faveur réclamée.</l>
+<l>O Moloch ! sois propice à tes nouveaux sujets :</l>
+<l>Les mères d’Israël payeront tes bienfaits.</l>
+</lg>
+</sp>
+ <stage>(Elle répand l’encens sur le trépied, et passe l’urne à Nadab.)</stage>
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Nadab sacrifier au dragon de l’abîme !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>DATHAN.</speaker>
+<lg>
+<l>Le temps fuit.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Puisse-t-il toujours manquer au crime !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>DATHAN.</speaker>
+<lg>
+<l>Tous les yeux sont sur vous.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Sinaï ! Sinaï !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Répandez donc l’encens.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Jacob, je t’ai trahi !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Achevez.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Je ne puis.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Qu’attendez-vous ?</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Mon père,</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Couronne mon amour.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Et s’il me trompe</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Espère.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Pense au ciel qui me voit !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Songe à tes derniers vœux !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Consommons le forfait !</l>
+</lg>
+</sp>
+
+
+<sp who="p"><speaker>MOÏSE</speaker><stage>, <hi rend="i">du haut du Sinaï, où il apparaît tenant les Tables de la loi.</hi></stage>
+<lg>
+<l>Arrête, malheureux !</l>
+</lg>
+</sp>
+ <stage>(L’urne à l’encens tombe des mains de Nadab : il se fait un moment de silence.)</stage></div> <pb n="125" xml:id="p130"/>
+<div type="scene"><head>Scène III.</head>
+ <stage>MOISE, NADAB, ARZANE, DATHAN, NÉBÉE ; SOLDATS, PEUPLE, ETC.</stage>
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Jacob ! je reconnais ton malfaisant génie.</l>
+</lg>
+</sp>
+
+
+<sp who="p"><speaker>MOÏSE</speaker><stage>, <hi rend="i">toujours sur les rochers.</hi></stage>
+<lg>
+<l>De mon front sillonné dernière ignominie !</l>
+<l>Veillé-je, ou n’est-ce pas l’idolâtre Israël</l>
+<l>Qui d’un monstre du Nil environne l’autel ?</l>
+<l>O Tables de la loi, du ciel présent insigne,</l>
+<l>De vos commandements ce peuple n’est plus digne !</l>
+<l>Tombez, et brisez-vous !</l>
+</lg>
+
+ <stage>(Il brise les Tables de la loi, descend des rochers, et marche à l’autel.)</stage>
+
+<lg>
+<l>Disparais à mes yeux,</l>
+<l>Disparais à jamais, simulacre odieux.</l>
+</lg>
+
+ <stage>(Il renverse l’autel et l’idole.)</stage>
+
+<lg>
+<l>Vous qu’un ange toujours protège de son aile,</l>
+<l>Lévites, accourez : Moïse vous appelle.</l>
+<l>Et toi, noble Marie, amène dans ce lieu</l>
+<l>Ton faible bataillon, si puissant devant Dieu.</l>
+</lg>
+</sp>
+ <stage>(Les lévites et les jeunes Israélites entrant de tous côtés sur la scène, sa rangent autour de Moïse.)</stage>
+ <sp who="p"><speaker>NADAB</speaker><stage>, <hi rend="i">tirant son épée.</hi>
+ </stage>
+<lg>
+<l>Soldats ! livrerez-vous mon épouse à ces traîtres ?</l>
+<l>Défendez votre roi contre la main des prêtres.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Que tout fidèle Hébreu, par son zèle emporté,</l>
+<l>D’un repentir soudain passe de mon côté.</l>
+</lg>
+</sp>
+ <stage>(Le peuple fait un mouvement.)</stage>
+<sp who="p"><speaker>NADAB.</speaker>
+<lg>
+<l>Infâmes déserteurs !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>N’écoutez point l’impie,</l>
+<l>Et qu’à la voix des saints Israël se rallie !</l>
+</lg>
+</sp>
+ <stage>(Le peuple et les soldats passent du côté de Moïse.)</stage>
+
+
+
+<sp who="p"><speaker>NADAB</speaker><stage>, <hi rend="i">à Arzane.</hi></stage>
+<lg>
+<l>Je te défendrai seul, objet cher et cruel,</l>
+<l>Contre ce peuple entier, Moïse et l’Éternel.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Vengeurs du sanctuaire, entourez la victime,</l>
+<l>Et désarmez le bras qu’avait armé le crime.</l>
+</lg>
+</sp>
+ <stage>(Des lévites environnent Arzane et désarment Nadab, d’autres emmènent Dathan.)</stage>
+<sp who="p"><speaker>ARZANE.</speaker>
+<lg>
+<l>Cessez, vils meurtriers ; je saurai bien sans vous</l>
+<l>Mourir comme une reine. Oui, je vous brave tous.</l>
+<l>Heureuse, en expirant j’ai vengé ma patrie ;</l>
+<l>C’est par moi que Jacob connaît l’idolâtrie.</l>
+<l>Retourne si tu veux, ô peuple renié,</l>
+<l>A ton Dieu dévorant, à ton Dieu sans pitié.</l> <pb n="126" xml:id="p131"/>
+<l>Je te livre à l’arrêt qui déjà te condamne.</l>
+<l>Et ton sang va couler après celui d’Arzane.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Qu’on l’entraîne !</l>
+</lg>
+</sp>
+
+
+<sp who="p"><speaker>NADAB</speaker><stage>, <hi rend="i">s’arrachant des mains des lévites et se précipitant vers Arzane.</hi></stage>
+<lg>
+<l>Sur moi tournez votre poignard !</l>
+<l>Arzane, que mon corps te serve de rempart ;</l>
+<l>Permets avec le tien que mon sang se confonde ;</l>
+<l>Que nos âmes ensemble abandonnent le monde,</l>
+<l>Et que le dernier souffle exhalé de mon cœur</l>
+<l>Des feux qui me brûlaient te porte encor l’ardeur !</l>
+</lg>
+</sp>
+
+
+<sp who="p"><speaker>ARZANE</speaker><stage>, <hi rend="i">le repoussant.</hi></stage>
+<lg>
+<l>Quoi ! jusque dans la mort m’accabler de ta flamme !</l>
+<l>Laisse, laisse aux enfers descendre en paix mon âme.</l>
+<l>Disons-le maintenant à la face des cieux :</l>
+<l>Comme tout Israël tu m’étais odieux.</l>
+<l>Fils d’Aaron, dans l’espoir de te perdre toi-même,</l>
+<l>J’avais, pour mon supplice, eu la faiblesse extrême</l>
+<l>De me vouloir sauver en me donnant à toi ;</l>
+<l>Mais cet effort était trop au-dessus de moi ;</l>
+<l>Et lorsque de l’amour j’affectais le langage</l>
+<l>Les pleurs le démentaient sur mon pâle visage.</l>
+<l>Je suis enfin soustraite à ces secrets tourments ;</l>
+<l>Le tombeau me dérobe à tes embrassements.</l>
+<l>Quel bonheur d’échapper à l’amant qu’on déteste !</l>
+<l>Adieu, parjure enfant d’une race funeste ;</l>
+<l>De mon dernier aveu que le dur souvenir</l>
+<l>Augmente la douleur de ton dernier soupir ;</l>
+<l>Et songe, en expirant à ton culte infidèle,</l>
+<l>Que je n’avais pour toi qu’une haine immortelle !</l>
+</lg>
+</sp>
+ <stage>(Elle arrache son voile, et sort avec les Amalécites sous la garde d’une troupe de lévites.)</stage>
+ <sp who="p"><speaker>MOÏSE.</speaker>
+ <lg><l>Allez, brisez la tête à cet ingrat serpent,</l>
+<l>Et tarissez les flots du venin qu’il répand.</l></lg></sp></div>
+<div type="scene"><head>Scène IV.</head>
+ <stage>MOÏSE ; NADAB, MARIE ; PEUPLE ET SOLDATS.</stage>
+ 
+<sp who="p"><speaker>MARIE.</speaker>
+<lg>
+<l>Du Très-Haut, pour Nadab, implorons la clémence.</l>
+</lg>
+</sp>
+
+
+<sp who="p"><speaker>NADAB</speaker><stage>, <hi rend="i">dans la stupeur,</hi></stage>
+<lg>
+<l>Mon songe disparaît dans un abîme immense.</l>
+<l>Ta malédiction, Aaron infortuné,</l>
+<l>Comme un manteau brûlant couvre ton premier-né.</l>
+<l>Tu ne m’entendras plus te parler ; te sourire ;</l> <pb n="127" xml:id="p132"/>
+<l>Tu ne me verras plus chaque matin te dire :</l>
+<l>« Viens, mon père, au soleil réchauffer tes vieux ans ;</l>
+<l>Viens prier l’Éternel et bénir tes enfants. »</l>
+</lg>
+
+ <stage>(Il fait quelques pas sur le théâtre.)</stage>
+
+<lg>
+<l>Mais par quel corps sanglant est ma marche heurtée ?</l>
+<l>Aux corbeaux du désert une femme jetée…</l>
+<l>Noirs vautours attachés à ce sein éclatant,</l>
+<l>Je demande ma part du festin palpitant.</l>
+<l>Tu ne peux plus du moins repousser ma tendresse,</l>
+<l>Arzane ; dans mes bras je te tiens, je te presse.</l>
+<l>Nous aurons au soleil montré dans un seul jour</l>
+<l>Des prodiges nouveaux et de haine et d’amour.</l>
+<l>Jéhovah ! puisqu’Arzane à ma flamme est ravie,</l>
+<l>Je te rends les présents, je renonce à la vie :</l>
+<l>Pour aller aux enfers m’unir à la beauté,</l>
+<l>Je cours t’offrir l’encens que respire Astarté.</l>
+</lg>
+</sp>
+ <stage>(Il fuit.)</stage>
+
+<sp who="p"><speaker>MOÏSE</speaker><stage>, <hi rend="i">aux lévites.</hi></stage>
+<lg>
+<l>Suivez-le, gardez-le de sa propre misère.</l>
+<l>Ne verse point sur lui, Seigneur, dans la col</l>
+<l>Les feux dont Séboïn jadis fut consumé,</l>
+<l>Et que de ton courroux le trésor soit fermé !</l>
+</lg>
+
+ <stage>(Les lévites suivent Nadab. Moïse parlant à Marie : )</stage>
+
+<lg>
+<l>Vous, femme forte et sage, à la vertu nourrie,</l>
+<l>Soignez l’âme d’Aaron d’un coup affreux meurtrie :</l>
+<l>Par mes ordres secrets Benjamin et Caleb</l>
+<l>Ont arrêté mon frère à la source d’Oreb.</l>
+</lg>
+
+ <stage>(Marie sort ; le ciel commence à se couvrir ; on entend un coup de tonnerre. Moïse, après avoir regardé le ciel et la montagne, dit : )</stage>
+
+<lg>
+<l>Quel présage effrayant ! Dieu vient : à sa présence</l>
+<l>La mer a fui ; la terre attend dans le silence ;</l>
+<l>Et les cieux, dont il fait trembler l’immensité,</l>
+<l>S’abaissent sous les pas de son éternité.</l>
+</lg>
+</sp>
+ </div>
+     <div type="scene"><head>Scène V.</head>
+ <stage>LES PRÉCÉDENTS, UN LÉVITE.</stage>
+ 
+<sp who="p"><speaker>LE LÉVITE.</speaker>
+<lg>
+<l>Par la fureur du peuple Arzane lapidée</l>
+<l>Est rendue aux démons qui l’avaient obsédée.</l>
+<l>Mais Nadab l’a suivie : en proie au désespoir,</l>
+<l>Chargeant de feux impurs un impur encensoir,</l>
+<l>Il souillait l’holocauste, alors que sur la poudre</l>
+<l>Il est tombé soudain.</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>Qui l’a frappé !</l>
+</lg>
+</sp>
+
+<sp who="p"><speaker>LE LÉVITE.</speaker>
+<lg>
+<l>La foudre.</l>
+</lg>
+</sp> <pb n="128" xml:id="p133"/>
+<sp who="p"><speaker>MOÏSE.</speaker>
+<lg>
+<l>O Justice incréée, Arbitre souverain,</l>
+<l>Je n’ai donc plus l’espoir de désarmer ta main !</l>
+</lg>
+
+ <stage>(Au peuple.)</stage>
+
+<lg>
+<l>Oui, vous serez punis : il faudra que l’épée</l>
+<l>Cherche encor parmi vous la victime échappée.</l>
+<l>Vous mourrez au désert, et vos jeunes enfants</l>
+<l>Dans Jéricho sans vous entreront triomphants.</l>
+<l>Caleb et Josué, sauvé par le Dieu juste,</l>
+<l>Seuls du sacré Jourdain passeront l’onde auguste.</l>
+<l>Moi-même, tout flétri de votre iniquité,</l>
+<l>Du pays de Jacob je serai rejeté.</l>
+<l>Salut, mont Abarim, d’où les yeux de Moïse</l>
+<l>Découvriront les bords de la Terre-Promise ;</l>
+<l>Abarim, où, chantant mon cantique de mort,</l>
+<l>Je bénirai ce peuple en un tendre transport.</l>
+</lg>
+
+ <stage>(Il étend les mains sur le peuple, qui s’incline.)</stage>
+
+<lg>
+<l>Tribus, je vous bénis comme à ma dernière heure.</l>
+<l>Au sein de mes enfants que je vive et je meure,</l>
+<l>Et qu’après mon trépas un voyageur divin</l>
+<l>Des vrais champs d’Abraham leur montre le chemin !</l>
+</lg>
+</sp><closer>FIN DE MOÏSE.</closer></div></div>
+   </body>
+</text></TEI>
