@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2019-05-20T08:33:46+02:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="zxx">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Manuel de phrénologie</title>
+        <author key="Spurzheim, Johann Caspar (1776-1832)">Johann Caspar Spurzheim</author>
+        <principal>Andrea Del Lungo</principal>
+        <principal>Pierre Glaudes</principal>
+        <principal>Jean-Gabriel Ganascia</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Cette édition a été établie dans le cadre du projet PHŒBUS, financé par l’Agence nationale de la recherche (2015-2019).</edition>
+        <respStmt>
+          <name>Karolina Suchecka</name>
+          <resp>Corrections OCR</resp>
+        </respStmt>
+        <respStmt>
+          <name>Karolina Suchecka</name>
+          <resp>Établissement du texte et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Karolina Suchecka</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Gallica - Bibliothèque nationale de France</name>
+          <resp>Traitement des images</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>eBalzac</publisher>
+        <publisher>ALITHILA (Université Lille III)</publisher>
+        <publisher>CELLF (CNRS &amp; Université Paris IV Sorbonne)</publisher>
+        <publisher>LIP6 (Université Paris VI)</publisher>
+        <date when="2019"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2017 Université Charles-de-Gaulle Lille 3, agissant pour le projet ANR Projet d’hypertexte de l’œuvre de Balzac par l’utilisation de similarités (ci-après dénommé ANR Phœbus). </p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’ANR Phœbus, selon les termes de la licence Creative Commons : Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR). </p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ANR Phœbus et surtout l’adresse Internet de la ressource. </p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite. </p>
+            <p>Pas de Modification : l’ANR Phœbus s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable. </p>
+          </licence>
+        </availability>
+        <idno>https ://gallica.bnf.fr/ark :/12148/bpt6k763987 ?rk=85837 ;2</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Johann Caspar Spurzheim, <title>Manuel de phrénologie</title>, / Porthmann, / Paris, / <date>1832</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date when="1832"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor>Johann Caspar Spurzheim</docAuthor>
+        <docTitle>
+          <titlePart type="main">Manuel de phrénologie</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body>
+      <div type="introduction">
+      <head>Introduction</head>
+      <p>Il est connu que le Docteur Gall a le grand mérite d’avoir été le premier auteur d’une nouvelle doctrine, et que c’est lui qui a découvert la base de la physiologie du cerveau en comparant les talens et les actions des hommes et des animaux avec le volume de leur organisation cérébrale. Dès sa première jeunesse, il s’est distingue par un penchant à l’observation et à la réflexion. Dans les écoles, ayant à redouter ceux de ses condisciples qui apprenaient par cœur avec une grande facilité, et qui lui enlevaient assez souvent, lors des examens, la place qu’il avait obtenue dans l’école par ses compositions, il remarqua qu’ils’avaient de grands yeux saillans. Il changea plusieurs fois de séjour rencontra toujours quelques individus doués d’une mémoire extraordinaire et il remarqua toujours en eux des yeux saillans.</p>
+      <p>Il se rendit à Vienne, en Autriche, dans <pb/> l’année 1781, pour s’appliquer à l’étude de la médecine. Il apprit alors qu’on ignorait les fonctions du cerveau et voyant qu’il reconnaissait la mémoire verbale à un signe extérieur, il s’imagina qu’il en pourrait être de même des autres facultés de l’âme et de l’esprit ; il espéra que de semblables découvertes le conduiraient à connaître les fonctions du cerveau car il n’eut jamais l’idée, comme l’ont prétendu ses détracteurs, et comme le croient encore les gens du monde que les facultés eussent leur siège dans tel ou tel endroit du crâne. Mais comme plus tard il montra à ses auditeurs les marques extérieures des organes à la surface des crânes, sa doctrine reçut le nom de crânologie ou cranioscopie. Le crâne n’étant que l’enveloppe osseuse du cerveau qui est l’organe des facultés de l’âme et de l’esprit, le nom crânologie n’exprime nullement la nature et l’étendue de cette science.</p>
+      <p>Dans le principe, M. Gall ne cherchait des signes que dans la forme générale de la tête pour les facultés intellectuelles dans le sens des écoles, telles que la mémoire, le jugement, l’imagination etc. Mais les observations qu’il faisait, n’étaient pas satisfaisantes, et des exceptions l’avertissaient qu’il était dans l’erreur. <pb/> Peu à peu, il conçut l’idée qu’il fallait chercher des signes extérieurs dans des endroits limités de la tête, de même que la mémoire était indiquée seulement par des yeux saillans. Quelques individus connus par leurs caractères, et auxquels M. Gall trouvait des parties de la tête extrêmement développées, lui firent naître l’idée de chercher aussi dans la tête des signes pour les facultés morales.</p>
+      <p>Pendant long-temps, il n’a employé que des moyens physiognomiques pour trouver les fonctions du cerveau ; mais la physiologie étant imparfaite sans l’anatomie, il sentait le besoin de faire des recherches anatomiques sur l’organe de l’âme.</p>
+      <p>En 1800, j’assistai, pour la première fois, à un cours privé que Gall répétait de temps en temps à Vienne depuis quatre ans. Je sentis beaucoup d’attraits pour la doctrine du cerveau, et depuis l’époque où j’en ai pris connaissance pour la première fois, je ne l’ai plus perdu de vue. Ayant fini mes études d’école en 1804, j’eus le bonheur de lui être associé pour poursuivre particulièrement la partie atomique. Depuis 1804 jusqu’en 1813, nous avons suivi, en commun, nos recherches, qui avaient pour but ranatonue et la physiologie du système <pb/> nerveux en général et du cerveau en particulier. Quant aux détails de nos découvertes particulières et du mérite respectif de chacun de nous, je renvoie le lecteur à nos publications surtout à l’introduction de mon ouvrage sur la phrénologie,à l’appendix de mon essai philosophique, et à.un article inséré dans un journal périodique anglais. (Foreign Quaterly Review, N.111.)</p>
+      <p>Je diviserai ce sommaire en trois sections. Dans la première, j’indiquerai les principes phrénologiques ; dans la seconde, je considérerai les facultés spéciales et dans la troisième, je ferai quelques remarques générales sur l’utiiité et sur l’application de la phrénologie.</p>
+      </div>
+      <div>
+        <head>Section I <lb/> Principes phrénologies</head>
+        <div>
+          <head>Chapitre premier <lb/> Objet de la phrénologie</head>
+      <p>Le nom <hi rend="i">Phrœnologie</hi> vient de deux mots grecs de esprit, et discours. Je l’ai choisi pour désigner la connaissance des phénomènes mentaux et de leur rapport avec le physique. Toutes les recherches qui ont pour objet la nature de l’âme, son origine, son siège, son mode d’action sur le corps et sa destination, n’entrent pas dans mon plan de traiter de phrénologie. Je me borne à observer les <pb/> phénomènes mentaux et les appareils organiques à l’aide desquels les phénomènes ont lieu.</p>
+      <p>Les métaphysiciens et les théologiens en général, trouvent pénible de faire dépendre de l’organisation les phénomènes mentaux, tandis qu’un grand nombre d’observateurs parlent des rapports entre le physique et le moral.</p>
+        </div>
+        <div>
+      <head>Chapitre II <lb/> Des tempéramens</head>
+      <p>Les Anciens, en reconnaissant l’influence du corps sur les phénomènes mentaux pensaient particulièrement aux tempéramens. Ils considérarient le mélange des élémens physiques et la constitution organique comme la cause des manifestations spéciales de l’âme. Les gens d’un tempérament sanguin, dit-on encore aujourd’hui ont la conception facile, la mémoire fidèle, l’imagination vive ; ils aiment la bonne chère, et sont tous adonnés au plaisir. L’inconstance et la légèreté sont leurs défauts particuliers. – - Les bilieux sont emportés, ambitieux, impérieux, ont des passions violentes, un caractère <pb/> ferme et obstiné ils sont pleins de courage et d’activité, mais en même temps extrêmement réservés.</p>
+      <p>Les phrénologistes admettent l’influence de la constitution organique du cerveau sur les modifications des phénomènes affectifs et intellectuels sous le rapport de leur quantité et de leur qualité mais ils ne font pas dériver des tempéramens aucune qualité spéciale. Selon eux, le tempérament donne seulement plus ou moins d’activité et de perfection aux facultés dont chacun est doué.</p>
+      <p>Par rapport aux différens degrés d’activité des facultés spéciales, ou quant à leur quantité, je reconnais quatre tempéramens.</p>
+      <p>Le premier, que je nomme <hi rend="i">flegmatique</hi>, s’annonce par un embonpoint, avec pâteur, une peau épaisse, une chair molle, compressible, sans élasticité, une figure boursoufflée, des lèvres épaisses et pendantes, la bouche entr’ouverte, les cheveux blonds et lisses, et les yeux bleus clairs. Chez une telle constitution toutes les fonctions sont lentes par exemple, celles du bas-ventre, de la circulation, du mouvement volontaire, et des sens extérieurs. L’activité cérébrale est également faible.</p>
+      <p>Le second tempérament, appelé <hi rend="i">sanguin</hi> <pb/> est connu par un embonpoint modéré, avec coloration fleurie ; par une peau souple et ferme, les membres arrondis, des chairs consistantes compressibles, mais élastiques, une chaleur douce de la peau, une transpiration facile, les lèvres vermeilles, les yeux bleus les cheveux châtains, et les traits de la figure animés. Dans une telle constitution le cerveau montrera plus d’activité que dans la première.</p>
+      <p>Le troisième tempérament s’appelle <hi rend="i">bilieux</hi>. Ce nom me déplaît, parce que ce n’est pas la bile seule qui produit cette constitution qui a pour signes diagnostiques un corps sec, maigre et sombrement coloré, la peau sèche et serrée des formes saillantes et dures, la chair ferme, des cheveux noirs, courts ou crépus, les yeux noirs et vifs et un regard pénétrant.</p>
+      <p>Enfin, le tempérament <hi rend="i">nerveux</hi> a pour signes caractéristiques un corps maigre, peu coloré ou pâle, la peau mince et délicate, point ou peu de cheveux fins, une grande susceptibitité nerveuse, et les traits de la figure mobiles et délicats.</p>
+      <p>Ces quatre tempéramens sont rarement simples et purs, mais ils sont presque toujours plus ou moins mélangés.</p>
+        </div>
+        <div><pb/>
+          <head>Chapitre III <lb/> Le cerveau est l’organe des phénomènes affectifs et intellectuels</head>
+      <p>Depuis long temps différens auteurs ont déclaré que le cerveau est l’organe de l’âme, quoique d’autres doutent encore de cette vérité. La plupart de nos prédécesseurs ont cherché la cause des manifestations affectives de l’âme dans les viscères de l’abdomen et du thorax, tandis que les phrénologistes placent les facultés affectives de même que les facultés intellectuelles dans le cerveau. Les preuves qui établissent cette proposition, sont :</p>
+      <p>1. Toutes les parties du corps peuvent être lésées sans que les phénomènes affectifs et intellectuels soient anéantis.</p>
+      <p>2. On n’observe jamais des manifestations affectives et intellectuelles sans cerveau.</p>
+          <p>3. Un développement trop défectueux da cerveau empêche les phénomènes affectifs et intellectuels.</p>
+      <p>4. Les hommes à grands talens et ceux qui se sont distingués par leurs caractères, ont toujours eu un cerveau volumineux.</p>
+      <p>5. Certaines facultés mentales sont plut <pb/> actives chez les femmes, d’autres chez les hommes, les cerveaux des deux sexes varient également.</p>
+          <p>6. Il y a des caractères nationaux, et il y a des têtes nationales.</p>
+      <p>7. Les phénomènes mentaux varient d’après le développement cérébral dans les différens âges. En effet, tout concourt à prouver que le cerveau seul est l’organe des phénomènes affectifs et intellectuels. Cependant on fait encore des objections, et il est nécessaire d’y répondre. On rapporte un grand nombre d’observations selon lesquelles les lésions du cerveau les plus considérables n’ont aucunement nui aux manifestations de l’âme. Il y a aussi un grand nombre de cas où les manifestations mentales avaient subi de grands dérangemens, et où l’on n’a découvert aucune lésion dans la substance cérébrale.</p>
+      <p>Dans la première partie de cette objection on oublie que les parties cérébrales sont paires ; qu’une partie peut être lésée ou détruite, tandis que la congénère, de l’autre côté, peut continuer sa fonction. On ignorait aussi la direction et l’étendue des parties cérébrales. En outre les fonctions spéciales des parties individuelles étaient inconnues.</p>
+      <p>Dans la seconde partie de l’objection il faut <pb/> considérer qu’il y a des altérations qu’on ne saurait jamais distinguer par les cinq sens. On prétend aussi que quelquefois l’eau a détruit, dissous ou désorganisé le cerveau, tandis que les facultés mentales ont continué à se manifester. D’abord, l’expérience démontre que le cerveau existe toujours dans les hydrocéphales qui manifestent des facultés mentales, et cette objection est réfutée par la connaissance exacte de la structure du cerveau. J’ai répondu en détail à ces objections, ainsi qu’à plusieurs autres, dans mon ouvrage sur la phrénologie.</p>
+        </div>
+        <div>
+          <head>Chapitre IV <lb/> De la grandeur absolue du cerveau</head>
+      <p>Le cerveau est indispensable aux phénomènes mentaux, et ceux qui se sont distingués par leurs dispositions affectives et intellectuelles ont toujours eu un cerveau volumineux ; mais il faut ajouter que le volume absolu du cerveau ne détermine nullement la mesure des facultés affectives et intellectuelles. De petites têtes manifestent souvent beaucoup plus d’énergie, par rapport aux facultés mentales, que d’autres qui sont plus volumineuses. Les tempéramens <pb/> exercent de l’influence, et les parties individuelles du cerveau sont affectées à des fonctions spéciales.</p>
+        </div>
+        <div>
+      <head>Chapitre V <lb/> De la grandeur du cerveau relativement au corps</head>
+      <p>Plusieurs animaux, tels que l’éléphant et la baleine, ont plus de cerveau que l’homme, et le bœuf en a plus que le chien.</p>
+      <p>Pour conserver à l’homme sa supériorité, on a dit, que l’éléphant et la baleine remportent sur l’homme, par le poids de leur corps. Mais plusieurs oiseaux, tels que le serin la linotte, le moineau, etc., et plusieurs singes, ont, relativement à leur corps, plus de cerveau que l’homme. En outre, l’éléphant serait, dans cette hypothèse, un animal très stupide.</p>
+          </div>
+        <div>
+          <head>Chapitre VI <lb/> Pluralité des facultés mentales et de leurs organes</head>
+          <p>Les phénomènes de la natute sont trop multiplés pour qu’un principe unique puisse suffire <pb/> à leur explication. Plusieurs Anciens ont pensé qu’il y a dans l’homme une âme déraisonnable et une âme raisonnable. D’autres n’admettent qu’une âme dans l’homme ; mais ils reconnaissent en elle plusieurs facultés. On peut dire qu’il n’y a aucun système soit philosophique soit physiologique, ancien ou moderne, qui n’ait admis plusieurs facultés mentales. De même qu’on divisait et subdivisait les facultés de l’âme, de même on leur assignait différens siéges.On plaçait ordinairement l’âme raisonnable dans la tête, et l’âme déraisonnable dans les viacères ;– Albert le Grand archevêque de Ratisbonne, dans le treizième siècle ;– Pierre de Montagna ;– et Ludovico Dolci en Italie ; et le docteur Gordon en Écosse, dans le quinzième siècle ont dessiné des têtes et y ont indiqué les sièges des différentes facultés de l’entendement. Charles Bonnet considérait même chaque fibre cerébrale comme affectée à une fonction particulière.</p>
+      <p>Tous les phénomènes mentaux, dans l’état de santé et de maladie, concourent à démontrer que le cerveau étant l’instrument de l’âme, n’est pas un organe unique, mais un assemblage d’autant d’organes particuliers qu il y a de facultés spéciales. La phrénologie a le seul mérite <pb/> de spécifier les facultés mentales et de démontrer leurs organes.</p>
+        </div>
+        <div>
+      <head>Chapitre VII <lb/> Des moyens de déterminer les fonctions cérébrales</head>
+      <p>L’anatomie fait voir que le cerveau humain est composé de deux hémisphères, et chaque hémisphère de plusieurs parties, qui ne sont pas proportionnées les unes aux autres. Mais la connaissance anatomique d’une partie ne fait pas connaître sa fonction ; il faut donc avoir recours à d’autres moyens pour découvrir la physiologie. Avant d’avoir vu les mouvemens des muscles, il était impossible de conclure par leur structure qu’ils peuvent se contracter. Qu’on sache la direction et la consistance des fibres cérébrales leur couleur plus ou moins blanche, leur longueur et grosseur plus ou moins considérables, on n’en peut rien conclure sur leurs fonctions ; cependant l’anatomie et la physiologie d’une partie sont en rapport l’une avec l’autre ; c’est pourquoi j’étudie toujours la structure avec les fonctions du cerveau en harmonie ; j’ai même découvert la régularité des masses <pb/> cérébrales, et j’ai spécifié les organes individuels dans le cerveau.</p>
+      <p>Plusieurs naturalistes ont espéré et espèrent encore déterminer les fonctions des parties cérébrales en les coupant, pour voir quelle faculté serait anéantie. Ce moyen de chercher les organes est trop violent et empêchera les animaux de manifester les facultés dont ils possèdent les organes. En tout cas les mutilations n’apprendront pas plus qu’on ne peut faire connaître par des observations dans l’état de santé.</p>
+      <label>Du procédé du docteur Gall</label>
+      <p>J’ai déjà dit, dans l’introduction, et je repère que, dans le principe, le docteur Gall ne cherchait des signes extérieurs que dans la forme générale de la tête pour les facultés intellectuelles, dans le sens des écoles philosophiques, telles que l’attention, la mémoire, le jugement et t’imagination mais que peu à peu il conçut l’idée qu’il fallait chercher des signes extérieurs dans des endroits limités de la tête, de même que la mémoire des mots était indiquée seulement par les yeux saillans. Il apprit bientôt que la mémoire est différente et il chercha alors des signes extérieurs pour des <pb/>mémoires particulières, telles que la mémoire des faits, des mots, des lieux, des personnes, des tons, etc. En outre quelques individus connus pour leur caractère et auxquels il trouvait des parties de la tête extrêmement développées, lui firent naître l’idée de chercher aussi dans la tête des signes pour les facultés morales.</p>
+      <p>Les facultés spéciales de l’âme étant inconnues ou contestées, il fut naturel de comparer les actions des hommes, les grands talens et les caractères déterminés avec leur organisation cérébrale. Or, si Gall trouvait une partie de la tête très-saillante, il conçut l’idée que la partie cérébrale qui formait cette élévation ou protubérance était l’organe du talent ou du caractère prononcé. D’un autre côté, si des fonctions énergiques sont affectées a des organes très-développés, les organes peu développés doivent être accompagnés de fonctions faibles. Ainsi Gall confirmait ses observations par une marche positive et négative.</p>
+      <p>Cette manière de procéder a donné occasion à deux inconvéniens : à l’idée des protubérances, et à la nomenclature défectueuse que Gall a introduite, c’est-à-dire de nommer les organes d’après les talens, les caractères et les actions qui résultent des diverses combinaisons des <pb/> facultés parmi lesquelles une est prédominante, Ainsi, il faut se rappeler que les protubérances de la tête résultent d’un développement prédominant de telle ou telle partie cérébrale, tandis que les parties voisines sont moindres, mais que c’est le volume de chaque partie cérébrale qui doit fixer notre attention car le volume des organes est une des conditions dont leur énergie dépend. C’est celle qu’on saisit le plus facilement, et qui suffit pour déterminer la nature de leurs fonctions. En se bornant à un seul et même individu et en ne cherchant que la nature des fonctions cérébrales, on trouvera que les fonctions prédominantes, quelle que soit leur espèce, sont toujours accompagnées du développement marqué d’une partie du cerveau. Il faut pourtant faire observer qu’il ne suffit pas de considérer la longueur des organes, mais aussi leur largeur. Mais si l’on cherche les différens degrés d’activité avec lesquels les parties cérébrales agissent, le volume ne suffit pas. De même qu’on ne peut pas mesurer la force musculaire, et les fonctions des cinq sens d’après le volume des organes respectifs dans différens animaux, pas même dans divers individus de la même espèce de même on ne peut pas dire que les dispositions affectives et <pb/> intellectuelles soient proportionnées au développement des parties cérébrales dans différentes espèces d’animaux, et dans divers individus de la même espèce. Pour évaluer les différens degrés d’activité des organes, il faut considérer leur tempérament ou constitution organique, même leur exercice et l’influence mntuelle des facultés spéciales. Ici je ne parle que du moyen de découvrir la nature des fonctions cérébrales.</p>
+        </div>
+        <div>
+     <head>Chapitre VIII <lb/> Crâniologie</head>
+      <p>Ce mot n’exprime que la doctrine du crâne, et nullement l’objet principal de nos recherches. Il a été inventé parce que Gall a montré des élévations et des dépressions sur des crânes comme des signes d’une plus ou moins grande disposition à certains talens ou à certaines actions. Cependant il a toujours ajouté que le crâne n’est qu’une empreinte du cerveau, et que ce sont les parties cérébrales dont il cherchait les fonctions.</p>
+      <p>La craniologie, proprement parlant, se divise en deux questions : d’abord on peut demander quelle est la cause du volume et de la forme <pb/> de la tête ou de ses parties ; ensuite s’il est possible de connaître le volume du cerveau et de ses parties, d’après le volume et la forme extérieurs de la tête. La première question intéresse l’anatomiste et le physiologiste mais elle est indifférente pour le physiognomiste, qui cherche l’art de connaître les dispositions mentales par des signes extérieurs ; la seconde, au contraire est de la première nécessité pour le physiognomiste. Sous ce rapport, il faut faire une étude particulière dans les diverses espèces d’animaux et dans l’homme. Il faut encore remarquer que chez ces derniers il y a des cas où l’on juge, avec assez d’exactitude et avec facilité, du développement des parties cérébrales, que dans d’autres cas cela est difficile, et enfin dans d’autres impossible.</p>
+      <p>On peut juger d’après le volume et la forme de la tête depuis la naissance jusqu’à l’époque où le cerveau commence à diminuer, par conséquent dans les périodes pendant lesquelles les facultés affectives et intellectuelles sont le plus actives ; mais il faut connaître les difficultés et ne pas confondre les crêtes osseuses ou des élévations irrégulières avec le développement du cerveau. Il faut connaître le processus mastoïdien derrière l’oreille, la protubérance <pb/> cruciale de l’occiput, l’arcade zygomatique aux tempes, les muscles dans la région latérale, le sinus longitudinal, et ses apparences dans la ligne médiane de la tête ; et les sinus frontaux. Enfin passé l’âge où le cerveau commence à diminuer,son volume ne peut plus être jugé d’après la forme extérieure de la tête ; quelquefois toute la tête devient plus petite et le crâne est grêle dans la vieillesse ; d’autres fois le volume de la tête reste le même, mais la table intérieure du crâne suit la surface du cerveau, et elle est séparée de l’extérieure par une substance spongieuse. D’autres fois encore les crânes des vieillards offrent des endroits très-minces et d’autres très-épais. Il arrive aussi que les crânes de quelques aliénés dont les cerveaux sont affectés pendant long temps, deviennent épais.</p>
+        </div>
+        <div>
+          <head>Chapitre IX <lb/> La phrénologie est établie par l’observation et l’induction</head>
+      <p>En phrénologle on confère une disposition mentale comme primitive ou spéciale :</p>
+      <p>1. Si elle existe dans telle espèce d’animaux, et non pas dans telle autre ;</p>
+      <p>2. Si elle varie dans les deux sexes de la même espèce ;</p>
+      <p>3. Si elle n’est pas proportionnée aux autres facultés du même individu ;</p>
+      <p>4. Si elle ne se manifeste pas simultanément avec les autres facultés, c’est à-dire, si elle paraît ou disparaît plus tôt ou plus tard</p>
+          <p>5. Si elle seule peut agir ou se reposer ;</p>
+          <p>6. Si elle seule est propagée, d’une manière distincte, des parens aux enfans ;</p>
+      <p>7. Si elle seule peut conserver son état de santé ou tomber malade ;</p>
+      <p>8. Enfin elle est hors de doute, si son organe est démontré par des observations réitérées.</p>
+      <p>Les métaphysiciens, en réfléchissant sur leur moi, ne peuvent pas arriver à déterminer le nombre des facultés de l’esprit. Chacun prend son individualité pour le type de l’espèce. Il attribue aux autres ce qu’il sent en lui-même, et ce qu’il ne sent pas n’a, selon lui, pas d’existence fondamentale.</p>
+      <p>D’un autre côté l’esprit ne connaît pas les instrumens dont il fait usage dans ses fonctions. Il ne connaît pas les muscles qu’il emploie dans <pb/> les mouvemens volontaires, ni les nerfs dont il se sert pour flairer, pour entendre ou pour voir, et de même il ne connaît pas les parties cérébrales, moyennant lesquelles il manifeste tel ou tel sentiment, telle ou telle faculté intelleciuelle.</p>
+      <p>La phrénologie de même que toute autre vérité physique est prouvée par des observations multipliées 1) chez des individus particuliers ; 2) chez les deux sexes ; 3) chez des nations différentes ; 4) chez des criminels ; 5) chez des aliénés ou dans l’état de maladie ; 6) par l’harmonie entre l’anatomie et la physiologie ; 7) par la phrénologie comparée ; enfin 8) par le langage naturel.</p>
+        </div>
+        <div>
+          <head>Chapitre X <lb/> Nouvelle classification des phénomènes mentaux</head>
+      <p>Gall a divisé les fonctions cérébrales en espèces, mais il a admis dans chacune les mêmes modes d’action, et il en a parlé d’après les situations locales des organes en commençant au bas et en finissant en haut.</p>
+      <p>Selon moi, les fonctions qut ont lieu dans <pb/> l’homme avec connaissance peuvent être divisées en deux ordres ; on a même reconnu ces deux sortes de facultés depuis la plus haute antiquité, et on leur a donné différens noms, tels que le cœur et la tête, les facultés de l’âme et de l’esprit, ou facultés morales et iniellectuelles. Je préfère le nom de facultés affectives et intellectuelles.</p>
+      <p>L’un et l’autre de ces deux ordres de facultés peuvent être subdivisés en plusieurs genres ; quelques facultés affectives ne donnent qu’un désir, un penchant ou ce qu’on appelle instinct chez les animaux. Je les nomme <hi rend="i">penchans</hi>. Ils sont communs aux animaux et à l’homme. D’autres facuités affectives ne sont pas bornées à un simple penchant, mais elles éprouvent quelque chose de plus, ce qu’on nomme <hi rend="i">sentiment</hi>. Quelques-uns sont communs aux animaux et à l’homme, d’autres sont propres à l’homme.</p>
+      <p>Le second ordre des facultés renferme celles de l’entendement. On peut les subdiviser en trois genres 1) en sens extérieurs ; 2) en facultés perceptives ou en celles qui font connaître aux animaux et à l’homme les objets extérieurs, leurs qualités physiques et leurs relations ; 3) en facultés réflectives qui agissent sur <pb/> l’activité de toutes les autres facultés affectives et intellectuelles.</p>
+      <p>Chaque genre des facultés affectives et intellectuelles offre plusieurs espèces, et chaque espèce présente des modifications de quantité et de qualité, même des idiosyncraies.</p>
+      <p>La nomenclature des facultés mérite encore une attention particulière. Elle doit être conforme à la tendance spéciale de chaque faculté, sans indiquer une action quelconque. Enfin on peut encore considérer les désordres de chaque faculté et l’influence de son inactivité sur les fonctions des autres facultés.</p>
+        </div>
+        <div>
+          <head>Chapitre XI <lb/> De la meilleure méthode d’étudier la phrénologie</head>
+
+      <p>Il n’y a pas de conviction personnelle sans avoir observé soi-même. Ainsi, ceux qui veulent se convaincre de la réalité de la phrénologie, doivent étudier 1) la situation de chaque organe spécial ; 2) la tendance spéciale de chaque faculté ; 3) le tempérament de chaque <pb/> individu à examiner ; 4) ensuite on divise la tête en quatre régions : occipitale, latérale, sincipitale et frontale ; 5) on compare la base de la tête avec la moitié coronale, et les trois grandes divisions : de l’animalité, de l’humanité et de l’intelligence ; 6) enfin on remarque le développement proportionné des organes particuliers. J’admets quatre degrés de développement, en distinguant les organes qui prédominent ; ceux qui sont grands ; ceux qui sont moyens et ceux qui sont petits. Les personnes qui veulent se donner la peine d’observer d’après ces indications, trouveront que la phrénologie est une science positive. Je finis cette section par dire que les organes de toutes tes facultés mentales sont doubles, même ceux qui sont marqués simples dans la ligne médiane de la tête.</p>
+        </div>
+      </div>
+      <div>
+        <head>Section II <lb/> Des Spécialités Mentales</head>
+        <div>
+      <head>Ordre 1– Facultés affectives</head>
+       
+      <p>Ces facultés agissent du dedans, et elles ne sont nullement acquises par des impressions du <pb/> dehors. Elles doivent être senties pour être comprises, mais elles ne s’apprennent pas. Elles sont les grands mobiles de nos actions, mais elles ne connaissent pas les objets de leur satisfaction, et elles agissent sans jugement</p>
+
+      <div>
+        <head>Genre I <lb/> Penchans</head>
+      <p>Il y en a plusieurs espèces. Toutes ces facultés sont communes aux animaux et à l’homme ; elles produisent des désirs, et ce qu’on apelle instinct chez les animaux.</p>
+      <div>
+        <head>X) Alimentivité</head>
+      <p>On attribue ordinairement l’appérit ou l’instinct à prendre de la nourriture  aux nerfs de l’estomac ; mais tous les instincts dépendent de l’organisation cérébrale. L’expérience démontre <pb/>que l’instinct en question est affecté à la portion antérieure des lobes moyens. Cette partie cérébrale est développée de bonne heure ; elle est plus large dans les jeunes enfans que dans les personnes adules, et elle est prédominante sur ceux qui font le plus grand cas d’un bon dîner, et qui trouvent très-pénible de s’abstenir de manger de tous les plats qu’on sert à table.</p>
+      <p>L’organe est situé en avant de l’oreille et au-dessus de la façade zygométique. C’est la partie antérieure des lobes moyens.</p>
+      </div>
+        <div>
+      <head>1) Amativité</head>
+      <p>Ce penchant produit tous les désirs érotiques ainsi que l’instinct à la propagation. Quelques individus sovt très-portés à ce penchant d’autres te sentent très-peb ; les hommes et les mâles ront ordinairement plus actif que les femmes et les femelles.</p>
+      <p>Le cervelet en est l’organe ; à mesure que le cervelet se développe chez les enfans, le penchant paraît, et dans les hommes adultes presque indifférens à l’amour physique, le cervelet est petit ; chez d’autres personnes dominées par ce penchant, le cervelet est volumineux.</p>
+      <p><pb/> Cet organe est situé entre la protubérance occipitale, au milieu de la nuque, et le processus mastoïdien derrière les oreilles.</p>
+          <p>Les désordres qui résultent de ce penchant, sont très-noumbreux, tels que le libertinage, l’adultère, l’inceste, etc., etc.</p>
+        <p>Son inactivité prédispose à la continence passive.</p>
+        </div>
+        <div>
+          <head>2) Philogéniture</head>
+      <p>L’amour des mères pour les enfans varie beaucoup ; quelques-unes considèrent leurs enfans comme leur plus grand trésor, d’autres comme un grand fardeau ; quelques femmes privées d’enfans trouvent cet état le plus malheureux.</p>
+      <p>Le sexe féminin, dès l’enfance, montre plus d’amour pour les enfans que le sexe masculin.</p>
+          <p>Les domestiques femmes ont aussi ordinatrement des soins plus attentifs pour les enfans que les hommes. Chez quelques aliénés ce penchant donne la direction de l’alténation.</p>
+          <p>Quelques espèces d’animaux abandonnent leurs œufs au hasard et aux circonstances extérieures ; chez d’autres espèces, la femelle éprouve le besoin d’avoir soin de ses petits, <pb/> tandis que le mâle ne s’en soucie pas ; chez d’autres espèces encore, la femelle et le mâle éprouvent ce penchant, lequel cependant est plus énergique chez les femelles que chez les mâles.</p>
+      <p>Dans l’espèce humaine, on considère ordinairement l’amour des enfans comme le résultat de l’amour de soi, ou de l’allaitement ou des sentmens moraux ; mais ces causes n’existent pas chez les animaux, dont le plus grand nombre cependant possèdent cet instinct.</p>
+      <p>L’organe de la philogéniture est situé dans les lobes postérieurs du cerveau, au-dessus de l’épine occipitale. Les deux organes forment souvent une protubérance simple dans les deux lobes sont rapprochés ; quelquefois il y a deux protubérances, une de chaque côté, quand les lobes sont un peu écartés.</p>
+      <p>Trop d’amour pour les enfans contribue à les gâter, et fait trouver leur privation insupportable.</p>
+      <p>L’inactivité prédispose à négliger la géniture, et une mère provoquée par les circonstances extérieures à détruire son fruit, aura dans le défaut de cette inclination, un motif de moins pour ne pas commettre ce crime, et elle <pb/> n’opposera pas autant de résistance qu’elle en aurait mise, si ce penchant s’était soulevé avec vivacité contre l’idée d’une telle atrocité ; mais ce n’est pas le défaut de la philogéniture qui détermine une mère à détruire son enfant.</p>
+        </div>
+        <div>
+          <head>3) Habitativité</head>
+    
+      <p>En examinant les mœurs des animaux on trouve que les différentes espèces sont attachées à des régions déterminées ; la tortue et le canard sont à peine éclos de leurs œufs, qu’ils courent vers l’eau. Quelques oiseaux volent dans les régions élevées de l’air, d’autres vivent sur la terre ; quelques animaux cherchent une habitation sur les hauteurs physiques, d’autres se plaisent dans les vallées. Quelques oiseaux font leurs nids aux sommets des arbres et aux pics des rochers, d’autres les placent aux pieds des arbres ou dans des trous au bord des rivières. La nature paraît avoir voulu que toute la terre fût habitée, et, à cet effet, elle a assigné aux animaux leurs différens séjours par un instinct particulier.</p>
+      <p>Parmi les sauvages, il y a des hordes qui s’attachent facilement a un terrain qu’elles cultivent, où elles construisent des habitations et <lb/> s’établissent, tandis que d’autres continueant la vie nomade.</p><p>Quelques peuples sont extrêmement attachés à leur pays, d’autres sont disposés aux émigrations.</p>
+      <p>Quelques peuples sont très-attachées à une habitation, d’autres changent leur demeure aussi facilement que leurs habils.</p>
+      <p>Peut-être que l’amour de l’agriculture résulte de ce même penchant. Quelques-uns préfèrent la campagne à la ville, et se plaisent a cultiver la terre, à semer et à planter. La nature attache généralement du plaisir aux occupations nécessaires : or l’agriculture est sans doute indispensable au bien-être de l’humanité, elle dépend donc probablement d’une disposition naturelle.</p>
+          <p>L’organe est situé immédiatement au-dessus de celui de la philogéniture.</p>
+        </div>
+        <div>
+          <head>4) Affectionivité</head>
+      
+      <p>Quelques animaux, tels que les chiens, les chevaux, les moutons, les cochons, les canards, les poules, les oies, etc. vivent en société ; d’autres, tels que le lièvre, le renard, la pie, le rossignol, le roitelet, etc., mènent une vie solitaire. Dans plusieurs espèces, les <pb/> mâles et les femelles vivent ensemble pendant toute leur vie, ils sont pour ainsi dire mariés. Cependant on ne peut pas dire que le mariage et la société soient simplement des degrés d’activité de ce penchant. Il y a des animaux sociaux qui ne sont pas mariés, et beaucoup d’animaux solitaires et sociaux vivent dans l’état de mariage. L’homme appartient aux animaux sociaux et mariés. La société et. le mariage sont des modifications, du même instinct des institutions de la nature.</p>
+      <p>Une autre modification est appelée amitié, c’est l’attachement entre les individus de la même espèce. L’attachement n’est pas d’une nature morale. Il existe chez beaucoup d’animaux ; il y a des malfaiteurs qui en ont beaucoup, et qui se détruisent pour n’être pas forcés de trahir leurs complices.</p>
+      <p>Ce penchant est plus développé chez les femmes que chex les hommes, et, plus chez certaines nations que chez d’autres.</p>
+      <p>Cette faculté paraît être l’instinct de s’attacher aux objets qui nous entourent, aux animaux, aux hommes, et aux objets qui viennent des personnes que nous aimons. Il produit la sociabilité, mais il ne détermine pas le choix des amis et de notre société ; cela dépend des autres <pb/> facultés qui l’accompagnent et qui veulent être satisfaites en même temps.</p>
+      <p>L’organe est situé de chaque côté, à l’extérieur de la philogéniture et de l’habitativité.</p>
+        </div>
+        <div>
+      <head>5) Combativité</head>
+      <p>Le courage est nécessaire dans l’arrangement des choses, et il varie beaacoup dans les différens espèces et dans les individus de la même espèce. Quelques espèces sont toujours disposées à se battre, d’autres ne se battent jamais. Tel chien cherche partout les combats, tel autre les évite. Quelques hommes aiment à lutter et à battre, d’autres sont pacifiques. Un cheval est sûr et un autre ombrageux. Ainsi la différence de ce penchant n’est pas douteuse, mais quelle en est la cause ?</p>
+      <p>On croit ordinairement que le courage est la conséquence de la force musculaire, mais il y a des espèces faibles qui sont courageuses et des espèces grandes qui craignent les combats. Dans l’espèce humaine quelques individus faibles et délicats sont doués d’un courage extraordinaire, et des hommes forts et grands en sont destitués. Le courage n’est nullement en raison de la force musculaire.</p> 
+      <p>L’organe est situé à l’angle postérieur inférieur de l’os pariétal au niveau du bord supérieur de l’oreille. Cette partie de tête est large dans toutes les personnes courageuses. Elle est particulièrement considérable dans la tête du gladiateur combattant. Les animaux courageux ont aussi la tête large derrière les oreilles.</p>
+        </div>
+        <div>
+      <head>6) Destructivité</head>
+      <p>Il est certain qu’il y a des animaux carnivores et herbivores ; mais on n’est pas d’accord sur ce qui en est la cause. Quelques-uns dérivent l’instinct carcassier des instrumens tels que les griffes et les dents. Mais les instrumens extérieurs ne sont jamais plus que leur nom indique : des instrumens. Les facultés intérieures les emploient à produire certaines fonctions, et les instrumens deviennent inutiles aussitôt que les facubés manquent ou sont dérangées. Le géomètre, le mécanicien, le sculpteur, etc., ne sauront plus employer leurs mains, lorsque leur esprit sera aliéné. De même l’agneau ne saurait pas faire usage des griffes du chat ; mais les animaux carnassiers ont reçu des instrumens pour satisfaire leur instinct à détruire. Ainsi les animaux destinés à vivre aux dépens des <pb/> autres ont reçu un instinct à les tuer et des instrumens pour satisfaire leur désir.</p>
+      
+      <p>Il y a des animaux de proie dans tous les ordres, et la mort violonte est une institution de la nature. Celle-ci a même enseigné aux animaux carnivores à tuer de la manière la plus prompte, en blessant leur proie à la nuque. Quelques animaux, tels que la fouine, la marte, la belette, tuent par plaisir, et plus qu’il ne leur faut pour se nourrir.</p>
+      <p>Or, les animaux carnivores ayant un instinct a détruire, l’homme qui est carnivore et qui tue depuis les insectes jusququ’à l’éléphant et la baleine, pour en profiter, doit avoir ce même instinct. Ses voies digestives, tenant le millieu entre celles des animaux carnivores et celles des animaux frugivores, indiquent qu’il est omnivore. Il en est de même de ses dents. La nature a donc fait l’homme carnassier, et elle doit lui avoir donné le même instinct qu’aux animaux.</p>
+      <p>Cet instinct présente beaucoup de degrés : depuis la simple indifférence à voir souffrir les animaux, et depuis le simple plaisir à voir tuer, jusqu’au désir le plus impérieux de tuer. On l’observe parmi les enfans, comme parmi les adultes ; parmi des hommes grossiers et parmi<pb/> quelues’uns qui ont reçu l’éducation. Quelques brigands se contentent de voler, d’autres manifestent une inclination sanguinaire de tuer sans nécessité. Il y a des imbécilles et des aliénées qui ont cet instinct plus ou moins actif.</p>
+          <p>Cet instinct porte à la destruction en général, sans indiquer l’objet, ni la manière de détruire. L’action déterminée dépend des circonstances extérieures où celui qui agit se trouve, soit par le feu, l’eau, des instrumens tranchans, des poisons, etc.</p>
+          <p>L’instinct est utile pour se procurer la nourriture nécessaire, et dans la guerre de défense ; mais il produit des abus dans le meurtre, l’assassinat ou l’incendie volontaire. Il dispose les enfans à gratter, mordre, pincer, casser et déchirer. La justice l’emploie pour la sûreté de la société</p>
+          <p>L’organe de la destructivité est situé sur le côté de la tête, immédiatement au-dessus des oreilles, à l’endroit qui correspond à l’os temporal.</p>
+        </div>
+        <div>
+          <head>7) Secrétivité</head>
+      <p>Les animaux ont besoin de cet instinct pour se cacher et pour s’y prendre de manière à <pb/> n’être pas aperçus. Un chat fait semblant de dormir, il guette la souris sans faire aucun mouvement. Le chien, pour s’assurer un os, le cache dans la terre. Les hommes fins et rusés décèlent, de mille manières, cet instict : ils disent le contraire pour apprendre la vérité ; ils exagèrent le bien pour apprendre le mal, etc., etc.</p>
+          <p>L’organe   est situé au dessus de celui de la destructivité ; et, étant très développé, il étargit la tête latéralement.</p>
+        </div>
+        <div>
+          <head>8) Acquisivité</head>
+
+      <p>Ce péchant ne détermine pas les objets qu’on désire, il donne seulement le désir d’acquérir. Il est nécessaire à l’homme et aux animaux pour se procurer leur subsistance, et il joue un grand rôle dans la société ; produit l’amour de soi, l’intérêt personnel, et demande toujours à quoi cela est-il bon ou utile : c’est <pb/> l’âme du commerce, et il fait penser au gain et à ramasser. Les objets qu’on acquiert et qu’on ramasse, et la manière de le faire, dépendent des circonstances extérieures où l’on est placé, et de la combinaison des facultés dont on est doué. </p>
+      <p>Dans quelques animtaux, tels que les pies et les corbeaux, il agit aveuglement, et ces animaux ramassent des métaux, des pierres et des choses dont ils ne peuvent faire aucun usage. Il y a des hommes chez lesquels cet instinct agit de la même manière ; ils collectent indistinctement ce qu’ils peuvent rencontrer.</p>
+      <p>Ce penchant produit beaucoup d’abus, tels que le vol, le plagiat, la fraude, l’usure, le jeu, la corruptibilité ou vénalité, etc.</p>
+      <p>L’organe a été découvert dans ses voleurs inavérés, et il n’y a pas de doute que quelques individus montrent un penchant au vol. Des personnes de bonnes familles, des riches, des idiots et des aliénés ont été remarquables pour cette inclination. Chez eux, l’instinct à acquérir agit d’une manière isolée et n’est pas dirigé par des sentimens supérieurs, et, comme chez les animaux qui n’ont pas de facultés morales, il prend ce qu’il trouve.</p>
+      <p>L’organe aboutit à langle antérieur inférieur, des os pariétaux.</p>
+        </div>
+        <div>
+      <head>9) Constructivité</head>
+      <p>Plusieurs animaux font des nids et des habitations. Les castors construisent des cabanes ; le lapin, le moulot et la marmotte creusent des terriers, et l’homme a inventé l’architecture. Le sauvage élève des huttes, et les nations civilisés bâtissent des palais et des temples. L’homme se procure toutes sortes de jouissances par les arts mécaniques, les métiers, le dessin et la sculpture. La facuité en question donne la dextérité manuelle dans tout ce qui concerne la construction, et dans l’usage des outils.Elle est nécessaire au tailleur et à la marchande de modes, de même qu’à celui qui construit des machines pour les manufactures, le commerce et la guerre ; elle fait les jouets et les armes, et produit en général les habiles ouvriers.</p>
+          <p>L’organe de la constructivité aboutit aux tempes, mais la situation et l’apparence extérieures varient d’après le développement des parties voisines. Il est moins visible si les lobes moyens sont très-volumineux ou si le front est très-large ou si les organes du languge, de <pb/> l’ordre et des tons sont très considérables, ou enfin si les joues sont très-saillantes. Lorsque la base du crâne est étroite, il est situé plus haut dans ce cas, il y a souvent un enfoncement à l’angle externe de l’œil, entre cet angle el l’organe, surtout lorsque la peau et les muscles qui couvrent les tempes sont minces. Dans l’examen de cet organe, il faut toujours considérer l’épaisseur des légumens et des muscles qui le couvrent.</p>
+        </div>
+      </div>
+      <div>
+        <head>Genre II <lb/> Des facultés affectives</head>
+        <div>
+          <head>Sentimens</head>
+      <p> Les dix espèces de facultés précédentes sont intérieures et donnent des désirs et des penchans ; les douze suivantes sont également intérieures et produisent des tentations, mais elles manifestent encore des émotions de l’âme qu’on peut nommer <hi rend="i">sentimens</hi>, et qu’il faut sentir soi-même pour les connaître. Les penchans sont principalement destinés à faire agir les animaux et l’homme ; les sentimens modifient les actions des penchans et produisent d’autres actions d’après leurs propres désirs. Quelques sentimes sont communs aux <pb/> animaux et à l’homme, d’autres sont propres à l’homme.</p>
+        </div>
+        <div>
+          <head>I. Des sentimens communs aux animaux et à l’homme</head>
+          <div>
+            <head>10) Estime de soi</head>
+      <p>L’estime desoi est un des sentimens qu’on considère généralement comme factices, et resultant des circonstances sociales. Cependant il est quelquefois très actif et en opposition des circonstances extérieures, et chez des personnes qui n’ont aucun avantage sur les autres ni par leur naissance, leur fortune, leurs talens, ni par leur mérite personnel. Le sexe masculin en a ordinairement plus que le sexe féminin.Quelques nations sont remarquables par cette faculté. Enfin on sait que beaucoup de fous s’imaginent être ministres, rois, empereurs, Dieu même.</p>
+      <p>Ce sentiment est très-actif dans nature humaine, il est destiné à nous donner une bonne opinion ou l’estime de nous-même ; mais il produit aussi beaucoup d’abus, tels que l’amour de la domination, le désir de la puissance, le plaisir de la critique, l’orgueil, la fierté, la <pb/> présomption, la suffisance, l’insolence, le mépris et le dédain.</p>
+      <p>L’organe est situé à l’endroit qui correspond au <hi rend="i">vertex</hi>de la tête, au milieu de la satufe sagitale, à la partie postérteure superieure ; la où la tête commence ordinatrement à décliner.</p>
+          </div>
+          <div>
+            <head>11) Approbativité</head>
+      <p>Ce sentiment cherche l’approbation d’autrui, fait cas de ce que les autres pensent et disent de nous. Il aime les caresses, les flatteries, les complimens et les applaudissemens ; il est la cause de la parure, de l’ostentation et des décorations. Il produit aussi l’émutation, le point d’honneur, l’amour de la gloire et des distinctions. Appliqué à de grands évenemens, il est appelé ambtion ; à des choses futiles, il porte le nom de vanité.</p>
+      <p>L’application déterminée de ce sentiment dépend des autres facultés avec lesquelles il agit en combinaison, et des circonstances où celui qui agit se trouve.</p>
+      <p>Ce sentiment est ordinairement plus développé chez les femmes que chez les hommes ; plus chez certaines nations que chez d’autres. L’organe est situé à côté du précédent, à la <pb/> partie postértieure et latérale de la tête. Ses fibres sont plus ou moins tondues ou plus ou moins larges, ou l’un et l’autre en même temps.</p>
+          </div>
+          <div>
+      <head>12) Circonspection</head>
+            <p>Ce sentiment contribue à la conservation ; il fait prendre des précautions ; fait placer des sentinelles ; retient l’activité des penchans et semble toujours dire : <hi rend="i">prenez garde</hi>. Étant très-actif, il donne de l’incertitude, de l’inquiétude, de l’irrésotutton, de la mélancolie et de l’hypocondrie. Il agit avec plus d’énergie chez les femmes et les femelles que chez les hommes et les mâles. Il est plus prononcé chez ceriatnes nations que chez d’autres. S’il prédomine tandis que le courage est très faible, il prédispose à avoir peur.</p>
+      <p>L’organe aboutit au milieu de chaque os pariétal.</p>
+          </div>
+          <div>
+      <head>13) Bienveillance</head>
+      <p>Il y a des espèces d’animaux et des individus de la même espèce qui sont remarquables par leur douceur, et d’autres par leur méchanceté. Le chevreuil par exemple est doux, et le chamois méchant. Quelques hommes excellent <pb/> par leur bonté, d’autres sont durs et cruels. Quelques philosophes croient que la bonté résulte de l’absence du courage ; mais il y a des hommes courageux, même querelleurs, qui sont très-bons en même temps. L’absence de ta bonté, il est vrai, n’explique pas la cruauté mais si ia bienveillance manque, les autres penchans, surtout cetui de la destructivité, agissent d’une manière cruelle.</p>
+      <p>L’organe de la bienveillance est situé à la partie supérieure médiane de l’os fronta !. Chez les Caraïbes, cet endroit est beaucoup moins développé que chez les Indous. Il est beaucoup plus élevé dans le buste de Séneque que dans celui de Néron. La différence est aussi très-sensible dans les animaux bons ou méchans. La sphère d’activité de ce sentiment est très-étendue dans l’espèce humaine : il en résulte la bonté, la complaisance, la bénignité, la clémence, la miséricorde, la compassion, la pitié, l’équité, l’humanité, la bienveillance, l’hospitalité, la générosité, la bienfaisance, l’amour du prochain, la charité.</p>
+          </div>
+        </div>
+        <div><head>Des Sentimens propres à l’homme</head>
+      <p>L’homme est un être moral et religieux par <pb/> sa nature ; mais il est important de savoir que la moralité et la religiosité ne résultent pas l’une de l’autre et ne sont pas nécessairement en proportion, mais peuvent être combinées ensemble et s’exciter mutuellement. La morale concerne les relations d’homme à homme, et la religion embrasse les relations entre l’homme et les êtres surnaturels et Dieu lui même. En outre, ce n’est pas une faculté, seule qui constitue la morale, ni une faculté seule qui constitue la religion. La bienveillance est éminemment morale, et si elle est considérée dans la religion, elle l’est autant qu’elle est commandée par la volonté de Dieu ; mais elle n’existe pas parce qu’elle est commandée : elle est antérieure à commandement, et elle est commandée parce qu’elle est bonne. Le commandement seul est religieux. Les autres facultés morales sont la vénération, la fermeté et la conscienciosité, tandis que la religiosité dépend de la vénération, de l’espérance et de la merveillosité. Cette dernière est pour la religiosité ce que la conscienciosité est pour la morale.</p>
+          <div>
+          <head>14) Vénération</head>
+      <p>L’application de cette faculté est tantôt morale, tantôt religieuse. Elle est morale si elle se fait aux hommes ; elle est religieuse si elle est dirigée vers des êtres surnaturels. Ce sentiment est celui du respect et de la venération, qui peut s’exercer sur les choses et les personnes, sur des êtres imaginaires ou sur l’Être Suprême. Il vénère les vieillards, les parens, et fait faire tout ce qu’on croit nécessaire pour la gloire de Dieu. Il peut se satisfaire par des actes superstitieux ou par une conduite sage et raisonnable. En religion, il donne naissance au culte.</p>
+            <p>L’organe de la venératio, aboutit à l’endroit qui correspond à la fontanelle chez les jeunes enfans, dans la ligne médiane, aux angles antérieus supérieurs des os pariétaux, en arrière de l’organe de la bienveillance.</p>
+          </div>
+          <div>
+            <head>15) Fermeté</head>
+      <p>On appelle souvent les effets de ce sentiment la volonté, mais cette faculté peut agir sans réflexion. Les personnes qui en sont douées dans un haut degré, disent souvent : <hi rend="i">je veux</hi>, ce qui veut dire : <hi rend="i">je commande</hi>. Ce sentiment donne de la constance et de la persévérance aux autrrs facultés ; il fait insister sur ce qui se <pb/> passe dans la tête, et dispose à l’indépendance surtout en combinaison avec l’estime de soi. Trop actif, il produit des abus tels que l’opiniâtreté, l’obstinatio, l’entêtement, la désobéissance, l’esprit séditieux, etc. – Son défaut rend inconstant, changeant, variable et incertain.</p>
+      <p>L’organe aboutit au sommet de la tête, entre la vénération et l’estime de soi.</p>
+          </div>
+          <div>
+            <head>16) Conscienciosité</head>
+      <p>Ce sentiment fait envisager les actions sous le rapport du devoir, de l’obligation morale de la justice ; il désire être juste, mais il ne détermine pas la justice. Celle-ci est réglée d’après ce sentiment combiné avec d’autres facultés. La justice de celui qui l’unit avec la bienveillance et !a vénération est très-diiférente de celle qui est combinée avec les penchans inférieurs sans bienveillance et vénération. Ce sentiment est la base de la conscience et de la légistation ; sans lui on ne sentirait pas le besoin d’être juste. Il désire et cherche la vérité. Chez quelques individus, il est très faible et à peine perceptible ; chez d’autres, il est très-énergique. Il est encore connu sous le nom <pb/> du moniteur intérieur, mais ceux qui pensent que ce sentiment suffit pour diriger les actions des hommes, et que tous ceux qui agissent en opposition en sont tourmentés, se trompent. Il en est de ce sentiment comme de tout autre : chez quelques personnes il est fort, chez d’autres faible, et chez d’autres encore, il n’y en a presque pas. C’est pourquoi la loi positive doit être établie, c’est-à-dire, il faut déterminer ce qui est juste ou injuste, et donner d’autres motifs pour faire agir conformément à la loi.</p>
+            <p>L’organe de la conscienciosité se trouve entre ceux de la fermeté et de la circonspection.</p>
+            <p>Les sentimens de la bienveillance, de la conscienciosité et de la persévérance sont essentiels à la morale, qui est ennoblie par la vénération.</p>
+          </div>
+          <div>
+            <head>17) Espérance</head>
+            <p>Ce sentiment fait croire à la possibilité de ce que les autres facultés désirent sans en donner la conviction. il est nécessaire au bonheur des hommes dans presque toutes les situations, et y contribue plus que la réussite de leurs projets. Il ne se borne pas aux circonstances de ce <pb/> monde, il dispose aussi à admettre une vie à venir, et constitue une partie de la foi religieuse. Étant trop actif, il fait former des projets sans fin ; lorsqu’il est inactif, la circonspection produit souvent le découragement, même le désespoir.</p>
+      <p>L’organe de l’espérance est situé des deux côtés de celui de la vénération.</p>
+          </div>
+          <div>
+      <head>18) Merveillosité</head>
+      <p>Ce sentiment cherche et voit en tout le merveilleux le côté étonnant, miraculeux et surnaturel. Il se manifeste chez les sauvages et chez les nations civilisées, et fait croire à toutes sortes de contes fabuleux et merveilleux, aux inspirations, aux pressentimens, à la magie, aux revenans, aux visions, aux sortiléges, aux enchantement et à l’astrologie. Il constitue la partie fondamentale de la foi religieuse, et embrasse toutes les considérations dogmatiques et miraculeuses. ll est la base de toute croyance religieuse, par rapport à la révélation ; c’est lui qui fait comprendre qu’il n’y a pas de religion sans croyance, tandis que la vénération embrasse le culte et tous les actes de piété religieuse. C’est une faculté fondamentale de <pb/> l’epèce humaine, et et elle désire être satisfaite. Elle est plus ou moins active chez les différens individus et chez les différentes nations. L’organe de la merveillosité est en avant de celui de l’espérance. Son grand développement élargit la partie supérieure latérale de l’os frontal.</p>
+      <p>Ainsi, de même que la morale commence par la conscienciosité, de même la religion commence par la merveillosité ; ensuite la morale embrasse, outre la conscienciosité, la bienveillance, la vénération et la fermeté ; et la religion renferme, outre la merveillosité, l’espérance et la vénération.</p>
+          </div>
+          <div>
+      <head>19) Idéalité</head>
+      <p>Ce sentiment fait envisager la nature comme elle devrait être dans son état de perfection. Il donne de la vivacité, de l’enthousiasme, de l’exaltation, de l’inspiration ; il vivifie les fonctions des autres facultés, et leur donne une apparence qu’on appelle poétique. Il est essentiel aux poètes, car la poésie ne se borne jamais à une description des objets tels qu’ils sont. Dans les arts, il donne le goût du sublime. Il fait chercher partout la perfection et i’idéal.</p>
+      <p><pb/>L’organe de l’idéalité est situé au-dessus des tempes, sous l’arcade temporale, dans une direction qui s’étend en arrière et en haut, en avant de l’acquisivité.</p>
+          </div>
+          <div>
+            <head>20) Gaieté</head>
+     
+      <p>Ce sentiment produit une manière particulière d’envisager les objets, et la tendance à faire rire, et à chercher en tout le côté plaisant. Il se combine avec toutes les autres facultés, et porte différens noms, d’après son application. Il peut s’appliquer aux mots, aux idées, aux objets, aux phénomènes, aux arts et à toutes les manifestations des autres facultés. Les calembours, les caricatures, les bons mots, l’esprit de repartie et de saillie, la moquerie, la raillerie, l’ironie, les conceptions comiques et le ridicule en dépendent. Ce sentiment ne doit pas être confondu avec le contentement ou la satisfaction ; chaque faculté procure une sorte de satisfaction, et sans le sentiment dont il s’agit ici, on peut être parfaitement content et sérieux en même temps ; mais ce sentiment donne l’humeur gaie et vise à l’amusement.</p>
+            <p>L’organe est situé à la partie supériure extérieure de front en avant de l’idéalité.</p>
+          </div>
+          <div><pb/>
+            <head>21) Imitation</head>
+   
+      <p>C’est une faculté dont la sphère d’activité est très grande, et qui est très active chez les enfans ; elle leur donne l’inclination à imiter ce qu’ils voient faire autour d’eux, la voix et les gestes des animaux et des hommes, et l’on sait que les enfans apprennent beaucoup par imitation. Cette faculté reste quelquefois très-active chez des individus adultes, qui, alors, excellent par l’art d’imiter. Elle donne aussi ce qu’on appelle expression dans les arts d’imitation.</p>
+      <p>L’organe de l’imitation est des deux côtés de celui de la bienveillance.</p>
+      <p>Les facultés affectives viennent d’une source intérieure ; elles trouvent l’occasion d’agir dans les circonstances extérieures et en sont aussi excitées, mais elles n’en naissent pas ; elles agissent involontairement avec plus ou moins d’énergie, mais aveuglément et sans jugement.</p>
+          </div>
+        </div>
+      </div>
+        </div>
+        <div>
+      <head>Ordre II– Facultés intellectuelles</head>
+      <p>Leur nature essentielle est celle de procurer des connaissances.</p>
+      <div><pb/>
+        <head>Genre I– Sens extérieurs</head>
+      <p>Par le moyen des cinq sens, les animaux et l’homme entrent en communication avec le monde extérieur, et ils s’associent à tous les êtres qui les entourent. Mais les sens ne sont que des intermédiaires entre les facultés intérieures et le monde extérieur, et c’est une grande erreur de les considérer comme cause des facultés affectives et intellectuelles.</p>
+      <p>Chaque sens est double, et n’a qu’une sorte de fonctions spéciales ou immédiates, tandis que le même sens peut assister plusieurs facultés intérieures dans l’accomplissement de leurs fonctions. On peut voir les objets, leur étendue, leur configuration, leur couleur, leur nombre, leur mouvement, etc. ; toutes ces fonctions s’exécutent au moyen de la vue ; mais, d’après la Phrénologie, ces sortes de notions sont acquises par des facultés intérieures, et la vue se borne à propager les impressions visuelles. Le toucher est destiné à faire percevoir la température, l’humidité ou la siccité ; le goût, les parties savoureuses des corps ; l’odorat, les odeurs ; t’ouïe, les sons, et la vue, la lumière <pb/> et ses nuances. Toutes les autres fonctions des sens sont médiates.</p>
+      </div>
+          <div>
+      <head>Genre II– Facultés perceptives</head>
+      <p>Les organes de ces facultés et ceux du genre suivant, sont situés dans le front. Pour bien juger du volume du front en général, ou de celui de tout organe intellectuel en particulier, il faut regarder chaque tête de profil, et voir si la région frontale, décrite plus haut, est considérable, ou peu développée, et dans quelle partie elle est la plus saillante. Un front peut être perpendiculaire et très petit, tandis qu’un autre, déclinant en arrière à la surface, peut être très-large et long, en considérant la masse depuis l’organe de la construrtivité jusqu’à la surface du front.</p>
+          <div>
+            <head>22) Individualité</head>
+            
+            <p>C’est la faculté moyennant laquelle l’esprit connaît les objets extérieurs et leur existence individuelle. Elle fait reconnaître la réalité des objets, ce’que des philosophes ont considéré comme l’effet du toucher. Étant trop active, elle personnifie même les phénomènes, tels que le mouvement, la vie, la fièvre, la folie, etc.</p>
+      <p>L’organe destiné à procurer cette sorte de connaissance est situé au-dessus de la racine du nez, entre les deux sourcils.</p>
+          </div>
+            <div>
+              <head>23) Configuration</head>
+      
+      <p>Un objet, il est vrai, est inséparable de ses qualités physiques, mais on peut admettre inexistence d’un objet,le concevoir comme un être, sans penser à ses qualités, et sans les connaître. Parmi les facultés qui servent à prendre notice des qualités des objets, est celle de la configuration. Elle sait tout ce qui concerne la forme ; elle connaît les personnes, et donne aux artistes le talent de faire ou imiter les formes. Elle est nécessaire aux peintres de portraits, aux sculpteurs, aux marchandes de modes, et à toutes les professions qui s’occupent de formes.</p>
+      <p>L’organe est situé à l’angle interne de l’œil et étant très-développé, il pousse l’œil en dehors. Il y a alors une grande distance entre les deux yeux.</p>
+            </div>
+            <div>
+              <head>24) Étendue</head>
+      <p>Les notions des dimensions d’un objet appartiennent à une espèce particulière. Les géomètres, les architectes, les arpenteurs, les mécaniciens, etc., ont besoin de cette faculté. L’organe aboutit au bord interne de l’arc sourcilier.</p>
+            </div>
+            <div>
+              <head>25) Pesanteur et Résistance</head>
+      <p>Les idées du poids, de la résistance et de la consistance ne peuvent être attribnées à aucun des sens extérieurs. Pour les acquérir, les muscles sont employés par une force intérieure. L’organe de cette faculté est à l’extérieur de celui de l’étendue.</p>
+            </div>
+            <div>
+              <head>26) Coloris</head>
+      <p>Les yeux font connaître la lumière et ses nuances ; ils en sont affectés agréablement ou désagréablement ; mais ils n’aperçoivent pas les rapports des couleurs entre elles, ni leur harmonie ou désharmonie. Ces fonctions appartiennent à une faculté intérieure qui est <pb/> très-active chez les peuples orientaux. C’est cette faculté qui rend la vue des fleurs et des couleurs si agréable ; elle dirige les peintres de fleurs, les émailleurs, les teinturiers, les bons coloristes en peinture, et tous ceux qui s’occupent des couleurs.</p>
+      <p>L’organe du coloris est à l’extérieur du précèdent, au milieu de l’arc sourcilier. Il est toujours large, quand l’arc sourciler s’élève dans sa direction latérale.</p>
+            </div>
+            <div>
+              <head>27) Localité</head>
+      <p>Chaque objet occupe une place dans l’immensité de l’espace ; on connaît les lieux des objets et on s’en rappelle moyennant une faculté particulière, qui cherche sa satisfaction de même que tout autre faculté, et produit le désir de voir des localités, ou l’amour du voyage. L’organe de la localité est situé au-dessus de l’organe de l’étendue, et il s’étend vers le milieu du front.</p>
+            </div>
+            <div>
+              <head>28) Calcul</head>
+      <p>Tout ce qui concerne les nombres appartient à la sphère d’activité de cette faculté, par <pb/> conséquent l’arithmétique ; tandis que les mathématiques sont le calcul appliqué aux dimensions.</p>
+      <p>L’organe est situé à l’angle externe de l’œil étant large, l’angle externe de l’œil est ordinairement déprime et plus bas que l’angle interne. Les grands mathématiciens ont cette configuration, mais ils ont en même temps l’organe de l’étendue très-développé.</p>
+            </div>
+            <div>
+              <head>29) Ordre</head>
+      <p>On peut avoir l’idée de plusieurs objets et de leurs qualités sans les considérer dans un ordre quelconque. Quelques personnes aiment l’ordre en tout, d’autres y sont indifférentes. Cette faculté peut être appliquée à toutes les autres idées : aux dimensions, aux couleurs, aux nombres, aux tons, etc. La classification des objets d’après des signes extérieurs, et le plaisif de voir une collection complète en dépendent.</p>
+              <p>L’organe de l’ordre aboutit à la partie externe de l’arcade sourcilière, entre ceux du coloris et du calcul.</p>
+            </div>
+            <div><pb/>
+              <head>30) Eventualité<note place="bottom">Cet organe est nommé celui des phénomènes, dans mon ouvrage sur la <hi rend="sc">Phrénologie</hi>.</note></head>
+      <p>Cette faculté connaît ce qui se passe dans les objets : tout ce qui est événement et qui est indiqué par les verbes dans leur mode infinitif. Elle apprend l’histoire, produit la mémoire des faits, est attentive aux phénomènes extérieurs, aime la connaissance des anecdotes et désire connaître tout ; elle est essentielle aux rédacteurs, aux instituteurs et aux historiens.</p>
+      <p>L’organe de l’éventualité est situé au milieu du front, au dessus de celui de l’individualité.</p>
+            </div>
+            <div>
+              <head>31) Temps</head>
+      <p>Cette faculté considère la durée, la succession, ou la simultanéité des objets, de leurs qualités et des phénomènes. Ces notions sont essentiellement différentes de celles des autres facultés perceptives.</p>
+      <p>L’organe du temps est à l’extérieur de ceux <pb/> de l’éventualité et de la localité, au dessus de celui du coloris.</p>
+            </div>
+            <div>
+              <head>32) Tons</head>
+      <p>L’oreille ne suffit pas pour expliquer le chant des oiseaux, ni la musique de l’homme. Les oiseaux mâles chanteurs qui sont élevés séparément et sans jamais avoir entendu un oiseau de leur espèce, étant adultes, chantent comme eux. Le talent musical de l’homme n’est pas non plus proportionné à la finesse de l’ouïe. L’oreille sert pour entendre des tons, comme l’œil sert à voir les couleurs, mais les inventions, la mémoire et le jugement des tons et des couleurs sont des attributs de deux facultés intérieures. La musique se compose de deux facultés : de celle des tons et de celle du temps. Quelques musiciens ont plus de facilité à chanter ou à jouer d’une manière harmonieuse, que d’observer la valeur des tons ou le temps ; d’autres exécutent bien la cadence, mais font des fautes contre l’harmonie des tons.</p>
+              <p>L’organe des tons est à l’extérieur de celui du temps à l’angle extérieur du front, au dessus de ceux du calcul et de l’ordre. Étant large, il présente quelquefois extérieurement une forme <pb/> triangulaire pyramidale, tantôt il arrondit l’endroit où il est placé.</p>
+      <p>33) Langage</p>
+      <p>Cette faculté connaît les signes artificiels par lesquels les hommes se communiquent mutuellement leurs sentimens et leurs idées. Les animaux qui vivent ensemble ont aussi besoin d’un langage, mais ils sont restreints au langage naturel. La nature leur enseigne comment indiquer l’activité de leurs facultés, et tous les animaux doués des mêmes facultés en comprennent les signes relatifs.</p>
+      <p>Les signes artificiels peuvent varier, ils sont vocaux, et ce sont les plus commodes, ou ils consistent en gestes ; ils sont passagers ou permanens par l’écriture. La connaissance de leurs significations s’acquiert par l’intermédiaire d’une partie cérébrale. Cette faculté donne la mémoire verbale, et étant très-active, la facilité d’apprendre les langues conventionnelles.</p>
+              <p>L’organe du langage est situé à la partie postérieure et transversale du plancher de l’orbite. Étant très développée il pousse l’œil <pb/> en avant et en bas, et les paupières inférieures sont gonflées.</p>
+            </div>
+          </div>
+        </div>
+        <div>
+          <head>Genre III. Facultés réflectives</head>
+      <p>Ces facultés constituent ce qu’on appelle raisonnement ou réflexion.</p>
+          <div>
+            <head>34) Comparaison</head>
+      <p>Cette facutté compare les fonctions des autres facultés, connaît leur différence, similitude, analogie ou identité ; elle aime les comparaisons et produit les sens figuratifs du langage. Cependant il faut remarquer que les comparaisons qu’on fait, dépendent des autres facultés avec lesquelles celle-ci est combinée. L’un choisit ses comparaisons dans les formes, un autre dans les couleurs, dans les événemens ou dans les tons, etc. Cette faculté est nécessaire aux bons prédicateurs et les fait parler en similitudes, allégories, paraboles, et faire des rapprochemens entre ce qui est spirituel et ce qui est terrestre. Elle est essentielle au discernement philosophique, et fait distinguer entre les notions ; elle produit aussi l’esprit de généralisation et <pb/> d’abstraction. Elle est destinée à mettre en harmonie les fonctions des autres facultés. L’organe de la comparaison aboutit à la partie moyenne de l’os fronta ! ; étant très-développé, il forme une élévation pyramidale renversée.</p>
+          </div>
+          <div>
+      <head>35) Causalité</head>
+      <p>Cette faculté fait envisager tout ce qui existe et tout ce qui se passe sous le rapport de cause et effet, elle demande toujours <hi rend="i">pourquoi</hi>. Elle s’applique aussi a des choses surnaturelles, soustraites à la connaissance de l’homme ; alors elle devient métaphysique. Elle force l’homme d’admettre une cause finale, mais elle ne peut pas la lui faire connaître. Tout ce qu’il peut connaître à cet égard, se borne aux causes secondaires. Plusieurs phénomènes sont inséparables l’un de l’autre, alors l’esprit humain considère le précédent comme cause, et le succédant comme effet.</p>
+            <p>La faculté de la causalité est de la plus haute importance dans toute situation pour se rendre compte de ce qui arrive. Étant trop active et non combinée avec la comparaison ni assistée par l’éventualité, elle produit des abus par sa manie de vouloir expliquer tout. Alors elle fait tirer des conclusions ou établir des principes sans les baser sur un assez grand nombre de données. L’union des facultés perceptives, surtout de l’individualité et de l’éventualité et des facultés réflectives, est nécessaire pour produire le véritable esprit philosophique. Les deux dernières facultés, comparaison et causa !ité, forment les inductions, les corollaires, établissent des principes ou lois, constituent la raison et sont indispensables à la volonté.</p>
+      <p>En résumant les facultés fondamentales de l’esprit humain et leurs organes, il est curieux de voir que les organes des facultés animales sont situés au bas de la tête, et ceux des facultés supérieures plus haut en raison de leur excellence, de sorte que les organes des facultés propres à l’homme aboutissent à la partie supérieure antérieure de la tête. En outre, les organes des facultés analogues sont placés ensemble, tels que ceux des penchans, des sentimens, des facultés perceptives et des facultes réflectives. Ceux qui s’assistent mutuellement, sont voisins l’un de l’autre. La combativité est entre la philogéniture, l’affectionivité et la destructivité ; l’affectionivité est à côté de <pb/> l’approbativité ; la fermeté est liée avec l’estime de soi, la conscienciosité et la véneration ; les sentimens religieux et moraux se touchent ; les facultés théâtrales sont placées ensemble à l’angle et au bord extérieur de l’os frontal. Les organes sont plus ou moins volumineux, et leur sphère d’activité correspond à leur développement dans le même individu ; les organes des facultés communes aux animaux et à l’homme sont plus considérables que ceux des facultés propres à l’espèce humaine, et l’énergie des premiers, l’emporte incontestablement dans la plupart des humains. Enfin, un changement organique en faveur des facultés supérieures est une chose désirable aux yeux de ceux qui sont convaincus de l’influence de l’organisation cérébrale sur les fonctions affectives et intellectuelles.</p>
+          </div>
+        </div>
+      </div>
+      <div>
+      <head>Section III <lb/> De l’utilité de la Phrénologie</head>
+      <p>Je me bornerai à faire quelques remarques générales sur cet objet. J’ai développé mes idées en détail dans des ouvrages particuliers. <pb/> Je commencerai par faire une réflexion importante sur les prétendues conséquences que quelques adversaires de la Phrénologie ont voulu attacher à cette science, soit par ignorance soit par malveillance. Cette doctrine, disent-ils, en soutenant que les facultés affectives et intellectuelles se manifestent par te moyen des parties cérébrales, établit le <hi rend="i">matérialisme</hi> de l’homme.</p>
+      <p>Les phrénologistes répondent qu’ils ne s’occupent pas de la nature de l’âme, et qu’ils abandonnent ces recherches aux métaphysiciens et aux théologiens ; mais quel âme ne devient pas plus materielle, à cause de sa dépendance des parties cérébrales, qu’elle ne l’est, parce qu’elle voit au moyen des yeux, entend au moyen des appareils organiques. Ils ajoutent qu’ils n’inventent rien, qu’ils observent et communiquent ce qu’ils trouvent ; or, c’est un fait que l’âme se sert d’instrumens ou d’organes pour paraître dans cette vie et ce sont ces organes que les phrénologistes étudient.</p>
+      <p>Les adversaires disent aussi que la Phrénologie, en soutenant que les facultés affectives ou intellectuelles sont innées et se manifestent moyennant des organes cérébraux, établit le <hi rend="i">fatalisme</hi>.</p>
+      <p><pb/>Les phrénologistes distinguent entre les deux significations du mot fatalisme.</p>
+      <p>Ils reconnaissent et enseignent que l’homme ne peut rien créer ; qu’il ne peut pas se donner toutes les dispositions qu’il désire, qu’il y a des aveugles, des sourds, des idiots, des hommes ordinaires et des génies de naissance ainsi que l’homme n’est pas une table rase en venant au monde, mais qu’il est doué de dispositions qui sont essentiellement les mêmes dans les différens individus, mais qui varient en activité chez chacun. Ils admettent des dons naturels, et ils montrent les conditions organiques dont ces dons naturels dépendent. Ce fatalisme existe et est conforme à la doctrine chrétienne.</p>
+        <p>L’autre sorte de fatalisme, selon lequel les facultés étant données agissent irrésistiblement, est contredite par l’expérience journalière. Tous ceux qui la reprochent à la Phrénologie doivent sentir l’erreur de leur accusation. Chacun éprouve des inclinations auxquelles il résiste. Toute religion admet l’existence de désirs qu’il faut réprimer. La Phrénologie reconnaît le même principe : elle fait voir les différens désirs inférieurs, mais aussi les sentimens supérieurs et l’intelligence qui doivent diriger les actions de l’homme.</p>
+      <p><pb/>Mais, dit-on, si les facultés supérieures manquent tandis que les inférieures agissent avec beaucoup d’énergie, l’homme n’est pas libre. Cet état est reconnu par la législation civile et religieuse. Les enfans, avant un certain âge, les idiots et les aliénés ne sont pas responsables de leurs actions, parce qu’ils ne peuvent pas distinguer entre le bien et le mal. La Phrénologie ne change rien en principe elle en explique seulement l’application.</p>
+      <p>La Phrénologie, étant fondée dans la nature, restera comme toute autre vérité, et au lieu d’être dangereuse à l’humanité, contribuera à établir le bonheur générai, tandis que l’erreur, utile à des individus, est toujours nuisible à l’espèce. Quand il s’agit de vérités naturelles, il faut être sur ses gardes par rapport aux conséquences qu’on y attache. La nature est constante, et des hommes imprudens, qui ont voulu s’opposer à ses lois, se sont toujours vus obligés de se rétracter, ou leurs erreurs ont été réprouvées par la postérité.</p>
+      <p>Faisons mention, au contraire, de quelques avantages éminens qui doivent résulter de la nouvelle connaissance de l’homme.</p>
+        <p>I. D’abord la Phrénologie rectifiera tous les <pb/> systèmes philosophiques concernant la nature humaine. Elle établira une philosophie ou psychologie positive et invariable, dont le langage sera clair et exact ainsi que les idées, et dont on pourra faire l’application dans les relations sociales, tandis que jusqu’ici la philosophie de l’homme a varié d’après les pays, les temps et les individus qui l’ont cultivée. En Grèce, les systèmes philosophiques se sont succédé les uns aux autres. Depuis la renaissance des lettres, il en a été de même en Allemagne, en Écosse, en France, et jusqu’ici le langage philosophique est extrêmement vague, chaque terme a plusieurs significations, et il arrive trop souvent que dans les discussions philosophiques on ne dispute que de mots.</p>
+      <p>II. L’étude de la Phrénologie est indispensable aux médecins, d’abord puisque des causes morales dérangent fréquemment les fonctions végétatives, en outre, la doctrine de l’aliénation mentale ne peut être qu’empirique tant qu’on n’a pas une connaissance exacte des phénomènes mentaux dans l’état de santé. Conformément à ce principe, on a eu recours à l’exorcisme, lorsqu’on a cru que les aliénés <pb/>étaient possédés de mauvais esprits ; ou on les a abandonnés à leur sort et à la nature, ayant l’idée que l’esprit agit indépendamment du corps ; mais on traitera les aliénés d’après les principes de la pathologie en général, quand on sera convaincu que les causes de l’aliénation mentale sont toujours corporelles, et que la cause immédiate réside dans le cerveau.</p>
+        <p>III. La Phrénologie sera d’une grande utilité pour le moraliste ; elle lui fera comprendre comment la morale est indispensable au bonheur terrestre des hommes, d’après l’ordre naturel établi par le créateur, et comment elle peut devenir une science ; elle le convaincra que les lois morales sont inhérentes à la nature humaine, de même que les principes des arts et des sciences, et les lois végétatives de l’organisation ; elle lui montrera la difficulté de juger les autres avec exactitude et avec justesse, et la faute que chacun commet en se prenant pour modèle et pour le type de respect, en louant ce qu’il aime et en blâmant ce qui n’est pas conforme à sa manière de sentir et de penser. Elle lui expliquera encore la nécessité de l’indulgence mutuelle en tout ce qui n est pas immoral.</p>
+      
+      <p><pb/>IV. La Phrénologie est nécessaire à la doctrine du bonheur des hommes, en indiquant la marche à suivre pour perfectionner la nature humame. Je n’hésite pas de dire qu’elle aura de l’influence sur le sort des individus, des familles, des nations et de l’espèce et qu’avec le temps elle servira de base à toutes les institutions sociales.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
